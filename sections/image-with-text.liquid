@@ -34,6 +34,8 @@
               <h2 class="image-with-text__heading h1" {{ block.shopify_attributes }}>
                 {{ block.settings.heading | escape }}
               </h2>
+              {%- when 'image' -%}
+              <img src="{{ block.settings.brand-image | img_url: '165x'}}" alt="" width="{{ block.settings.brand-image.width}}" height="{{ block.settings.brand-image.height}}" loading="lazy"/>
             {%- when 'text' -%}
               <div class="image-with-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- when 'button' -%}
@@ -135,6 +137,18 @@
           "type": "text",
           "id": "heading",
           "default": "Image with text",
+          "label": "t:sections.image-with-text.blocks.heading.settings.heading.label"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "name": "brand_image",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "brand-image",
           "label": "t:sections.image-with-text.blocks.heading.settings.heading.label"
         }
       ]
