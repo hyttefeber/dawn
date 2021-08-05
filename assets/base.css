@@ -1613,6 +1613,26 @@ input[type='checkbox'] {
   line-height: 1.1;
 }
 
+.top-bar__wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  margin: 0 auto;
+  font-weight: bold;
+}
+
+.top-bar__icon {
+  display: flex;
+  align-items: center;
+  font-size: 1.25rem;
+}
+
+.top-bar__icon img {
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+}
+
 /* section-announcement-bar */
 #shopify-section-announcement-bar {
   z-index: 4;
