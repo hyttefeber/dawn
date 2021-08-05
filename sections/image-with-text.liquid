@@ -35,7 +35,7 @@
                 {{ block.settings.heading | escape }}
               </h2>
               {%- when 'image' -%}
-              <img src="{{ block.settings.brand-image | img_url: '165x'}}" alt="" width="{{ block.settings.brand-image.width}}" height="{{ block.settings.brand-image.height}}" loading="lazy"/>
+              <img src="{{ block.settings.brand-image | img_url: '180x'}}" alt="{{ block.settings.brand-image.alt | escape}}" width="{{ block.settings.brand-image.width}}" height="{{ block.settings.brand-image.height}}" loading="lazy"/>
             {%- when 'text' -%}
               <div class="image-with-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- when 'button' -%}
@@ -156,7 +156,7 @@
     {
       "type": "text",
       "name": "t:sections.image-with-text.blocks.text.name",
-      "limit": 1,
+      "limit": 2,
       "settings": [
         {
           "type": "richtext",
