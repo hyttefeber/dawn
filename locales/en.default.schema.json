@@ -727,6 +727,9 @@
         "logo": {
           "label": "Logo image"
         },
+        "scroll_logo": {
+          "label": "Scroll logo image"
+        },
         "logo_width": {
           "unit": "px",
           "label": "Custom logo width"
