@@ -1633,6 +1633,16 @@ input[type='checkbox'] {
   margin-right: 5px;
 }
 
+@media screen and (max-width: 749px) {
+  .top-bar__wrapper {
+    justify-content: space-around;
+  }
+
+  .top-bar__icon--hide {
+    display: none;
+  }
+}
+
 /* section-announcement-bar */
 #shopify-section-announcement-bar {
   z-index: 4;
