@@ -1,19 +1,20 @@
 <section class="top-bar color-{{ block.settings.color_scheme }}">
-<div class="top-bar__wrapper page-width--narrow " role="region" {{ block.shopify_attributes }}>
-{%- for block in section.blocks -%}
-  {%- case block.type -%}
-    {%- when 'heading' -%}
-      <div class="top-bar__icon">
-          <img src="{{ block.settings.icon | img_url: '60x'}}" alt="{{ block.settings.text | escape }}">
-          <span>{{ block.settings.text | escape }}</span>
-        </div>
-  {%- endcase -%}
-{%- endfor -%}
-</div>
+  <div class="top-bar__wrapper page-width--narrow " role="region" {{ block.shopify_attributes }}>
+    {%- for block in section.blocks -%}
+      {%- case block.type -%}
+        {%- when 'heading' -%}
+          <div class="top-bar__icon  {% if block.settings.mobile-visibility %} top-bar__icon--hide {% endif %}">
+            <img src="{{ block.settings.icon | img_url: '60x'}}" alt="{{ block.settings.text | escape }}">
+            <span>{{ block.settings.text | escape }}</span>
+          </div>
+      {%- endcase -%}
+    {%- endfor -%}
+  </div>
 </section>
 
 
 {% schema %}
+
 {
   "name": "Top bar",
   "max_blocks": 12,
@@ -23,17 +24,15 @@
       "name": "Icon with text",
       "limit": 4,
       "settings": [
-      {
-        "type": "image_picker",
-        "id": "icon",
-        "label": "Icon"
-      },
         {
+          "type": "image_picker",
+          "id": "icon",
+          "label": "Icon"
+        }, {
           "type": "text",
           "id": "text",
           "label": "Text"
-        },
-        {
+        }, {
           "type": "checkbox",
           "id": "mobile-visibility",
           "label": "Hide on mobile",
@@ -44,4 +43,5 @@
     }
   ]
 }
+
 {% endschema %}
