@@ -205,6 +205,9 @@
         "quantity": "Quantity"
       },
       "update": "Update",
+      "free_shipping_remaining": "You are missing  {{ remainder }} to get free shipping",
+      "free_shipping": "You have earned free shipping"
+    },
       "login": {
         "title": "Have an account?",
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in</a> to check out faster."
