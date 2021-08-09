@@ -157,7 +157,9 @@
       "title": "Søkeresultater"
     },
     "cart": {
-      "cart": "Handlekurv"
+      "cart": "Handlekurv",
+      "free_shipping_remaining": "Du mangler   {{remainder | money}} for å få gratis frakt",
+      "free_shipping": "Du har handlet nok til å få gratis frakt!"
     },
     "contact": {
       "form": {

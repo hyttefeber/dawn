@@ -279,5 +279,19 @@
         "default": true
       }
     ]
+  },
+  {
+    "name": "Shipping Powerstep",
+    "settings": [
+      {
+        "type": "header",
+        "content": "t:settings_schema.currency_format.settings.content"
+      },
+      {
+        "type": "text",
+        "id": "free_shipping_threshold",
+        "label": "Free shipping Threshold"
+      }
+    ]
   }
 ]
