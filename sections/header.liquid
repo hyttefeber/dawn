@@ -486,19 +486,22 @@
       this.header.classList.add('shopify-section-header-sticky');
       this.closeMenuDisclosure();
       this.closeSearchModal();
+      this.logo.classList.add('hidden');
+      this.scrollLogo.classList.remove('hidden');
+      console.log("Hide");
+
     }
 
     reveal() {
       this.header.classList.add('shopify-section-header-sticky', 'animate');
-      this.logo.classList.add('hidden');
-      this.scrollLogo.classList.remove('hidden');
-
+      console.log("show");
     }
 
     reset() {
       this.header.classList.remove('shopify-section-header-hidden', 'shopify-section-header-sticky', 'animate');
       this.logo.classList.remove('hidden');
       this.scrollLogo.classList.add('hidden');
+      console.log("reset");
 
 
 
