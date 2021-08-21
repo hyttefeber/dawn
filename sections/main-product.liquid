@@ -278,8 +278,26 @@
                       {{ form | payment_button }}
                     {%- endif -%}
                   </div>
+                  {%- if product.selected_or_first_available_variant.available and product.selected_or_first_available_variant.inventory_quantity >= 1 -%}
+                      {%- if product.metafields.inventory.announcementMessage -%}
+                         {{ product.metafields.inventory.announcementMessage }}
+                       {%- else -%}
+                       På Lager og kan sendes nå
+                    {%- endif -%}
+                    {%- elsif product.selected_or_first_available_variant.available and product.selected_or_first_available_variant.inventory_quantity <= 0 -%}
+                      Pre Orders
+                    {%- else -%}
+                  {%- if product.metafields.inventory.announcementMessage -%}
+                      {{ product.metafields.inventory.soldoutMessage }}
+                    {%- else -%}
+                      Utsolgt
+                    {%- endif -%}
+                  {%- endif -%}
                 {%- endform -%}
               </product-form>
+
+
+
 
               {{ 'component-pickup-availability.css' | asset_url | stylesheet_tag }}
 
