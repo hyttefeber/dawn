@@ -1,6 +1,7 @@
 {
   "current": {
     "currency_code_enabled": false,
+    "free_shipping_threshold": "600",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
