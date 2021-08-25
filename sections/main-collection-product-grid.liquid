@@ -257,7 +257,7 @@
                     <details class="mobile-facets__details js-filter" data-index="mobile-{{ forloop.index }}">
                       <summary class="mobile-facets__summary focus-inset">
                         <div>
-                          <span>{{ filter.label | escape }}</span>                        
+                          <span>{{ filter.label | escape }}</span>
                           <span class="mobile-facets__arrow no-js-hidden">{% render 'icon-arrow' %}</span>
                           <noscript>{% render 'icon-caret' %}</noscript>
                         </div>
@@ -496,7 +496,8 @@
                 add_image_padding: section.settings.add_image_padding,
                 show_vendor: section.settings.show_vendor,
                 show_image_outline: section.settings.show_image_outline,
-                show_rating: section.settings.show_rating
+                show_rating: section.settings.show_rating,
+                show_atc: section.settings.show_atc
               %}
             </li>
           {%- endfor -%}
@@ -573,6 +574,12 @@
       "label": "t:sections.main-collection-product-grid.settings.show_vendor.label"
     },
     {
+      "type": "checkbox",
+      "id": "show_atc",
+      "default": false,
+      "label": "Show Add To Cart"
+      },
+      {
       "type": "checkbox",
       "id": "show_rating",
       "default": false,
