@@ -1,0 +1,10 @@
+{% assign free_shipping = settings.free_shipping_threshold | times: 100 %}
+{% assign remainder = free_shipping | minus: cart.total_price %}
+{%- if settings.free_shipping_threshold != blank -%}
+{%- if
+remainder >= 0 -%}
+  <span>{{ 'sections.cart.free_shipping_remaining' | t }}</span>
+{%- else -%}
+{{ 'sections.cart.free_shipping' | t }}
+{%- endif -%}
+{%- endif -%}
