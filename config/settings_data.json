@@ -51,7 +51,7 @@
             "settings": {
               "icon": "shopify:\/\/shop_images\/noun_customer_service_6704_2_60x60_167ed11f-22a0-48cf-a8da-d642cbc5ad89.png",
               "text": "Personlig service",
-              "mobile-visibility": false
+              "mobile-visibility": true
             }
           },
           "935e67a1-7bc1-499c-8ea4-77ae4d9ba083": {
@@ -59,7 +59,7 @@
             "settings": {
               "icon": "shopify:\/\/shop_images\/rask-levering3_60x60_b2d8d8a4-00f8-4f73-9f58-a58c50f4237e.png",
               "text": "Lynrask levering",
-              "mobile-visibility": false
+              "mobile-visibility": true
             }
           },
           "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66": {
