@@ -792,6 +792,14 @@
               "label": "Button link"
             }
           }
+        },
+        "image": {
+          "name": "Brand logo",
+          "settings": {
+            "brand_image": {
+              "label": "Brand logo"
+            }
+          }
         }
       },
       "presets": {
