@@ -81,12 +81,21 @@
               "text": "Åpent kjøp i 90 dager",
               "mobile-visibility": false
             }
+          },
+          "3fcb1549-bca4-4e32-a24d-f0a9ea48879d": {
+            "type": "heading",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/noun_love_product_2675928_60x60_dec67cdd-54f5-4255-91c7-abfc02c01b9c.png",
+              "text": "Fri frakt over 600,-",
+              "mobile-visibility": false
+            }
           }
         },
         "block_order": [
           "724df200-c042-496b-b08b-bcfa4a22440e",
           "935e67a1-7bc1-499c-8ea4-77ae4d9ba083",
-          "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66"
+          "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66",
+          "3fcb1549-bca4-4e32-a24d-f0a9ea48879d"
         ],
         "settings": {
         }
