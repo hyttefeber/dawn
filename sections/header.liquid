@@ -289,6 +289,14 @@
               height="{{ section.settings.logo.height }}"
               alt="{{ section.settings.logo.alt | default: shop.name | escape }}"
             >
+            <img srcset="{{ section.settings.scroll_logo | img_url: image_size }} 1x, {{ section.settings.scroll_logo | img_url: image_size, scale: 2 }} 2x"
+            src="{{ section.settings.scroll_logo | img_url: image_size }}"
+            loading="lazy"
+            class="header__heading-logo--scroll hidden"
+            width="{{ section.settings.scroll_logo.width }}"
+            height="{{ section.settings.scroll_logo.height }}"
+            alt="{{ section.settings.scroll_logo.alt | default: shop.name | escape }}"
+          >
           {%- else -%}
             <span class="h2">{{ shop.name }}</span>
           {%- endif -%}
@@ -437,7 +445,9 @@
       this.header = document.getElementById('shopify-section-header');
       this.headerBounds = {};
       this.currentScrollTop = 0;
-      this.preventReveal = false;
+      this.preventReveal = true;
+      this.logo = document.querySelector('.header__heading-logo')
+      this.scrollLogo = document.querySelector('.header__heading-logo--scroll')
 
       this.onScrollHandler = this.onScroll.bind(this);
       this.hideHeaderOnScrollUp = () => this.preventReveal = true;
@@ -487,18 +497,25 @@
     }
 
     hide() {
-      this.header.classList.add('shopify-section-header-hidden', 'shopify-section-header-sticky');
+      this.header.classList.add('shopify-section-header-sticky');
       this.closeMenuDisclosure();
       this.closeSearchModal();
+      this.logo.classList.add('hidden');
+      this.scrollLogo.classList.remove('hidden');
+
     }
 
     reveal() {
       this.header.classList.add('shopify-section-header-sticky', 'animate');
-      this.header.classList.remove('shopify-section-header-hidden');
     }
 
     reset() {
       this.header.classList.remove('shopify-section-header-hidden', 'shopify-section-header-sticky', 'animate');
+      this.logo.classList.remove('hidden');
+      this.scrollLogo.classList.add('hidden');
+
+
+
     }
 
     closeMenuDisclosure() {
@@ -565,6 +582,11 @@
       "label": "t:sections.header.settings.logo.label"
     },
     {
+      "type": "image_picker",
+      "id": "scroll_logo",
+      "label": "t:sections.header.settings.scroll_logo.label"
+    },
+    {
       "type": "range",
       "id": "logo_width",
       "min": 50,
@@ -591,7 +613,7 @@
           "label": "t:sections.header.settings.logo_position.options__3.label"
         }
       ],
-      "default": "middle-left",
+      "default": "top-center",
       "label": "t:sections.header.settings.logo_position.label"
     },
     {
