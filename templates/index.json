@@ -142,29 +142,41 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/High_Story_7300988e-4794-4d29-acd8-352f83b920e6.png",
+            "title": "",
+            "text": ""
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/High_Story_7300988e-4794-4d29-acd8-352f83b920e6.png",
+            "title": "",
+            "text": ""
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/High_Story_7300988e-4794-4d29-acd8-352f83b920e6.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "5a35ef5b-d142-4d2c-bda1-b85f5b6187aa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/High_Story_7300988e-4794-4d29-acd8-352f83b920e6.png",
+            "title": "",
+            "text": ""
           }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "5a35ef5b-d142-4d2c-bda1-b85f5b6187aa"
       ],
       "settings": {
         "title": "Multicolumn",
