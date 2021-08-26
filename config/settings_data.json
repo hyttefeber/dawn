@@ -65,10 +65,19 @@
               "text": "Personlig service",
               "mobile-visibility": false
             }
+          },
+          "935e67a1-7bc1-499c-8ea4-77ae4d9ba083": {
+            "type": "heading",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/rask-levering3_60x60_b2d8d8a4-00f8-4f73-9f58-a58c50f4237e.png",
+              "text": "Lynrask levering",
+              "mobile-visibility": false
+            }
           }
         },
         "block_order": [
-          "724df200-c042-496b-b08b-bcfa4a22440e"
+          "724df200-c042-496b-b08b-bcfa4a22440e",
+          "935e67a1-7bc1-499c-8ea4-77ae4d9ba083"
         ],
         "settings": {
         }
