@@ -47,8 +47,9 @@
         "1629970086900f7d29-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/long.png",
+            "title": "",
+            "text": ""
           }
         }
       },
@@ -58,14 +59,14 @@
         "1629970086900f7d29-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "image_width": "full",
         "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "multi_column": {
