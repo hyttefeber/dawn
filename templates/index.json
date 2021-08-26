@@ -6,23 +6,43 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Pizzaovner fra Ooni",
+            "heading": "Interiør",
             "heading_size": "large"
+          }
+        },
+        "9d8cac85-56b8-4513-8bb5-c1d311f207e6": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "a64ddfcc-8458-4178-b8b6-518966da90bb": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
-        "heading"
+        "heading",
+        "9d8cac85-56b8-4513-8bb5-c1d311f207e6",
+        "a64ddfcc-8458-4178-b8b6-518966da90bb"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/bc2b1470-115e-11eb-816c-f394f04e7bef-Ooni-Karu-pizza-oven-v2-2048_1024.jpg",
+        "image_2": "shopify:\/\/shop_images\/grey-couch-with-a-bookcase-behind-it.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
-        "image_overlay_opacity": 30,
-        "color_scheme": "inverse",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "image_overlay_opacity": 0,
+        "color_scheme": "accent-2",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "1629970086900f7d29": {
@@ -120,7 +140,7 @@
         "collection": "all",
         "products_to_show": 8,
         "show_view_all": false,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
