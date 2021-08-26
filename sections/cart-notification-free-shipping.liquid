@@ -1,9 +1,9 @@
 {% assign free_shipping = settings.free_shipping_threshold | times: 100 %}
-{% assign remainder = free_shipping | minus: cart.total_price %}
+{%- liquid assign remainder = free_shipping | minus: cart.total_price %}
 {%- if settings.free_shipping_threshold != blank -%}
-{%- if
-remainder >= 0 -%}
-  <span>{{ 'sections.cart.free_shipping_remaining' | t }}</span>
+{%- if remainder >= 0 -%}
+  {% assign remainder = remainder | money_with_currency %}
+  <span>{{ 'sections.cart.free_shipping_remaining' | t: remainder: remainder }}</span>
 {%- else -%}
 {{ 'sections.cart.free_shipping' | t }}
 {%- endif -%}

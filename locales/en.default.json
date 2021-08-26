@@ -201,6 +201,8 @@
       "taxes_included_but_shipping_at_checkout": "Tax included and shipping calculated at checkout",
       "taxes_included_and_shipping_policy_html": "Tax included. <a href=\"{{ link }}\">Shipping</a> calculated at checkout.",
       "taxes_and_shipping_at_checkout": "Taxes and shipping calculated at checkout",
+      "free_shipping_remaining": "You are missing  {{ remainder }} to get free shipping",
+      "free_shipping": "You have earned free shipping",
       "headings": {
         "product": "Product",
         "price": "Price",
@@ -208,9 +210,6 @@
         "quantity": "Quantity"
       },
       "update": "Update",
-      "free_shipping_remaining": "You are missing  {{ remainder }} to get free shipping",
-      "free_shipping": "You have earned free shipping"
-    },
       "login": {
         "title": "Have an account?",
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Log in</a> to check out faster."
