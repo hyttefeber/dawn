@@ -73,11 +73,20 @@
               "text": "Lynrask levering",
               "mobile-visibility": false
             }
+          },
+          "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66": {
+            "type": "heading",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/noun_trust_2714621_60x60_73be139c-1ded-4e1b-a39c-24bda0a264ed.png",
+              "text": "Åpent kjøp i 90 dager",
+              "mobile-visibility": false
+            }
           }
         },
         "block_order": [
           "724df200-c042-496b-b08b-bcfa4a22440e",
-          "935e67a1-7bc1-499c-8ea4-77ae4d9ba083"
+          "935e67a1-7bc1-499c-8ea4-77ae4d9ba083",
+          "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66"
         ],
         "settings": {
         }
