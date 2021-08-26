@@ -54,6 +54,24 @@
           "enable_language_selector": true,
           "payment_enable": true
         }
+      },
+      "top-bar": {
+        "type": "top-bar",
+        "blocks": {
+          "724df200-c042-496b-b08b-bcfa4a22440e": {
+            "type": "heading",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/noun_customer_service_6704_2_60x60_167ed11f-22a0-48cf-a8da-d642cbc5ad89.png",
+              "text": "Personlig service",
+              "mobile-visibility": false
+            }
+          }
+        },
+        "block_order": [
+          "724df200-c042-496b-b08b-bcfa4a22440e"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
