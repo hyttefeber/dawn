@@ -162,31 +162,22 @@
             "title": "",
             "text": ""
           }
-        },
-        "5a35ef5b-d142-4d2c-bda1-b85f5b6187aa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/High_Story_7300988e-4794-4d29-acd8-352f83b920e6.png",
-            "title": "",
-            "text": ""
-          }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3",
-        "5a35ef5b-d142-4d2c-bda1-b85f5b6187aa"
+        "column3"
       ],
       "settings": {
         "title": "Multicolumn",
         "image_width": "full",
         "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "Button label",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "16299691700ef0e764": {
