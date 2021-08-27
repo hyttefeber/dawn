@@ -26,12 +26,36 @@
             "type": "link_list",
             "settings": {
               "heading": "Quick links",
+              "menu": "footer-1"
+            }
+          },
+          "8489ad7f-3530-4cb0-86fc-82435e6afea4": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Informasjon",
+              "menu": "informasjon"
+            }
+          },
+          "74a93209-db74-4a47-b818-a97b161d9897": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "18d8e8e0-1409-4b46-8dc8-ad7e25aaa135": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
               "menu": "footer"
             }
           }
         },
         "block_order": [
-          "footer-0"
+          "footer-0",
+          "8489ad7f-3530-4cb0-86fc-82435e6afea4",
+          "74a93209-db74-4a47-b818-a97b161d9897",
+          "18d8e8e0-1409-4b46-8dc8-ad7e25aaa135"
         ],
         "settings": {
           "color_scheme": "background-1",
