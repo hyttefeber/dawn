@@ -845,6 +845,9 @@
         "image_overlay_opacity": {
           "label": "Image overlay opacity"
         },
+        "banner_box_opacity": {
+          "label": "Banner content box opacity"
+        },
         "color_scheme": {
           "options__1": {
             "label": "Accent 1"
