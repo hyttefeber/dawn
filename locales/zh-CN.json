@@ -157,7 +157,9 @@
         "other": "找到“{{ terms }}”的 {{ count }} 条结果"
       },
       "title": "搜索结果",
-      "page": "页面"
+      "page": "页面",
+      "products": "产品",
+      "search_for": "搜索“{{ terms }}”"
     },
     "cart": {
       "cart": "购物车"
@@ -238,7 +240,7 @@
       "apply": "应用",
       "clear": "清除",
       "clear_all": "清除所有内容",
-      "from": "发消息者",
+      "from": "从",
       "filter_and_sort": "筛选和排序",
       "filter_by_label": "筛选条件：",
       "filter_button": "筛选",

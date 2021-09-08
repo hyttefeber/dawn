@@ -48,7 +48,7 @@
       "share": "Compartir",
       "share_url": "Enlace",
       "success_message": "Enlace copiado al portapapeles",
-      "close": "Cerrar compartir"
+      "close": "Cerrar compartición"
     }
   },
   "date_formats": {
@@ -157,7 +157,9 @@
         "other": "Se encontraron {{ count }} resultados para \"{{ terms }}\""
       },
       "title": "Resultados de búsqueda",
-      "page": "Página"
+      "page": "Página",
+      "products": "Productos",
+      "search_for": "Buscar “{{ terms }}”"
     },
     "cart": {
       "cart": "Carrito"
