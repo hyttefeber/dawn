@@ -13,17 +13,17 @@
         "9d8cac85-56b8-4513-8bb5-c1d311f207e6": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Den beste stemningen skaper du selv."
           }
         },
         "a64ddfcc-8458-4178-b8b6-518966da90bb": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Hytteinteriør",
+            "button_link_1": "\/collections\/interior-til-hytter-og-hus",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_2": "Halvor Bakke",
+            "button_link_2": "\/collections\/serie-halvor-bakke",
             "button_style_secondary_2": true
           }
         }
@@ -40,7 +40,7 @@
         "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
-        "banner_box_opacity": 50,
+        "banner_box_opacity": 35,
         "color_scheme": "accent-2",
         "stack_images_on_mobile": false,
         "show_text_below": false
