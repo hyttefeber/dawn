@@ -13,7 +13,9 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 100,
+          "logo": "shopify:\/\/shop_images\/hyttefeber-logo-7.png",
+          "scroll_logo": "shopify:\/\/shop_images\/Hyttefeber_text_only_300x300_72a0ed5a-1b25-4216-aa8c-f991ef1beb31.png",
+          "logo_width": 180,
           "logo_position": "top-center",
           "menu": "overmenu-2021",
           "show_line_separator": true,
