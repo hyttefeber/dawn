@@ -3,8 +3,8 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false
+        "show_collection_description": true,
+        "show_collection_image": true
       }
     },
     "product-grid": {
@@ -16,6 +16,8 @@
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false,
         "enable_filtering": true,
         "enable_sorting": true,
         "collapse_on_larger_devices": false
