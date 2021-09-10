@@ -1,6 +1,6 @@
 {
   "current": {
-    "page_width": "1200",
+    "page_width": "1600",
     "currency_code_enabled": false,
     "free_shipping_threshold": "600",
     "sections": {
@@ -12,6 +12,7 @@
       "header": {
         "type": "header",
         "settings": {
+          "color_scheme": "background-1",
           "logo_width": 100,
           "logo_position": "top-center",
           "menu": "overmenu-2021",
