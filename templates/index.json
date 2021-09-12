@@ -53,8 +53,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/long.png",
-            "title": "Tur",
-            "text": "<p><a href=\"\/collections\/ut-pa-tur\" title=\"\/collections\/ut-pa-tur\">Ut på Tur<\/a><\/p>"
+            "title": "",
+            "text": ""
           }
         },
         "1629970086900f7d29-1": {
