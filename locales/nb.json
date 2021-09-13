@@ -217,7 +217,8 @@
         "title": "Har du en konto?",
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logg på<\/a> for å betale raskere."
       },
-      "free_shipping_remaining": "Du mangler "
+      "free_shipping_remaining": "Du har {{ remainder }} igjen til gratis frakt",
+      "free_shipping": "Gratulerer! Denne bestillingen får gratis frakt 👏"
     },
     "footer": {
       "payment": "Betalingsmåter",
