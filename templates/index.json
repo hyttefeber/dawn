@@ -54,7 +54,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/long.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "link": "\/collections\/kjokken-og-servering"
           }
         },
         "1629970086900f7d29-1": {
@@ -62,7 +63,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/long.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "link": ""
           }
         },
         "1629970086900f7d29-2": {
@@ -70,7 +72,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/long.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "link": ""
           }
         }
       },
@@ -98,7 +101,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/High_Story_7300988e-4794-4d29-acd8-352f83b920e6.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "link": ""
           }
         },
         "column2": {
@@ -106,7 +110,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/High_Story_7300988e-4794-4d29-acd8-352f83b920e6.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "link": ""
           }
         },
         "column3": {
@@ -114,7 +119,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/High_Story_7300988e-4794-4d29-acd8-352f83b920e6.png",
             "title": "",
-            "text": ""
+            "text": "",
+            "link": ""
           }
         }
       },
