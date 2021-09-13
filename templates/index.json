@@ -36,14 +36,15 @@
         "a64ddfcc-8458-4178-b8b6-518966da90bb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_Kopi_av_Kopi_av_Kopi_av_var2021.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_0168.jpg",
+        "image_2": "shopify:\/\/shop_images\/Design_uten_navn_5.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": false,
         "image_overlay_opacity": 10,
         "banner_box_opacity": 50,
         "color_scheme": "accent-1",
-        "stack_images_on_mobile": false,
+        "stack_images_on_mobile": true,
         "show_text_below": false
       }
     },
