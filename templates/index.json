@@ -13,7 +13,13 @@
         "9d8cac85-56b8-4513-8bb5-c1d311f207e6": {
           "type": "text",
           "settings": {
+<<<<<<< HEAD
             "text": "Den beste stemningen skaper du selv."
+=======
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/all",
+            "button_label_2": ""
+>>>>>>> e1c264bd48f05532dfb2e6747a9e1eeae33d9ed2
           }
         },
         "a64ddfcc-8458-4178-b8b6-518966da90bb": {
@@ -58,6 +64,7 @@
             "link": "\/collections\/kjokken-og-servering"
           }
         },
+<<<<<<< HEAD
         "1629970086900f7d29-1": {
           "type": "column",
           "settings": {
@@ -66,6 +73,10 @@
             "text": "",
             "link": ""
           }
+=======
+        "product": {
+          "type": "product"
+>>>>>>> e1c264bd48f05532dfb2e6747a9e1eeae33d9ed2
         },
         "1629970086900f7d29-2": {
           "type": "column",
