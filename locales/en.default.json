@@ -50,9 +50,6 @@
       "success_message": "Link copied to clipboard"
     }
   },
-  "date_formats": {
-    "month_year": "%B %Y"
-  },
   "newsletter": {
     "label": "Email",
     "success": "Thanks for subscribing",
@@ -157,7 +154,7 @@
         "other": "{{ count }} results found for “{{ terms }}”"
       },
       "title": "Search results",
-      "search_for": "Search for “{{ terms }}”" 
+      "search_for": "Search for “{{ terms }}”"
     },
     "cart": {
       "cart": "Cart"
