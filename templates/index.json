@@ -6,23 +6,23 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "🔥BÅLSESONGEN🔥",
-            "heading_size": "large"
+            "heading": "🔥BÅLKOS🔥",
+            "heading_size": "medium"
           }
         },
         "9d8cac85-56b8-4513-8bb5-c1d311f207e6": {
           "type": "text",
           "settings": {
-            "text": "Den beste stemningen skaper du selv."
+            "text": "ENDELIG ER HØSTEN OG BÅLSESONGEN IGANG"
           }
         },
         "a64ddfcc-8458-4178-b8b6-518966da90bb": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Hytteinteriør",
+            "button_label_1": "TIL BÅLPLASSEN",
             "button_link_1": "\/collections\/interior-til-hytter-og-hus",
             "button_style_secondary_1": false,
-            "button_label_2": "Halvor Bakke",
+            "button_label_2": "",
             "button_link_2": "\/collections\/serie-halvor-bakke",
             "button_style_secondary_2": true
           }
@@ -34,9 +34,9 @@
         "a64ddfcc-8458-4178-b8b6-518966da90bb"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/120837758_3052100154895039_3212641154045794758_n.jpg",
+        "image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_Kopi_av_Kopi_av_Kopi_av_var2021.jpg",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-start",
+        "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 10,
         "banner_box_opacity": 50,
