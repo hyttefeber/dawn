@@ -547,11 +547,7 @@
         },
         "show_rating": {
           "label": "Show product rating",
-<<<<<<< HEAD
-          "info": "To display a rating, add a product rating app. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews\/installation)"
-=======
           "info": "To display a rating, add a product rating app. [Learn more](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
->>>>>>> a06cc2582e259b7fdeb46f82256e71276dee8b8f
         }
       },
       "presets": {
@@ -642,11 +638,7 @@
           "name": "Product rating",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "To display a rating, add a product rating app. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews\/installation)"
-=======
               "content": "To display a rating, add a product rating app. [Learn more](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
->>>>>>> a06cc2582e259b7fdeb46f82256e71276dee8b8f
             }
           }
         }
@@ -1175,11 +1167,7 @@
         },
         "show_rating": {
           "label": "Show product rating",
-<<<<<<< HEAD
-          "info": "To display a rating, add a product rating app. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews\/installation)"
-=======
           "info": "To display a rating, add a product rating app. [Learn more](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
->>>>>>> a06cc2582e259b7fdeb46f82256e71276dee8b8f
         },
         "header__1": {
           "content": "Filtering and sorting"
@@ -1504,11 +1492,7 @@
           "name": "Product rating",
           "settings": {
             "paragraph": {
-<<<<<<< HEAD
-              "content": "To display a rating, add a product rating app. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews\/installation)"
-=======
               "content": "To display a rating, add a product rating app. [Learn more](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
->>>>>>> a06cc2582e259b7fdeb46f82256e71276dee8b8f
             }
           }
         }
@@ -1558,11 +1542,7 @@
         },
         "show_rating": {
           "label": "Show product rating",
-<<<<<<< HEAD
-          "info": "To display a rating, add a product rating app. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews\/installation)"
-=======
           "info": "To display a rating, add a product rating app. [Learn more](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
->>>>>>> a06cc2582e259b7fdeb46f82256e71276dee8b8f
         },
         "header__1": {
           "content": "Product card"
@@ -1764,11 +1744,7 @@
         },
         "show_rating": {
           "label": "Show product rating",
-<<<<<<< HEAD
-          "info": "To display a rating, add a product rating app. [Learn more](https:\/\/help.shopify.com\/en\/manual\/products\/product-reviews\/installation)"
-=======
           "info": "To display a rating, add a product rating app. [Learn more](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
->>>>>>> a06cc2582e259b7fdeb46f82256e71276dee8b8f
         }
       }
     },
