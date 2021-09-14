@@ -233,22 +233,32 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link": ""
           }
+        },
+        "ba45820c-5535-497d-b3ae-a4d8524f0459": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hyttefeber_2_8d0d8c91-8e85-4dba-85f1-032e7122f965.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "16316306910f24fe35-0",
         "16316306910f24fe35-1",
-        "16316306910f24fe35-2"
+        "16316306910f24fe35-2",
+        "ba45820c-5535-497d-b3ae-a4d8524f0459"
       ],
       "settings": {
         "title": "Multicolumn",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Button label",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "16299691700ef0e764": {
