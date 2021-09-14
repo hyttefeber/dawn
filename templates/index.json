@@ -53,7 +53,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/JPEG-bilde-F1C18B97200F-1_result.jpg",
+            "image": "shopify:\/\/shop_images\/xTRED-U36-hostkupp-kat-herre.png.pagespeed.ic.Dq9_ZzKwBU_result.jpg",
             "title": "",
             "text": "",
             "link": ""
@@ -62,7 +62,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Design_uten_navn_5.jpg",
+            "image": "shopify:\/\/shop_images\/xTRED-U36-hostkupp-kat-herre.png.pagespeed.ic.Dq9_ZzKwBU_result.jpg",
             "title": "",
             "text": "",
             "link": ""
@@ -71,7 +71,7 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0168.jpg",
+            "image": "shopify:\/\/shop_images\/xTRED-U36-hostkupp-kat-herre.png.pagespeed.ic.Dq9_ZzKwBU_result.jpg",
             "title": "",
             "text": "",
             "link": ""
@@ -79,10 +79,10 @@
         },
         "0a40065f-fcb3-4c63-bf26-f013ec3f90ca": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/xTRED-U36-hostkupp-kat-herre.png.pagespeed.ic.Dq9_ZzKwBU_result.jpg",
+            "title": "",
+            "text": "",
             "link": ""
           }
         }
