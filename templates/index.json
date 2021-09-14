@@ -204,6 +204,53 @@
         "swipe_on_mobile": false
       }
     },
+    "16316306910f24fe35": {
+      "type": "multicolumn",
+      "blocks": {
+        "16316306910f24fe35-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hyttefeber_2_8d0d8c91-8e85-4dba-85f1-032e7122f965.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link": ""
+          }
+        },
+        "16316306910f24fe35-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hyttefeber_2_8d0d8c91-8e85-4dba-85f1-032e7122f965.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link": ""
+          }
+        },
+        "16316306910f24fe35-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hyttefeber_2_8d0d8c91-8e85-4dba-85f1-032e7122f965.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16316306910f24fe35-0",
+        "16316306910f24fe35-1",
+        "16316306910f24fe35-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "16299691700ef0e764": {
       "type": "text-banner",
       "settings": {
@@ -292,6 +339,7 @@
     "featured_products",
     "1629970086900f7d29",
     "1631626408eee30b8a",
+    "16316306910f24fe35",
     "16299691700ef0e764",
     "1629969469fe8265c4",
     "16312681965e03416d"
