@@ -173,6 +173,7 @@
         "1631626408eee30b8a-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/xTRED-U35-slab-lk.png.pagespeed.ic.5k4Id2j3yU_result.jpg",
             "title": "",
             "text": "",
             "link": ""
@@ -181,24 +182,16 @@
         "1631626408eee30b8a-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/xTRED-U35-slab-lk.png.pagespeed.ic.5k4Id2j3yU_result.jpg",
             "title": "",
             "text": "",
-            "link": ""
-          }
-        },
-        "1631626408eee30b8a-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link": ""
           }
         }
       },
       "block_order": [
         "1631626408eee30b8a-0",
-        "1631626408eee30b8a-1",
-        "1631626408eee30b8a-2"
+        "1631626408eee30b8a-1"
       ],
       "settings": {
         "title": "Multicolumn",
@@ -206,7 +199,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
