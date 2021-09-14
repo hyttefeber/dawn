@@ -19,3 +19,8 @@
     margin-bottom: -1rem;
   }
 }
+
+.product-form__buttons > * {
+  margin-bottom: 1rem;
+}
+
