@@ -149,32 +149,66 @@
             "text": "",
             "link": ""
           }
-        },
-        "e4f9c269-eabf-4e32-a582-cd65abbaa4d7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/20190928_212338.jpg",
-            "title": "",
-            "text": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "1629970086900f7d29-0",
         "1629970086900f7d29-1",
-        "1629970086900f7d29-2",
-        "e4f9c269-eabf-4e32-a582-cd65abbaa4d7"
+        "1629970086900f7d29-2"
       ],
       "settings": {
         "title": "",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
+      }
+    },
+    "1631626408eee30b8a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1631626408eee30b8a-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link": ""
+          }
+        },
+        "1631626408eee30b8a-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link": ""
+          }
+        },
+        "1631626408eee30b8a-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1631626408eee30b8a-0",
+        "1631626408eee30b8a-1",
+        "1631626408eee30b8a-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "16299691700ef0e764": {
@@ -264,6 +298,7 @@
     "multi_column",
     "featured_products",
     "1629970086900f7d29",
+    "1631626408eee30b8a",
     "16299691700ef0e764",
     "1629969469fe8265c4",
     "16312681965e03416d"
