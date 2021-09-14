@@ -95,7 +95,7 @@
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte">
-                {{ product.description }}
+                <div data-station-tabs-app data-station-tabs-product="{{ product.handle }}">{{ product.description }}</div>
               </div>
             {%- endif -%}
           {%- when 'custom_liquid' -%}
