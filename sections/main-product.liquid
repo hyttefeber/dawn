@@ -92,9 +92,7 @@
                 {{ form | payment_terms }}
               {%- endform -%}
             </div>
-        <button id="BIS_trigger" {% if product.available %} style="display: none;" {% endif %}>
-    Få beskjed 📬
-</button>
+        
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte">
@@ -287,6 +285,9 @@
                     {%- endif -%}
                   </div>
                 {%- endform -%}
+                <button id="BIS_trigger" {% if product.available %} style="display: none;" {% endif %}>
+    Få beskjed 📬
+</button>
               </product-form>
 
               {{ 'component-pickup-availability.css' | asset_url | stylesheet_tag }}
