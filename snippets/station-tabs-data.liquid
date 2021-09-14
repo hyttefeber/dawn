@@ -1,4 +1,11 @@
 {%- capture tabs %}
+  {%- capture content %}<h2>Lama</h2>
+<p>Ektef&oslash;lt og Nordisk design ned til kjernen, har Lama Interi&oslash;r produsert h&aring;ndlaget hjemmedekor i mer enn et ti&aring;r.</p>
+<p>De har levert interi&oslash;rprodukter til flere av de mest kjente interi&oslash;rkjedene i Norge med sine unike og innbydende design, og fortsetter &aring; fornye seg selv &aring;r etter &aring;r.</p>
+<p>Halvor Bakke fikk ogs&aring; designet og utviklet sin f&oslash;rste egne interi&oslash;rkolleksjon etter han begynte &aring; jobbe med Lama, noe som har v&aelig;rt en fantastisk suksess.</p>
+<p>Selskapet ble startet av LArs og MArianne - LAMA, og hele selskapet er bygget p&aring; en kj&aelig;rlighetshistorie, noe som forklarer hvorfor "lama-hjertet" har en s&aring; sentral plass i deres merkevare.</p>
+<p>Lama har produsert mange av de flotte produktene vi tilbyr under <a title="Interi&oslash;r for hytte og hus i nettbutikken" href="https://hyttefeber.no/collections/interior-til-hytter-og-hus">interi&oslash;r for hus og hytte i nettbutikken.</a></p>{% endcapture -%}
+  69956^^Om Lama Interiør^^{{ content | replace: '~', '&#126;' | replace: '^', '&#94;' }}^^||||Lama^^^^^^0^^~~
 {%- endcapture -%}
 {%- assign tabs_array = tabs | strip | split: '~~' -%}
 {%- assign p_id_str = product.id | downcase -%}
