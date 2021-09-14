@@ -2,6 +2,7 @@
   "current": {
     "colors_accent_1": "#5faa58",
     "colors_accent_2": "#355179",
+    "sale_badge_color_scheme": "accent-1",
     "page_width": "1600",
     "currency_code_enabled": false,
     "free_shipping_threshold": "600",
