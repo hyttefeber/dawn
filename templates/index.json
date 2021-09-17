@@ -138,7 +138,7 @@
             "image": "shopify:\/\/shop_images\/xTRED-U35-slab-lk.png.pagespeed.ic.5k4Id2j3yU_result.jpg",
             "title": "",
             "text": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
         },
         "1629970086900f7d29-2": {
@@ -147,7 +147,7 @@
             "image": "shopify:\/\/shop_images\/xTRED-U35-slab-lk.png.pagespeed.ic.5k4Id2j3yU_result.jpg",
             "title": "",
             "text": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/ut-pa-tur"
           }
         }
       },
@@ -176,7 +176,7 @@
             "image": "shopify:\/\/shop_images\/xTRED-U35-slab-lk.png.pagespeed.ic.5k4Id2j3yU_result.jpg",
             "title": "",
             "text": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "1631626408eee30b8a-1": {
@@ -185,7 +185,7 @@
             "image": "shopify:\/\/shop_images\/xTRED-U35-slab-lk.png.pagespeed.ic.5k4Id2j3yU_result.jpg",
             "title": "",
             "text": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/alt-marius"
           }
         }
       },
@@ -265,8 +265,8 @@
     "163163093769b5efc1": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
-        "collection": "hytte-tilbehor",
+        "title": "Nyheter fra Norgesglasset",
+        "collection": "nyheter-fra-norgesglasset",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": false,
