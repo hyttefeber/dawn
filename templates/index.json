@@ -77,13 +77,13 @@
             "link": "shopify:\/\/collections\/balplassen"
           }
         },
-        "0a40065f-fcb3-4c63-bf26-f013ec3f90ca": {
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/xTRED-U36-hostkupp-kat-herre.png.pagespeed.ic.Dq9_ZzKwBU_result.jpg",
+            "image": "shopify:\/\/shop_images\/3.jpg",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
+            "link": ""
           }
         }
       },
@@ -91,7 +91,7 @@
         "column1",
         "column2",
         "column3",
-        "0a40065f-fcb3-4c63-bf26-f013ec3f90ca"
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a"
       ],
       "settings": {
         "title": "",
