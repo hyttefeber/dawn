@@ -2295,6 +2295,12 @@ details-disclosure > details {
   word-break: break-word;
 }
 
+.badge--circular {
+  border-radius: 50%;
+  height: 5rem;
+  width: 5rem;
+}
+
 .gradient {
   background: var(--color-background);
   background: var(--gradient-background);

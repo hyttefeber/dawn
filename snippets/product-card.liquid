@@ -89,9 +89,17 @@
           {%- if product_card_product.available == false -%}
             <span class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}" aria-hidden="true">{{ 'products.product.sold_out' | t }}</span>
           {%- elsif product_card_product.compare_at_price > product_card_product.price and product_card_product.available -%}
-            <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" aria-hidden="true">{% render 'discount-price', product: product_card_product, price_class: '' %}</span>
+            <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" aria-hidden="true">{{ 'products.product.on_sale' | t }}</span>
           {%- endif -%}
         </div>
+        {%- assign discount = product_card_product.price | times: 1.0 | divided_by: product_card_product.compare_at_price | round: 2 -%}
+        {%- assign remainder = 1 | minus: discount -%}
+        {%- if product_card_product.compare_at_price > product_card_product.price and product_card_product.available and remainder > 0.04  -%}
+        <div class="card__badge card__badge--top-right">
+          <span class="badge badge--circular color-{{ settings.sale_badge_color_scheme }}">{% render 'discount-price', product: product_card_product, price_class: '' %}</span>
+        </div>
+        {%- endif -%}
+
       </div>
     </div>
 
