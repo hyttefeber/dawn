@@ -66,8 +66,8 @@
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Sign up to our emails",
-          "show_social": false,
+          "newsletter_heading": "Meld deg på vårt nyhetsbrev og få 10% rabatt på ditt første kjøp 😊",
+          "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": true,
           "payment_enable": true
