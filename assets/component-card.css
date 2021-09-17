@@ -227,10 +227,16 @@
 
 .card__badge {
   bottom: 1rem;
-  display: flex;
-  flex-wrap: wrap;
+  /* display: flex;
+  flex-wrap: wrap; */
   left: 1rem;
   position: absolute;
+}
+
+.card__badge--top-right {
+  top: 1rem;
+  right: 1rem;
+  left: auto;
 }
 
 .card__badge > * {
