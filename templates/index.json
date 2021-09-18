@@ -341,47 +341,6 @@
         "color_scheme": "accent-2",
         "full_width": true
       }
-    },
-    "16320044426ff5cff0": {
-      "type": "collage",
-      "blocks": {
-        "16320044426ff5cff0-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/vulcanusr-grill-pro910-masterchef_59.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=fJXvndVglFo",
-            "description": "Se Vulcanus i bruk",
-            "image_padding": false
-          }
-        },
-        "16320044426ff5cff0-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "16320044426ff5cff0-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "til-uteplassen",
-            "image_padding": false,
-            "color_scheme": "accent-1"
-          }
-        }
-      },
-      "block_order": [
-        "16320044426ff5cff0-0",
-        "16320044426ff5cff0-1",
-        "16320044426ff5cff0-2"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "column"
-      }
     }
   },
   "order": [
@@ -397,7 +356,6 @@
     "1632002629a5448cc0",
     "1632004023924f3c32",
     "1632000821b08894c5",
-    "16312681965e03416d",
-    "16320044426ff5cff0"
+    "16312681965e03416d"
   ]
 }
