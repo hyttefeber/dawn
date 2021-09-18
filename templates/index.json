@@ -294,14 +294,6 @@
         "color-scheme": "primary"
       }
     },
-    "1632004023924f3c32": {
-      "type": "text-banner",
-      "settings": {
-        "text_banner_title": "UTEPLASSEN",
-        "text_banner_body": "Et viktig sammlingspunkt for kos og hygge året rundt.",
-        "color-scheme": "primary"
-      }
-    },
     "1632000821b08894c5": {
       "type": "featured-collection",
       "settings": {
@@ -316,6 +308,14 @@
         "show_image_outline": true,
         "show_vendor": true,
         "show_rating": false
+      }
+    },
+    "1632004023924f3c32": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "UTEPLASSEN",
+        "text_banner_body": "Et viktig sammlingspunkt for kos og hygge året rundt.",
+        "color-scheme": "primary"
       }
     },
     "16312681965e03416d": {
@@ -354,8 +354,8 @@
     "163163093769b5efc1",
     "163195770387d1cadc",
     "1632002629a5448cc0",
-    "1632004023924f3c32",
     "1632000821b08894c5",
+    "1632004023924f3c32",
     "16312681965e03416d"
   ]
 }
