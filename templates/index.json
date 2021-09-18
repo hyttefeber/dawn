@@ -387,6 +387,12 @@
         "color_scheme": "accent-2",
         "full_width": true
       }
+    },
+    "1632005666c7aecee6": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form"
+      }
     }
   },
   "order": [
@@ -403,6 +409,7 @@
     "1632000821b08894c5",
     "1632004023924f3c32",
     "1632004573cbceffe9",
-    "16312681965e03416d"
+    "16312681965e03416d",
+    "1632005666c7aecee6"
   ]
 }
