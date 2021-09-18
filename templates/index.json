@@ -286,30 +286,6 @@
         "color-scheme": "primary"
       }
     },
-    "16312681965e03416d": {
-      "type": "newsletter",
-      "blocks": {
-        "16312681965e03416d-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "16312681965e03416d-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16312681965e03416d-1",
-        "16312681965e03416d-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true
-      }
-    },
     "1632002629a5448cc0": {
       "type": "text-banner",
       "settings": {
@@ -333,6 +309,30 @@
         "show_vendor": true,
         "show_rating": false
       }
+    },
+    "16312681965e03416d": {
+      "type": "newsletter",
+      "blocks": {
+        "16312681965e03416d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "16312681965e03416d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16312681965e03416d-1",
+        "16312681965e03416d-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -345,8 +345,8 @@
     "1629969469fe8265c4",
     "163163093769b5efc1",
     "163195770387d1cadc",
-    "16312681965e03416d",
     "1632002629a5448cc0",
-    "1632000821b08894c5"
+    "1632000821b08894c5",
+    "16312681965e03416d"
   ]
 }
