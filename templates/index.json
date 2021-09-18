@@ -388,10 +388,17 @@
         "full_width": true
       }
     },
-    "1632005666c7aecee6": {
-      "type": "contact-form",
+    "163200636372ee71d9": {
+      "type": "featured-blog",
       "settings": {
-        "heading": "Contact form"
+        "heading": "Blog posts",
+        "blog": "nyheter",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
       }
     }
   },
@@ -410,6 +417,6 @@
     "1632004023924f3c32",
     "1632004573cbceffe9",
     "16312681965e03416d",
-    "1632005666c7aecee6"
+    "163200636372ee71d9"
   ]
 }
