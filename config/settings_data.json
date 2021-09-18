@@ -1,5 +1,8 @@
 {
   "current": {
+    "colors_accent_1": "#5faa58",
+    "colors_accent_2": "#355179",
+    "sale_badge_color_scheme": "accent-1",
     "page_width": "1600",
     "currency_code_enabled": false,
     "free_shipping_threshold": "600",
@@ -13,7 +16,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/hyttefeber-logo-7.png",
+          "logo": "shopify:\/\/shop_images\/Hyttefeber_6_7742192e-fcc2-4c40-8742-befcd0d5981e.png",
           "scroll_logo": "shopify:\/\/shop_images\/Hyttefeber_text_only_300x300_72a0ed5a-1b25-4216-aa8c-f991ef1beb31.png",
           "logo_width": 180,
           "logo_position": "top-center",
@@ -28,7 +31,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Nyttige lenker",
               "menu": "footer-1"
             }
           },
@@ -42,14 +45,14 @@
           "74a93209-db74-4a47-b818-a97b161d9897": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Placeholder",
               "menu": "footer"
             }
           },
           "18d8e8e0-1409-4b46-8dc8-ad7e25aaa135": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Placeholder",
               "menu": "footer"
             }
           }

@@ -97,10 +97,11 @@
                 {{ form | payment_terms }}
               {%- endform -%}
             </div>
+        
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte">
-                {{ product.description }}
+                <div data-station-tabs-app data-station-tabs-product="{{ product.handle }}">{{ product.description }}</div>
               </div>
             {%- endif -%}
           {%- when 'custom_liquid' -%}
@@ -289,6 +290,9 @@
                     {%- endif -%}
                   </div>
                 {%- endform -%}
+                <button class="product-form__submit button button--full-width button--secondary" id="BIS_trigger" {% if product.available %} style="display: none;" {% endif %}>
+    Få beskjed når varen er på lager 📬
+</button>
               </product-form>
 
               {{ 'component-pickup-availability.css' | asset_url | stylesheet_tag }}

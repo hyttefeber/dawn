@@ -1,0 +1,93 @@
+{%- capture tabs %}
+  {%- capture content %}<h2>Lama</h2>
+<p>Ektef&oslash;lt og Nordisk design ned til kjernen, har Lama Interi&oslash;r produsert h&aring;ndlaget hjemmedekor i mer enn et ti&aring;r.</p>
+<p>De har levert interi&oslash;rprodukter til flere av de mest kjente interi&oslash;rkjedene i Norge med sine unike og innbydende design, og fortsetter &aring; fornye seg selv &aring;r etter &aring;r.</p>
+<p>Halvor Bakke fikk ogs&aring; designet og utviklet sin f&oslash;rste egne interi&oslash;rkolleksjon etter han begynte &aring; jobbe med Lama, noe som har v&aelig;rt en fantastisk suksess.</p>
+<p>Selskapet ble startet av LArs og MArianne - LAMA, og hele selskapet er bygget p&aring; en kj&aelig;rlighetshistorie, noe som forklarer hvorfor "lama-hjertet" har en s&aring; sentral plass i deres merkevare.</p>
+<p>Lama har produsert mange av de flotte produktene vi tilbyr under <a title="Interi&oslash;r for hytte og hus i nettbutikken" href="https://hyttefeber.no/collections/interior-til-hytter-og-hus">interi&oslash;r for hus og hytte i nettbutikken.</a></p>{% endcapture -%}
+  69956^^Om Lama Interiør^^{{ content | replace: '~', '&#126;' | replace: '^', '&#94;' }}^^||||Lama^^^^^^0^^~~
+  {%- capture content %}<p><img src="https://cdn.shopify.com/s/files/1/1855/1065/files/NVRLND_Size_Chart_65f7a81c-5561-41c1-a414-79d226dc93a5.jpg" /></p>{% endcapture -%}
+  69957^^Størrelsesguide^^{{ content | replace: '~', '&#126;' | replace: '^', '&#94;' }}^^|274316230819|||^^^^3^^0^^~~
+{%- endcapture -%}
+{%- assign tabs_array = tabs | strip | split: '~~' -%}
+{%- assign p_id_str = product.id | downcase -%}
+<!-- begin station shared tab data -->
+{%- for item in tabs_array -%}
+  {%- assign tab = item | split: '^^' -%}
+  {%- assign hndl = tab[1] | replace: '&amp;', '' | handleize -%}
+  {%- capture tab_output -%}
+    <div id="station-tabs-data-{{ tab[0] }}" class="station-tabs-data-item" style="display:none;" data-position="{{ tab[5] | default: -1 }}">
+      <a id="st-link-{{ hndl }}" class="station-tabs-link" href="#{{ hndl }}"><span>{{ tab[1] }}</span></a>
+      <div id="st-{{ hndl }}" class="station-tabs-content">
+        <div class="station-tabs-content-inner">{{ tab[2] }}</div>
+      </div>
+    </div>
+  {%- endcapture -%}
+  {%- assign asn = tab[3] | split: '|' -%}
+  {%- assign p_ids = asn[0] | split: ',' -%}
+  {%- assign e_ids = tab[4] | split: ',' -%}
+  {%- unless tabs_order contains tab[0] %}{% continue %}{% endunless -%}
+  {%- if e_ids contains p_id_str %}{% continue %}{% endif -%}
+  {%- if tab[7] != blank%}
+    {%- assign t_lcl = tab[7] | downcase -%}
+    {%- assign s_lcl = request.locale.iso_code | downcase -%}
+    {%- if t_lcl != s_lcl %}{% continue %}{% endif -%}
+  {%- endif -%}
+  {%- if asn[0] == '0' or asn[1] == '0' -%} 
+    {{ tab_output }}{% continue -%}
+  {%- endif -%}
+  {%- assign col_ids = asn[1] | split: ',' -%}
+  {%- assign tags = asn[2] | split: ',' -%}
+  {%- assign tps = asn[3] | split: ',' -%}
+  {%- assign vndr = asn[4] | split: ',' -%}
+  {%- if tab[6] == '1' %}{% assign all = true %}{% else %}{% assign all = false %}{% endif -%}
+  {%- if asn[0] != blank -%}
+    {%- assign all = false -%}
+    {%- if p_ids contains p_id_str -%}
+      {{ tab_output }}{% continue -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if tps.size > 1 or vndr.size > 1 %}{% assign all = false %}{% endif -%}
+  {%- assign cncl = false -%}
+  {%- if col_ids.size > 0 -%}
+    {%- assign cols = product.collections | map: 'id' | downcase -%}
+    {%- for c in col_ids -%}
+      {%- if all -%}
+        {%- unless cols contains c %}
+          {%- assign cncl = true %}{% break -%}
+        {%- endunless -%}
+      {%- elsif cols contains c -%}
+        {{ tab_output }}{% assign cncl = true %}{% break -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if cncl %}{% continue %}{% endif -%}
+  {%- endif -%}
+  {%- if tags.size > 0 -%}
+    {%- for t in tags -%}
+      {%- if all -%}
+        {%- unless product.tags contains t -%}
+          {%- assign cncl = true %}{% break -%}
+        {%- endunless -%}
+      {%- elsif product.tags contains t %}
+        {{ tab_output }}{% assign cncl = true %}{% break -%}
+      {%- endif - %}
+    {%- endfor -%}
+    {%- if cncl %}{% continue %}{% endif -%}
+  {%- endif -%}
+  {%- if tps.size > 0 -%}
+    {%- if all and tps[0] != product.type -%}
+      {%- continue -%}
+    {%- elsif all == false and tps contains product.type %}
+      {{ tab_output }}{% continue -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if vndr.size > 0 -%}
+    {%- if all and vndr[0] != product.vendor -%}
+      {%- continue -%}
+    {%- elsif all == false and vndr contains product.vendor -%}
+      {{ tab_output }}{% continue -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if all %}{{ tab_output }}{% endif -%}
+{%- endfor -%}
+<!-- end station shared tab data -->
