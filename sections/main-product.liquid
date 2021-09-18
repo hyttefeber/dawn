@@ -38,9 +38,11 @@
                 {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: true %}
                 {%- assign discount = product.price | times: 1.0 | divided_by: product.compare_at_price | round: 2 -%}
                 {%- assign remainder = 1 | minus: discount -%}
+                {%- if product.compare_at_price > product.price and remainder > 0.04  -%}
                 <div class="card__badge card__badge--top-right">
                   <span class="badge badge--circular color-{{ settings.sale_badge_color_scheme }}">{% render 'discount-price', product, price_class: '' %}</span>
                 </div>
+                {%- endif -%}
               </li>
             {%- endunless -%}
           {%- endfor -%}
