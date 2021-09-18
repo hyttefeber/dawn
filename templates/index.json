@@ -44,7 +44,8 @@
         "banner_box_opacity": 50,
         "color_scheme": "accent-1",
         "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": false,
+        "link": ""
       }
     },
     "multi_column": {
@@ -107,7 +108,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Nyheter",
+        "title": "Siste Nyheter",
         "collection": "nyheter-hos-hyttefeber",
         "products_to_show": 4,
         "show_view_all": true,
