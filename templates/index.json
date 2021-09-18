@@ -355,16 +355,16 @@
         "1632004573cbceffe9-1": {
           "type": "text",
           "settings": {
-            "text": "Er det noe du lurer p eller noe vi kan få hjelpe deg med?"
+            "text": "Er det noe du lurer på eller noe vi kan få hjelpe deg med?"
           }
         },
         "1632004573cbceffe9-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Kontakt oss",
+            "button_label_1": "Kontakt oss her",
             "button_link_1": "shopify:\/\/pages\/kontakt-oss",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
