@@ -318,37 +318,13 @@
         "color-scheme": "primary"
       }
     },
-    "16312681965e03416d": {
-      "type": "newsletter",
-      "blocks": {
-        "16312681965e03416d-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "16312681965e03416d-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16312681965e03416d-1",
-        "16312681965e03416d-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true
-      }
-    },
     "1632004573cbceffe9": {
       "type": "image-banner",
       "blocks": {
         "1632004573cbceffe9-0": {
           "type": "heading",
           "settings": {
-            "heading": "Kan vi hjelpe?",
+            "heading": "Kan vi hjelpe deg?",
             "heading_size": "medium"
           }
         },
@@ -387,6 +363,30 @@
         "show_text_below": true,
         "link": ""
       }
+    },
+    "16312681965e03416d": {
+      "type": "newsletter",
+      "blocks": {
+        "16312681965e03416d-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Meld deg på nyhjetsbrevet vårt og få 10 % rabatt<\/p><p><\/p>"
+          }
+        },
+        "16312681965e03416d-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16312681965e03416d-1",
+        "16312681965e03416d-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -402,7 +402,7 @@
     "1632002629a5448cc0",
     "1632000821b08894c5",
     "1632004023924f3c32",
-    "16312681965e03416d",
-    "1632004573cbceffe9"
+    "1632004573cbceffe9",
+    "16312681965e03416d"
   ]
 }
