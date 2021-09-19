@@ -210,7 +210,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/tallerken-flat-28-cm-gra-4pk-marius-porsgrund-porselen-2.jpg",
-        "height": "adapt",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -245,13 +245,13 @@
         "1632087749cf8f8ea0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Tradisjoner som varer"
           }
         },
         "1632087749cf8f8ea0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Norgesglass har vært en klassiker siden dag én for mer enn hundre år siden, og vi ser ingen grunn til at den ikke skal vare i hundre år til!<\/p>"
           }
         },
         "1632087749cf8f8ea0-2": {
