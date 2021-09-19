@@ -180,6 +180,41 @@
         "color-scheme": "primary"
       }
     },
+    "1632087735695d2a16": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632087735695d2a16-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tidløst, tradisjonelt og trendy"
+          }
+        },
+        "1632087735695d2a16-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vi elsker tradisjoner og det som symboliserer tradisjon. Marius by<br\/>Porsgrund Porselænsfabrik er en ny serie kvalitetsporselen med det<br\/>velkjente og symbolske Mariusmønstret.<\/p><p>Ta tradisjonen videre.<\/p>"
+          }
+        },
+        "1632087735695d2a16-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632087735695d2a16-0",
+        "1632087735695d2a16-1",
+        "1632087735695d2a16-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tallerken-flat-28-cm-gra-4pk-marius-porsgrund-porselen-2.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1629969469fe8265c4": {
       "type": "image-with-text",
       "blocks": {
@@ -437,6 +472,7 @@
     "1629970086900f7d29",
     "1631626408eee30b8a",
     "16299691700ef0e764",
+    "1632087735695d2a16",
     "1629969469fe8265c4",
     "163163093769b5efc1",
     "163195770387d1cadc",
