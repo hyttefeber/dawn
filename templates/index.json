@@ -198,8 +198,8 @@
         "1632087735695d2a16-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Se alt Marius",
+            "button_link": "shopify:\/\/collections\/alt-marius"
           }
         }
       },
@@ -211,55 +211,6 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/tallerken-flat-28-cm-gra-4pk-marius-porsgrund-porselen-2.jpg",
         "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "1629969469fe8265c4": {
-      "type": "image-with-text",
-      "blocks": {
-        "1629969469fe8265c4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tidløst, tradisjonelt og trendy"
-          }
-        },
-        "1629969469fe8265c4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Vi elsker tradisjoner og det som symboliserer tradisjon. Marius by <br\/>Porsgrund Porselænsfabrik er en ny serie kvalitetsporselen med det <br\/>velkjente og symbolske Mariusmønstret.<\/p><p>Ta tradisjonen videre.<\/p>"
-          }
-        },
-        "8a102709-bcd9-4509-af65-2c18abb1cdb5": {
-          "type": "image",
-          "settings": {
-            "brand-image": "shopify:\/\/shop_images\/last_ned_180x_33b6a8a3-83a4-4148-a14a-70aa7ce6f22a.png"
-          }
-        },
-        "405c580c-28e3-474c-a505-7de1b573e133": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Marius by Porsgrund Porselænsfabrik<\/p>"
-          }
-        },
-        "1629969469fe8265c4-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Se alt Marius ->",
-            "button_link": "shopify:\/\/collections\/alt-marius"
-          }
-        }
-      },
-      "block_order": [
-        "1629969469fe8265c4-0",
-        "1629969469fe8265c4-1",
-        "8a102709-bcd9-4509-af65-2c18abb1cdb5",
-        "405c580c-28e3-474c-a505-7de1b573e133",
-        "1629969469fe8265c4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_6923_f604a552-3845-4194-bacb-a7bfcc18004e.jpg",
-        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -473,7 +424,6 @@
     "1631626408eee30b8a",
     "16299691700ef0e764",
     "1632087735695d2a16",
-    "1629969469fe8265c4",
     "163163093769b5efc1",
     "163195770387d1cadc",
     "1632052593cc1e52a7",
