@@ -24,7 +24,7 @@
             "image": "shopify:\/\/shop_images\/9.jpg",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/salg-manedens-kupp"
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
         },
         "column2": {
@@ -33,7 +33,7 @@
             "image": "shopify:\/\/shop_images\/Kopi_av_Uten_navn_1.jpg",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+            "link": "shopify:\/\/collections\/balplassen"
           }
         },
         "column3": {
@@ -42,7 +42,7 @@
             "image": "shopify:\/\/shop_images\/4.jpg",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
@@ -51,7 +51,7 @@
             "image": "shopify:\/\/shop_images\/Kopi_av_Uten_navn_3.jpg",
             "title": "",
             "text": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
           }
         }
       },
@@ -97,7 +97,7 @@
             "image": "shopify:\/\/shop_images\/1_91a4b321-a465-4e80-a946-7901c54b7a67.jpg",
             "title": "",
             "text": "",
-            "link": "\/collections\/kjokken-og-servering"
+            "link": "shopify:\/\/collections\/utemobler-og-sitteplasser"
           }
         },
         "1629970086900f7d29-1": {
@@ -106,7 +106,7 @@
             "image": "shopify:\/\/shop_images\/3_8f88163a-63e0-4b08-a3dc-2afb0c842d46.jpg",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+            "link": ""
           }
         },
         "1629970086900f7d29-2": {
@@ -144,7 +144,7 @@
             "image": "shopify:\/\/shop_images\/1_9f2c72e7-8287-4494-b4a0-b65953555da8.jpg",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+            "link": "shopify:\/\/collections\/tenderflame"
           }
         },
         "1631626408eee30b8a-1": {
@@ -153,7 +153,7 @@
             "image": "shopify:\/\/shop_images\/2_8c851f98-7c88-4b19-810b-0570df337a10.jpg",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/alt-marius"
+            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
           }
         }
       },
@@ -251,6 +251,22 @@
         "text_banner_title": "NORGESGLASSET",
         "text_banner_body": "Hele serien med  av den samme gode kvaliteten Norgesglasset har laget siden 1902.",
         "color-scheme": "primary"
+      }
+    },
+    "1632052593cc1e52a7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "nyheter-fra-norgesglasset",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "1632002629a5448cc0": {
@@ -379,6 +395,7 @@
     "1629969469fe8265c4",
     "163163093769b5efc1",
     "163195770387d1cadc",
+    "1632052593cc1e52a7",
     "1632002629a5448cc0",
     "1632000821b08894c5",
     "1632004023924f3c32",
