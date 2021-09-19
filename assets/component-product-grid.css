@@ -18,9 +18,27 @@
   .product-grid.negative-margin--small {
     margin-bottom: -1rem;
   }
+  
+  .product-form {
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+  }
+  
+  .card-wrapper {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+  }
+  
 }
 
 .product-form__buttons > * {
   margin-bottom: 1rem;
 }
+
+.product-form__buttons {
+  padding-top: 3rem;
+}
+
 
