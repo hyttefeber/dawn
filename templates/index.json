@@ -337,7 +337,7 @@
         "16312681965e03416d-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Meld deg på nyhjetsbrevet vårt og få 10 % rabatt<\/p><p><\/p>"
+            "text": "<p>Meld deg på nyhetsbrevet vårt og få 10 % rabatt<\/p><p><\/p>"
           }
         },
         "16312681965e03416d-2": {
@@ -358,7 +358,7 @@
     "163200636372ee71d9": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Blog posts",
+        "heading": "Nyheter",
         "blog": "nyheter",
         "post_limit": 3,
         "show_image": true,
