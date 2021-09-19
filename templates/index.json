@@ -2,39 +2,6 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "medium"
-          }
-        },
-        "9d8cac85-56b8-4513-8bb5-c1d311f207e6": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "ENDELIG ER HØSTEN OG BÅLSESONGEN IGANG"
-          }
-        },
-        "a64ddfcc-8458-4178-b8b6-518966da90bb": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "TIL BÅLPLASSEN",
-            "button_link_1": "\/collections\/salg-manedens-kupp",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "\/collections\/serie-halvor-bakke",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "9d8cac85-56b8-4513-8bb5-c1d311f207e6",
-        "a64ddfcc-8458-4178-b8b6-518966da90bb"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Toppmal_1500x360_abd7910e-e4e5-475c-ab52-560ea3cb356b.jpg",
         "adapt_height_first_image": false,
