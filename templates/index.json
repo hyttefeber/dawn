@@ -378,6 +378,22 @@
         "layout": "image_first"
       }
     },
+    "163215496531ff8641": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "til-uteplassen",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "1632153250a8ceda25": {
       "type": "image-with-text",
       "blocks": {
@@ -466,30 +482,6 @@
         "link": ""
       }
     },
-    "16312681965e03416d": {
-      "type": "newsletter",
-      "blocks": {
-        "16312681965e03416d-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Meld deg på nyhetsbrevet vårt og få 10 % rabatt<\/p><p><\/p>"
-          }
-        },
-        "16312681965e03416d-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16312681965e03416d-1",
-        "16312681965e03416d-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true
-      }
-    },
     "163200636372ee71d9": {
       "type": "featured-blog",
       "settings": {
@@ -565,9 +557,9 @@
     "1632000821b08894c5",
     "1632004023924f3c32",
     "163208927285d0ee5e",
+    "163215496531ff8641",
     "1632153250a8ceda25",
     "1632004573cbceffe9",
-    "16312681965e03416d",
     "163200636372ee71d9",
     "1632086717c5aee2b2"
   ]
