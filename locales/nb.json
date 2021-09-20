@@ -403,20 +403,20 @@
         "sold_out": "Utsolgt",
         "unavailable": "Utilgjengelig",
         "on_sale": "Salg",
-        "quantity": "Quantity",
-        "add_to_cart": "Add to cart",
-        "back_to_collection": "Back to {{ title }}",
-        "view_details": "View details",
+        "quantity": "Antall",
+        "add_to_cart": "Legg i handlekurv",
+        "back_to_collection": "Tilbake til {{ title }}",
+        "view_details": "Les mer",
         "backorder": "Få beskjed"
       }
     },
     "article": {
       "tags": "Tags:",
-      "all_topics": "All topics",
-      "by_author": "by {{ author }}",
-      "posted_in": "Posted in",
-      "read_more": "Read more",
-      "back_to_blog": "Back to {{ title }}"
+      "all_topics": "Alle emner",
+      "by_author": "av {{ author }}",
+      "posted_in": "Postet i",
+      "read_more": "Les mer",
+      "back_to_blog": "Tilbake til {{ title }}"
     },
     "comments": {
       "title": "Leave a comment",
