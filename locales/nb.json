@@ -400,36 +400,37 @@
   "pagefly": {
     "products": {
       "product": {
-        "regular_price": "Regular price",
-        "sold_out": "Sold out",
-        "unavailable": "Unavailable",
-        "on_sale": "Sale",
-        "quantity": "Quantity",
-        "add_to_cart": "Add to cart",
-        "back_to_collection": "Back to {{ title }}",
-        "view_details": "View details"
+        "regular_price": "Veil",
+        "sold_out": "Utsolgt",
+        "unavailable": "Utilgjengelig",
+        "on_sale": "Salg",
+        "quantity": "Antall",
+        "add_to_cart": "Legg i handlekurv",
+        "back_to_collection": "Tilbake til {{ title }}",
+        "view_details": "Les mer",
+        "backorder": "Få beskjed"
       }
     },
     "article": {
       "tags": "Tags:",
-      "all_topics": "All topics",
-      "by_author": "by {{ author }}",
-      "posted_in": "Posted in",
-      "read_more": "Read more",
-      "back_to_blog": "Back to {{ title }}"
+      "all_topics": "Alle emner",
+      "by_author": "av {{ author }}",
+      "posted_in": "Postet i",
+      "read_more": "Les mer",
+      "back_to_blog": "Tilbake til {{ title }}"
     },
     "comments": {
-      "title": "Leave a comment",
-      "name": "Name",
-      "email": "Email",
-      "message": "Message",
-      "post": "Post comment",
+      "title": "Legg igjen kommentar",
+      "name": "Navn",
+      "email": "Epost",
+      "message": "Melding",
+      "post": "Publiser",
       "moderated": "Please note, comments must be approved before they are published",
       "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
       "success": "Your comment was posted successfully! Thank you!",
       "comments_with_count": {
-        "one": "{{ count }} comment",
-        "other": "{{ count }} comments"
+        "one": "{{ count }} kommentar",
+        "other": "{{ count }} kommentarer"
       }
     },
     "password_page": {
