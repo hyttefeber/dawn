@@ -72,6 +72,15 @@
         "swipe_on_mobile": true
       }
     },
+    "1632002629a5448cc0": {
+      "type": "text-banner",
+      "disabled": true,
+      "settings": {
+        "text_banner_title": "POPULÆRT NÅ",
+        "text_banner_body": "De mest populære produktene på Hyttefeber.no akkurat nå",
+        "color-scheme": "primary"
+      }
+    },
     "1632000821b08894c5": {
       "type": "featured-collection",
       "settings": {
@@ -151,52 +160,6 @@
         "show_rating": false
       }
     },
-    "1631626408eee30b8a": {
-      "type": "multicolumn",
-      "blocks": {
-        "1631626408eee30b8a-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_9f2c72e7-8287-4494-b4a0-b65953555da8.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/tenderflame"
-          }
-        },
-        "1631626408eee30b8a-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_8c851f98-7c88-4b19-810b-0570df337a10.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
-          }
-        }
-      },
-      "block_order": [
-        "1631626408eee30b8a-0",
-        "1631626408eee30b8a-1"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
-    "1632002629a5448cc0": {
-      "type": "text-banner",
-      "disabled": true,
-      "settings": {
-        "text_banner_title": "POPULÆRT NÅ",
-        "text_banner_body": "De mest populære produktene på Hyttefeber.no akkurat nå",
-        "color-scheme": "primary"
-      }
-    },
     "1632087749cf8f8ea0": {
       "type": "image-with-text",
       "blocks": {
@@ -246,6 +209,43 @@
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "1631626408eee30b8a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1631626408eee30b8a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_9f2c72e7-8287-4494-b4a0-b65953555da8.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/tenderflame"
+          }
+        },
+        "1631626408eee30b8a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_8c851f98-7c88-4b19-810b-0570df337a10.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
+          }
+        }
+      },
+      "block_order": [
+        "1631626408eee30b8a-0",
+        "1631626408eee30b8a-1"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "1632052593cc1e52a7": {
@@ -573,12 +573,12 @@
   "order": [
     "image_banner",
     "multi_column",
+    "1632002629a5448cc0",
     "1632000821b08894c5",
     "1629970086900f7d29",
     "featured_products",
-    "1631626408eee30b8a",
-    "1632002629a5448cc0",
     "1632087749cf8f8ea0",
+    "1631626408eee30b8a",
     "1632052593cc1e52a7",
     "1632087735695d2a16",
     "163163093769b5efc1",
