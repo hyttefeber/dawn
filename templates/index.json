@@ -424,13 +424,22 @@
             "button_label": "Button label",
             "button_link": ""
           }
+        },
+        "20f1fb26-3e49-492b-a0dc-50041f3880b6": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "TOVA",
+            "text_banner_content": "Bærekraftige Ulltøfler som varmer mer en bare føttene",
+            "color_scheme": "accent-2"
+          }
         }
       },
       "block_order": [
         "1632153250a8ceda25-0",
         "1632153250a8ceda25-1",
         "26632713-f2b2-4084-ad4c-6b65b3d3ef69",
-        "1632153250a8ceda25-2"
+        "1632153250a8ceda25-2",
+        "20f1fb26-3e49-492b-a0dc-50041f3880b6"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/93576407_3174825922551434_1383114494493851648_o.jpg",
