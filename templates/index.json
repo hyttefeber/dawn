@@ -258,7 +258,12 @@
         "1632087749cf8f8ea0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Norgesglass har vært en klassiker siden dag én for mer enn hundre år siden, og vi ser ingen grunn til at den ikke skal vare i hundre år til!<\/p>"
+            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år siden, og vi ser ingen grunn til at den ikke skal vare i hundre år til!<\/p>"
+          }
+        },
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797": {
+          "type": "image",
+          "settings": {
           }
         },
         "1632087749cf8f8ea0-2": {
@@ -272,6 +277,7 @@
       "block_order": [
         "1632087749cf8f8ea0-0",
         "1632087749cf8f8ea0-1",
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797",
         "1632087749cf8f8ea0-2"
       ],
       "settings": {
