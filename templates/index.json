@@ -72,6 +72,22 @@
         "swipe_on_mobile": true
       }
     },
+    "1632000821b08894c5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populært nå",
+        "collection": "populaert-na",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": false
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -84,22 +100,6 @@
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": false,
-        "show_vendor": true,
-        "show_rating": false
-      }
-    },
-    "1632000821b08894c5": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Populært nå",
-        "collection": "populaert-na",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
         "show_vendor": true,
         "show_rating": false
       }
@@ -190,6 +190,7 @@
     },
     "1632002629a5448cc0": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "text_banner_title": "POPULÆRT NÅ",
         "text_banner_body": "De mest populære produktene på Hyttefeber.no akkurat nå",
@@ -572,8 +573,8 @@
   "order": [
     "image_banner",
     "multi_column",
-    "featured_products",
     "1632000821b08894c5",
+    "featured_products",
     "1629970086900f7d29",
     "1631626408eee30b8a",
     "1632002629a5448cc0",
