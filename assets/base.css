@@ -2309,3 +2309,7 @@ details-disclosure > details {
   background: var(--gradient-background);
   background-attachment: fixed;
 }
+
+.icon-cart {
+  height: 3.5rem;
+}
