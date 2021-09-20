@@ -373,7 +373,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Design_uten_navn_6.jpg",
-        "height": "adapt",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -414,7 +414,8 @@
         "1632153250a8ceda25-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/93576407_3174825922551434_1383114494493851648_o.jpg",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
