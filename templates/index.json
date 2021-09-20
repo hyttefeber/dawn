@@ -192,7 +192,13 @@
         "1632087735695d2a16-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Vi elsker tradisjoner og det som symboliserer tradisjon. Marius by<br\/>Porsgrund Porselænsfabrik er en ny serie kvalitetsporselen med det<br\/>velkjente og symbolske Mariusmønstret.<\/p><p>Ta tradisjonen videre.<\/p>"
+            "text": "<p><\/p><p>Ta tradisjonen videre.<\/p>"
+          }
+        },
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/last_ned_180x_33b6a8a3-83a4-4148-a14a-70aa7ce6f22a.png"
           }
         },
         "1632087735695d2a16-2": {
@@ -206,6 +212,7 @@
       "block_order": [
         "1632087735695d2a16-0",
         "1632087735695d2a16-1",
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2",
         "1632087735695d2a16-2"
       ],
       "settings": {
