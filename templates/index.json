@@ -239,14 +239,6 @@
         "show_rating": false
       }
     },
-    "163195770387d1cadc": {
-      "type": "text-banner",
-      "settings": {
-        "text_banner_title": "NORGESGLASSET",
-        "text_banner_body": "Den samme gode kvaliteten helt siden 1902.",
-        "color-scheme": "primary"
-      }
-    },
     "1632087749cf8f8ea0": {
       "type": "image-with-text",
       "blocks": {
@@ -274,13 +266,22 @@
             "button_label": "VIS ALLE",
             "button_link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
+        },
+        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "NORGESGLASSET",
+            "text_banner_content": "Den samme gode kvaliteten helt siden 1902.",
+            "color_scheme": "accent-2"
+          }
         }
       },
       "block_order": [
         "1632087749cf8f8ea0-0",
         "1632087749cf8f8ea0-1",
         "6a4efbe0-0b5c-4ae7-8546-817f2633b797",
-        "1632087749cf8f8ea0-2"
+        "1632087749cf8f8ea0-2",
+        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/20190928_223818_5f6fac86-51bb-4814-b8c9-8eb876f75ca7.jpg",
@@ -566,7 +567,6 @@
     "1631626408eee30b8a",
     "1632087735695d2a16",
     "163163093769b5efc1",
-    "163195770387d1cadc",
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
     "1632002629a5448cc0",
