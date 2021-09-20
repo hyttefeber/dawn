@@ -72,31 +72,6 @@
         "swipe_on_mobile": true
       }
     },
-    "1632002629a5448cc0": {
-      "type": "text-banner",
-      "disabled": true,
-      "settings": {
-        "text_banner_title": "POPULÆRT NÅ",
-        "text_banner_body": "De mest populære produktene på Hyttefeber.no akkurat nå",
-        "color-scheme": "primary"
-      }
-    },
-    "1632000821b08894c5": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Populært nå",
-        "collection": "populaert-na",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_rating": false
-      }
-    },
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
@@ -144,6 +119,68 @@
         "swipe_on_mobile": true
       }
     },
+    "1632002629a5448cc0": {
+      "type": "text-banner",
+      "disabled": true,
+      "settings": {
+        "text_banner_title": "POPULÆRT NÅ",
+        "text_banner_body": "De mest populære produktene på Hyttefeber.no akkurat nå",
+        "color-scheme": "primary"
+      }
+    },
+    "1632000821b08894c5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populært nå",
+        "collection": "populaert-na",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": false
+      }
+    },
+    "1631626408eee30b8a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1631626408eee30b8a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_9f2c72e7-8287-4494-b4a0-b65953555da8.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/tenderflame"
+          }
+        },
+        "1631626408eee30b8a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_8c851f98-7c88-4b19-810b-0570df337a10.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
+          }
+        }
+      },
+      "block_order": [
+        "1631626408eee30b8a-0",
+        "1631626408eee30b8a-1"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -151,7 +188,7 @@
         "collection": "nyheter-hos-hyttefeber",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "image_ratio": "square",
         "show_secondary_image": true,
         "add_image_padding": false,
@@ -209,43 +246,6 @@
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
-      }
-    },
-    "1631626408eee30b8a": {
-      "type": "multicolumn",
-      "blocks": {
-        "1631626408eee30b8a-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_9f2c72e7-8287-4494-b4a0-b65953555da8.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/tenderflame"
-          }
-        },
-        "1631626408eee30b8a-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_8c851f98-7c88-4b19-810b-0570df337a10.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
-          }
-        }
-      },
-      "block_order": [
-        "1631626408eee30b8a-0",
-        "1631626408eee30b8a-1"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     },
     "1632052593cc1e52a7": {
@@ -465,6 +465,19 @@
         "show_rating": false
       }
     },
+    "163200636372ee71d9": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Nyheter",
+        "blog": "nyheter",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
+      }
+    },
     "1632004573cbceffe9": {
       "type": "image-banner",
       "blocks": {
@@ -509,19 +522,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true,
         "link": ""
-      }
-    },
-    "163200636372ee71d9": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Nyheter",
-        "blog": "nyheter",
-        "post_limit": 3,
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "soft_background": false,
-        "show_view_all": true
       }
     },
     "1632086717c5aee2b2": {
@@ -573,12 +573,12 @@
   "order": [
     "image_banner",
     "multi_column",
+    "1629970086900f7d29",
     "1632002629a5448cc0",
     "1632000821b08894c5",
-    "1629970086900f7d29",
+    "1631626408eee30b8a",
     "featured_products",
     "1632087749cf8f8ea0",
-    "1631626408eee30b8a",
     "1632052593cc1e52a7",
     "1632087735695d2a16",
     "163163093769b5efc1",
@@ -586,8 +586,8 @@
     "163215496531ff8641",
     "1632153250a8ceda25",
     "1632178152df044e44",
-    "1632004573cbceffe9",
     "163200636372ee71d9",
+    "1632004573cbceffe9",
     "1632086717c5aee2b2"
   ]
 }
