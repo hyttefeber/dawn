@@ -130,6 +130,11 @@
   margin-bottom: 1rem;
 }
 
+.image-with-text__brand-image {
+  max-height: 15rem;
+  width: auto;
+}
+
 
 .text-banner-section {
   display: flex;

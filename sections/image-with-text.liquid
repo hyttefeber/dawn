@@ -50,7 +50,16 @@
                 {{ block.settings.heading | escape }}
               </h2>
               {%- when 'image' -%}
-              <img src="{{ block.settings.brand-image | img_url: '180x'}}" alt="{{ block.settings.brand-image.alt | escape}}" width="{{ block.settings.brand-image.width}}" height="{{ block.settings.brand-image.height}}" loading="lazy"/>
+              <img 
+              class="image-with-text__brand-image"
+              srcset="{%- if block.settings.brand-image.width >= 165 -%}{{ block.settings.brand-image | img_url: '165x' }} 165w,{%- endif -%}
+              {%- if block.settings.brand-image.width >= 360 -%}{{ block.settings.brand-image | img_url: '360x' }} 360w,{%- endif -%}
+              {%- if block.settings.brand-image.width >= 535 -%}{{ block.settings.brand-image | img_url: '535x' }} 535w,{%- endif -%}
+              {%- if block.settings.brand-image.width >= 750 -%}{{ block.settings.brand-image | img_url: '750x' }} 750w,{%- endif -%}
+              {%- if block.settings.brand-image.width >= 1070 -%}{{ block.settings.brand-image | img_url: '1070x' }} 1070w,{%- endif -%}
+              {%- if block.settings.brand-image.width >= 1500 -%}{{ block.settings.brand-image | img_url: '1500x' }} 1500w,{%- endif -%}"
+            src="{{ block.settings.brand-image | img_url: '1500x' }}"
+              alt="{{ block.settings.brand-image.alt | escape}}" width="{{ block.settings.brand-image.width}}" height="{{ block.settings.brand-image.height}}" loading="lazy"/>
             {%- when 'text' -%}
               <div class="image-with-text__text rte" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
             {%- when 'button' -%}
