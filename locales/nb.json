@@ -399,10 +399,10 @@
   "pagefly": {
     "products": {
       "product": {
-        "regular_price": "Regular price",
-        "sold_out": "Sold out",
-        "unavailable": "Unavailable",
-        "on_sale": "Sale",
+        "regular_price": "Veil",
+        "sold_out": "Utsolgt",
+        "unavailable": "Utilgjengelig",
+        "on_sale": "Salg",
         "quantity": "Quantity",
         "add_to_cart": "Add to cart",
         "back_to_collection": "Back to {{ title }}",
