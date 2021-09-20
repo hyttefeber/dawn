@@ -396,6 +396,7 @@
       "product": {
         "regular_price": "Regular price",
         "sold_out": "Sold out",
+        "backorder": "Get notified when back in stock",
         "unavailable": "Unavailable",
         "on_sale": "Sale",
         "quantity": "Quantity",

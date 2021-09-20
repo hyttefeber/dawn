@@ -149,13 +149,25 @@
     {%- form 'product', product_card_product, id: product_card_product.id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' -%}
       <input type="hidden" name="id" value="{{ product_card_product.selected_or_first_available_variant.id }}">
       <div class="product-form__buttons">
-        <button
-          type="submit"
-          name="add"
-          class="product-form__submit button button--full-width {% if block.settings.show_dynamic_checkout and product.selling_plan_groups == empty %}button--secondary{% else %}button--primary{% endif %}"
-        {% if product.selected_or_first_available_variant.available == false %}disabled{% endif %}>
-              {{ 'products.product.add_to_cart' | t }}
+        <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
+          <button
+            type="submit"
+            name="add"
+            class="product-form__submit button button--full-width button--primary {% if product_card_product.selected_or_first_available_variant.inventory_quantity <= 0 and product_card_product.selected_or_first_available_variant.available == false  %}hidden{% endif %}"
+          {% if product_card_product.selected_or_first_available_variant.available == false %}disabled{% endif %}
+          >
+              {%- if product_card_product.selected_or_first_available_variant.available -%}
+                {{ 'products.product.add_to_cart' | t }}
+              {%- else -%}
+                {{ 'products.product.sold_out' | t }}
+              {%- endif -%}
+          </button>
+          {% if product_card_product.selected_or_first_available_variant.inventory_quantity <= 0 and product_card_product.selected_or_first_available_variant.available == false  %}
+          <button data-product-data="{{ product_card_product | json | escape }}" class="product-form__submit button button--full-width color--inverse color-background-2 BIS_trigger" {% if product_card_product.available %} style="display: none;" {% endif %} type="button">
+            {{ 'products.product.backorder' | t }}
         </button>
+          {% endif %}
+
         <a href="{{ product_card_product.url }}" class="button button--full-width button--secondary">{{ 'products.product.read_more' | t }}</a>
       </div>
     {%- endform -%}
