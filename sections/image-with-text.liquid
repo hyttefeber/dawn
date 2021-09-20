@@ -1,5 +1,20 @@
 {{ 'component-image-with-text.css' | asset_url | stylesheet_tag }}
 
+  {%- for block in section.blocks -%}
+    {% case block.type %}
+      {%- when 'text_banner' -%}
+      <section class="text-banner-section color-{{ block.settings.color_scheme }}">
+        <div>
+        <h2 class="image-with-text__heading h2" {{ block.shopify_attributes }}>
+          {{ block.settings.text_banner_heading | escape }}
+        </h2>
+        <p>
+          {{ block.settings.text_banner_content | escape }}
+        </p>
+        </div>
+      </section>
+    {%- endcase -%}
+  {%- endfor -%}
 <div class="image-with-text {% if section.settings.full_width %}image-with-text--full-width{% else %}page-width{% endif %} color-scheme-{{ section.settings.color_scheme }}">
   <div class="image-with-text__grid color-{{ section.settings.color_scheme }} grid grid--gapless grid--1-col grid--2-col-tablet gradient{% if section.settings.layout == 'text_first' %} image-with-text__grid--reverse{% endif %}">
     <div class="grid__item">
@@ -182,6 +197,54 @@
           "type": "url",
           "id": "button_link",
           "label": "t:sections.image-with-text.blocks.button.settings.button_link.label"
+        }
+      ]
+    },
+    {
+      "type": "text_banner",
+      "name": "Text Banner",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "text_banner_heading",
+          "default": "Image with text",
+          "label": "content"
+        },
+        {
+          "type": "text",
+          "id": "text_banner_content",
+          "default": "Image with text",
+          "label": "heading"
+        },
+        {
+          "type": "select",
+          "id": "color_scheme",
+          "options": [
+            {
+              "value": "accent-1",
+              "label": "t:sections.image-banner.settings.color_scheme.options__1.label"
+            },
+            {
+              "value": "accent-2",
+              "label": "t:sections.image-banner.settings.color_scheme.options__2.label"
+            },
+            {
+              "value": "background-1",
+              "label": "t:sections.image-banner.settings.color_scheme.options__3.label"
+            },
+            {
+              "value": "background-2",
+              "label": "t:sections.image-banner.settings.color_scheme.options__4.label"
+            },
+            {
+              "value": "inverse",
+              "label": "t:sections.image-banner.settings.color_scheme.options__5.label"
+            }
+          ],
+          "default": "background-1",
+          "label": "t:sections.image-banner.settings.color_scheme.label",
+          "info": "t:sections.image-banner.settings.color_scheme.info"
         }
       ]
     }
