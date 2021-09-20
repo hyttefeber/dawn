@@ -192,13 +192,19 @@
         "1632087735695d2a16-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Vi elsker tradisjoner og det som symboliserer tradisjon. Marius by<br\/>Porsgrund Porselænsfabrik er en ny serie kvalitetsporselen med det<br\/>velkjente og symbolske Mariusmønstret.<\/p><p>Ta tradisjonen videre.<\/p>"
+            "text": "<p><\/p><p>Ta tradisjonen videre.<\/p>"
+          }
+        },
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/last_ned_180x_33b6a8a3-83a4-4148-a14a-70aa7ce6f22a.png"
           }
         },
         "1632087735695d2a16-2": {
           "type": "button",
           "settings": {
-            "button_label": "Se alt Marius",
+            "button_label": "VIS ALLE",
             "button_link": "shopify:\/\/collections\/alt-marius"
           }
         }
@@ -206,6 +212,7 @@
       "block_order": [
         "1632087735695d2a16-0",
         "1632087735695d2a16-1",
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2",
         "1632087735695d2a16-2"
       ],
       "settings": {
@@ -251,13 +258,19 @@
         "1632087749cf8f8ea0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Norgesglass har vært en klassiker siden dag én for mer enn hundre år siden, og vi ser ingen grunn til at den ikke skal vare i hundre år til!<\/p>"
+            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år siden, og vi ser ingen grunn til at den ikke skal vare i hundre år til!<\/p>"
+          }
+        },
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/index.png"
           }
         },
         "1632087749cf8f8ea0-2": {
           "type": "button",
           "settings": {
-            "button_label": "Se alt Norgesglasset",
+            "button_label": "VIS ALLE",
             "button_link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
         }
@@ -265,6 +278,7 @@
       "block_order": [
         "1632087749cf8f8ea0-0",
         "1632087749cf8f8ea0-1",
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797",
         "1632087749cf8f8ea0-2"
       ],
       "settings": {
@@ -322,6 +336,106 @@
         "color-scheme": "primary"
       }
     },
+    "163208927285d0ee5e": {
+      "type": "image-with-text",
+      "blocks": {
+        "163208927285d0ee5e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uteplass og Bålplass"
+          }
+        },
+        "163208927285d0ee5e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Det er ingenting som bringer mer hygge oen koslige uteplasser og varme bålplassser.<\/p>"
+          }
+        },
+        "f7e7131c-7b2c-4968-916c-0640573af583": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/Espegard-Original-Staende.png"
+          }
+        },
+        "163208927285d0ee5e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIS ALLE",
+            "button_link": "shopify:\/\/collections\/til-uteplassen"
+          }
+        }
+      },
+      "block_order": [
+        "163208927285d0ee5e-0",
+        "163208927285d0ee5e-1",
+        "f7e7131c-7b2c-4968-916c-0640573af583",
+        "163208927285d0ee5e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Design_uten_navn_6.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163215496531ff8641": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "til-uteplassen",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1632153250a8ceda25": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632153250a8ceda25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1632153250a8ceda25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "26632713-f2b2-4084-ad4c-6b65b3d3ef69": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/123647048_3745144372186250_2650770964496060410_n.jpg"
+          }
+        },
+        "1632153250a8ceda25-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632153250a8ceda25-0",
+        "1632153250a8ceda25-1",
+        "26632713-f2b2-4084-ad4c-6b65b3d3ef69",
+        "1632153250a8ceda25-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/93576407_3174825922551434_1383114494493851648_o.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1632004573cbceffe9": {
       "type": "image-banner",
       "blocks": {
@@ -366,30 +480,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true,
         "link": ""
-      }
-    },
-    "16312681965e03416d": {
-      "type": "newsletter",
-      "blocks": {
-        "16312681965e03416d-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Meld deg på nyhetsbrevet vårt og få 10 % rabatt<\/p><p><\/p>"
-          }
-        },
-        "16312681965e03416d-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "16312681965e03416d-1",
-        "16312681965e03416d-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true
       }
     },
     "163200636372ee71d9": {
@@ -449,40 +539,6 @@
         "button_link": "",
         "swipe_on_mobile": false
       }
-    },
-    "163208927285d0ee5e": {
-      "type": "image-with-text",
-      "blocks": {
-        "163208927285d0ee5e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "163208927285d0ee5e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "163208927285d0ee5e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "163208927285d0ee5e-0",
-        "163208927285d0ee5e-1",
-        "163208927285d0ee5e-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
@@ -500,10 +556,11 @@
     "1632002629a5448cc0",
     "1632000821b08894c5",
     "1632004023924f3c32",
+    "163208927285d0ee5e",
+    "163215496531ff8641",
+    "1632153250a8ceda25",
     "1632004573cbceffe9",
-    "16312681965e03416d",
     "163200636372ee71d9",
-    "1632086717c5aee2b2",
-    "163208927285d0ee5e"
+    "1632086717c5aee2b2"
   ]
 }
