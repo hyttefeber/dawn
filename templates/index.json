@@ -172,73 +172,6 @@
         "swipe_on_mobile": false
       }
     },
-    "1632087735695d2a16": {
-      "type": "image-with-text",
-      "blocks": {
-        "112d065a-968b-4f0a-9ca1-dda3553c5e80": {
-          "type": "text_banner",
-          "settings": {
-            "text_banner_heading": "MARIUS®",
-            "text_banner_content": "By Porsgrund Porselænsfabrik",
-            "color_scheme": "accent-2"
-          }
-        },
-        "1632087735695d2a16-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tidløst, tradisjonelt og trendy"
-          }
-        },
-        "1632087735695d2a16-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><\/p><p>Ta tradisjonen videre.<\/p>"
-          }
-        },
-        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2": {
-          "type": "image",
-          "settings": {
-            "brand-image": "shopify:\/\/shop_images\/last_ned_180x_33b6a8a3-83a4-4148-a14a-70aa7ce6f22a.png"
-          }
-        },
-        "1632087735695d2a16-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "VIS ALLE",
-            "button_link": "shopify:\/\/collections\/alt-marius"
-          }
-        }
-      },
-      "block_order": [
-        "112d065a-968b-4f0a-9ca1-dda3553c5e80",
-        "1632087735695d2a16-0",
-        "1632087735695d2a16-1",
-        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2",
-        "1632087735695d2a16-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/tallerken-flat-28-cm-gra-4pk-marius-porsgrund-porselen-2.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "163163093769b5efc1": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "alt-marius",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true,
-        "show_rating": false
-      }
-    },
     "1632087749cf8f8ea0": {
       "type": "image-with-text",
       "blocks": {
@@ -303,6 +236,73 @@
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1632087735695d2a16": {
+      "type": "image-with-text",
+      "blocks": {
+        "112d065a-968b-4f0a-9ca1-dda3553c5e80": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "MARIUS®",
+            "text_banner_content": "By Porsgrund Porselænsfabrik",
+            "color_scheme": "accent-2"
+          }
+        },
+        "1632087735695d2a16-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tidløst, tradisjonelt og trendy"
+          }
+        },
+        "1632087735695d2a16-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>Ta tradisjonen videre.<\/p>"
+          }
+        },
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/last_ned_180x_33b6a8a3-83a4-4148-a14a-70aa7ce6f22a.png"
+          }
+        },
+        "1632087735695d2a16-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIS ALLE",
+            "button_link": "shopify:\/\/collections\/alt-marius"
+          }
+        }
+      },
+      "block_order": [
+        "112d065a-968b-4f0a-9ca1-dda3553c5e80",
+        "1632087735695d2a16-0",
+        "1632087735695d2a16-1",
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2",
+        "1632087735695d2a16-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/tallerken-flat-28-cm-gra-4pk-marius-porsgrund-porselen-2.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163163093769b5efc1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "alt-marius",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
         "show_rating": false
       }
     },
@@ -575,10 +575,10 @@
     "featured_products",
     "1629970086900f7d29",
     "1631626408eee30b8a",
-    "1632087735695d2a16",
-    "163163093769b5efc1",
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
+    "1632087735695d2a16",
+    "163163093769b5efc1",
     "1632002629a5448cc0",
     "1632000821b08894c5",
     "163208927285d0ee5e",
