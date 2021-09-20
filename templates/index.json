@@ -88,22 +88,6 @@
         "show_rating": false
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Siste Nyheter",
-        "collection": "nyheter-hos-hyttefeber",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_rating": false
-      }
-    },
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
@@ -149,6 +133,22 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Siste Nyheter",
+        "collection": "nyheter-hos-hyttefeber",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": false
       }
     },
     "1631626408eee30b8a": {
@@ -574,8 +574,8 @@
     "image_banner",
     "multi_column",
     "1632000821b08894c5",
-    "featured_products",
     "1629970086900f7d29",
+    "featured_products",
     "1631626408eee30b8a",
     "1632002629a5448cc0",
     "1632087749cf8f8ea0",
