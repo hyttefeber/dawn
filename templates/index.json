@@ -354,8 +354,8 @@
         "163208927285d0ee5e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "VIS ALLE",
+            "button_link": "shopify:\/\/collections\/til-uteplassen"
           }
         }
       },
