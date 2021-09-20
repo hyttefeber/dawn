@@ -330,14 +330,6 @@
         "show_rating": false
       }
     },
-    "1632004023924f3c32": {
-      "type": "text-banner",
-      "settings": {
-        "text_banner_title": "UTEPLASSEN",
-        "text_banner_body": "Et viktig sammlingspunkt for kos og hygge året rundt.",
-        "color-scheme": "primary"
-      }
-    },
     "163208927285d0ee5e": {
       "type": "image-with-text",
       "blocks": {
@@ -365,13 +357,22 @@
             "button_label": "VIS ALLE",
             "button_link": "shopify:\/\/collections\/til-uteplassen"
           }
+        },
+        "aa3b8347-e652-4253-a32e-f178ae80c8c2": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "UTEPLASSEN",
+            "text_banner_content": "Et viktig sammlingspunkt for kos og hygge året rundt.",
+            "color_scheme": "accent-2"
+          }
         }
       },
       "block_order": [
         "163208927285d0ee5e-0",
         "163208927285d0ee5e-1",
         "f7e7131c-7b2c-4968-916c-0640573af583",
-        "163208927285d0ee5e-2"
+        "163208927285d0ee5e-2",
+        "aa3b8347-e652-4253-a32e-f178ae80c8c2"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Design_uten_navn_6.jpg",
@@ -571,7 +572,6 @@
     "1632052593cc1e52a7",
     "1632002629a5448cc0",
     "1632000821b08894c5",
-    "1632004023924f3c32",
     "163208927285d0ee5e",
     "163215496531ff8641",
     "1632153250a8ceda25",
