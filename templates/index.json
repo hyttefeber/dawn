@@ -355,7 +355,7 @@
         "f7e7131c-7b2c-4968-916c-0640573af583": {
           "type": "image",
           "settings": {
-            "brand-image": "shopify:\/\/shop_images\/Espegard-Original-Staende.png"
+            "brand-image": "shopify:\/\/shop_images\/WEB_Image_espegard-logo_619280446.jpg"
           }
         },
         "163208927285d0ee5e-2": {
@@ -413,7 +413,7 @@
         "26632713-f2b2-4084-ad4c-6b65b3d3ef69": {
           "type": "image",
           "settings": {
-            "brand-image": "shopify:\/\/shop_images\/123647048_3745144372186250_2650770964496060410_n.jpg"
+            "brand-image": "shopify:\/\/shop_images\/Tova-logo_2017_rod_Lav.png"
           }
         },
         "1632153250a8ceda25-2": {
@@ -435,6 +435,22 @@
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "1632178152df044e44": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "tova",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "1632004573cbceffe9": {
@@ -559,6 +575,7 @@
     "163208927285d0ee5e",
     "163215496531ff8641",
     "1632153250a8ceda25",
+    "1632178152df044e44",
     "1632004573cbceffe9",
     "163200636372ee71d9",
     "1632086717c5aee2b2"
