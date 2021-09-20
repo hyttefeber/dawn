@@ -45,15 +45,16 @@
           "74a93209-db74-4a47-b818-a97b161d9897": {
             "type": "link_list",
             "settings": {
-              "heading": "Placeholder",
-              "menu": "footer"
+              "heading": "Serier",
+              "menu": "informasjon"
             }
           },
-          "18d8e8e0-1409-4b46-8dc8-ad7e25aaa135": {
-            "type": "link_list",
+          "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688": {
+            "type": "image",
             "settings": {
-              "heading": "Placeholder",
-              "menu": "footer"
+              "image": "shopify:\/\/shop_images\/Hyttefeber_6_7742192e-fcc2-4c40-8742-befcd0d5981e.png",
+              "image_width": 130,
+              "alignment": "center"
             }
           }
         },
@@ -61,7 +62,7 @@
           "footer-0",
           "8489ad7f-3530-4cb0-86fc-82435e6afea4",
           "74a93209-db74-4a47-b818-a97b161d9897",
-          "18d8e8e0-1409-4b46-8dc8-ad7e25aaa135"
+          "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688"
         ],
         "settings": {
           "color_scheme": "background-1",
