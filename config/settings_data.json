@@ -4,8 +4,12 @@
     "colors_accent_2": "#355179",
     "sale_badge_color_scheme": "accent-1",
     "page_width": "1600",
+    "social_facebook_link": "https:\/\/www.facebook.com\/hyttefeber.no\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/hyttefeber.no\/",
     "currency_code_enabled": false,
     "free_shipping_threshold": "600",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Hyttefeber_6_7742192e-fcc2-4c40-8742-befcd0d5981e.png",
+    "checkout_button_color": "#5faa58",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
