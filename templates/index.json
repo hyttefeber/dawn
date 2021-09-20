@@ -465,6 +465,57 @@
         "show_rating": false
       }
     },
+    "163218130040613297": {
+      "type": "image-with-text",
+      "blocks": {
+        "163218130040613297-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Til turen"
+          }
+        },
+        "163218130040613297-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Utstyret som gjør turen ekstra hyggelig<\/p>"
+          }
+        },
+        "163218130040613297-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163218130040613297-0",
+        "163218130040613297-1",
+        "163218130040613297-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_6677.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1632181677ff608e6b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "turutstyr",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "163200636372ee71d9": {
       "type": "featured-blog",
       "settings": {
@@ -586,6 +637,8 @@
     "163215496531ff8641",
     "1632153250a8ceda25",
     "1632178152df044e44",
+    "163218130040613297",
+    "1632181677ff608e6b",
     "163200636372ee71d9",
     "1632004573cbceffe9",
     "1632086717c5aee2b2"
