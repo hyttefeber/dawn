@@ -38,6 +38,11 @@
           "settings": {
           }
         },
+        "6b9ba633-10f0-4907-bcf6-c04c3113db92": {
+          "type": "stock_status",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -63,6 +68,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "6b9ba633-10f0-4907-bcf6-c04c3113db92",
         "buy_buttons",
         "description",
         "share"
