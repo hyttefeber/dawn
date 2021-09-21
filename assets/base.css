@@ -1145,6 +1145,7 @@ deferred-media {
   transition: box-shadow var(--duration-short) ease;
   -webkit-appearance: none;
   appearance: none;
+  border-radius: 5px;;
 }
 
 .button:focus-visible {
@@ -2312,4 +2313,9 @@ details-disclosure > details {
 
 .icon-cart {
   height: 2.5rem;
+}
+
+
+.title, .title-wrapper-with-link {
+  margin: 0 !important;
 }
