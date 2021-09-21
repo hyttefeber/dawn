@@ -400,7 +400,7 @@
   "pagefly": {
     "products": {
       "product": {
-        "regular_price": "Veil",
+        "regular_price": "Veiledende",
         "sold_out": "Utsolgt",
         "unavailable": "Utilgjengelig",
         "on_sale": "Salg",
@@ -440,7 +440,7 @@
       "login_form_submit": "Enter",
       "signup_form_email_label": "Email",
       "signup_form_success": "We will send you an email right before we open!",
-      "password_link": "Enter using password"
+      "password_link": "Skriv inn passord"
     }
   }
 }
