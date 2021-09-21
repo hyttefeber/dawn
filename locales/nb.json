@@ -442,5 +442,12 @@
       "signup_form_success": "Vi sender deg en epost når det er klart :)",
       "password_link": "Skriv inn passord"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "back_to_payment_method": "Gå tilbake til betalingsvalg"
+      }
+    }
   }
 }
