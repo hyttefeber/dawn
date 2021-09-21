@@ -7,9 +7,11 @@
     <i class="stock-status__indicator stock-status__indicator--yellow"></i>
     <span>{{ product.metafields.inventory.preorderMessage }}</span>
 {%- elsif product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.available -%}
-    <span>Produktet kan forhåndsbestilles standardbeskjed</span>
+<i class="stock-status__indicator stock-status__indicator--yellow"></i>    
+<span>Produktet kan forhåndsbestilles</span>
 {%- elsif product.selected_or_first_available_variant.inventory_quantity >= 1 and product.tags contains '_sellahead' -%}
-    <span>"På vei til lager. 0-3 dager lengre tid kan forventes"</span>
+<i class="stock-status__indicator stock-status__indicator--green"></i>    
+<span>På vei til lager. 0-3 dager lengre tid kan forventes</span>
 {% elsif product.selected_or_first_available_variant.inventory_quantity >= 1 -%}
 <i class="stock-status__indicator stock-status__indicator--green"></i>
     <span>På lager</span>
