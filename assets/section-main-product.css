@@ -774,16 +774,16 @@ a.product__text {
 }
 
 .stock-status__indicator--yellow {
-  border: 2px #e7b416;
-  background: #e7b416;
+  border: 2px yellow;
+  background: yellow;
 }
 
 .stock-status__indicator--green {
-  border: 2px #5FAA58;
-  background: #5FAA58;
+  border: 2px green;
+  background: green;
 }
 
 .stock-status__indicator--red {
-  border: 2px #bb1e10;
-  background: #bb1e10;
+  border: 2px red;
+  background: red;
 }
