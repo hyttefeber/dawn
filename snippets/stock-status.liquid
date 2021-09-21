@@ -8,9 +8,9 @@
     "På vei til lager. 0-3 dager lengre tid kan forventes"
 {% elsif product.selected_or_first_available_variant.inventory_quantity >= 1 -%}
     <h1>På lager</h1>
-{% elsif product.selected_or_first_available_variant.unavailable and product.metafields.inventory.soldoutMessage  -%}
+{% elsif product.selected_or_first_available_variant.available == false and product.metafields.inventory.soldoutMessage  -%}
     {{product.metafields.inventory.soldoutMessage}}
-{% elsif product.selected_or_first_available_variant.unavailable  -%}
+{% elsif product.selected_or_first_available_variant.available == false  -%}
     Utsolgt
 {%- else -%}
 På lager
