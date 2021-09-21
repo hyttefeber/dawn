@@ -61,13 +61,22 @@
               "image_width": 130,
               "alignment": "center"
             }
+          },
+          "3a75f789-c56e-4bd4-827c-2010ecf2c640": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Kopi_av_Uten_navn_1.png",
+              "image_width": 100,
+              "alignment": "center"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "8489ad7f-3530-4cb0-86fc-82435e6afea4",
           "74a93209-db74-4a47-b818-a97b161d9897",
-          "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688"
+          "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688",
+          "3a75f789-c56e-4bd4-827c-2010ecf2c640"
         ],
         "settings": {
           "color_scheme": "background-1",
