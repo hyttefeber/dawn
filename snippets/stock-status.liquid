@@ -10,8 +10,10 @@
     <h1>På lager</h1>
 {% elsif product.selected_or_first_available_variant.unavailable and product.metafields.inventory.soldoutMessage  -%}
     {{product.metafields.inventory.soldoutMessage}}
-    {% elsif product.selected_or_first_available_variant.unavailable  -%}
+{% elsif product.selected_or_first_available_variant.unavailable  -%}
     Utsolgt
+{%- else -%}
+På lager
 {%- endif -%}
 
 {{product.metafields.inventory.announcementMessage}}
