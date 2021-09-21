@@ -74,7 +74,6 @@
       {%- endif -%}
     </div>
     <div class="product__info-wrapper grid__item">
-      {%- render 'stock-status' -%}
       <div id="ProductInfo-{{ section.id }}" class="product__info-container{% if section.settings.enable_sticky_info %} product__info-container--sticky{% endif %}">
         {%- assign product_form_id = 'product-form-' | append: section.id -%}
 
@@ -92,7 +91,7 @@
             </h1>
           {%- when 'price' -%}
             <div class="no-js-hidden" id="price-{{ section.id }}" {{ block.shopify_attributes }}>
-              {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+              {%- render 'price', product: product, use_variant: true, show_badges: false, price_class: 'price--large' -%}
             </div>
             <div {{ block.shopify_attributes }}>
               {%- form 'product', product, id: 'product-form-installment', class: 'installment caption-large' -%}
@@ -152,6 +151,8 @@
                 </button>
               </quantity-input>
             </div>
+            {%- when 'stock_status' -%}
+             {% render 'stock-status' %}
           {%- when 'popup' -%}
               <modal-opener class="product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-{{ block.id }}" {{ block.shopify_attributes }}>
                 <button id="ProductPopup-{{ block.id }}" class="product-popup-modal__button link" type="button" aria-haspopup="dialog">{{ block.settings.text | default: block.settings.page.title }}</button>
@@ -554,6 +555,11 @@
     {
       "type": "quantity_selector",
       "name": "t:sections.main-product.blocks.quantity_selector.name",
+      "limit": 1
+    },
+    {
+      "type": "stock_status",
+      "name": "Stock status",
       "limit": 1
     },
     {

@@ -1,19 +1,27 @@
-{%- if product.selected_or_first_available_variant.inventory_quantity >= 1 and product.metafields.inventory.announcementMessage -%}
-    <h1>{{product.metafields.inventory.announcementMessage}}</h1>
-{%- elsif product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.available and product.metafields.inventory.preorderMessage -%}
-    {{ product.metafields.inventory.preorderMessage }}
-{%- elsif product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.available -%}
-    Produktet kan forhåndsbestilles standardbeskjed
-{%- elsif product.selected_or_first_available_variant.inventory_quantity >= 1 and product.tags contains '_sellahead' -%}
-    "På vei til lager. 0-3 dager lengre tid kan forventes"
-{% elsif product.selected_or_first_available_variant.inventory_quantity >= 1 -%}
-    <h1>På lager</h1>
-{% elsif product.selected_or_first_available_variant.available == false and product.metafields.inventory.soldoutMessage  -%}
-    {{product.metafields.inventory.soldoutMessage}}
-{% elsif product.selected_or_first_available_variant.available == false  -%}
-    Utsolgt
-{%- else -%}
-På lager
-{%- endif -%}
 
-{{product.metafields.inventory.announcementMessage}}
+<div class="stock-status">
+{%- if product.selected_or_first_available_variant.inventory_quantity >= 1 and product.metafields.inventory.announcementMessage -%}
+    <i class="stock-status__indicator stock-status__indicator--yellow"></i>
+    <span>{{product.metafields.inventory.announcementMessage}}</span>
+{%- elsif product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.available and product.metafields.inventory.preorderMessage -%}
+    <i class="stock-status__indicator stock-status__indicator--yellow"></i>
+    <span>{{ product.metafields.inventory.preorderMessage }}</span>
+{%- elsif product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.available -%}
+    <span>Produktet kan forhåndsbestilles standardbeskjed</span>
+{%- elsif product.selected_or_first_available_variant.inventory_quantity >= 1 and product.tags contains '_sellahead' -%}
+    <span>"På vei til lager. 0-3 dager lengre tid kan forventes"</span>
+{% elsif product.selected_or_first_available_variant.inventory_quantity >= 1 -%}
+<i class="stock-status__indicator stock-status__indicator--green"></i>
+    <span>På lager</span>
+{% elsif product.selected_or_first_available_variant.available == false and product.metafields.inventory.soldoutMessage  -%}
+<i class="stock-status__indicator stock-status__indicator--red"></i>
+    <span>{{product.metafields.inventory.soldoutMessage}}</span>
+{% elsif product.selected_or_first_available_variant.available == false  -%}
+<i class="stock-status__indicator stock-status__indicator--red"></i>
+
+    <span>Utsolgt</span>
+{%- else -%}
+    <i class="stock-status__indicator stock-status__indicator--green"></i>
+    <span>På lager</span>
+{%- endif -%}
+</div>
