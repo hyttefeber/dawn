@@ -82,7 +82,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "Du vil kanskje også like",
+        "heading": "Often kjøpt sammen med",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
