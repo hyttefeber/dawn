@@ -1,1 +1,129 @@
-{"current":{"colors_accent_1":"#5faa58","colors_accent_2":"#355179","colors_outline_button_labels":"#121212","sale_badge_color_scheme":"accent-1","sold_out_badge_color_scheme":"inverse","accent_icons":"text","page_width":"1600","social_facebook_link":"https:\/\/www.facebook.com\/hyttefeber.no\/","social_instagram_link":"https:\/\/www.instagram.com\/hyttefeber.no\/","favicon":"shopify:\/\/shop_images\/Hyttefeber_favicon_c2e9f2c8-9258-40a3-a8f3-7f2b4b418322.png","currency_code_enabled":false,"free_shipping_threshold":"600","checkout_logo_image":"shopify:\/\/shop_images\/Hyttefeber_6_6ccf16af-7fee-4e6c-b7bf-c9b98f01bde3.png","checkout_button_color":"#5faa58","sections":{"announcement-bar":{"type":"announcement-bar","settings":{}},"header":{"type":"header","settings":{"color_scheme":"background-1","logo":"shopify:\/\/shop_images\/Hyttefeber_6_6ccf16af-7fee-4e6c-b7bf-c9b98f01bde3.png","scroll_logo":"shopify:\/\/shop_images\/Hyttefeber_text_only.png","logo_width":150,"logo_position":"top-center","menu":"overmeny-2021","show_line_separator":true,"enable_sticky_header":true}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"link_list","settings":{"heading":"Nyttige lenker","menu":"footer"}},"8489ad7f-3530-4cb0-86fc-82435e6afea4":{"type":"link_list","settings":{"heading":"Informasjon","menu":"informasjon"}},"74a93209-db74-4a47-b818-a97b161d9897":{"type":"link_list","settings":{"heading":"Serier","menu":"serier-til-footer"}},"960b2a79-5ef7-4791-b9eb-0b7d7f0d0688":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/footer-logo-and-icons.png","image_width":150,"alignment":"center"}}},"block_order":["footer-0","8489ad7f-3530-4cb0-86fc-82435e6afea4","74a93209-db74-4a47-b818-a97b161d9897","960b2a79-5ef7-4791-b9eb-0b7d7f0d0688"],"settings":{"color_scheme":"background-1","newsletter_enable":false,"newsletter_heading":"Meld deg på vårt nyhetsbrev og få 10% rabatt på ditt første kjøp 😊","show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true}},"top-bar":{"type":"top-bar","blocks":{"724df200-c042-496b-b08b-bcfa4a22440e":{"type":"heading","settings":{"icon":"shopify:\/\/shop_images\/ikon-personlig-service.png","text":"Personlig service","mobile-visibility":true}},"935e67a1-7bc1-499c-8ea4-77ae4d9ba083":{"type":"heading","settings":{"icon":"shopify:\/\/shop_images\/ikon-rask-levering.png","text":"Lynrask levering","mobile-visibility":true}},"ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66":{"type":"heading","settings":{"icon":"shopify:\/\/shop_images\/ikon-apent-kjop.png","text":"Åpent kjøp i 90 dager","mobile-visibility":false}},"3fcb1549-bca4-4e32-a24d-f0a9ea48879d":{"type":"heading","settings":{"icon":"shopify:\/\/shop_images\/ikon-fri-frakt.png","text":"Fri frakt over 600,-","mobile-visibility":false}}},"block_order":["724df200-c042-496b-b08b-bcfa4a22440e","935e67a1-7bc1-499c-8ea4-77ae4d9ba083","ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66","3fcb1549-bca4-4e32-a24d-f0a9ea48879d"],"settings":{}}},"content_for_index":[],"blocks":{"1632248845679d3c06":{"type":"shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommercewidget-embed\/7520f53f-f57b-4b7d-9c5c-6144a46037c7","disabled":true,"settings":{"slug":"Replacing-Privy-from-the-bottom-up-0"}}}}}
+{
+  "current": {
+    "colors_accent_1": "#5faa58",
+    "colors_accent_2": "#355179",
+    "colors_outline_button_labels": "#121212",
+    "sale_badge_color_scheme": "accent-1",
+    "sold_out_badge_color_scheme": "inverse",
+    "accent_icons": "text",
+    "page_width": "1600",
+    "social_facebook_link": "https:\/\/www.facebook.com\/hyttefeber.no\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/hyttefeber.no\/",
+    "favicon": "shopify:\/\/shop_images\/Hyttefeber_favicon_c2e9f2c8-9258-40a3-a8f3-7f2b4b418322.png",
+    "currency_code_enabled": false,
+    "free_shipping_threshold": "600",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Hyttefeber_6_6ccf16af-7fee-4e6c-b7bf-c9b98f01bde3.png",
+    "checkout_button_color": "#5faa58",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "background-1",
+          "scroll_logo": "shopify:\/\/shop_images\/Hyttefeber_text_only.png",
+          "logo_width": 150,
+          "logo_position": "top-center",
+          "menu": "overmenu-2021",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Nyttige lenker",
+              "menu": "footer"
+            }
+          },
+          "8489ad7f-3530-4cb0-86fc-82435e6afea4": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Informasjon",
+              "menu": "informasjon"
+            }
+          },
+          "74a93209-db74-4a47-b818-a97b161d9897": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Serier",
+              "menu": ""
+            }
+          },
+          "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688": {
+            "type": "image",
+            "settings": {
+              "image_width": 150,
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "8489ad7f-3530-4cb0-86fc-82435e6afea4",
+          "74a93209-db74-4a47-b818-a97b161d9897",
+          "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": false,
+          "newsletter_heading": "Meld deg på vårt nyhetsbrev og få 10% rabatt på ditt første kjøp 😊",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      },
+      "top-bar": {
+        "type": "top-bar",
+        "blocks": {
+          "724df200-c042-496b-b08b-bcfa4a22440e": {
+            "type": "heading",
+            "settings": {
+              "text": "Personlig service",
+              "mobile-visibility": true
+            }
+          },
+          "935e67a1-7bc1-499c-8ea4-77ae4d9ba083": {
+            "type": "heading",
+            "settings": {
+              "text": "Lynrask levering",
+              "mobile-visibility": true
+            }
+          },
+          "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66": {
+            "type": "heading",
+            "settings": {
+              "text": "Åpent kjøp i 90 dager",
+              "mobile-visibility": false
+            }
+          },
+          "3fcb1549-bca4-4e32-a24d-f0a9ea48879d": {
+            "type": "heading",
+            "settings": {
+              "text": "Fri frakt over 600,-",
+              "mobile-visibility": false
+            }
+          }
+        },
+        "block_order": [
+          "724df200-c042-496b-b08b-bcfa4a22440e",
+          "935e67a1-7bc1-499c-8ea4-77ae4d9ba083",
+          "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66",
+          "3fcb1549-bca4-4e32-a24d-f0a9ea48879d"
+        ],
+        "settings": {
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}

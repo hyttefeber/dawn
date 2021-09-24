@@ -1,1 +1,12 @@
-{"sections":{"pf-070b4124":{"type":"pf-070b4124","settings":{}}},"order":["pf-070b4124"]}
+{
+  "sections": {
+    "pf-070b4124": {
+      "type": "pf-070b4124",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "pf-070b4124"
+  ]
+}

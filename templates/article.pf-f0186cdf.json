@@ -1,1 +1,12 @@
-{"sections":{"pf-f0186cdf":{"type":"pf-f0186cdf","settings":{}}},"order":["pf-f0186cdf"]}
+{
+  "sections": {
+    "pf-f0186cdf": {
+      "type": "pf-f0186cdf",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "pf-f0186cdf"
+  ]
+}

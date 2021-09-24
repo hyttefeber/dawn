@@ -1,1 +1,12 @@
-{"sections":{"pf-cabb203f":{"type":"pf-cabb203f","settings":{}}},"order":["pf-cabb203f"]}
+{
+  "sections": {
+    "pf-cabb203f": {
+      "type": "pf-cabb203f",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "pf-cabb203f"
+  ]
+}

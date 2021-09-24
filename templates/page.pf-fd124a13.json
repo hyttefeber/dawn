@@ -1,1 +1,12 @@
-{"sections":{"pf-fd124a13":{"type":"pf-fd124a13","settings":{}}},"order":["pf-fd124a13"]}
+{
+  "sections": {
+    "pf-fd124a13": {
+      "type": "pf-fd124a13",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "pf-fd124a13"
+  ]
+}

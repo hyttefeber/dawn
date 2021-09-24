@@ -1,1 +1,570 @@
-{"sections":{"image_banner":{"type":"image-banner","settings":{"image":"shopify:\/\/shop_images\/Toppmal_1500x360_1.png","adapt_height_first_image":false,"desktop_text_box_position":"center","show_text_box":false,"image_overlay_opacity":10,"banner_box_opacity":50,"color_scheme":"accent-1","stack_images_on_mobile":false,"show_text_below":false,"link":"shopify:\/\/collections\/salg-manedens-kupp"}},"multi_column":{"type":"multicolumn","blocks":{"column3":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/pizzaovner-hos-hyttefeber-forside.jpg","title":"","text":"","link":"shopify:\/\/collections\/pizza-ovner-og-tilbehor"}},"column2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Kopi_av_Uten_navn_4.png","title":"","text":"","link":"shopify:\/\/collections\/balplassen"}},"column1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/interior-hos-hyttefeber-forside.jpg","title":"","text":"","link":"shopify:\/\/collections\/interior-til-hytter-og-hus"}},"ced6ab58-e77b-407b-a2ea-4bc2ec6a978a":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/belysning-hos-hyttefeber-forside.jpg","title":"","text":"","link":"shopify:\/\/collections\/belysning-og-lyslykter"}}},"block_order":["column3","column2","column1","ced6ab58-e77b-407b-a2ea-4bc2ec6a978a"],"settings":{"title":"","image_width":"full","image_ratio":"adapt","column_alignment":"center","background_style":"none","button_label":"","button_link":"","swipe_on_mobile":true}},"1629970086900f7d29":{"type":"multicolumn","blocks":{"1629970086900f7d29-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/sitteplassen-hyttefeber-forside3c.jpg","title":"","text":"","link":"shopify:\/\/collections\/utemobler-og-sitteplasser"}},"1629970086900f7d29-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/emaljert-hyttefeber-forside3c.jpg","title":"","text":"","link":"shopify:\/\/collections\/emaljerte-kopper-servise"}},"1629970086900f7d29-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/utemat-hyttefeber-forside3c.jpg","title":"","text":"","link":"shopify:\/\/collections\/utemat"}}},"block_order":["1629970086900f7d29-0","1629970086900f7d29-1","1629970086900f7d29-2"],"settings":{"title":"","image_width":"full","image_ratio":"adapt","column_alignment":"center","background_style":"none","button_label":"","button_link":"","swipe_on_mobile":true}},"1632000821b08894c5":{"type":"featured-collection","settings":{"title":"Populært nå","collection":"populaert-na","products_to_show":4,"show_view_all":true,"swipe_on_mobile":false,"image_ratio":"adapt","show_secondary_image":true,"add_image_padding":false,"show_image_outline":false,"show_vendor":true,"show_rating":false}},"1631626408eee30b8a":{"type":"multicolumn","blocks":{"1631626408eee30b8a-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/tenderflame-hyttefeber-forside2c.jpg","title":"","text":"","link":"shopify:\/\/collections\/tenderflame"}},"1631626408eee30b8a-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/frost-rentbrennende-balpanne-hyttefeber-forside2c.jpg","title":"","text":"","link":"shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"}}},"block_order":["1631626408eee30b8a-0","1631626408eee30b8a-1"],"settings":{"title":"","image_width":"full","image_ratio":"adapt","column_alignment":"left","background_style":"none","button_label":"","button_link":"","swipe_on_mobile":false}},"featured_products":{"type":"featured-collection","settings":{"title":"Siste Nyheter","collection":"nyheter-hos-hyttefeber","products_to_show":4,"show_view_all":true,"swipe_on_mobile":false,"image_ratio":"square","show_secondary_image":true,"add_image_padding":false,"show_image_outline":false,"show_vendor":true,"show_rating":false}},"1632087749cf8f8ea0":{"type":"image-with-text","blocks":{"1632087749cf8f8ea0-0":{"type":"heading","settings":{"heading":"Tradisjoner som varer"}},"1632087749cf8f8ea0-1":{"type":"text","settings":{"text":"<p>Norgesglass har vært en klassiker i mer enn hundre år, og vi ser ingen grunn til at den ikke skal vare i hundre år til. Her finner du hele serien med både det gamle og det nye.<\/p>"}},"6a4efbe0-0b5c-4ae7-8546-817f2633b797":{"type":"image","settings":{"brand-image":"shopify:\/\/shop_images\/norgesglasset-logo.png"}},"1632087749cf8f8ea0-2":{"type":"button","settings":{"button_label":"VIS ALLE","button_link":"shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"}},"e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8":{"type":"text_banner","settings":{"text_banner_heading":"NORGESGLASSET","text_banner_content":"Den samme gode kvaliteten, helt siden 1902.","color_scheme":"accent-2"}}},"block_order":["1632087749cf8f8ea0-0","1632087749cf8f8ea0-1","6a4efbe0-0b5c-4ae7-8546-817f2633b797","1632087749cf8f8ea0-2","e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8"],"settings":{"image":"shopify:\/\/shop_images\/norgesglass-norgesflasker-forside-brand.jpg","height":"small","color_scheme":"background-1","layout":"image_first"}},"1632052593cc1e52a7":{"type":"featured-collection","settings":{"title":"","collection":"nyheter-fra-norgesglasset","products_to_show":4,"show_view_all":true,"swipe_on_mobile":false,"image_ratio":"adapt","show_secondary_image":true,"add_image_padding":false,"show_image_outline":false,"show_vendor":true,"show_rating":false}},"1632087735695d2a16":{"type":"image-with-text","blocks":{"112d065a-968b-4f0a-9ca1-dda3553c5e80":{"type":"text_banner","settings":{"text_banner_heading":"MARIUS®","text_banner_content":"Tidløst, tradisjonelt og trendy","color_scheme":"accent-2"}},"1632087735695d2a16-0":{"type":"heading","settings":{"heading":"Ta tradisjonen videre."}},"1632087735695d2a16-1":{"type":"text","settings":{"text":"<p><\/p><p>Mariusmønstret er en stor del av norsk tradisjon og historie, og også en gjenganger på norske hytter, landet rundt. Hos oss finner du både nostalgiske og moderne varianter av det populære mønsteret.<\/p>"}},"8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2":{"type":"image","settings":{"brand-image":"shopify:\/\/shop_images\/marius-logo-front.png"}},"1632087735695d2a16-2":{"type":"button","settings":{"button_label":"Vis alt Marius","button_link":"shopify:\/\/collections\/alt-marius"}}},"block_order":["112d065a-968b-4f0a-9ca1-dda3553c5e80","1632087735695d2a16-0","1632087735695d2a16-1","8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2","1632087735695d2a16-2"],"settings":{"image":"shopify:\/\/shop_images\/marius-forside-brand.jpg","height":"small","color_scheme":"background-1","layout":"image_first"}},"163163093769b5efc1":{"type":"featured-collection","settings":{"title":"","collection":"alt-marius","products_to_show":4,"show_view_all":true,"swipe_on_mobile":false,"image_ratio":"adapt","show_secondary_image":true,"add_image_padding":false,"show_image_outline":false,"show_vendor":true,"show_rating":false}},"163208927285d0ee5e":{"type":"image-with-text","blocks":{"163208927285d0ee5e-0":{"type":"heading","settings":{"heading":"Uteplass og Bålplass"}},"163208927285d0ee5e-1":{"type":"text","settings":{"text":"<p>Det er få ting som bringer mer hygge, enn koselige uteplasser og varme bålplasser.<\/p>"}},"f7e7131c-7b2c-4968-916c-0640573af583":{"type":"image","settings":{"brand-image":"shopify:\/\/shop_images\/espegard-logo.jpg"}},"163208927285d0ee5e-2":{"type":"button","settings":{"button_label":"VIS ALLE","button_link":"shopify:\/\/collections\/til-uteplassen"}},"aa3b8347-e652-4253-a32e-f178ae80c8c2":{"type":"text_banner","settings":{"text_banner_heading":"UTEPLASSEN","text_banner_content":"Et viktig sammlingspunkt for kos og hygge året rundt.","color_scheme":"accent-2"}}},"block_order":["163208927285d0ee5e-0","163208927285d0ee5e-1","f7e7131c-7b2c-4968-916c-0640573af583","163208927285d0ee5e-2","aa3b8347-e652-4253-a32e-f178ae80c8c2"],"settings":{"image":"shopify:\/\/shop_images\/Design_uten_navn_6.jpg","height":"small","color_scheme":"background-1","layout":"image_first"}},"163215496531ff8641":{"type":"featured-collection","settings":{"title":"","collection":"til-uteplassen","products_to_show":4,"show_view_all":true,"swipe_on_mobile":false,"image_ratio":"adapt","show_secondary_image":false,"add_image_padding":false,"show_image_outline":true,"show_vendor":false,"show_rating":false}},"1632153250a8ceda25":{"type":"image-with-text","blocks":{"1632153250a8ceda25-0":{"type":"heading","settings":{"heading":"TOVA"}},"1632153250a8ceda25-1":{"type":"text","settings":{"text":"<p>Vi er stolte av å kunne tilby det vi mener er Norges beste tøfler.<\/p><p>Kombinasjonen av håndarbeid med høyeste kvalitet, den beste komforten, og bærekraftig produksjon gjør disse tøflene helt unike både for deg og føttene dine.<\/p>"}},"26632713-f2b2-4084-ad4c-6b65b3d3ef69":{"type":"image","settings":{"brand-image":"shopify:\/\/shop_images\/Tova-logo_2017_rod_Lav.png"}},"1632153250a8ceda25-2":{"type":"button","settings":{"button_label":"Alt fra Tova","button_link":"shopify:\/\/collections\/tova"}},"20f1fb26-3e49-492b-a0dc-50041f3880b6":{"type":"text_banner","settings":{"text_banner_heading":"TOVA","text_banner_content":"Bærekraftige Ulltøfler som varmer mer enn bare føttene","color_scheme":"accent-2"}}},"block_order":["1632153250a8ceda25-0","1632153250a8ceda25-1","26632713-f2b2-4084-ad4c-6b65b3d3ef69","1632153250a8ceda25-2","20f1fb26-3e49-492b-a0dc-50041f3880b6"],"settings":{"image":"shopify:\/\/shop_images\/93576407_3174825922551434_1383114494493851648_o.jpg","height":"small","color_scheme":"background-1","layout":"image_first"}},"1632178152df044e44":{"type":"featured-collection","settings":{"title":"","collection":"tova","products_to_show":4,"show_view_all":true,"swipe_on_mobile":false,"image_ratio":"adapt","show_secondary_image":false,"add_image_padding":false,"show_image_outline":true,"show_vendor":false,"show_rating":false}},"1632262113e988bb5e":{"type":"text-banner","settings":{"text_banner_title":"NORGESSEKKEN","text_banner_body":"Tursekker i klassisk stil","color-scheme":"primary"}},"1632181677ff608e6b":{"type":"featured-collection","settings":{"title":"","collection":"turutstyr","products_to_show":4,"show_view_all":true,"swipe_on_mobile":false,"image_ratio":"adapt","show_secondary_image":true,"add_image_padding":false,"show_image_outline":true,"show_vendor":false,"show_rating":false}},"163200636372ee71d9":{"type":"featured-blog","settings":{"heading":"Nyheter","blog":"nyheter","post_limit":3,"show_image":true,"show_date":false,"show_author":false,"soft_background":false,"show_view_all":true}},"1632004573cbceffe9":{"type":"image-banner","blocks":{"1632004573cbceffe9-0":{"type":"heading","settings":{"heading":"Kan vi hjelpe deg?","heading_size":"medium"}},"1632004573cbceffe9-1":{"type":"text","settings":{"text":"Er det noe du lurer på eller noe vi kan få hjelpe deg med?"}},"1632004573cbceffe9-2":{"type":"buttons","settings":{"button_label_1":"Kontakt oss her","button_link_1":"shopify:\/\/pages\/kontakt-oss","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["1632004573cbceffe9-0","1632004573cbceffe9-1","1632004573cbceffe9-2"],"settings":{"image":"shopify:\/\/shop_images\/solnedgang-ved-fjord-hyttefeber-1425x521px_a67d061b-4132-47c9-be0e-8474ddd295b5.jpg","adapt_height_first_image":false,"desktop_text_box_position":"center","show_text_box":true,"image_overlay_opacity":0,"banner_box_opacity":50,"color_scheme":"background-1","stack_images_on_mobile":true,"show_text_below":true,"link":""}},"1632314372a61be37f":{"type":"apps","blocks":{"d72334e0-bf4a-479e-97e4-09faca05735b":{"type":"shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommercewidget\/7520f53f-f57b-4b7d-9c5c-6144a46037c7","settings":{"slug":"Replacing-Privy-from-the-bottom-up-0"}}},"block_order":["d72334e0-bf4a-479e-97e4-09faca05735b"],"settings":{"include_margins":true}}},"order":["image_banner","multi_column","1629970086900f7d29","1632000821b08894c5","1631626408eee30b8a","featured_products","1632087749cf8f8ea0","1632052593cc1e52a7","1632087735695d2a16","163163093769b5efc1","163208927285d0ee5e","163215496531ff8641","1632153250a8ceda25","1632178152df044e44","1632262113e988bb5e","1632181677ff608e6b","163200636372ee71d9","1632004573cbceffe9","1632314372a61be37f"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Toppmal_1500x360_1.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 10,
+        "banner_box_opacity": 50,
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "link": "shopify:\/\/collections\/salg-manedens-kupp"
+      }
+    },
+    "multi_column": {
+      "type": "multicolumn",
+      "blocks": {
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pizzaovner-hos-hyttefeber-forside.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kopi_av_Uten_navn_4.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/balplassen"
+          }
+        },
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/interior-hos-hyttefeber-forside.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/belysning-hos-hyttefeber-forside.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
+          }
+        }
+      },
+      "block_order": [
+        "column3",
+        "column2",
+        "column1",
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1629970086900f7d29": {
+      "type": "multicolumn",
+      "blocks": {
+        "1629970086900f7d29-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sitteplassen-hyttefeber-forside3c.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/utemobler-og-sitteplasser"
+          }
+        },
+        "1629970086900f7d29-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/emaljert-hyttefeber-forside3c.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/emaljerte-kopper-servise"
+          }
+        },
+        "1629970086900f7d29-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/utemat-hyttefeber-forside3c.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/utemat"
+          }
+        }
+      },
+      "block_order": [
+        "1629970086900f7d29-0",
+        "1629970086900f7d29-1",
+        "1629970086900f7d29-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1632000821b08894c5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populært nå",
+        "collection": "populaert-na",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": false
+      }
+    },
+    "1631626408eee30b8a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1631626408eee30b8a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tenderflame-hyttefeber-forside2c.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/tenderflame"
+          }
+        },
+        "1631626408eee30b8a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/frost-rentbrennende-balpanne-hyttefeber-forside2c.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
+          }
+        }
+      },
+      "block_order": [
+        "1631626408eee30b8a-0",
+        "1631626408eee30b8a-1"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Siste Nyheter",
+        "collection": "nyheter-hos-hyttefeber",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": false
+      }
+    },
+    "1632087749cf8f8ea0": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632087749cf8f8ea0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tradisjoner som varer"
+          }
+        },
+        "1632087749cf8f8ea0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år, og vi ser ingen grunn til at den ikke skal vare i hundre år til. Her finner du hele serien med både det gamle og det nye.<\/p>"
+          }
+        },
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/norgesglasset-logo.png"
+          }
+        },
+        "1632087749cf8f8ea0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIS ALLE",
+            "button_link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "NORGESGLASSET",
+            "text_banner_content": "Den samme gode kvaliteten, helt siden 1902.",
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "1632087749cf8f8ea0-0",
+        "1632087749cf8f8ea0-1",
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797",
+        "1632087749cf8f8ea0-2",
+        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/norgesglass-norgesflasker-forside-brand.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1632052593cc1e52a7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "nyheter-fra-norgesglasset",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": false
+      }
+    },
+    "1632087735695d2a16": {
+      "type": "image-with-text",
+      "blocks": {
+        "112d065a-968b-4f0a-9ca1-dda3553c5e80": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "MARIUS®",
+            "text_banner_content": "Tidløst, tradisjonelt og trendy",
+            "color_scheme": "accent-2"
+          }
+        },
+        "1632087735695d2a16-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ta tradisjonen videre."
+          }
+        },
+        "1632087735695d2a16-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>Mariusmønstret er en stor del av norsk tradisjon og historie, og også en gjenganger på norske hytter, landet rundt. Hos oss finner du både nostalgiske og moderne varianter av det populære mønsteret.<\/p>"
+          }
+        },
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/marius-logo-front.png"
+          }
+        },
+        "1632087735695d2a16-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vis alt Marius",
+            "button_link": "shopify:\/\/collections\/alt-marius"
+          }
+        }
+      },
+      "block_order": [
+        "112d065a-968b-4f0a-9ca1-dda3553c5e80",
+        "1632087735695d2a16-0",
+        "1632087735695d2a16-1",
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2",
+        "1632087735695d2a16-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/marius-forside-brand.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163163093769b5efc1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "alt-marius",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_rating": false
+      }
+    },
+    "163208927285d0ee5e": {
+      "type": "image-with-text",
+      "blocks": {
+        "163208927285d0ee5e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uteplass og Bålplass"
+          }
+        },
+        "163208927285d0ee5e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Det er få ting som bringer mer hygge, enn koselige uteplasser og varme bålplasser.<\/p>"
+          }
+        },
+        "f7e7131c-7b2c-4968-916c-0640573af583": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/espegard-logo.jpg"
+          }
+        },
+        "163208927285d0ee5e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIS ALLE",
+            "button_link": "shopify:\/\/collections\/til-uteplassen"
+          }
+        },
+        "aa3b8347-e652-4253-a32e-f178ae80c8c2": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "UTEPLASSEN",
+            "text_banner_content": "Et viktig sammlingspunkt for kos og hygge året rundt.",
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "163208927285d0ee5e-0",
+        "163208927285d0ee5e-1",
+        "f7e7131c-7b2c-4968-916c-0640573af583",
+        "163208927285d0ee5e-2",
+        "aa3b8347-e652-4253-a32e-f178ae80c8c2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Design_uten_navn_6.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163215496531ff8641": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "til-uteplassen",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1632153250a8ceda25": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632153250a8ceda25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TOVA"
+          }
+        },
+        "1632153250a8ceda25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vi er stolte av å kunne tilby det vi mener er Norges beste tøfler.<\/p><p>Kombinasjonen av håndarbeid med høyeste kvalitet, den beste komforten, og bærekraftig produksjon gjør disse tøflene helt unike både for deg og føttene dine.<\/p>"
+          }
+        },
+        "26632713-f2b2-4084-ad4c-6b65b3d3ef69": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/Tova-logo_2017_rod_Lav.png"
+          }
+        },
+        "1632153250a8ceda25-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Alt fra Tova",
+            "button_link": "shopify:\/\/collections\/tova"
+          }
+        },
+        "20f1fb26-3e49-492b-a0dc-50041f3880b6": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "TOVA",
+            "text_banner_content": "Bærekraftige Ulltøfler som varmer mer enn bare føttene",
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "1632153250a8ceda25-0",
+        "1632153250a8ceda25-1",
+        "26632713-f2b2-4084-ad4c-6b65b3d3ef69",
+        "1632153250a8ceda25-2",
+        "20f1fb26-3e49-492b-a0dc-50041f3880b6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/93576407_3174825922551434_1383114494493851648_o.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1632178152df044e44": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "tova",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1632262113e988bb5e": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "NORGESSEKKEN",
+        "text_banner_body": "Tursekker i klassisk stil",
+        "color-scheme": "primary"
+      }
+    },
+    "1632181677ff608e6b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "turutstyr",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "163200636372ee71d9": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Nyheter",
+        "blog": "nyheter",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
+      }
+    },
+    "1632004573cbceffe9": {
+      "type": "image-banner",
+      "blocks": {
+        "1632004573cbceffe9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kan vi hjelpe deg?",
+            "heading_size": "medium"
+          }
+        },
+        "1632004573cbceffe9-1": {
+          "type": "text",
+          "settings": {
+            "text": "Er det noe du lurer på eller noe vi kan få hjelpe deg med?"
+          }
+        },
+        "1632004573cbceffe9-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Kontakt oss her",
+            "button_link_1": "shopify:\/\/pages\/kontakt-oss",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1632004573cbceffe9-0",
+        "1632004573cbceffe9-1",
+        "1632004573cbceffe9-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/solnedgang-ved-fjord-hyttefeber-1425x521px_a67d061b-4132-47c9-be0e-8474ddd295b5.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "banner_box_opacity": 50,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "link": ""
+      }
+    },
+    "1632314372a61be37f": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "multi_column",
+    "1629970086900f7d29",
+    "1632000821b08894c5",
+    "1631626408eee30b8a",
+    "featured_products",
+    "1632087749cf8f8ea0",
+    "1632052593cc1e52a7",
+    "1632087735695d2a16",
+    "163163093769b5efc1",
+    "163208927285d0ee5e",
+    "163215496531ff8641",
+    "1632153250a8ceda25",
+    "1632178152df044e44",
+    "1632262113e988bb5e",
+    "1632181677ff608e6b",
+    "163200636372ee71d9",
+    "1632004573cbceffe9",
+    "1632314372a61be37f"
+  ]
+}

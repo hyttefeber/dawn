@@ -1,1 +1,120 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"text","settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"subtitle":{"type":"text","settings":{"text":"{{ product.metafields.descriptors.subtitle.value }}","text_style":"subtitle"}},"51d9ba96-782a-43d0-80b6-67f7d701abed":{"type":"shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommerceproductreview\/7520f53f-f57b-4b7d-9c5c-6144a46037c7","settings":{"slug":"Summary-widget-0"}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"6b9ba633-10f0-4907-bcf6-c04c3113db92":{"type":"stock_status","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":false}},"description":{"type":"description","settings":{}},"share":{"type":"share","settings":{"share_label":"Del"}}},"block_order":["vendor","title","subtitle","51d9ba96-782a-43d0-80b6-67f7d701abed","price","variant_picker","quantity_selector","6b9ba633-10f0-4907-bcf6-c04c3113db92","buy_buttons","description","share"],"settings":{"enable_sticky_info":true,"hide_variants":false,"enable_video_looping":false}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Du vil kanskje også like","image_ratio":"adapt","show_secondary_image":true,"add_image_padding":false,"show_image_outline":true,"show_vendor":true,"show_rating":false}},"16322551547c337064":{"type":"apps","disabled":true,"blocks":{"0bf70ae8-72a5-4490-8d7b-00f180a34a0a":{"type":"shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363","settings":{"show_catroot":true,"link_catroot":"\/","text_catroot":"Forside","show_tags":true,"separator_char_code":"rsaquo;","sep_plus_class":"breadcrumb__sep_plus3","link_catall":"\/collections\/all","text_catall":"Alle produkter","show_product_title":true,"truncate_limit":0}}},"block_order":["0bf70ae8-72a5-4490-8d7b-00f180a34a0a"],"settings":{"include_margins":true}},"16323451604b3f767a":{"type":"apps","blocks":{"25c46637-1b31-4ed6-ba27-b97545ade66a":{"type":"shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommercewidget\/7520f53f-f57b-4b7d-9c5c-6144a46037c7","settings":{"slug":""}}},"block_order":["25c46637-1b31-4ed6-ba27-b97545ade66a"],"settings":{"include_margins":true}},"pf-ac595036":{"type":"pf-ac595036","settings":{}}},"order":["main","product-recommendations","16322551547c337064","16323451604b3f767a","pf-ac595036"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "6b9ba633-10f0-4907-bcf6-c04c3113db92": {
+          "type": "stock_status",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Del"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "subtitle",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "6b9ba633-10f0-4907-bcf6-c04c3113db92",
+        "buy_buttons",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Du vil kanskje også like",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_rating": false
+      }
+    },
+    "16322551547c337064": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "16323451604b3f767a": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "pf-ac595036": {
+      "type": "pf-ac595036",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "16322551547c337064",
+    "16323451604b3f767a",
+    "pf-ac595036"
+  ]
+}
