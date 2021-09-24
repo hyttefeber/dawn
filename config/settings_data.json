@@ -24,10 +24,11 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/Hyttefeber_6_6ccf16af-7fee-4e6c-b7bf-c9b98f01bde3.png",
           "scroll_logo": "shopify:\/\/shop_images\/Hyttefeber_text_only.png",
           "logo_width": 150,
           "logo_position": "top-center",
-          "menu": "overmenu-2021",
+          "menu": "overmeny-2021",
           "show_line_separator": true,
           "enable_sticky_header": true
         }
@@ -86,6 +87,7 @@
           "724df200-c042-496b-b08b-bcfa4a22440e": {
             "type": "heading",
             "settings": {
+              "icon": "shopify:\/\/shop_images\/ikon-personlig-service.png",
               "text": "Personlig service",
               "mobile-visibility": true
             }
@@ -93,6 +95,7 @@
           "935e67a1-7bc1-499c-8ea4-77ae4d9ba083": {
             "type": "heading",
             "settings": {
+              "icon": "shopify:\/\/shop_images\/ikon-rask-levering.png",
               "text": "Lynrask levering",
               "mobile-visibility": true
             }
@@ -100,6 +103,7 @@
           "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66": {
             "type": "heading",
             "settings": {
+              "icon": "shopify:\/\/shop_images\/ikon-apent-kjop.png",
               "text": "Åpent kjøp i 90 dager",
               "mobile-visibility": false
             }
@@ -107,6 +111,7 @@
           "3fcb1549-bca4-4e32-a24d-f0a9ea48879d": {
             "type": "heading",
             "settings": {
+              "icon": "shopify:\/\/shop_images\/ikon-fri-frakt.png",
               "text": "Fri frakt over 600,-",
               "mobile-visibility": false
             }
