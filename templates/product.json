@@ -81,7 +81,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "heading": "Du vil kanskje også like",
         "image_ratio": "adapt",
