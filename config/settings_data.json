@@ -54,12 +54,13 @@
             "type": "link_list",
             "settings": {
               "heading": "Serier",
-              "menu": ""
+              "menu": "serier-til-footer"
             }
           },
           "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/footer-logo-and-icons.png",
               "image_width": 150,
               "alignment": "center"
             }
