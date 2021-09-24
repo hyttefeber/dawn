@@ -83,9 +83,13 @@
           </div>
 
               {%- if additional_checkout_buttons -%}
+         <h3 class="hurtigkasse-cart">Eller bruk hurtigkasse</h3>
                 <div class="cart__dynamic-checkout-buttons additional-checkout-buttons">
                   {{ content_for_additional_checkout_buttons }}
                 </div>
+        <div class="cartnotice" style="margin-top:20px;">
+            <p style="max-width:100%;margin:20px 5px;">*Du sendes til kassen etterpå, hvor du kan legge inn gavekort/rabattkode.</p>
+          </div>
               {%- endif -%}
           {%- endcase -%}
         {% endfor %}
