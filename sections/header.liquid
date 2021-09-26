@@ -238,6 +238,7 @@
             </div>
           </div>
         </details>
+        {% render 'icon-filter' %}
       </header-drawer>
     {%- endif -%}
 
@@ -631,6 +632,12 @@
     "url": {{ shop.url | append: page.url | json }}
   }
 </script>
+        <script type="text/javascript">
+const element = document.querySelector('#shopify-section-header');
+console.log(element.matches('.shopify-section-header-sticky')); // true
+var element = document.getElementById("main-collection-filters");
+element.classList.add("sticky");
+        </script>
 
 {%- if request.page_type == 'index' -%}
   {% assign potential_action_target = shop.url | append: routes.search_url | append: "?q={search_term_string}" %}
