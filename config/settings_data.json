@@ -24,11 +24,11 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Hyttefeber_6_7742192e-fcc2-4c40-8742-befcd0d5981e.png",
+          "logo": "shopify:\/\/shop_images\/Hyttefeber_6_6ccf16af-7fee-4e6c-b7bf-c9b98f01bde3.png",
           "scroll_logo": "shopify:\/\/shop_images\/Hyttefeber_text_only.png",
           "logo_width": 150,
           "logo_position": "top-center",
-          "menu": "overmenu-2021",
+          "menu": "overmeny-2021",
           "show_line_separator": true,
           "enable_sticky_header": true
         }
