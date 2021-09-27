@@ -299,6 +299,43 @@ position: fixed;
    }
    
   </style>
+    <!-- PAGEFLY CART HELPER - DO NOT DELETE -->
+    <script>
+          try {
+          setTimeout(function () {
+            window.__pagefly_helper_store__ &&
+              window.__pagefly_helper_store__.subscribe(function (res) {
+              		var header = document.querySelector('sticky-header');
+              		var item = document.querySelector('#cart-notification #cart-notification-product');
+              		var button = document.querySelector('#cart-notification #cart-notification-button');
+              		const cartBubble = `<div class="cart-count-bubble"><span aria-hidden="true">1</span><span class="visually-hidden">1 item</span></div>`
+                	var notification = document.getElementById('cart-notification');
+              		var html = `<img class="cart-notification-product__image" src="" alt="" width="70" height="70" loading="lazy">
+                                  <div class="cart-notification-product__info">
+                                    <h3 class="cart-notification-product__name h4"></h3></div>`
+                    var tempHTL = document.createElement('div');
+                    tempHTL.innerHTML = html
+                    tempHTL.querySelector('img').src = res.image
+                    tempHTL.querySelector('.cart-notification-product__name').innerHTML = res.title
+                    item.innerHTML = tempHTL.innerHTML
+                    if($('.cart-count-bubble').length > 0) {
+                    	$('.cart-count-bubble span').text(res.quantity)
+                    } else {
+                        $('#cart-icon-bubble').append(cartBubble);
+                    }
+                    button.innerText = `View my cart (${res.quantity})`
+                	notification.classList.add('animate', 'active');
+                	addEventListener('transitionend', () => {
+                    notification.focus();
+                    trapFocus(notification);
+                  }, { once: true });
+		});
+          }, 2500);
+        } catch (e) {
+          console.warn(e);
+        }
+    </script>
+
   {% comment %}  <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
 {% endcomment %}
   {% render 'tracking' %}
