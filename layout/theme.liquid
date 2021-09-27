@@ -305,7 +305,8 @@ position: fixed;
           setTimeout(function () {
             window.__pagefly_helper_store__ &&
               window.__pagefly_helper_store__.subscribe(function (res) {
-              		var header = document.querySelector('sticky-header');
+              		$.getJSON('/cart.json').then(cart => {
+					var header = document.querySelector('sticky-header');
               		var item = document.querySelector('#cart-notification #cart-notification-product');
               		var button = document.querySelector('#cart-notification #cart-notification-button');
               		const cartBubble = `<div class="cart-count-bubble"><span aria-hidden="true">1</span><span class="visually-hidden">1 item</span></div>`
@@ -329,6 +330,7 @@ position: fixed;
                     notification.focus();
                     trapFocus(notification);
                   }, { once: true });
+                              });
 		});
           }, 2500);
         } catch (e) {
