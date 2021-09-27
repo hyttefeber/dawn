@@ -43,13 +43,13 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {% if template contains "product" %}
     {{ h_content
         | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
-        | remove: "https:\/\/ajax.aspnetcdn.com\/ajax\/jQuery\/jquery-2.2.4.min.js"
+        | remove: "https:\/\/gdprcdn.b-cdn.net\/js\/gdpr_cookie_consent.min.js?shop=hyttefeber.myshopify.com"
     	| remove: "https:\/\/hyttefeberno.app.baqend.com\/v1\/speedkit\/install.js?d=hyttefeber.no\u0026shop=hyttefeber.myshopify.com"
     }}
     {% else %}
     {{ h_content
         | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
-        | remove: "https:\/\/ajax.aspnetcdn.com\/ajax\/jQuery\/jquery-2.2.4.min.js"
+        | remove: "https:\/\/gdprcdn.b-cdn.net\/js\/gdpr_cookie_consent.min.js?shop=hyttefeber.myshopify.com"
    	    | remove: "https:\/\/tabs.stationmade.com\/registered-scripts\/tabs-by-station.js?shop=hyttefeber.myshopify.com"
     	| remove: "https:\/\/hyttefeberno.app.baqend.com\/v1\/speedkit\/install.js?d=hyttefeber.no\u0026shop=hyttefeber.myshopify.com"
     }}
@@ -143,7 +143,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
   <!-- Hotjar Tracking Code for hyttefeber.no -->
-<!--<script>
+<script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
         h._hjSettings={hjid:99043,hjsv:6};
@@ -152,7 +152,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
         r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script>-->
+</script>
 
   </head>
 
