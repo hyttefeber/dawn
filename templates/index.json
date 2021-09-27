@@ -1,5 +1,12 @@
 {
   "sections": {
+    "16327413955ebd8133": {
+      "type": "hf-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/toppbanner-forside-manedens-kupp-1500x360-3k.png",
+        "link": "shopify:\/\/collections\/salg-manedens-kupp"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "settings": {
@@ -547,6 +554,7 @@
     }
   },
   "order": [
+    "16327413955ebd8133",
     "image_banner",
     "multi_column",
     "1629970086900f7d29",
