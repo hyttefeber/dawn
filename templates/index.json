@@ -131,15 +131,6 @@
     "1631626408eee30b8a": {
       "type": "multicolumn",
       "blocks": {
-        "1631626408eee30b8a-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tenderflame-hyttefeber-forside2c.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/tenderflame"
-          }
-        },
         "1631626408eee30b8a-1": {
           "type": "column",
           "settings": {
@@ -148,11 +139,20 @@
             "text": "",
             "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
           }
+        },
+        "1631626408eee30b8a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tenderflame-hyttefeber-forside2c.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/tenderflame"
+          }
         }
       },
       "block_order": [
-        "1631626408eee30b8a-0",
-        "1631626408eee30b8a-1"
+        "1631626408eee30b8a-1",
+        "1631626408eee30b8a-0"
       ],
       "settings": {
         "title": "",
