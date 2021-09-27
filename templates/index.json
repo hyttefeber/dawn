@@ -4,21 +4,7 @@
       "type": "hf-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/toppbanner-forside-manedens-kupp-1500x360-3k.png",
-        "link": "shopify:\/\/collections\/salg-manedens-kupp"
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Toppmal_1500x360_1.png",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": false,
-        "image_overlay_opacity": 10,
-        "banner_box_opacity": 50,
-        "color_scheme": "accent-1",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
+        "mobile_image": "shopify:\/\/shop_images\/377x390_mobile.png",
         "link": "shopify:\/\/collections\/salg-manedens-kupp"
       }
     },
@@ -555,7 +541,6 @@
   },
   "order": [
     "16327413955ebd8133",
-    "image_banner",
     "multi_column",
     "1629970086900f7d29",
     "1632000821b08894c5",
