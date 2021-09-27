@@ -1,0 +1,77 @@
+{%- style -%}
+.banner > picture img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+{%- endstyle -%}
+
+{%- if section.settings.link != blank -%}
+<a href="{{section.settings.link}}">
+{%- endif -%}
+<div id="Banner-{{ section.id }}" class="banner">
+  {%- if section.settings.image != blank -%}
+      <picture>
+        {%- if section.settings.mobile_image != blank -%}
+        <source media="(max-width: 750px)"
+        srcset="{{ section.settings.mobile_image | img_url: '375x' }} 375w,
+        {{ section.settings.mobile_image | img_url: '749x' }} 749w"
+        >
+        {% endif %}
+        <img
+        srcset="
+          {%- if section.settings.image.width >= 1100 -%}{{ section.settings.image | img_url: '1100x' }} 1100w,{%- endif -%}
+          {%- if section.settings.image.width >= 1500 -%}{{ section.settings.image | img_url: '1500x' }} 1500w,{%- endif -%}
+          {%- if section.settings.image.width >= 1780 -%}{{ section.settings.image | img_url: '1780x' }} 1780w,{%- endif -%}
+          {%- if section.settings.image.width >= 2000 -%}{{ section.settings.image | img_url: '2000x' }} 2000w,{%- endif -%}
+          {%- if section.settings.image.width >= 3000 -%}{{ section.settings.image | img_url: '3000x' }} 3000w,{%- endif -%}
+          {%- if section.settings.image.width >= 3840 -%}{{ section.settings.image | img_url: '3840x' }} 3840w,{%- endif -%}"
+        sizes="100vw"
+        src="{{ section.settings.image | img_url: '1500x' }}"
+        loading="lazy"
+        alt="{{ section.settings.image.alt | escape }}"
+        width="{{ section.settings.image.width }}"
+        height="{{ section.settings.image.width | divided_by: section.settings.image.aspect_ratio | round}}"
+      >
+      </picture>
+  {%- elsif section.settings.image == blank -%}
+    <div class="banner__media media{% if section.settings.image == blank and section.settings.mobile_image == blank %} placeholder{% endif %}">
+      {{ 'lifestyle-2' | placeholder_svg_tag: 'placeholder-svg' }}
+    </div>
+  {%- endif -%}
+</div>
+{%- if section.settings.link != blank -%}
+</a>
+{%- endif -%}
+
+{% schema %}
+{
+  "name":"hf_banner",
+  "tag":"section",
+  "class":"spaced-section spaced-section--full-width page-width-desktop",
+  "settings":[
+     {
+        "type":"image_picker",
+        "id":"image",
+        "label":"Desktopbilde"
+     },
+     {
+        "type":"image_picker",
+        "id":"mobile_image",
+        "label":"mobilbilde"
+     },
+     {
+        "type":"url",
+        "id":"link",
+        "label":"If present, the link will be on the whole banner"
+     }
+  ],
+  "presets":[
+     {
+        "name":"hf_banner",
+        "category":"Custom"
+     }
+  ]
+}
+{% endschema %}
