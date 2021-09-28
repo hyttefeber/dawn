@@ -164,6 +164,10 @@
       {{ content_for_layout }}
   {% capture stn_app %}{% include 'station-tabs' %}{% endcapture %}{% if stn_app contains 'Station.Apps' %}{{ stn_app }}{% endif %}
     </main>
+    
+    {% if template contains "cart" %}
+    <div id="hr-recom-k60d9c84027c14d78cf038476"></div>
+	{% endif %}
 
     {% section 'top-bar' %}
     {% section 'footer' %}
