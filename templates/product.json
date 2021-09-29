@@ -15,6 +15,12 @@
           "settings": {
           }
         },
+        "5ab26f72-f46c-47b1-bf12-ff3315b31a23": {
+          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommerceproductreview\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
+          "settings": {
+            "slug": "Summary-widget-0"
+          }
+        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -64,6 +70,7 @@
       "block_order": [
         "vendor",
         "title",
+        "5ab26f72-f46c-47b1-bf12-ff3315b31a23",
         "subtitle",
         "price",
         "variant_picker",
