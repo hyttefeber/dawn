@@ -6,6 +6,7 @@
   <script defer src="https://cdn.adt357.net/jsTag?ap=1515389284"></script>
   <script defer type="text/javascript" src="https://s.kk-resources.com/leadtag.js"></script>
 
+{% unless template contains "index" %}
     <!-- HR -->
 {% if cart.item_count > 0 %}
     {% assign contents = '' %}
@@ -33,3 +34,4 @@
 		s.parentNode.insertBefore(aws, s);
 	})();
 </script>
+{% endunless %}
