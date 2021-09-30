@@ -65,6 +65,13 @@
           "settings": {
             "share_label": "Del"
           }
+        },
+        "3a9cc67d-da02-403a-a617-ae8fb4e482d1": {
+          "type": "shopify:\/\/apps\/shop-instagram-ugc\/blocks\/block.index.instagram\/af4b13c8-5fdf-4065-8045-d1fe22f45f5a",
+          "settings": {
+            "option_galleries_id": "1",
+            "option_galleries_layout": "0"
+          }
         }
       },
       "block_order": [
@@ -78,7 +85,8 @@
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "3a9cc67d-da02-403a-a617-ae8fb4e482d1"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -95,6 +103,7 @@
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": true,
+        "show_atc": true,
         "show_rating": false
       }
     },
