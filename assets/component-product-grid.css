@@ -36,6 +36,9 @@
 
 .card-wrapper .product-form__buttons > * {
   margin-bottom: 1rem;
+  font-size: 1.6rem;
+    letter-spacing: .08rem;
+    min-height: 4.2rem;
 }
 
 .card-wrapper .product-form__buttons {
