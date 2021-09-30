@@ -193,6 +193,11 @@
 .card-information__wrapper .caption {
   letter-spacing: 0.07rem;
 }
+.card-information__wrapper .card-information__text{
+	font-size: 1.8rem;
+    color: #355179;
+    letter-spacing: 0.4px;
+	}
 
 .card-wrapper {
   color: inherit;
