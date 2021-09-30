@@ -487,7 +487,7 @@
           {% if collection.products_count < 4 %} grid--{{ collection.products_count }}-col-tablet{% else %}
             {% if collection.products_count == 4 %} grid--4-col-desktop{% else %} grid--3-col-tablet grid--one-third-max grid--4-col-desktop grid--quarter-max{% endif %}
           {% endif %}">
-          {% comment %}--Loops through available or tagged _boost--{% endcomment %}
+          {% comment %}--Loops through available or tagged _boost first--{% endcomment %}
           {%- for product in collection.products -%}
           {%- if product.available or product.tags contains "_boost" -%}
             <li class="grid__item">
