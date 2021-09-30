@@ -448,5 +448,12 @@
         "back_to_payment_method": "Gå tilbake til betalingsvalg"
       }
     }
+  },
+  "socialshopwave": {
+    "add_to_cart": "Legg i handlekurv",
+    "adding_to_cart": "Legger til...",
+    "sold_out": "Ikke på lager",
+    "description": "Beskrivelse",
+    "view_on_instagram": "View on Instagram"
   }
 }
