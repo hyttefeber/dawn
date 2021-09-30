@@ -162,6 +162,7 @@
         "add_image_padding": false,
         "show_image_outline": false,
         "show_vendor": true,
+        "show_atc": true,
         "show_rating": false
       }
     },
@@ -178,6 +179,7 @@
         "add_image_padding": false,
         "show_image_outline": false,
         "show_vendor": true,
+        "show_atc": true,
         "show_rating": false
       }
     },
@@ -236,7 +238,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "collection": "nyheter-fra-norgesglasset",
+        "collection": "norgesglasset-hele-den-originale-serien",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -245,6 +247,7 @@
         "add_image_padding": false,
         "show_image_outline": false,
         "show_vendor": true,
+        "show_atc": true,
         "show_rating": false
       }
     },
@@ -312,6 +315,7 @@
         "add_image_padding": false,
         "show_image_outline": false,
         "show_vendor": true,
+        "show_atc": true,
         "show_rating": false
       }
     },
@@ -379,6 +383,7 @@
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
+        "show_atc": true,
         "show_rating": false
       }
     },
@@ -446,6 +451,7 @@
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
+        "show_atc": true,
         "show_rating": false
       }
     },
@@ -470,6 +476,7 @@
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
+        "show_atc": true,
         "show_rating": false
       }
     },
