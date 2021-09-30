@@ -36,18 +36,18 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "8489ad7f-3530-4cb0-86fc-82435e6afea4": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Informasjon",
-              "menu": "informasjon"
-            }
-          },
           "footer-0": {
             "type": "link_list",
             "settings": {
               "heading": "Nyttige lenker",
               "menu": "footer"
+            }
+          },
+          "8489ad7f-3530-4cb0-86fc-82435e6afea4": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Informasjon",
+              "menu": "informasjon"
             }
           },
           "74a93209-db74-4a47-b818-a97b161d9897": {
@@ -67,8 +67,8 @@
           }
         },
         "block_order": [
-          "8489ad7f-3530-4cb0-86fc-82435e6afea4",
           "footer-0",
+          "8489ad7f-3530-4cb0-86fc-82435e6afea4",
           "74a93209-db74-4a47-b818-a97b161d9897",
           "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688"
         ],
