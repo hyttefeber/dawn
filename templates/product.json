@@ -70,7 +70,7 @@
           "type": "shopify:\/\/apps\/shop-instagram-ugc\/blocks\/block.index.instagram\/af4b13c8-5fdf-4065-8045-d1fe22f45f5a",
           "settings": {
             "option_galleries_id": "1",
-            "option_galleries_layout": "0"
+            "option_galleries_layout": "2"
           }
         }
       },
