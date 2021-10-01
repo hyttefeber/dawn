@@ -493,6 +493,24 @@
         "show_view_all": true
       }
     },
+    "1633124465b8360798": {
+      "type": "apps",
+      "blocks": {
+        "8f7289a4-7cbf-482e-b69c-9be78b6a3af0": {
+          "type": "shopify:\/\/apps\/shop-instagram-ugc\/blocks\/block.index.instagram\/af4b13c8-5fdf-4065-8045-d1fe22f45f5a",
+          "settings": {
+            "option_galleries_id": "1",
+            "option_galleries_layout": "2"
+          }
+        }
+      },
+      "block_order": [
+        "8f7289a4-7cbf-482e-b69c-9be78b6a3af0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "1632004573cbceffe9": {
       "type": "image-banner",
       "blocks": {
@@ -575,6 +593,7 @@
     "1632262113e988bb5e",
     "1632181677ff608e6b",
     "163200636372ee71d9",
+    "1633124465b8360798",
     "1632004573cbceffe9",
     "1632314372a61be37f"
   ]
