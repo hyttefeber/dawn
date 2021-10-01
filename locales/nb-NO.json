@@ -104,7 +104,7 @@
     "product": {
       "add_to_cart": "Legg i handlekurv",
       "description": "Beskrivelse",
-      "on_sale": "Salg",
+      "on_sale": "Tilbud",
       "product_variants": "Produktvarianter",
       "quantity": {
         "label": "Antall",
