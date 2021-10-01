@@ -126,10 +126,16 @@
         ],
         "settings": {
         }
+      },
+      "sswinstagram": {
+        "type": "sswinstagram",
+        "settings": {
+          "option_galleries_id": "data-gallery_id=\"1\" data-widget=\"2\""
+        }
       }
     },
     "content_for_index": [
-
+      "sswinstagram"
     ]
   }
 }
