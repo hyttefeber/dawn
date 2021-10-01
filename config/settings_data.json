@@ -136,6 +136,14 @@
     },
     "content_for_index": [
       "sswinstagram"
-    ]
+    ],
+    "blocks": {
+      "1633124754022a345e": {
+        "type": "shopify:\/\/apps\/shop-instagram-ugc\/blocks\/block.embed.socialshopwave-helper\/af4b13c8-5fdf-4065-8045-d1fe22f45f5a",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   }
 }
