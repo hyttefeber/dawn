@@ -127,23 +127,22 @@
         "settings": {
         }
       },
-      "sswinstagram": {
-        "type": "sswinstagram",
+      "product-recommendations": {
+        "type": "product-recommendations",
         "settings": {
-          "option_galleries_id": "data-gallery_id=\"1\" data-widget=\"2\""
+          "heading": "Andre kjøpte også",
+          "image_ratio": "adapt",
+          "show_secondary_image": false,
+          "add_image_padding": false,
+          "show_image_outline": true,
+          "show_vendor": false,
+          "show_atc": true,
+          "show_rating": false
         }
       }
     },
     "content_for_index": [
-      "sswinstagram"
-    ],
-    "blocks": {
-      "1633124754022a345e": {
-        "type": "shopify:\/\/apps\/shop-instagram-ugc\/blocks\/block.embed.socialshopwave-helper\/af4b13c8-5fdf-4065-8045-d1fe22f45f5a",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+
+    ]
   }
 }

@@ -164,7 +164,7 @@
     </main>
     
     {% if template contains "cart" %}
- {% section 'product-recommendations' %}
+ 
 	{% endif %}
 
     {% section 'top-bar' %}
@@ -305,9 +305,8 @@
    }
    
    {% if template contains "cart" %}
- .card__badge{
-    display: none; 
-   }{% endif %}
+
+   {% endif %}
   
   </style>
   {% if template contains "pf" %} 
