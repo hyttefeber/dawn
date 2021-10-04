@@ -25,55 +25,51 @@
         "collapse_on_larger_devices": false
       }
     },
+    "1633390831c18d4311": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "Title",
+        "text_banner_body": "Add your text here",
+        "color-scheme": "primary"
+      }
+    },
     "1633389115ecbd8946": {
       "type": "collection-list",
       "blocks": {
         "1633389115ecbd8946-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "nyhet-siri"
+            "collection": "kjokkenkniver"
           }
         },
         "1633389115ecbd8946-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "treservise"
+            "collection": "holm-tre-produkter"
           }
         },
         "1633389115ecbd8946-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "uknuselig"
+            "collection": "fjoler-og-skjaerebrett"
           }
         },
         "78ed54c8-4c8f-42ff-a58b-b6478e3b9088": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mummi-servise"
+            "collection": "forkler-til-matlaging-inne-og-ute"
           }
         },
         "189a5856-b3a3-4130-87df-ee77d2432189": {
           "type": "featured_collection",
           "settings": {
-            "collection": "serie-dompap"
+            "collection": "gryter-og-stekepanner"
           }
         },
-        "ad3e1285-b18e-4af7-8294-ab3d6ca169cd": {
+        "86254aa5-1832-4664-9fa2-f71eb81a56c0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "jordbaereng"
-          }
-        },
-        "d4770843-2f30-4328-bcac-6b7d00c0b5bf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "marius-servise"
-          }
-        },
-        "17bf80b1-ede6-48d6-aac2-cd66b59a1566": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "spire-fra-porsgrund-porselen"
+            "collection": "bordskanere"
           }
         }
       },
@@ -83,12 +79,10 @@
         "1633389115ecbd8946-1",
         "78ed54c8-4c8f-42ff-a58b-b6478e3b9088",
         "189a5856-b3a3-4130-87df-ee77d2432189",
-        "ad3e1285-b18e-4af7-8294-ab3d6ca169cd",
-        "d4770843-2f30-4328-bcac-6b7d00c0b5bf",
-        "17bf80b1-ede6-48d6-aac2-cd66b59a1566"
+        "86254aa5-1832-4664-9fa2-f71eb81a56c0"
       ],
       "settings": {
-        "title": "Alle servise serier",
+        "title": "",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": false,
@@ -100,6 +94,7 @@
   "order": [
     "banner",
     "product-grid",
+    "1633390831c18d4311",
     "1633389115ecbd8946"
   ]
 }
