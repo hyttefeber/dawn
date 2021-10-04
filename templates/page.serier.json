@@ -2,11 +2,133 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "1633373584bea29771": {
+      "type": "collection-list",
+      "blocks": {
+        "1633373584bea29771-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "1633373584bea29771-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alt-marius"
+          }
+        },
+        "1633373584bea29771-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "holm-tre-produkter"
+          }
+        },
+        "3cc7b182-dc60-4d3a-8bf7-c4b5e68cb717": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "95cedbbd-9441-4e08-9747-f35819a15ccf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "f145bd74-1ca6-49f7-b820-6997a3868bba": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "56c37a21-7e48-4b24-90e3-80112e8a165d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "02444718-306d-45a7-adaa-5850e1515cfb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "e91ead7a-35c7-46ec-b339-f478887531b9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "1951f996-c1e8-4e65-838c-95a0857d0f2e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "a3b78f42-43f2-4c26-9780-7a0e11b0c80c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "d9eea828-1b20-4066-9773-5309c0f2b319": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "f9e7b173-f54b-405f-b534-02112a45875d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "0ce36445-305f-441f-8a80-6bbcd2a3f033": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "34682c8d-8a92-4c02-9f91-4f103d2a785a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1633373584bea29771-0",
+        "1633373584bea29771-1",
+        "1633373584bea29771-2",
+        "3cc7b182-dc60-4d3a-8bf7-c4b5e68cb717",
+        "95cedbbd-9441-4e08-9747-f35819a15ccf",
+        "f145bd74-1ca6-49f7-b820-6997a3868bba",
+        "56c37a21-7e48-4b24-90e3-80112e8a165d",
+        "02444718-306d-45a7-adaa-5850e1515cfb",
+        "e91ead7a-35c7-46ec-b339-f478887531b9",
+        "1951f996-c1e8-4e65-838c-95a0857d0f2e",
+        "a3b78f42-43f2-4c26-9780-7a0e11b0c80c",
+        "d9eea828-1b20-4066-9773-5309c0f2b319",
+        "f9e7b173-f54b-405f-b534-02112a45875d",
+        "0ce36445-305f-441f-8a80-6bbcd2a3f033",
+        "34682c8d-8a92-4c02-9f91-4f103d2a785a"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1633373584bea29771"
   ]
 }
