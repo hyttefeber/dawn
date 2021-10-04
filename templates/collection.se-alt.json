@@ -25,6 +25,14 @@
         "collapse_on_larger_devices": false
       }
     },
+    "16333910478bcceecd": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "Alle servise serier",
+        "text_banner_body": "",
+        "color-scheme": "primary"
+      }
+    },
     "1633389115ecbd8946": {
       "type": "collection-list",
       "blocks": {
@@ -100,6 +108,7 @@
   "order": [
     "banner",
     "product-grid",
+    "16333910478bcceecd",
     "1633389115ecbd8946"
   ]
 }
