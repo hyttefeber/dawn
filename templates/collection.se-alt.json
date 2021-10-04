@@ -24,10 +24,47 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
+    },
+    "1633389115ecbd8946": {
+      "type": "collection-list",
+      "blocks": {
+        "1633389115ecbd8946-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "treservise"
+          }
+        },
+        "1633389115ecbd8946-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "1633389115ecbd8946-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "1633389115ecbd8946-0",
+        "1633389115ecbd8946-1",
+        "1633389115ecbd8946-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "1633389115ecbd8946"
   ]
 }
