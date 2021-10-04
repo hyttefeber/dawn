@@ -49,6 +49,7 @@
                           </a>
                         </li>
                       {%- endfor -%}
+                     <!-- {% include 'cmcommerceproductreview' with 'Tab-widget-0' %} -->
                     </ul>
                   {%- endif -%}
                 {%- when 'image' -%}
@@ -305,7 +306,7 @@
         {%- endif -%}
         <div class="footer__copyright caption">
           <small class="copyright__content">&copy; {{ 'now' | date: "%Y" }}, {{ shop.name | link_to: routes.root_url }}</small>
-          <small class="copyright__content">{{ powered_by_link }}</small>
+          
         </div>
       </div>
     </div>
