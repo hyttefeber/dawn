@@ -30,13 +30,13 @@
         "3cc7b182-dc60-4d3a-8bf7-c4b5e68cb717": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "mummi-hos-hyttefeber"
           }
         },
         "95cedbbd-9441-4e08-9747-f35819a15ccf": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "serie-halvor-bakke"
           }
         },
         "f145bd74-1ca6-49f7-b820-6997a3868bba": {
@@ -118,7 +118,7 @@
         "34682c8d-8a92-4c02-9f91-4f103d2a785a"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "Serier og Merker",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": false,
