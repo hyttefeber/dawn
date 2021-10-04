@@ -121,7 +121,9 @@
             {%- endform -%}
           </div>
         {%- endif -%}
-	<!-- {% include 'cmcommerceproductreview' with 'Tab-widget-0' %} -->
+	<style>
+      .rf-reviews{display:none;}
+        </style>{% include 'cmcommerceproductreview' with 'Tab-widget-0' %}
         {%- if section.settings.show_social -%}
           <ul class="footer__list-social list-unstyled list-social" role="list">
             {%- if settings.social_twitter_link != blank -%}
