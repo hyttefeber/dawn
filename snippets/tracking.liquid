@@ -6,32 +6,3 @@
   <script defer src="https://cdn.adt357.net/jsTag?ap=1515389284"></script>
   <script defer type="text/javascript" src="https://s.kk-resources.com/leadtag.js"></script>
 
-{% comment %}{% unless template contains "index" %}
-    <!-- HR -->
-{% if cart.item_count > 0 %}
-    {% assign contents = '' %}
-    {% for item in cart.items %}
-        {% assign contents = contents|append: item.variant_id | append:":" | append: item.quantity | append: "," %}
-    {% endfor %}
-    <span class="addwish-cart"
-        style="display:none"
-        data-total="{{ cart.total_price | divided_by: 100.0 }}"
-        data-url="{{shop.url}}/cart/{{contents}}">
-    {% for item in cart.items %}
-        <span class="addwish-product" data-url="{{shop.url}}{{ item.url }}" data-productnumber="{{item.product_id}}" data-quantity="{{item.quantity}}"></span>
-    {% endfor %}
-    </span>
-{% else %}
-    <span class="addwish-cart" style="display:none" data-total="0,00"></span>
-{% endif %}
-  <script>
-	(function() {
-		var aws = document.createElement('script');
-		aws.type = 'text/javascript';
-		if (typeof(aws.async) != "undefined") { aws.async = true; }
-		aws.src = 'https://d1pna5l3xsntoj.cloudfront.net/scripts/company/awAddGift.js#D87DC131135C424B33A3BE6780A01D6E,fast_load=true';
-		var s = document.getElementsByTagName('script')[0];
-		s.parentNode.insertBefore(aws, s);
-	})();
-</script>
-{% endunless %}{% endcomment %}
