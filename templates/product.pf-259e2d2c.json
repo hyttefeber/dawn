@@ -79,18 +79,6 @@
         "enable_video_looping": false
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "Du vil kanskje også like",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true,
-        "show_rating": false
-      }
-    },
     "16322551547c337064": {
       "type": "apps",
       "disabled": true,
@@ -102,12 +90,25 @@
       "type": "pf-259e2d2c",
       "settings": {
       }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Du vil kanskje også like",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": false
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations",
     "16322551547c337064",
-    "pf-259e2d2c"
+    "pf-259e2d2c",
+    "product-recommendations"
   ]
 }
