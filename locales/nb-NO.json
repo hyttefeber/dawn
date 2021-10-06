@@ -446,6 +446,9 @@
     "checkout": {
       "general": {
         "back_to_payment_method": "Gå tilbake til betalingsvalg"
+      },
+      "customer_account": {
+        "save_my_information_label": "Opprett gratis konto: Lagre denne informasjonen til neste gang."
       }
     },
     "links": {
