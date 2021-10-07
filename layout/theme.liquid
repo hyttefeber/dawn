@@ -164,10 +164,7 @@
       {{ content_for_layout }}
   {% capture stn_app %}{% include 'station-tabs' %}{% endcapture %}{% if stn_app contains 'Station.Apps' %}{{ stn_app }}{% endif %}
     </main>
-    
-    {% if template contains "cart" %}
-	{% endif %}
-    
+      
     {% section 'top-bar' %}
     {% section 'footer' %}
 
@@ -283,17 +280,7 @@
    .tax-note{
    text-align: left;
    }
-   
-  /*  .icon-filter{
-    top: 20px;
-    left: 60px;
-    width: 24px;
-    height: 26px;
-	}
-   .sticky .icon-filter{
-	position: fixed;
-   }*/
-   
+      
    a img{
      -moz-transition-duration:0.2s;
      -o-transition-duration:0.2s;
