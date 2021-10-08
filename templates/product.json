@@ -1,5 +1,31 @@
 {
   "sections": {
+    "16323451604b3f767a": {
+      "type": "apps",
+      "blocks": {
+        "36a14efe-851c-4431-a0db-a3d4269571a5": {
+          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
+          "settings": {
+            "show_catroot": true,
+            "link_catroot": "\/",
+            "text_catroot": "Hjem",
+            "show_tags": true,
+            "separator_char_code": "rsaquo;",
+            "sep_plus_class": "breadcrumb__sep_plus5",
+            "link_catall": "\/collections\/all",
+            "text_catall": "Alle produkter",
+            "show_product_title": true,
+            "truncate_limit": 24
+          }
+        }
+      },
+      "block_order": [
+        "36a14efe-851c-4431-a0db-a3d4269571a5"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -65,13 +91,6 @@
           "settings": {
             "share_label": "Del"
           }
-        },
-        "3a9cc67d-da02-403a-a617-ae8fb4e482d1": {
-          "type": "shopify:\/\/apps\/shop-instagram-ugc\/blocks\/block.index.instagram\/af4b13c8-5fdf-4065-8045-d1fe22f45f5a",
-          "settings": {
-            "option_galleries_id": "1",
-            "option_galleries_layout": "2"
-          }
         }
       },
       "block_order": [
@@ -85,8 +104,7 @@
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
         "buy_buttons",
         "description",
-        "share",
-        "3a9cc67d-da02-403a-a617-ae8fb4e482d1"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -113,18 +131,12 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "16323451604b3f767a": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
+    "16323451604b3f767a",
     "main",
     "product-recommendations",
-    "16322551547c337064",
-    "16323451604b3f767a"
+    "16322551547c337064"
   ]
 }
