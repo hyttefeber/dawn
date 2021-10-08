@@ -15,7 +15,7 @@
             "link_catall": "\/collections\/all",
             "text_catall": "Alle produkter",
             "show_product_title": true,
-            "truncate_limit": 0
+            "truncate_limit": 22
           }
         }
       },
