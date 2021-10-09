@@ -124,19 +124,11 @@
         "show_atc": true,
         "show_rating": false
       }
-    },
-    "16322551547c337064": {
-      "type": "apps",
-      "disabled": true,
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "16323451604b3f767a",
     "main",
-    "product-recommendations",
-    "16322551547c337064"
+    "product-recommendations"
   ]
 }
