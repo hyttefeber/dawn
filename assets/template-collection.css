@@ -61,6 +61,13 @@
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(2, auto);
 }
+ .collection-grid-section .button-label{
+	font-size: 1.8rem;
+    color: #355179;
+    letter-spacing: 0.4px;
+   line-height: 1.2;
+	}
+
 
 .collection-product-count {
   align-self: center;
