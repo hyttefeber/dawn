@@ -33,6 +33,22 @@
   }
   
 }
+.product-form__buttons:hover, .button:not([disabled]):hover{
+    -webkit-transition-duration:0.2s;
+    transition-duration:0.2s;
+   }
+   .product-form__buttons .button {
+    font-size: 1.6rem;
+    letter-spacing: .08rem;
+    min-height: 4.2rem;
+   }
+   .product-form .button--secondary{
+    color: #655B58;
+    background: whitesmoke;
+    box-shadow: none;
+    border: 1px solid #ede5dc;
+    text-transform: uppercase;
+   }
 
 .card-wrapper .product-form__buttons > * {
   margin-bottom: 1rem;
@@ -44,5 +60,6 @@
 .card-wrapper .product-form__buttons {
   padding-top: 3rem;
 }
+
 
 
