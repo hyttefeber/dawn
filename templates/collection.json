@@ -12,7 +12,7 @@
             "show_tags": true,
             "separator_char_code": "rsaquo;",
             "sep_plus_class": "breadcrumb__sep_plus5",
-            "link_catall": "\/collections\/all",
+            "link_catall": "\/collections\/alle-produkter",
             "text_catall": "Alle produkter",
             "show_product_title": true,
             "truncate_limit": 0
