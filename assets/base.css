@@ -2030,6 +2030,7 @@ menu-drawer + .header__search {
 .header--top-center * > .header__search {
   display: inline-flex;
 }
+  
 
 @media screen and (min-width: 990px) {
   .header:not(.header--top-center) * > .header__search,
@@ -2040,6 +2041,12 @@ menu-drawer + .header__search {
   .header:not(.header--top-center) > .header__search,
   .header--top-center * > .header__search {
     display: none;
+  }
+  .header__icon--search span{
+    width: 200px;
+    padding-right: 150px;
+    border: 1px solid #C5C1C0;
+    border-radius: 5px;
   }
 }
 
