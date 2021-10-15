@@ -21,6 +21,9 @@
   .collection-list-wrapper.page-width {
     padding: 0;
   }
+  .collection-list-wrapper{
+    margin-top:120px;
+  }
 
   .collection-list:not(.slider) {
     padding-left: 0;
