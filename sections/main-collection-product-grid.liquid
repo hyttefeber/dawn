@@ -514,9 +514,10 @@
         
     {% if paginate.previous.is_link %}
         <button class="button button--full-width button--primary pagination-btn previous"><a href="{{ paginate.previous.url }}">{{ paginate.previous.title }}</a></button>
-{% endif %}  
+{% endif %} 
+             </div>
         {%- endif -%}
-      </div>
+      
     {%- endif -%}
   {%- endpaginate -%}
 </div>
