@@ -487,9 +487,7 @@
           {% if collection.products_count < 4 %} grid--{{ collection.products_count }}-col-tablet{% else %}
             {% if collection.products_count == 4 %} grid--4-col-desktop{% else %} grid--3-col-tablet grid--one-third-max grid--4-col-desktop grid--quarter-max{% endif %}
           {% endif %}">
-          {% comment %}--Loops through available or tagged _boost first--{% endcomment %}
           {%- for product in collection.products -%}
-          {%- if product.available or product.tags contains "_boost" -%}
             <li class="grid__item">
               {% render 'product-card',
                 product_card_product: product,
@@ -502,24 +500,8 @@
                 show_atc: section.settings.show_atc
               %}
             </li>
-          {%- endif -%}{%- endfor -%}
-          {%- for product in collection.products -%}
-          {%- unless product.available or product.tags contains "_boost" -%}
-            <li class="grid__item">
-              {% render 'product-card',
-                product_card_product: product,
-                media_size: section.settings.image_ratio,
-                show_secondary_image: section.settings.show_secondary_image,
-                add_image_padding: section.settings.add_image_padding,
-                show_vendor: section.settings.show_vendor,
-                show_image_outline: section.settings.show_image_outline,
-                show_rating: section.settings.show_rating,
-                show_atc: section.settings.show_atc
-              %}
-            </li>
-          {%- endunless -%}{%- endfor -%}
+     {%- endfor -%}
         </ul>
-
         {%- if paginate.pages > 1 -%}
           {% render 'pagination', paginate: paginate, anchor: '' %}
            <div class="pagination-btns">
