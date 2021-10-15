@@ -51,12 +51,14 @@
     },
     "163430055225afe504": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
-        "custom_liquid": "<hr style=\"margin:50px 0;\">\n<style>\n.collection-grid-section{\nmargin-bottom: 9rem;\n}"
+        "custom_liquid": "<hr style=\"margin:50px 0;\"><\/hr>\n<style>\n.collection-grid-section{\nmargin-bottom: 10rem;\n}\n<\/style>"
       }
     },
     "163430032528abe728": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "163430032528abe728-0": {
           "type": "featured_collection",
