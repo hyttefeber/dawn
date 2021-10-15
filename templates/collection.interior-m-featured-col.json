@@ -48,11 +48,55 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
+    },
+    "163430055225afe504": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<hr style=\"margin:50px 0;\">\n<style>\n.collection-grid-section{\nmargin-bottom: 9rem;\n}"
+      }
+    },
+    "163430032528abe728": {
+      "type": "collection-list",
+      "blocks": {
+        "163430032528abe728-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serie-halvor-bakke"
+          }
+        },
+        "163430032528abe728-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "belysning-og-lyslykter"
+          }
+        },
+        "163430032528abe728-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serveringsbrett-og-fat"
+          }
+        }
+      },
+      "block_order": [
+        "163430032528abe728-0",
+        "163430032528abe728-1",
+        "163430032528abe728-2"
+      ],
+      "settings": {
+        "title": "Populære interiørsamlinger",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
     "16336834187109d930",
     "banner",
-    "product-grid"
+    "product-grid",
+    "163430055225afe504",
+    "163430032528abe728"
   ]
 }
