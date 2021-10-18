@@ -12,6 +12,7 @@
             "show_tags": true,
             "separator_char_code": "rsaquo;",
             "sep_plus_class": "breadcrumb__sep_plus5",
+            "insert_jsonld": true,
             "link_catall": "\/collections\/alle-produkter",
             "text_catall": "Alle produkter",
             "show_product_title": true,
@@ -36,7 +37,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 32,
+        "products_per_page": 28,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
