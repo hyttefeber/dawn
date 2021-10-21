@@ -451,7 +451,8 @@
         "save_my_information_label": "Opprett gratis konto: Lagre denne informasjonen til neste gang."
       },
       "shop_policies": {
-        "refund_policy": "Retur og angrerett"
+        "refund_policy": "Retur og angrerett",
+        "shipping_policy": "Frakt og levering"
       }
     },
     "links": {
