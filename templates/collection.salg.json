@@ -34,14 +34,6 @@
         "show_collection_image": false
       }
     },
-    "16353668314078760f": {
-      "type": "text-banner",
-      "settings": {
-        "text_banner_title": "UKENS TILBUD",
-        "text_banner_body": "Under ser du alle ukens tilbud.",
-        "color-scheme": "primary"
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -58,18 +50,10 @@
         "collapse_on_larger_devices": false
       }
     },
-    "163536671614565346": {
-      "type": "text-banner",
-      "settings": {
-        "text_banner_title": "30 % på alt fra NORGESGLASSET",
-        "text_banner_body": "Salget varer til 7. november.",
-        "color-scheme": "primary"
-      }
-    },
     "1635366300438ba707": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Ukens mest populære tilbud",
         "collection": "norgesglasset-hele-den-originale-serien",
         "products_to_show": 12,
         "show_view_all": true,
@@ -87,9 +71,7 @@
   "order": [
     "16336834187109d930",
     "banner",
-    "16353668314078760f",
     "product-grid",
-    "163536671614565346",
     "1635366300438ba707"
   ]
 }
