@@ -34,6 +34,58 @@
         "show_collection_image": false
       }
     },
+    "1635366300438ba707": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "1635366559ceff35ce": {
+      "type": "rich-text",
+      "blocks": {
+        "1635366559ceff35ce-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Alle tilbud",
+            "heading_size": "h1"
+          }
+        },
+        "1635366559ceff35ce-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "1635366559ceff35ce-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1635366559ceff35ce-0",
+        "1635366559ceff35ce-1",
+        "1635366559ceff35ce-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -54,6 +106,8 @@
   "order": [
     "16336834187109d930",
     "banner",
+    "1635366300438ba707",
+    "1635366559ceff35ce",
     "product-grid"
   ]
 }
