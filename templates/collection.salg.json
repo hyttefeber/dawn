@@ -34,6 +34,14 @@
         "show_collection_image": false
       }
     },
+    "163536671614565346": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "30 % på alt fra NORGESGLASSET",
+        "text_banner_body": "Salget varer til 7. november.",
+        "color-scheme": "primary"
+      }
+    },
     "1635366300438ba707": {
       "type": "featured-collection",
       "settings": {
@@ -51,39 +59,12 @@
         "show_rating": false
       }
     },
-    "1635366559ceff35ce": {
-      "type": "rich-text",
-      "blocks": {
-        "1635366559ceff35ce-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Alle tilbud",
-            "heading_size": "h1"
-          }
-        },
-        "1635366559ceff35ce-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        },
-        "1635366559ceff35ce-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1635366559ceff35ce-0",
-        "1635366559ceff35ce-1",
-        "1635366559ceff35ce-2"
-      ],
+    "16353668314078760f": {
+      "type": "text-banner",
       "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true
+        "text_banner_title": "Alle tilbud",
+        "text_banner_body": "Alle produkter med nedsatt pris denne uken.",
+        "color-scheme": "primary"
       }
     },
     "product-grid": {
@@ -106,8 +87,9 @@
   "order": [
     "16336834187109d930",
     "banner",
+    "163536671614565346",
     "1635366300438ba707",
-    "1635366559ceff35ce",
+    "16353668314078760f",
     "product-grid"
   ]
 }
