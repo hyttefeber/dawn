@@ -62,8 +62,8 @@
     "16353668314078760f": {
       "type": "text-banner",
       "settings": {
-        "text_banner_title": "Alle tilbud",
-        "text_banner_body": "Alle produkter med nedsatt pris denne uken.",
+        "text_banner_title": "UKENS TILBUD",
+        "text_banner_body": "Under ser du alle ukens tilbud.",
         "color-scheme": "primary"
       }
     },
