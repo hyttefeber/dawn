@@ -34,6 +34,30 @@
         "show_collection_image": false
       }
     },
+    "16353668314078760f": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "UKENS TILBUD",
+        "text_banner_body": "Under ser du alle ukens tilbud.",
+        "color-scheme": "primary"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 28,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
     "163536671614565346": {
       "type": "text-banner",
       "settings": {
@@ -58,38 +82,14 @@
         "show_atc": true,
         "show_rating": false
       }
-    },
-    "16353668314078760f": {
-      "type": "text-banner",
-      "settings": {
-        "text_banner_title": "UKENS TILBUD",
-        "text_banner_body": "Under ser du alle ukens tilbud.",
-        "color-scheme": "primary"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 28,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": false,
-        "show_atc": true,
-        "show_rating": false,
-        "enable_filtering": true,
-        "enable_sorting": true,
-        "collapse_on_larger_devices": false
-      }
     }
   },
   "order": [
     "16336834187109d930",
     "banner",
-    "163536671614565346",
-    "1635366300438ba707",
     "16353668314078760f",
-    "product-grid"
+    "product-grid",
+    "163536671614565346",
+    "1635366300438ba707"
   ]
 }
