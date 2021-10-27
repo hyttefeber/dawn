@@ -49,7 +49,7 @@
         "collection": "",
         "products_to_show": 8,
         "show_view_all": true,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
