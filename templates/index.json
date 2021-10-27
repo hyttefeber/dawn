@@ -68,6 +68,24 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "1629970086900f7d29-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+          }
+        },
+        "1629970086900f7d29-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_df6e8448-0534-49be-81cb-1a07e5dca6ee.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/jul"
+          }
+        },
         "1629970086900f7d29-0": {
           "type": "column",
           "settings": {
@@ -76,30 +94,12 @@
             "text": "",
             "link": "shopify:\/\/collections\/utemobler-og-sitteplasser"
           }
-        },
-        "1629970086900f7d29-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/jul"
-          }
-        },
-        "1629970086900f7d29-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/utemat-hyttefeber-forside3c.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/utemat"
-          }
         }
       },
       "block_order": [
-        "1629970086900f7d29-0",
+        "1629970086900f7d29-2",
         "1629970086900f7d29-1",
-        "1629970086900f7d29-2"
+        "1629970086900f7d29-0"
       ],
       "settings": {
         "title": "",
