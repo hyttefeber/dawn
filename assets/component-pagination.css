@@ -109,6 +109,7 @@ a.pagination__item:hover::after {
   .pagination-btns{
    max-width: 100%; 
    display: block; 
+   min-height: 40px; 
   }
  .pagination-btns .pagination-btn{
    max-width: 45%; 
