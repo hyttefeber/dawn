@@ -20,6 +20,15 @@
             "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/belysning-hos-hyttefeber-forside.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
+          }
+        },
         "column2": {
           "type": "column",
           "settings": {
@@ -37,22 +46,13 @@
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
-        },
-        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/belysning-hos-hyttefeber-forside.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
-          }
         }
       },
       "block_order": [
         "column3",
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
         "column2",
-        "column1",
-        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a"
+        "column1"
       ],
       "settings": {
         "title": "",
@@ -68,15 +68,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "1629970086900f7d29-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/10.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
-          }
-        },
         "1629970086900f7d29-1": {
           "type": "column",
           "settings": {
@@ -84,6 +75,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/jul"
+          }
+        },
+        "1629970086900f7d29-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
           }
         },
         "1629970086900f7d29-0": {
@@ -97,8 +97,8 @@
         }
       },
       "block_order": [
-        "1629970086900f7d29-2",
         "1629970086900f7d29-1",
+        "1629970086900f7d29-2",
         "1629970086900f7d29-0"
       ],
       "settings": {
