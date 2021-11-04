@@ -32,16 +32,16 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Kopi_av_Uten_navn_4.png",
+            "image": "shopify:\/\/shop_images\/14.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
+            "link": "shopify:\/\/collections\/julekuler"
           }
         },
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/interior-hos-hyttefeber-forside.jpg",
+            "image": "shopify:\/\/shop_images\/13.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
