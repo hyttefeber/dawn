@@ -11,15 +11,6 @@
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pizzaovner-hos-hyttefeber-forside.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
-          }
-        },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
           "type": "column",
           "settings": {
@@ -29,13 +20,13 @@
             "link": "shopify:\/\/collections\/belysning-og-lyslykter"
           }
         },
-        "column2": {
+        "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Kopi_av_Uten_navn_5.png",
+            "image": "shopify:\/\/shop_images\/pizzaovner-hos-hyttefeber-forside.jpg",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "column1": {
@@ -46,13 +37,22 @@
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kopi_av_Uten_navn_5.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/balplassen"
+          }
         }
       },
       "block_order": [
-        "column3",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
-        "column2",
-        "column1"
+        "column3",
+        "column1",
+        "column2"
       ],
       "settings": {
         "title": "",
