@@ -2030,7 +2030,7 @@ menu-drawer + .header__search {
 .header--top-center * > .header__search {
   display: inline-flex;
 }
-  
+
 
 @media screen and (min-width: 990px) {
   .header:not(.header--top-center) * > .header__search,
@@ -2356,10 +2356,20 @@ details-disclosure > details {
   #uncomplicated-breadcrumbs, #uncomplicated-breadcrumbs a{
 color:#4D4D4D;
 font-size: 12px;
-text-decoration: none;	
+text-decoration: none;
 }
 #uncomplicated-breadcrumbs{
   height: 21.59px;}
 #shopify-section-template--15102286037143__16336834187109d930, .spaced-section {
 	margin-top:1rem;
+}
+
+.vendor__link {
+  font-size: 1.5rem;
+}
+.vendor__link > a {
+  color: rgb(var(--color-link));
+  text-decoration-color: gb(var(--color-link));
+  text-decoration-thickness: .125em;
+  text-underline-offset: 1.5px;
 }
