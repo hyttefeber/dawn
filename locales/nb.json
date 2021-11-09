@@ -103,6 +103,7 @@
   "products": {
     "product": {
       "add_to_cart": "Legg i handlekurv",
+      "order": "Bestill",
       "description": "Beskrivelse",
       "on_sale": "Salg",
       "product_variants": "Produktvarianter",
