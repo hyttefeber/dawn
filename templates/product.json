@@ -12,6 +12,7 @@
             "show_tags": true,
             "separator_char_code": "rsaquo;",
             "sep_plus_class": "breadcrumb__sep_plus5",
+            "insert_jsonld": true,
             "link_catall": "\/collections\/alle-produkter",
             "text_catall": "Alle produkter",
             "show_product_title": true,
@@ -91,6 +92,11 @@
           "settings": {
             "share_label": "Del"
           }
+        },
+        "9f668dc8-c957-4451-b678-063693ea2ef1": {
+          "type": "vendor_link",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -104,7 +110,8 @@
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "9f668dc8-c957-4451-b678-063693ea2ef1"
       ],
       "settings": {
         "enable_sticky_info": true,
