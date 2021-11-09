@@ -54,7 +54,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Ukens mest populære tilbud",
-        "collection": "norgesglasset-hele-den-originale-serien",
+        "collection": "alt-marius",
         "products_to_show": 12,
         "show_view_all": true,
         "swipe_on_mobile": true,
