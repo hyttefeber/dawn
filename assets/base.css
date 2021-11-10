@@ -2373,3 +2373,8 @@ text-decoration: none;
   text-decoration-thickness: .125em;
   text-underline-offset: 1.5px;
 }
+  .rf-review-photo {
+    min-width: 120px;
+    min-height: 120px;
+    width: 45%;
+  }
