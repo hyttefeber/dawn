@@ -17,6 +17,11 @@
         <span aria-hidden="true" class="breadcrumb__sep">&rsaquo;</span>
         <span><strong>{% if truncate_limit %}{% if truncate_limit > -1 %}{{ product.title | truncate: truncate_limit }}{% else %}{{ product.title }}{% endif %}{% else %}{{ product.title | truncate: 28 }}{% endif %}</strong></span>
     {% endif %}
+    {% if disable_jsonld %}
+        <span id="uncomplicated-meta-disablejsonld" aria-hidden="true" style="display: none;"></span>
+    {% else %}
+        <span id="uncomplicated-meta-addjsonld" aria-hidden="true" style="display: none;"></span>
+    {% endif %}
 </nav>
 
 {{ 'uncomplicated.categories.catlist.min.js' | asset_url | script_tag }}
