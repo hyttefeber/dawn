@@ -3,10 +3,36 @@
     "main": {
       "type": "main-search",
       "settings": {
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "article_show_date": true,
+        "article_show_author": false
+      }
+    },
+    "1637149431dee152e3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populært nå",
+        "collection": "populaert-na",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1637149431dee152e3"
   ]
 }
