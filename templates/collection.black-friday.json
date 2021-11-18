@@ -33,6 +33,23 @@
       "settings": {
       }
     },
+    "1637237672269beed2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BLACK FRIDAY SUPER TILBUD ( så lenge beholdning varer)",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "1637196511a899d270": {
       "type": "featured-collection",
       "settings": {
@@ -112,6 +129,7 @@
   "order": [
     "16336834187109d930",
     "pf-415bb86d",
+    "1637237672269beed2",
     "1637196511a899d270",
     "1637196768776bce95",
     "16371968864e99db71",
