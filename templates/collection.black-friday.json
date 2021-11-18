@@ -67,6 +67,23 @@
         "show_rating": false
       }
     },
+    "16371968864e99db71": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Espegard",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -96,6 +113,7 @@
     "pf-415bb86d",
     "1637196511a899d270",
     "1637196768776bce95",
+    "16371968864e99db71",
     "banner",
     "product-grid"
   ]
