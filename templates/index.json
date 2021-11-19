@@ -550,6 +550,7 @@
       "blocks": {
         "ace311bf-0f90-40dc-8aeb-d7bbc2e98ba4": {
           "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommercewidget\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
+          "disabled": true,
           "settings": {
             "slug": "Replacing-Privy-from-the-bottom-up-0"
           }
