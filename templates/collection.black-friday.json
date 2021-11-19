@@ -62,7 +62,7 @@
         "title": "BLACK FRIDAY SUPER TILBUD ( så lenge beholdning varer)",
         "collection": "super-tilbud-50",
         "products_to_show": 8,
-        "show_view_all": true,
+        "show_view_all": false,
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
@@ -71,6 +71,43 @@
         "show_vendor": false,
         "show_atc": true,
         "show_rating": false
+      }
+    },
+    "1637346594f86b48ab": {
+      "type": "rich-text",
+      "blocks": {
+        "16373465947cd1a556-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "16373465947cd1a556-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16373465947cd1a556-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vis alle supertilbudene",
+            "button_link": "https:\/\/hyttefeber.myshopify.com\/collections\/super-tilbud-50",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16373465947cd1a556-0",
+        "16373465947cd1a556-1",
+        "16373465947cd1a556-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "1637196511a899d270": {
@@ -131,6 +168,7 @@
     "banner",
     "product-grid",
     "1637237672269beed2",
+    "1637346594f86b48ab",
     "1637196511a899d270",
     "1637196768776bce95",
     "16371968864e99db71"
