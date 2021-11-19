@@ -160,6 +160,23 @@
         "show_atc": true,
         "show_rating": false
       }
+    },
+    "1637346674d0b130d1": {
+      "type": "apps",
+      "blocks": {
+        "d0c56d3e-2fcc-4fb0-8f69-8faa20eb1835": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "d0c56d3e-2fcc-4fb0-8f69-8faa20eb1835"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -171,6 +188,7 @@
     "1637346594f86b48ab",
     "1637196511a899d270",
     "1637196768776bce95",
-    "16371968864e99db71"
+    "16371968864e99db71",
+    "1637346674d0b130d1"
   ]
 }
