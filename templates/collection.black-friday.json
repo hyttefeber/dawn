@@ -33,8 +33,52 @@
       "settings": {
       }
     },
+    "163740507148c347b1": {
+      "type": "collection-list",
+      "blocks": {
+        "1637405071fe09fe83-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "super-tilbud-50"
+          }
+        },
+        "1637405071fe09fe83-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "1637405071fe09fe83-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alt-marius"
+          }
+        },
+        "23e1df00-7ec6-4f60-ac84-ac6e703e6be2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "salg-manedens-kupp"
+          }
+        }
+      },
+      "block_order": [
+        "1637405071fe09fe83-0",
+        "1637405071fe09fe83-1",
+        "1637405071fe09fe83-2",
+        "23e1df00-7ec6-4f60-ac84-ac6e703e6be2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "accent-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
     "1637237672269beed2": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "BLACK FRIDAY SUPER TILBUD ( så lenge beholdning varer)",
         "collection": "super-tilbud-50",
@@ -70,6 +114,7 @@
         },
         "16373465947cd1a556-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Vis alle supertilbudene",
             "button_link": "https:\/\/hyttefeber.myshopify.com\/collections\/super-tilbud-50",
@@ -89,6 +134,7 @@
     },
     "1637196511a899d270": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Alt Marius 30 % rabatt",
         "collection": "alt-marius",
@@ -106,6 +152,7 @@
     },
     "1637196768776bce95": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Alt Norgesglasset 30-50% rabatt",
         "collection": "norgesglasset-hele-den-originale-serien",
@@ -123,6 +170,7 @@
     },
     "16371968864e99db71": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Alt Espegard 15 - 33 % rabatt",
         "collection": "espegard",
@@ -165,6 +213,7 @@
   "order": [
     "16336834187109d930",
     "pf-415bb86d",
+    "163740507148c347b1",
     "1637237672269beed2",
     "1637346594f86b48ab",
     "1637196511a899d270",
