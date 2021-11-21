@@ -526,6 +526,9 @@
         "show_view_all": {
           "label": "Aktiver «Vis alle»-knapp hvis samlingen inneholder flere produkter enn de som vises"
         },
+        "view_all_text": {
+          "label": "Endre tekst i «Vis alle»-knapp. Hvis feltet er tomt vil standardtekst brukes"
+        },
         "swipe_on_mobile": {
           "label": "Aktiver sveip på mobil"
         },

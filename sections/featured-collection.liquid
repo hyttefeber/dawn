@@ -64,12 +64,18 @@
 
   {%- if section.settings.show_view_all and more_in_collection -%}
     <div class="center{% if section.settings.swipe_on_mobile %} small-hide medium-hide{% endif %}">
-      <a href="{{ section.settings.collection.url }}"
-        class="button"
-        aria-label="{{ 'sections.featured_collection.view_all_label' | t: collection_name: section.settings.collection.title }}"
-      >
-        {{ 'sections.featured_collection.view_all' | t }}
-      </a>
+<a href="{{ section.settings.collection.url }}" class="button" aria-label="
+    {%- if section.settings.view_all_text != blank -%}
+      {{ section.settings.view_all_text }}
+    {%- else -%}
+      {{ 'sections.featured_collection.view_all_label' | t: collection_name: section.settings.collection.title }}
+    {%- endif -%}">
+  {%- if section.settings.view_all_text != blank -%}
+    {{ section.settings.view_all_text }}
+  {%- else -%}
+    {{ 'sections.featured_collection.view_all' | t }}
+  {%- endif -%}
+</a>
     </div>
   {%- endif -%}
 </div>
@@ -105,6 +111,11 @@
       "id": "show_view_all",
       "default": true,
       "label": "t:sections.featured-collection.settings.show_view_all.label"
+    },
+    {
+      "type": "text",
+      "id": "view_all_text",
+      "label": "t:sections.featured-collection.settings.view_all_text.label"
     },
     {
       "type": "checkbox",

@@ -515,6 +515,9 @@
         "show_view_all": {
           "label": "Enable \"View all\" button if collection has more products than shown"
         },
+        "view_all_text": {
+          "label": "Change \"View all\" button text, if left blank, default value is used"
+        },
         "swipe_on_mobile": {
           "label": "Enable swipe on mobile"
         },
