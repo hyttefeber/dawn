@@ -18,20 +18,20 @@
   .product-grid.negative-margin--small {
     margin-bottom: -1rem;
   }
-  
+
   .product-form {
     display: flex;
     flex-direction: column;
     margin-top: auto;
   }
-  
-  .card-wrapper {
+
+  .collection .card-wrapper {
     display: flex;
     height: 100%;
     flex-direction: column;
     margin: 0 10px;
   }
-  
+
 }
 .product-form__buttons:hover, .button:not([disabled]):hover{
     -webkit-transition-duration:0.2s;
