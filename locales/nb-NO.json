@@ -142,7 +142,8 @@
         "play_video": "Spill av video"
       },
       "view_full_details": "Vis alle detaljer",
-      "read_more": "Les mer"
+      "read_more": "Les mer",
+      "order": ""
     },
     "modal": {
       "label": "Mediegalleri"
@@ -335,7 +336,7 @@
       "billing_address": "Fakturaadresse",
       "payment_status": "Betalingsstatus",
       "shipping_address": "Leveringsadresse",
-      "fulfillment_status": "Distribusjonsstatus",
+      "fulfillment_status": "Sendingsstatus",
       "discount": "Rabatt",
       "shipping": "Frakt",
       "tax": "Avgift",
@@ -357,7 +358,7 @@
       "order_number_link": "Bestillingsnummer {{ number }}",
       "date": "Dato",
       "payment_status": "Betalingsstatus",
-      "fulfillment_status": "Distribusjonsstatus",
+      "fulfillment_status": "Sendingsstatus",
       "total": "Totalt",
       "none": "Du har ikke lagt inn noen bestillinger enda."
     },
