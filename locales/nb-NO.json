@@ -458,6 +458,13 @@
     },
     "links": {
       "powered_by_shopify": " "
+    },
+    "notices": {
+      "order": {
+        "fulfillment_status": {
+          "unfulfilled": "Ikke sendt"
+        }
+      }
     }
   },
   "socialshopwave": {
