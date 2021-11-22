@@ -19,18 +19,7 @@
     margin-bottom: -1rem;
   }
 
-  .product-form {
-    display: flex;
-    flex-direction: column;
-    margin-top: auto;
-  }
 
-  .collection .card-wrapper {
-    display: flex;
-    height: 100%;
-    flex-direction: column;
-    margin: 0 10px;
-  }
 
 }
 .product-form__buttons:hover, .button:not([disabled]):hover{
@@ -59,6 +48,19 @@
 
 .card-wrapper .product-form__buttons {
   padding-top: 3rem;
+}
+
+.collection .product-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+}
+
+.collection .card-wrapper {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  margin: 0 10px;
 }
 
 
