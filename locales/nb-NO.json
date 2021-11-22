@@ -454,6 +454,9 @@
       "shop_policies": {
         "refund_policy": "Retur og angrerett",
         "shipping_policy": "Frakt og levering"
+      },
+      "thank_you": {
+        "unfulfilled_items_title": "Klargjøres for transport"
       }
     },
     "links": {
@@ -462,7 +465,8 @@
     "notices": {
       "order": {
         "fulfillment_status": {
-          "unfulfilled": "Ikke sendt"
+          "unfulfilled": "Ikke sendt",
+          "fulfilled": "Sendt"
         }
       }
     }
