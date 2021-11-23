@@ -12,6 +12,7 @@
             "show_tags": true,
             "separator_char_code": "rsaquo;",
             "sep_plus_class": "breadcrumb__sep_plus5",
+            "insert_jsonld": true,
             "link_catall": "\/collections\/all",
             "text_catall": "Alle produkter",
             "show_product_title": true,
@@ -39,6 +40,12 @@
         "title": {
           "type": "title",
           "settings": {
+          }
+        },
+        "f9df3c08-7707-463d-87f5-aaa17e03dc66": {
+          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommerceproductreview\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
+          "settings": {
+            "slug": "Summary-widget-0"
           }
         },
         "subtitle": {
@@ -90,6 +97,7 @@
       "block_order": [
         "vendor",
         "title",
+        "f9df3c08-7707-463d-87f5-aaa17e03dc66",
         "subtitle",
         "price",
         "variant_picker",
