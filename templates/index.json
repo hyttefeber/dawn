@@ -180,12 +180,12 @@
         "d09c7949-0239-437d-b277-64ac003984c5": {
           "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
           "settings": {
-            "star": "#000",
+            "star": "#fdcf0d",
             "review_type": "product",
             "reviews_shown": 20,
             "header_bg_colour": "#000",
             "header_colour": "#fff",
-            "header_star_colour": "#fff",
+            "header_star_colour": "#fdcf0d",
             "heading_font": "helvetica_n4",
             "enable_rich_snippets": true
           }
