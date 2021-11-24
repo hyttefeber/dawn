@@ -2378,6 +2378,6 @@ text-decoration: none;
     min-height: 120px;
     width: 45%;
   }
-.R-ReviewsList .item__inner .u-textRight--all, .Var-popup-heading-text {        
+.R-ReviewsList .item__inner .u-textRight--all, .Var-popup-heading-text, #vote_options-product_review-8604283 {        
  display: none;
 }
