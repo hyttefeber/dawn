@@ -135,11 +135,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Norgesglasset - Hele serien",
-        "collection": "norgesglasset-hele-den-originale-serien",
+        "title": "Alt fra Espegard",
+        "collection": "espegard",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra norgesglasset",
+        "view_all_text": "Vis alt fra Espegard",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -153,11 +153,11 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Kjøkken og Servering",
-        "collection": "kjokken-og-servering",
+        "title": "Til Uteplassen",
+        "collection": "til-uteplassen",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt til kjøkken og servering",
+        "view_all_text": "Vis alt til uteplassen",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
