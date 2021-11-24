@@ -131,11 +131,49 @@
         "show_atc": true,
         "show_rating": false
       }
+    },
+    "1637747763162bef1b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "163774777359a12be4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Norgesglasset - Hele serien",
+        "collection": "norgesglasset-hele-den-originale-serien",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "Vis alt fra norgesglasset",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
     }
   },
   "order": [
     "16323451604b3f767a",
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1637747763162bef1b",
+    "163774777359a12be4"
   ]
 }
