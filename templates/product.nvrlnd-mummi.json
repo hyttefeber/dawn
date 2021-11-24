@@ -135,11 +135,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Flere Marius-sokker",
-        "collection": "marius-sokker",
+        "title": "Flere Mummisokker",
+        "collection": "mummisokkene",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alle sokker med Marius",
+        "view_all_text": "Vis alle Mummisokker",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -153,11 +153,11 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer Marius",
-        "collection": "alt-marius",
+        "title": "Mer Mummi",
+        "collection": "mummi-hos-hyttefeber",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt Marius",
+        "view_all_text": "Vis alt Mummi",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
