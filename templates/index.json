@@ -167,6 +167,38 @@
         "show_rating": false
       }
     },
+    "1632314372a61be37f": {
+      "type": "apps",
+      "blocks": {
+        "ace311bf-0f90-40dc-8aeb-d7bbc2e98ba4": {
+          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommercewidget\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
+          "disabled": true,
+          "settings": {
+            "slug": "Replacing-Privy-from-the-bottom-up-0"
+          }
+        },
+        "d09c7949-0239-437d-b277-64ac003984c5": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "settings": {
+            "star": "#000",
+            "review_type": "product",
+            "reviews_shown": 20,
+            "header_bg_colour": "#000",
+            "header_colour": "#fff",
+            "header_star_colour": "#fff",
+            "heading_font": "helvetica_n4",
+            "enable_rich_snippets": true
+          }
+        }
+      },
+      "block_order": [
+        "ace311bf-0f90-40dc-8aeb-d7bbc2e98ba4",
+        "d09c7949-0239-437d-b277-64ac003984c5"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -545,24 +577,6 @@
         "show_text_below": true,
         "link": ""
       }
-    },
-    "1632314372a61be37f": {
-      "type": "apps",
-      "blocks": {
-        "ace311bf-0f90-40dc-8aeb-d7bbc2e98ba4": {
-          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommercewidget\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
-          "disabled": true,
-          "settings": {
-            "slug": "Replacing-Privy-from-the-bottom-up-0"
-          }
-        }
-      },
-      "block_order": [
-        "ace311bf-0f90-40dc-8aeb-d7bbc2e98ba4"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -571,6 +585,7 @@
     "1629970086900f7d29",
     "1631626408eee30b8a",
     "1632000821b08894c5",
+    "1632314372a61be37f",
     "featured_products",
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
@@ -583,7 +598,6 @@
     "1632262113e988bb5e",
     "1632181677ff608e6b",
     "163200636372ee71d9",
-    "1632004573cbceffe9",
-    "1632314372a61be37f"
+    "1632004573cbceffe9"
   ]
 }

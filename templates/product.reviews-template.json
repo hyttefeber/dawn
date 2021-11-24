@@ -141,8 +141,8 @@
             "star": "#fdcf0d",
             "review_type": "product",
             "reviews_shown": 20,
-            "header_bg_colour": "#000",
-            "header_colour": "#fff",
+            "header_bg_colour": "#000000",
+            "header_colour": "#ffffff",
             "header_star_colour": "#fdcf0d",
             "heading_font": "helvetica_n4",
             "enable_rich_snippets": false
