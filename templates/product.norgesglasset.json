@@ -196,6 +196,31 @@
         "show_atc": true,
         "show_rating": false
       }
+    },
+    "1637759226874c9456": {
+      "type": "apps",
+      "blocks": {
+        "f81fb9a1-5cd1-4281-9ab0-57b6f2eda883": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
+          "settings": {
+            "star": "#fdcf0d",
+            "review_type": "product",
+            "reviews_shown": 20,
+            "header_bg_colour": "#000",
+            "header_colour": "#ffffff",
+            "header_star_colour": "#fff",
+            "heading_font": "cabin_n4",
+            "enable_rich_snippets": true
+          }
+        }
+      },
+      "block_order": [
+        "f81fb9a1-5cd1-4281-9ab0-57b6f2eda883"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -203,6 +228,7 @@
     "main",
     "product-recommendations",
     "163774777359a12be4",
-    "1637747763162bef1b"
+    "1637747763162bef1b",
+    "1637759226874c9456"
   ]
 }
