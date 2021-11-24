@@ -135,11 +135,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer fra Espegard",
-        "collection": "espegard",
+        "title": "Mer fra Lama",
+        "collection": "lama-interior",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra Espegard",
+        "view_all_text": "Vis alt fra Lama Interiør",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -153,11 +153,11 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Til Uteplassen",
-        "collection": "til-uteplassen",
+        "title": "Mer interiør",
+        "collection": "interior-til-hytter-og-hus",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt til uteplassen",
+        "view_all_text": "Vis alt interiør",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
