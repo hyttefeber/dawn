@@ -9,6 +9,35 @@
 <link rel="stylesheet" href="{{ 'component-deferred-media.css' | asset_url }}" media="print" onload="this.media='all'">
 
 <script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
+<script>
+        translations = {
+rating: "snitt",
+reviews: "anmeldelser",
+excellent: "Utmerket",
+good: "Bra",
+normal: "Normal",
+anonymous: "Anonym",
+verified_customer: "Bekreftet kjøper",
+based_on: "basert på",
+would_recommend: "Jeg anbefaler dette produktet",
+helpful_multiple: "people found this review helpful.",
+helpful_single: "person found this review helpful.",
+up_voted: 'Du stemte opp denne anmeldelsen som nyttig.',
+down_voted: 'Du stemte ned denne anmeldelsen.',
+was_helpful:'Var denne anmeldelsen nyttig?',
+yes: 'Ja',
+no: 'Nei',
+minute_ago:'minutt siden',
+minutes_ago:'minutter siden',
+hour_ago:'time siden',
+hours_ago:'timer siden',
+day_ago:'dag siden',
+days_ago:'dager siden',
+week_ago:'uke siden',
+weeks_ago:'uker siden',
+month_ago:'måned siden',
+months_ago:'måneder siden',
+        };</script>
 
 {%- assign first_3d_model = product.media | where: "media_type", "model" | first -%}
 {%- if first_3d_model -%}
