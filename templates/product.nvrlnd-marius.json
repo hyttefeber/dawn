@@ -135,11 +135,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer fra Lama",
-        "collection": "lama-interior",
+        "title": "Flere Marius-sokker",
+        "collection": "marius-sokker",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra Lama Interiør",
+        "view_all_text": "Vis alle sokker med Marius",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -153,11 +153,11 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer interiør",
-        "collection": "interior-til-hytter-og-hus",
+        "title": "Mer Marius",
+        "collection": "alt-marius",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt interiør",
+        "view_all_text": "Vis alt Marius",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
