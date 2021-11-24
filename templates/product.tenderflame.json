@@ -135,11 +135,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer lykter og lys",
-        "collection": "belysning-og-lyslykter",
+        "title": "Mer fra Tenderflame",
+        "collection": "tenderflame",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt av lys",
+        "view_all_text": "Vis alt fra Tenderflame",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -153,11 +153,11 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer interiør",
-        "collection": "interior-til-hytter-og-hus",
+        "title": "Mer lykter og belysning",
+        "collection": "belysning-og-lyslykter",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt interiør",
+        "view_all_text": "Vis alt av belysning og lyslykter",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
