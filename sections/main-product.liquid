@@ -477,6 +477,7 @@
   <script src="{{ 'product-model.js' | asset_url }}" defer></script>
 {%- endif -%}
 
+
 <script type="application/ld+json">
   {
     "@context": "http://schema.org/",
@@ -512,6 +513,13 @@
       {%- endfor -%}
     ]
   }
+</script>
+<script src="https://widget.reviews.io/rich-snippet/dist.js"></script>
+<script>
+richSnippet({
+    store: 'hyttefeber.no',
+    sku: '{{ product.selected_or_first_available_variant.sku | json }}'
+});
 </script>
 
 <!-- HR -->
