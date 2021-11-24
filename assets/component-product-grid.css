@@ -63,5 +63,18 @@
   margin: 0 10px;
 }
 
+.product-recommendations .product-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: auto;
+}
+
+.product-recommendations .card-wrapper {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  margin: 0 10px;
+}
+
 
 
