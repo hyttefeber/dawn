@@ -155,13 +155,13 @@
       },
       "15316669992541710076": {
         "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-snippet\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "star": "#fdcf0d",
           "snippet_mode": "minimal",
           "text": "Anmeldelser",
           "line_break": false,
-          "show_popup": true,
+          "show_popup": false,
           "anchor_to_reviews_widget": false
         }
       }

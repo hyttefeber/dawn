@@ -186,7 +186,7 @@
             "header_bg_colour": "#000",
             "header_colour": "#fff",
             "header_star_colour": "#fdcf0d",
-            "heading_font": "helvetica_n4",
+            "heading_font": "montserrat_n4",
             "enable_rich_snippets": true
           }
         }
