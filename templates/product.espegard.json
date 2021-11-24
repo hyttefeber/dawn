@@ -153,14 +153,14 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Til Uteplassen",
+        "title": "Mer til Uteplassen",
         "collection": "til-uteplassen",
         "products_to_show": 4,
         "show_view_all": true,
         "view_all_text": "Vis alt til uteplassen",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
