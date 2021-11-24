@@ -119,19 +119,6 @@
         "enable_video_looping": false
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "Often kjøpt sammen med",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": false
-      }
-    },
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
@@ -141,6 +128,19 @@
         "show_view_all": true,
         "view_all_text": "Vis alle julekunstkort",
         "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Often kjøpt sammen med",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
@@ -173,8 +173,8 @@
   "order": [
     "16323451604b3f767a",
     "main",
-    "product-recommendations",
     "163774777359a12be4",
+    "product-recommendations",
     "1637747763162bef1b"
   ]
 }
