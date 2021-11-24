@@ -2378,6 +2378,6 @@ text-decoration: none;
     min-height: 120px;
     width: 45%;
   }
-.R-ReviewsList .item__inner .u-textRight--all, .R-ReviewsioLogo__image {        
+.R-ReviewsList .item__inner .u-textRight--all, .R-ReviewsioLogo__image, .CarouselWidget-prefix .R-ReviewsioLogo .R-ReviewsioLogo__image {        
  display: none;
 }
