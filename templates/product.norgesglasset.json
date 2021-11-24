@@ -97,6 +97,33 @@
           "type": "vendor_link",
           "settings": {
           }
+        },
+        "bb26a0cf-f88d-41d8-98be-9e54d1d0a4f2": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "e6d1efe2-8937-4ad6-8aa1-90a9552c731a": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-polaris\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
+          "settings": {
+            "star": "#000",
+            "review_type": "product_review,questions",
+            "per_page": 8,
+            "primary_btn_bg_color": "#000",
+            "primary_btn_border_color": "#000",
+            "primary_btn_text_color": "#fff",
+            "secondary_btn_bg_color": "rgba(0,0,0,0)",
+            "secondary_btn_border_color": "#000",
+            "secondary_btn_text_color": "#000",
+            "heading_font": "cabin_n4",
+            "enable_rich_snippets": true,
+            "show_location": true,
+            "show_avatar": true,
+            "enable_replies": false,
+            "default_sort": "date_desc"
+          }
         }
       },
       "block_order": [
@@ -111,7 +138,9 @@
         "buy_buttons",
         "description",
         "share",
-        "9f668dc8-c957-4451-b678-063693ea2ef1"
+        "9f668dc8-c957-4451-b678-063693ea2ef1",
+        "bb26a0cf-f88d-41d8-98be-9e54d1d0a4f2",
+        "e6d1efe2-8937-4ad6-8aa1-90a9552c731a"
       ],
       "settings": {
         "enable_sticky_info": true,
