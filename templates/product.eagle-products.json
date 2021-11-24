@@ -135,11 +135,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer fra Øyo",
-        "collection": "alt-fra-oyo",
+        "title": "Mer fra Eagle Products",
+        "collection": "eagle-products",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra Øyo",
+        "view_all_text": "Vis alt fra Eagle Products",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
