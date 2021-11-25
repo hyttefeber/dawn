@@ -169,6 +169,7 @@
     },
     "1632314372a61be37f": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "ace311bf-0f90-40dc-8aeb-d7bbc2e98ba4": {
           "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommercewidget\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
@@ -183,8 +184,8 @@
             "star": "#fdcf0d",
             "review_type": "product",
             "reviews_shown": 20,
-            "header_bg_colour": "#000",
-            "header_colour": "#fff",
+            "header_bg_colour": "#000000",
+            "header_colour": "#ffffff",
             "header_star_colour": "#fdcf0d",
             "heading_font": "montserrat_n4",
             "enable_rich_snippets": true
