@@ -135,11 +135,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer fra Eyepoc",
-        "collection": "eyepoc",
+        "title": "Mer fra TOVA",
+        "collection": "tova",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra Eyepoc",
+        "view_all_text": "Vis alt fra TOVA",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -152,6 +152,7 @@
     },
     "1637747763162bef1b": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Mer for tur og friluft",
         "collection": "ut-pa-tur",
