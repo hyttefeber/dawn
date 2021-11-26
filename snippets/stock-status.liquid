@@ -11,7 +11,7 @@
     <span>{{ product.metafields.inventory.preorderMessage }}</span>
 {%- elsif product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.available -%}
 <i class="stock-status__indicator stock-status__indicator--yellow"></i>
-<span>*Varen er på vei til lager, og har 0-3 dager lengre leveringstid.</span>
+<span>*Dette produktet har ca. 0-3 dager lengre leveringstid.</span>
 {%- elsif product.selected_or_first_available_variant.inventory_quantity >= 1 and product.tags contains '_sellahead' -%}
 <i class="stock-status__indicator stock-status__indicator--green"></i>
 <span>*Varen er på vei til lager, og har 0-3 dager lengre leveringstid.</span>
