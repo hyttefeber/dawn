@@ -154,7 +154,7 @@
       "settings": {
         "title": "Populært nå",
         "collection": "populaert-na",
-        "products_to_show": 4,
+        "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "",
         "swipe_on_mobile": true,
