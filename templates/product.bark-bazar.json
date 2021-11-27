@@ -1,0 +1,234 @@
+{
+  "sections": {
+    "16323451604b3f767a": {
+      "type": "apps",
+      "blocks": {
+        "36a14efe-851c-4431-a0db-a3d4269571a5": {
+          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
+          "settings": {
+            "show_catroot": true,
+            "link_catroot": "\/",
+            "text_catroot": "Hjem",
+            "show_tags": true,
+            "separator_char_code": "rsaquo;",
+            "sep_plus_class": "breadcrumb__sep_plus5",
+            "insert_jsonld": true,
+            "link_catall": "\/collections\/alle-produkter",
+            "text_catall": "Alle produkter",
+            "show_product_title": true,
+            "truncate_limit": 24
+          }
+        }
+      },
+      "block_order": [
+        "36a14efe-851c-4431-a0db-a3d4269571a5"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "5ab26f72-f46c-47b1-bf12-ff3315b31a23": {
+          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommerceproductreview\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
+          "settings": {
+            "slug": "Summary-widget-0"
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "6b9ba633-10f0-4907-bcf6-c04c3113db92": {
+          "type": "stock_status",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Del"
+          }
+        },
+        "9f668dc8-c957-4451-b678-063693ea2ef1": {
+          "type": "vendor_link",
+          "settings": {
+          }
+        },
+        "bb26a0cf-f88d-41d8-98be-9e54d1d0a4f2": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "e6d1efe2-8937-4ad6-8aa1-90a9552c731a": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-polaris\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
+          "settings": {
+            "star": "#000",
+            "review_type": "product_review,questions",
+            "per_page": 8,
+            "primary_btn_bg_color": "#000",
+            "primary_btn_border_color": "#000",
+            "primary_btn_text_color": "#fff",
+            "secondary_btn_bg_color": "rgba(0,0,0,0)",
+            "secondary_btn_border_color": "#000",
+            "secondary_btn_text_color": "#000",
+            "heading_font": "cabin_n4",
+            "enable_rich_snippets": true,
+            "show_location": true,
+            "show_avatar": true,
+            "enable_replies": false,
+            "default_sort": "date_desc"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "5ab26f72-f46c-47b1-bf12-ff3315b31a23",
+        "subtitle",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "6b9ba633-10f0-4907-bcf6-c04c3113db92",
+        "buy_buttons",
+        "description",
+        "share",
+        "9f668dc8-c957-4451-b678-063693ea2ef1",
+        "bb26a0cf-f88d-41d8-98be-9e54d1d0a4f2",
+        "e6d1efe2-8937-4ad6-8aa1-90a9552c731a"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Often kjøpt sammen med",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "163774777359a12be4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Norgesglasset - Hele serien",
+        "collection": "norgesglasset-hele-den-originale-serien",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "Vis alt fra norgesglasset",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "1637747763162bef1b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Kjøkken og Servering",
+        "collection": "kjokken-og-servering",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "Vis alt til kjøkken og servering",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "1637759226874c9456": {
+      "type": "apps",
+      "blocks": {
+        "f81fb9a1-5cd1-4281-9ab0-57b6f2eda883": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
+          "settings": {
+            "star": "#fdcf0d",
+            "review_type": "product",
+            "reviews_shown": 20,
+            "header_bg_colour": "#000",
+            "header_colour": "#ffffff",
+            "header_star_colour": "#fff",
+            "heading_font": "cabin_n4",
+            "enable_rich_snippets": true
+          }
+        }
+      },
+      "block_order": [
+        "f81fb9a1-5cd1-4281-9ab0-57b6f2eda883"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "16323451604b3f767a",
+    "main",
+    "product-recommendations",
+    "163774777359a12be4",
+    "1637747763162bef1b",
+    "1637759226874c9456"
+  ]
+}
