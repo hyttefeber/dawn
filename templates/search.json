@@ -13,6 +13,14 @@
         "article_show_author": false
       }
     },
+    "163818398173b582cc": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "",
+        "text_banner_body": "Fant du ikke det du leter etter? Under finner du produkter som er populære nå :)",
+        "color-scheme": "primary"
+      }
+    },
     "1637149431dee152e3": {
       "type": "featured-collection",
       "settings": {
@@ -20,6 +28,7 @@
         "collection": "populaert-na",
         "products_to_show": 4,
         "show_view_all": true,
+        "view_all_text": "",
         "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -33,6 +42,7 @@
   },
   "order": [
     "main",
+    "163818398173b582cc",
     "1637149431dee152e3"
   ]
 }
