@@ -109,7 +109,7 @@
   .collection-list--10-items .grid__item:nth-child(n + 7) {
     width: 50%;
   }
-  .collection-list--4-items .grid__item {
+  .collection-list--4-items .grid__item, .collection-list--8-items .grid__item {
     width: 25%;
   }
 }
