@@ -29,15 +29,6 @@
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
         },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/10.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
-          }
-        },
         "column2": {
           "type": "column",
           "settings": {
@@ -46,13 +37,22 @@
             "text": "",
             "link": "shopify:\/\/collections\/balplassen"
           }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+          }
         }
       },
       "block_order": [
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
         "column1",
-        "column3",
-        "column2"
+        "column2",
+        "column3"
       ],
       "settings": {
         "title": "",
@@ -89,10 +89,10 @@
         "1629970086900f7d29-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/sitteplassen-hyttefeber-forside3c.jpg",
+            "image": "shopify:\/\/shop_images\/6_f932f4f4-b696-44f3-8381-0e880d666c72.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/utemobler-og-sitteplasser"
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         }
       },
