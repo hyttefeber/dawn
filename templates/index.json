@@ -20,15 +20,6 @@
             "link": "shopify:\/\/collections\/belysning-og-lyslykter"
           }
         },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pizzaovner-hos-hyttefeber-forside.jpg",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
-          }
-        },
         "column1": {
           "type": "column",
           "settings": {
@@ -36,6 +27,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pizzaovner-hos-hyttefeber-forside.jpg",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "column2": {
@@ -50,8 +50,8 @@
       },
       "block_order": [
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
-        "column3",
         "column1",
+        "column3",
         "column2"
       ],
       "settings": {
@@ -80,7 +80,7 @@
         "1629970086900f7d29-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_d3520fe8-772c-4fcb-b326-c38ae49e49a6.png",
+            "image": "shopify:\/\/shop_images\/3_107a9850-c295-440c-9144-58481ba163dd.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/alt-marius"
