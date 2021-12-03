@@ -124,6 +124,11 @@
             "enable_replies": false,
             "default_sort": "date_desc"
           }
+        },
+        "fb85a789-7b33-4922-b6e9-55c1f99f8ff5": {
+          "type": "rating",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -140,7 +145,8 @@
         "share",
         "9f668dc8-c957-4451-b678-063693ea2ef1",
         "bb26a0cf-f88d-41d8-98be-9e54d1d0a4f2",
-        "e6d1efe2-8937-4ad6-8aa1-90a9552c731a"
+        "e6d1efe2-8937-4ad6-8aa1-90a9552c731a",
+        "fb85a789-7b33-4922-b6e9-55c1f99f8ff5"
       ],
       "settings": {
         "enable_sticky_info": true,

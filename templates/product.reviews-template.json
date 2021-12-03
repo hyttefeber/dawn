@@ -48,6 +48,12 @@
             "slug": "Summary-widget-0"
           }
         },
+        "22b27e86-1714-4d78-8748-2cd25be2b2c9": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<script src=\"https:\/\/widget.reviews.io\/rating-snippet\/dist.js\"><\/script>\n<link rel=\"stylesheet\" href=\"https:\/\/widget.reviews.io\/rating-snippet\/dist.css\" \/>\n<script>\nratingSnippet(\"ruk_rating_snippet\",{\n  store: \"hyttefeber.no\",\n  color: \"#0E1311\",\n  linebreak: true,\n  usePolaris: true,\n  text: \"Anmeldelser\"\n});\n<\/script>\n<div class=\"ruk_rating_snippet\" data-sku=\"ON-105\"><\/div>"
+          }
+        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -103,6 +109,7 @@
         "vendor",
         "title",
         "5ab26f72-f46c-47b1-bf12-ff3315b31a23",
+        "22b27e86-1714-4d78-8748-2cd25be2b2c9",
         "subtitle",
         "price",
         "variant_picker",
@@ -134,24 +141,6 @@
     },
     "163776972671acefad": {
       "type": "apps",
-      "blocks": {
-        "0213b5bc-0a34-4da3-a422-bca3666acc9a": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-            "star": "#fdcf0d",
-            "review_type": "product",
-            "reviews_shown": 20,
-            "header_bg_colour": "#000000",
-            "header_colour": "#ffffff",
-            "header_star_colour": "#fdcf0d",
-            "heading_font": "helvetica_n4",
-            "enable_rich_snippets": false
-          }
-        }
-      },
-      "block_order": [
-        "0213b5bc-0a34-4da3-a422-bca3666acc9a"
-      ],
       "settings": {
         "include_margins": true
       }
