@@ -152,6 +152,12 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "16389580537df485f4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/widget.reviews.io\/badge-modern\/dist.js\"><\/script>\n<div id=\"badge-230\" style=\"max-width:230px;\"><\/div>\n<script>\n    reviewsBadgeModern('badge-230', {\n    store: 'hyttefeber.no',\n    primaryClr: '#000000',\n    starsClr: '#F4C906'\n    });\n<\/script>"
+      }
     }
   },
   "order": [
@@ -159,6 +165,7 @@
     "main",
     "16389572005e308be8",
     "product-recommendations",
-    "163776972671acefad"
+    "163776972671acefad",
+    "16389580537df485f4"
   ]
 }
