@@ -53,7 +53,7 @@
         "22b27e86-1714-4d78-8748-2cd25be2b2c9": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<script src=\"https:\/\/widget.reviews.io\/rating-snippet\/dist.js\"><\/script>\n<link rel=\"stylesheet\" href=\"https:\/\/widget.reviews.io\/rating-snippet\/dist.css\" \/>\n<script>\nratingSnippet(\"ruk_rating_snippet\",{\n  store: \"hyttefeber.no\",\n  color: \"#0E1311\",\n  linebreak: true,\n  usePolaris: true,\n  text: \"Anmeldelser\"\n});\n<\/script>\n<div class=\"ruk_rating_snippet\" data-sku=\"{{product.selected_or_first_available_variant.sku}}\"><\/div>"
+            "custom_liquid": "<script src=\"https:\/\/widget.reviews.io\/rating-snippet\/dist.js\"><\/script>\n<link rel=\"stylesheet\" href=\"https:\/\/widget.reviews.io\/rating-snippet\/dist.css\" \/>\n<script>\nratingSnippet(\"ruk_rating_snippet\",{\n  store: \"hyttefeber.no\",\n  color: \"#0E1311\",\n  linebreak: true,\n  usePolaris: false,\n  text: \"Anmeldelser\"\n});\n<\/script>\n<div class=\"ruk_rating_snippet\" data-sku=\"{{product.selected_or_first_available_variant.sku}}\"><\/div>"
           }
         },
         "subtitle": {
