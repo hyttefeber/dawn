@@ -158,7 +158,7 @@
         "disabled": false,
         "settings": {
           "star": "#fdcf0d",
-          "snippet_mode": "minimal",
+          "snippet_mode": "default",
           "text": "Anmeldelser",
           "line_break": false,
           "show_popup": true,
