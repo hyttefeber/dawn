@@ -16,7 +16,8 @@
             "link_catall": "\/collections\/alle-produkter",
             "text_catall": "Alle produkter",
             "show_product_title": true,
-            "truncate_limit": 24
+            "truncate_limit": 24,
+            "insert_shortlinkfix": false
           }
         }
       },
@@ -42,10 +43,10 @@
           "settings": {
           }
         },
-        "5ab26f72-f46c-47b1-bf12-ff3315b31a23": {
-          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommerceproductreview\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
+        "b6061fac-f48a-4b9b-a0a2-b71b2f7b8d72": {
+          "type": "custom_liquid",
           "settings": {
-            "slug": "Summary-widget-0"
+            "custom_liquid": "<div class=\"ruk_rating_snippet\" data-sku=\"{{ product.handle }};{{ product.variants | map: 'sku' | join: ';' }};{{ product.variants | map: 'id' | join: ';' }}\"><\/div>"
           }
         },
         "subtitle": {
@@ -102,7 +103,7 @@
       "block_order": [
         "vendor",
         "title",
-        "5ab26f72-f46c-47b1-bf12-ff3315b31a23",
+        "b6061fac-f48a-4b9b-a0a2-b71b2f7b8d72",
         "subtitle",
         "price",
         "variant_picker",
