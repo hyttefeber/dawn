@@ -28,6 +28,49 @@
         "include_margins": true
       }
     },
+    "1639344234a1ee580c": {
+      "type": "collection-list",
+      "blocks": {
+        "163934423482faf569-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gavepakket"
+          }
+        },
+        "163934423482faf569-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "julekort"
+          }
+        },
+        "163934423482faf569-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "julegavetips-2021"
+          }
+        },
+        "ad0adc38-432a-44e9-8a32-d50f3d25ef37": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "163934423482faf569-0",
+        "163934423482faf569-1",
+        "163934423482faf569-2",
+        "ad0adc38-432a-44e9-8a32-d50f3d25ef37"
+      ],
+      "settings": {
+        "title": "",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -125,6 +168,7 @@
   },
   "order": [
     "16336834187109d930",
+    "1639344234a1ee580c",
     "banner",
     "product-grid",
     "163430032528abe728"
