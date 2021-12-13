@@ -793,5 +793,5 @@ display: none;
 }
 /*Brand coloring*/
 .ElementsWidget-prefix .R-TextHeading, .R-TextHeading, .ElementsWidget-prefix .R-TextBody, .CarouselWidget-prefix .R-TextHeading{
-color: #355179;
+color: #355179!important;
 }
