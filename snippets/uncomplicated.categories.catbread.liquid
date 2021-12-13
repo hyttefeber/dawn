@@ -22,6 +22,9 @@
     {% else %}
         <span id="uncomplicated-meta-addjsonld" aria-hidden="true" style="display: none;"></span>
     {% endif %}
+    {%- if insert_shortlinkfix -%}
+        <span id="uncomplicated-meta-shortlinkfix" aria-hidden="true" style="display: none;"></span>
+    {%- endif -%}
 </nav>
 
 {{ 'uncomplicated.categories.catlist.min.js' | asset_url | script_tag }}
