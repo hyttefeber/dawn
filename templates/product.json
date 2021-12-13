@@ -1,33 +1,5 @@
 {
   "sections": {
-    "16323451604b3f767a": {
-      "type": "apps",
-      "blocks": {
-        "36a14efe-851c-4431-a0db-a3d4269571a5": {
-          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
-          "settings": {
-            "show_catroot": true,
-            "link_catroot": "\/",
-            "text_catroot": "Hjem",
-            "show_tags": true,
-            "separator_char_code": "rsaquo;",
-            "sep_plus_class": "breadcrumb__sep_plus5",
-            "insert_jsonld": true,
-            "link_catall": "\/collections\/alle-produkter",
-            "text_catall": "Alle produkter",
-            "show_product_title": true,
-            "truncate_limit": 24,
-            "insert_shortlinkfix": false
-          }
-        }
-      },
-      "block_order": [
-        "36a14efe-851c-4431-a0db-a3d4269571a5"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -141,7 +113,6 @@
     }
   },
   "order": [
-    "16323451604b3f767a",
     "main",
     "1639398220e5b56fa6",
     "product-recommendations"
