@@ -121,7 +121,19 @@
             {%- endform -%}
           </div>
         {%- endif -%}
-	{% include 'cmcommerceproductreview' with 'Tab-widget-0' %}
+	<!--{% include 'cmcommerceproductreview' with 'Tab-widget-0' %}-->
+        <script src="https://widget.reviews.io/rich-snippet-reviews-widgets/dist.js" type="text/javascript"></script>
+<div id="text-banner-widget"></div>
+
+<script>
+        richSnippetReviewsWidgets("text-banner-widget", {
+            store: "hyttefeber.no",
+            starsClr: "#f47e27",
+            textClr: "#313131",
+            logoClr: "black",
+            widgetName: "text-banner"
+        });
+</script>
         {%- if section.settings.show_social -%}
           <ul class="footer__list-social list-unstyled list-social" role="list">
             {%- if settings.social_twitter_link != blank -%}
