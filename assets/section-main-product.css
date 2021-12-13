@@ -787,3 +787,11 @@ a.product__text {
   border: 2px #bb1e10;
   background: #bb1e10;
 }
+  /*Hide no text and submit review button*/
+.u-marginBottom--md .R-TextBody em, .ElementsWidget-prefix .R-Button--primary{
+display: none;
+}
+/*Brand coloring*/
+.ElementsWidget-prefix .R-TextHeading, .R-TextHeading, .ElementsWidget-prefix .R-TextBody{
+color: #355179;
+}
