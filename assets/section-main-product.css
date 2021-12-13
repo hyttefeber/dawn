@@ -792,6 +792,6 @@ a.product__text {
 display: none;
 }
 /*Brand coloring*/
-.ElementsWidget-prefix .R-TextHeading, .R-TextHeading, .ElementsWidget-prefix .R-TextBody{
+.ElementsWidget-prefix .R-TextHeading, .R-TextHeading, .ElementsWidget-prefix .R-TextBody, .CarouselWidget-prefix .R-TextHeading{
 color: #355179;
 }
