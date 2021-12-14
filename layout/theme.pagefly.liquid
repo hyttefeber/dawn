@@ -19,7 +19,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {%- unless settings.type_header_font.system? and settings.type_body_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
-
+{% render 'elevar-head' %}
     <title>
       {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
@@ -34,6 +34,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {% render 'meta-tags' %}
     
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
+    <!--<script async defer src="https://s.kviq.no/2249.js?sf"></script>-->
    
     <!-- Hacks for Shopify header -->
     {% capture h_content %}
