@@ -14,7 +14,7 @@
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/belysning-hos-hyttefeber-forside.jpg",
+            "image": "shopify:\/\/shop_images\/368_x_246_px_1.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/belysning-og-lyslykter"
@@ -23,7 +23,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/13.png",
+            "image": "shopify:\/\/shop_images\/5_e4a385db-1447-4a99-8a55-7365a3fe299c.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
@@ -32,7 +32,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Kopi_av_Uten_navn_5.png",
+            "image": "shopify:\/\/shop_images\/2_eee9fcf7-4fb6-4c99-8168-adc64de956f9.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/balplassen"
@@ -41,10 +41,10 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/10.png",
+            "image": "shopify:\/\/shop_images\/6_d80c53f6-188e-4c44-a514-18f9d7c1b141.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+            "link": "shopify:\/\/products\/gavekort"
           }
         }
       },
