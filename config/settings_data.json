@@ -22,7 +22,7 @@
             "type": "announcement",
             "settings": {
               "text": "Siste frist for levering før julaften er 16.12 (Bring og Helt Hjem), og 20.12 for Østlandet(Bring)",
-              "color_scheme": "background-2",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
