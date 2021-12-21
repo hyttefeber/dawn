@@ -11,6 +11,24 @@
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_d80c53f6-188e-4c44-a514-18f9d7c1b141.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/products\/gavekort"
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_eee9fcf7-4fb6-4c99-8168-adc64de956f9.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/balplassen"
+          }
+        },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
           "type": "column",
           "settings": {
@@ -28,31 +46,13 @@
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_eee9fcf7-4fb6-4c99-8168-adc64de956f9.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_d80c53f6-188e-4c44-a514-18f9d7c1b141.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/products\/gavekort"
-          }
         }
       },
       "block_order": [
-        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
-        "column1",
+        "column3",
         "column2",
-        "column3"
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
+        "column1"
       ],
       "settings": {
         "title": "",
