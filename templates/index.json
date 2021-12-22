@@ -3,9 +3,9 @@
     "16327413955ebd8133": {
       "type": "hf-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Toppmal_1325x360_5.png",
-        "mobile_image": "shopify:\/\/shop_images\/Blackweek_377x390_7.png",
-        "link": "shopify:\/\/collections\/julegavetips-2021"
+        "image": "shopify:\/\/shop_images\/31_78e7e74a-a96a-4429-b696-17f31bf9f4e6.png",
+        "mobile_image": "shopify:\/\/shop_images\/7_500f6ff5-1735-4899-9b11-e109ef94bfca.png",
+        "link": "shopify:\/\/collections\/balplassen"
       }
     },
     "multi_column": {
@@ -18,15 +18,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/products\/gavekort"
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_eee9fcf7-4fb6-4c99-8168-adc64de956f9.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
           }
         },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
@@ -46,13 +37,22 @@
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/14_22bf21e6-2dbc-4b1e-8154-fd162f6dda93.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+          }
         }
       },
       "block_order": [
         "column3",
-        "column2",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
-        "column1"
+        "column1",
+        "column2"
       ],
       "settings": {
         "title": "",
