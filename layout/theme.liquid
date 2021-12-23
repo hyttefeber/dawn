@@ -15,7 +15,7 @@
     {%- unless settings.type_header_font.system? and settings.type_body_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
-{% render 'elevar-head' %}
+{% comment %}{% render 'elevar-head' %}{% endcomment %}
     <title>
       {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
@@ -143,7 +143,8 @@
   </head>
 
   <body class="gradient">
-    <!--Gorgias Chat Widget Start-->
+    {% render 'elevar-head' %}
+    <!--Just moved up from footer - Gorgias Chat Widget Start-->
     <script id="gorgias-chat-widget-install-v2" src="https://config.gorgias.chat/gorgias-chat-bundle-loader.js?applicationId=7389"></script><!--Gorgias Chat Widget End-->
 
     
