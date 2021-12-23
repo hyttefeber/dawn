@@ -143,7 +143,7 @@
       },
       "view_full_details": "Vis alle detaljer",
       "read_more": "Les mer",
-      "order": "Kjøp"
+      "order": "Bestill"
     },
     "modal": {
       "label": "Mediegalleri"
@@ -456,7 +456,8 @@
         "shipping_policy": "Frakt og levering"
       },
       "thank_you": {
-        "unfulfilled_items_title": "Klargjøres for transport"
+        "unfulfilled_items_title": "Klargjøres for transport",
+        "thank_you_confirmed_order_with_email": "Du mottar snart en bekreftelse på epost med ordrenummeret ditt."
       }
     },
     "links": {
