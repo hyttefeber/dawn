@@ -206,15 +206,6 @@
     background-color:#355179;
     color:#fff!important;
    }
-   .rf-review-store-date{
-     display:none;
-   }
-   .station-tabs .station-tabs-link .rf-review-star{
-     color:#F5DF5D!important;
-   }
-   .station-tabs-link .rf-reviews{
-    float: right;
-   }
 
    /*---CLS fixes---*/
   
@@ -277,7 +268,7 @@
     opacity:0.9; 
    }
    
-   
+ {% comment %}  
    /*Tweaks for reviews*/
    .rf-tab-button{
    background-color: #5FAA58;
@@ -296,12 +287,21 @@
    .rf-reviews{
      position: relative;
    }
+      .rf-review-store-date{
+     display:none;
+   }
+   .station-tabs .station-tabs-link .rf-review-star{
+     color:#F5DF5D!important;
+   }
+   .station-tabs-link .rf-reviews{
+    float: right;
+   }
    @media only screen and (min-width: 1024px) {
      .rf-tab-button{
        right:-134px;
      }
    }
-   {% comment %} {% if template contains "collection" or template contains "product" %}
+    {% if template contains "collection" or template contains "product" %}
 /*Breadcrumbs css*/
 
 #shopify-section-template--15102286037143__16336834187109d930, .spaced-section {
