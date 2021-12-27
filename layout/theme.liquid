@@ -196,79 +196,6 @@
 {% render 'back-in-stock-helper' %}
 <!-- End Back in Stock helper snippet -->
 
-   <!-- Postlaunch hacks /F -->
- <style>
-
-   /*---Bugfixing---*/
-.caption-large #BIS_trigger{
- display: none!important;
-}
-   #BIS_trigger{
-    background-color:#355179;
-    color:#fff!important;
-   }
-   /*---CLS fixes---*/
-   #shopify-block-51d9ba96-782a-43d0-80b6-67f7d701abed, #shopify-block-5ab26f72-f46c-47b1-bf12-ff3315b31a23{
-    min-height:28px;
-   }
-   /*---Visual Tweaks for UX---*/
-   .free-shipping{
-    margin: 10px 0;
-   }
-   .grid__item .card-wrapper .product-form__buttons .BIS_trigger{
- 	background-color: #355179!important;
-	}
-   .product-form__buttons:hover, .button:not([disabled]):hover{
-    -webkit-transition-duration:0.2s;
-    transition-duration:0.2s;
-   }
-   .product-form__buttons .button {
-    font-size: 1.6rem;
-    letter-spacing: .08rem;
-    min-height: 4.2rem;
-   }
-   .product-form .button--secondary{
-    color: #655B58;
-    background: whitesmoke;
-    box-shadow: none;
-    border: 1px solid #ede5dc;
-    text-transform: uppercase;
-   }
-   .product__info-wrapper .product__title{
-    color: #355179;
-   }
-   .icon-padlock{
-    height: 16px;
-    margin-right: 8px;
-   }
-   .cart-notification__links .button-label{
-    margin-top:2.5rem; 
-   }
-   .payment-icons-f img{
-   width:100%;
-   max-width: 300px;
-   }
-   .payment-icons-f{
-   text-align: center;  
-   }
-   .tax-note{
-   text-align: left;
-   }
-      
-   a img{
-     -moz-transition-duration:0.2s;
-     -o-transition-duration:0.2s;
-     -webkit-transition-duration:0.2s;
-    transition-duration:0.2s; 
-   }
-   a img:hover{
-    opacity:0.9; 
-   }   
-#gorgias-chat-container iframe#chat-button { right: 22px }
-#gorgias-chat-container iframe#chat-window { right: 0 }
-#gorgias-chat-container iframe#chat-campaigns { right: 0 }
-   
-  </style>
     
   {% if template contains "pf" %} 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -319,6 +246,5 @@
     <!--
     <script id="gorgias-chat-widget-install-v2" src="https://config.gorgias.chat/gorgias-chat-bundle-loader.js?applicationId=7389"></script> Gorgias Chat Widget End-->
 
-    
  </body>
 </html>
