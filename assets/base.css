@@ -2353,13 +2353,14 @@ details-disclosure > details {
 .title {
   margin: 0 !important;
 }
+  /*
   #uncomplicated-breadcrumbs, #uncomplicated-breadcrumbs a{
 color:#4D4D4D;
 font-size: 12px;
 text-decoration: none;
 }
 #uncomplicated-breadcrumbs{
-  height: 21.59px;}
+  height: 21.59px;}*/
 #shopify-section-template--15102286037143__16336834187109d930, .spaced-section {
 	margin-top:1rem;
 }
@@ -2381,3 +2382,74 @@ text-decoration: none;
 .R-ReviewsList .item__inner .u-textRight--all, .R-ReviewsioLogo__image, .CarouselWidget-prefix .R-ReviewsioLogo .R-ReviewsioLogo__image {        
  display: none!important;
 }
+  /* Postlaunch hacks /F */
+
+   /*---Bugfixing---*/
+.caption-large #BIS_trigger{
+ display: none!important;
+}
+   #BIS_trigger{
+    background-color:#355179;
+    color:#fff!important;
+   }
+   /*---CLS fixes---*/
+   #shopify-block-51d9ba96-782a-43d0-80b6-67f7d701abed, #shopify-block-5ab26f72-f46c-47b1-bf12-ff3315b31a23{
+    min-height:28px;
+   }
+   /*---Visual Tweaks for UX---*/
+   .free-shipping{
+    margin: 10px 0;
+   }
+   .grid__item .card-wrapper .product-form__buttons .BIS_trigger{
+ 	background-color: #355179!important;
+	}
+   .product-form__buttons:hover, .button:not([disabled]):hover{
+    -webkit-transition-duration:0.2s;
+    transition-duration:0.2s;
+   }
+   .product-form__buttons .button {
+    font-size: 1.6rem;
+    letter-spacing: .08rem;
+    min-height: 4.2rem;
+   }
+   .product-form .button--secondary{
+    color: #655B58;
+    background: whitesmoke;
+    box-shadow: none;
+    border: 1px solid #ede5dc;
+    text-transform: uppercase;
+   }
+   .product__info-wrapper .product__title{
+    color: #355179;
+   }
+   .icon-padlock{
+    height: 16px;
+    margin-right: 8px;
+   }
+   .cart-notification__links .button-label{
+    margin-top:2.5rem; 
+   }
+   .payment-icons-f img{
+   width:100%;
+   max-width: 300px;
+   }
+   .payment-icons-f{
+   text-align: center;  
+   }
+   .tax-note{
+   text-align: left;
+   }
+      
+   a img{
+     -moz-transition-duration:0.2s;
+     -o-transition-duration:0.2s;
+     -webkit-transition-duration:0.2s;
+    transition-duration:0.2s; 
+   }
+   a img:hover{
+    opacity:0.9; 
+   }   
+#gorgias-chat-container iframe#chat-button { right: 22px }
+#gorgias-chat-container iframe#chat-window { right: 0 }
+#gorgias-chat-container iframe#chat-campaigns { right: 0 }
+ 
