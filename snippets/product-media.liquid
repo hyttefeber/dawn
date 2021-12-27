@@ -59,7 +59,7 @@
                 {% if media.preview_image.width >= 1100 %}{{ media.preview_image | img_url: '1100x' }} 1100w{% endif %}"
         src="{{ media | img_url: '550x550' }}"
         sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-        {% if product.images[0] %}
+        {% if product.images[1] %}
     loading="eager" {% else %}  
     loading="lazy" {% endif %}
         width="576"
