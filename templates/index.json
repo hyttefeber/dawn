@@ -11,15 +11,6 @@
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_d80c53f6-188e-4c44-a514-18f9d7c1b141.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/products\/gavekort"
-          }
-        },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
           "type": "column",
           "settings": {
@@ -46,13 +37,22 @@
             "text": "",
             "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
           }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_d80c53f6-188e-4c44-a514-18f9d7c1b141.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/products\/gavekort"
+          }
         }
       },
       "block_order": [
-        "column3",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
         "column1",
-        "column2"
+        "column2",
+        "column3"
       ],
       "settings": {
         "title": "",
@@ -170,12 +170,6 @@
     "1632314372a61be37f": {
       "type": "apps",
       "blocks": {
-        "ace311bf-0f90-40dc-8aeb-d7bbc2e98ba4": {
-          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommercewidget\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
-          "settings": {
-            "slug": "Replacing-Privy-from-the-bottom-up-0"
-          }
-        },
         "d09c7949-0239-437d-b277-64ac003984c5": {
           "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
           "disabled": true,
@@ -192,7 +186,6 @@
         }
       },
       "block_order": [
-        "ace311bf-0f90-40dc-8aeb-d7bbc2e98ba4",
         "d09c7949-0239-437d-b277-64ac003984c5"
       ],
       "settings": {
