@@ -60,7 +60,7 @@
    
     <!-- Hacks for Shopify header -->
     {% capture h_content %}
-    {{ content_for_header }}
+    {%- if tinyscript -%}{{ content_for_header }}{%- else -%}{% render 'tiny-script-control' %}{%- endif -%}
 {% endcapture %}
 
     {% if template contains "product" %}
