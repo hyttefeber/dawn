@@ -18,7 +18,6 @@
 
 
 {{ 'component-rating.css' | asset_url | stylesheet_tag }}
-
 <div class="card-wrapper">
   <a href="{{ product_card_product.url | default: '#' }}" class="full-unstyled-link">
     <span class="visually-hidden">{{ product_card_product.title | escape }}</span>
@@ -33,7 +32,6 @@
               assign featured_media_aspect_ratio = 1
             endif
           -%}
-
           <div{% if add_image_padding %} class="card__media-full-spacer"{% endif %}>
             <div class="media media--transparent media--{{ media_size }} media--hover-effect"
               {% if media_size == 'adapt' and product_card_product.featured_media %} style="padding-bottom: {{ 1 | divided_by: featured_media_aspect_ratio | times: 100 }}%;"{% endif %}
@@ -48,7 +46,7 @@
                 src="{{ product_card_product.featured_media | img_url: '533x' }}"
                 sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 130 | divided_by: 4 }}px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
                 alt="{{ product_card_product.featured_media.alt | escape }}"
-                   {% if collection.products[0] %}
+                   {% if index == 0 %}
                 loading="eager"{% else %}
                 loading="lazy"{% endif %}
                 class="motion-reduce"
@@ -67,7 +65,9 @@
                   src="{{ product_card_product.media[1] | img_url: '533x' }}"
                   sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 130 | divided_by: 4 }}px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
                   alt="{{ product_card_product.media[1].alt | escape }}"
-                  loading="lazy"
+                  {% if index == 0 %}
+                  loading="eager"{% else %}
+                  loading="lazy"{% endif %}
                   class="motion-reduce"
                 width="{{ product_card_product.media[1].width }}"
                 height="{{ product_card_product.media[1].height }}"
@@ -157,7 +157,7 @@
           {% if product_card_product.selected_or_first_available_variant.available == false %}disabled{% endif %}
           >
               {%- if product_card_product.selected_or_first_available_variant.available -%}
-                {{ 'products.product.add_to_cart' | t }} 
+                {{ 'products.product.add_to_cart' | t }}
                 {% render 'icon-cart' %}
               {%- else -%}
                 {{ 'products.product.sold_out' | t }}

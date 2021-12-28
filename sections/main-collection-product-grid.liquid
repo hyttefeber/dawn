@@ -227,7 +227,7 @@
                 <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
               </svg>
             </div>
-          </div>          
+          </div>
         </form>
       </collection-filters-form>
     {%- endunless -%}
@@ -497,7 +497,8 @@
                 show_vendor: section.settings.show_vendor,
                 show_image_outline: section.settings.show_image_outline,
                 show_rating: section.settings.show_rating,
-                show_atc: section.settings.show_atc
+                show_atc: section.settings.show_atc,
+                index: forloop.index0
               %}
             </li>
      {%- endfor -%}
@@ -508,10 +509,10 @@
     {% if paginate.next.is_link %}
         <button class="button button--full-width button--primary pagination-btn next"><a href="{{ paginate.next.url }}">{{ paginate.next.title }}</a></button>
 {% endif %}
-        
+
     {% if paginate.previous.is_link %}
         <button class="button button--full-width button--primary pagination-btn previous"><a href="{{ paginate.previous.url }}">{{ paginate.previous.title }}</a></button>
-{% endif %}  
+{% endif %}
         {%- endif -%}
       </div>
     {%- endif -%}
