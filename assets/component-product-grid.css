@@ -29,7 +29,7 @@
    .product-form__buttons .button {
     font-size: 1.6rem;
     letter-spacing: .08rem;
-    min-height: 4.2rem;
+    min-height: 4.5rem;
    }
    .product-form .button--secondary{
     color: #655B58;
@@ -43,7 +43,7 @@
   margin-bottom: 1rem;
   font-size: 1.6rem;
     letter-spacing: .08rem;
-    min-height: 4.2rem;
+    min-height: 4.5rem;
 }
 
 .card-wrapper .product-form__buttons {
