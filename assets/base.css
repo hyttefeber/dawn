@@ -2303,8 +2303,6 @@ details-disclosure > details {
   word-break: break-word;
 }
 
-
-
 .badge--circular {
   border-radius: 50%;
   height: 40px;
@@ -2349,18 +2347,10 @@ details-disclosure > details {
   height: 2.5rem;
 }
 
-
 .title {
   margin: 0 !important;
 }
-  /*
-  #uncomplicated-breadcrumbs, #uncomplicated-breadcrumbs a{
-color:#4D4D4D;
-font-size: 12px;
-text-decoration: none;
-}
-#uncomplicated-breadcrumbs{
-  height: 21.59px;}*/
+
 #shopify-section-template--15102286037143__16336834187109d930, .spaced-section {
 	margin-top:1rem;
 }
