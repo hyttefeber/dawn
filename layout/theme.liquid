@@ -32,7 +32,7 @@
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
     <!--<script async defer src="https://s.kviq.no/2249.js?sf"></script>-->
    
-    <!-- Hacks for Shopify header -->
+{% comment %}    <!-- Hacks for Shopify header -->
     {% capture h_content %}
     {{ content_for_header }}
 {% endcapture %}
@@ -51,7 +51,7 @@
     	| remove: "https:\/\/hyttefeberno.app.baqend.com\/v1\/speedkit\/install.js?d=hyttefeber.no\u0026shop=hyttefeber.myshopify.com"
     }}
     {% endif %}
-    <!-- end hacks -->
+    <!-- end hacks -->{% endcomment %}
 
     {%- liquid
       assign body_font_bold = settings.type_body_font | font_modify: 'weight', 'bold'
@@ -143,6 +143,26 @@
   </head>
 
   <body class="gradient">
+    <!-- Hacks for Shopify header -->
+    {% capture h_content %}
+    {{ content_for_header }}
+{% endcapture %}
+
+    {% if template contains "product" %}
+    {{ h_content
+        | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
+        | remove: "https:\/\/gdprcdn.b-cdn.net\/js\/gdpr_cookie_consent.min.js?shop=hyttefeber.myshopify.com"
+    	| remove: "https:\/\/hyttefeberno.app.baqend.com\/v1\/speedkit\/install.js?d=hyttefeber.no\u0026shop=hyttefeber.myshopify.com"
+    }}
+    {% else %}
+    {{ h_content
+        | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
+        | remove: "https:\/\/gdprcdn.b-cdn.net\/js\/gdpr_cookie_consent.min.js?shop=hyttefeber.myshopify.com"
+   	    | remove: "https:\/\/tabs.stationmade.com\/registered-scripts\/tabs-by-station.js?shop=hyttefeber.myshopify.com"
+    	| remove: "https:\/\/hyttefeberno.app.baqend.com\/v1\/speedkit\/install.js?d=hyttefeber.no\u0026shop=hyttefeber.myshopify.com"
+    }}
+    {% endif %}
+    <!-- end hacks -->
     {% render 'elevar-head' %}
    {% comment %} <script async defer id="gorgias-chat-widget-install-v2" src="https://config.gorgias.chat/gorgias-chat-bundle-loader.js?applicationId=7389"></script>
     {% endcomment %} 
