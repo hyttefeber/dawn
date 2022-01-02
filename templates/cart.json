@@ -31,8 +31,8 @@
     "16373174030bda5d01": {
       "type": "featured-collection",
       "settings": {
-        "title": "Legg til - Nostalgiske julekunstkort fra Emmeselle",
-        "collection": "julekort",
+        "title": "Andre kjøpte også",
+        "collection": "_bcp-over-100kr",
         "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "Vis alle julekunstkort",
@@ -45,30 +45,11 @@
         "show_atc": true,
         "show_rating": false
       }
-    },
-    "163731754291a06b01": {
-      "type": "rich-text",
-      "blocks": {
-        "1637317542733bec9f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>*Nå får du mer rabatt, jo flere kunstkort du kjøper. Det gjelder 3, 6, 12, og 24+ valgfrie kunstkort. Bestiller du pakken med 12stk, får du også med 12 konvolutter.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1637317542733bec9f-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
     }
   },
   "order": [
     "cart-items",
     "cart-footer",
-    "16373174030bda5d01",
-    "163731754291a06b01"
+    "16373174030bda5d01"
   ]
 }
