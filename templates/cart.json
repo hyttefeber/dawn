@@ -35,7 +35,7 @@
         "collection": "_bcp-over-100kr",
         "products_to_show": 12,
         "show_view_all": true,
-        "view_all_text": "Vis alle julekunstkort",
+        "view_all_text": "",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
