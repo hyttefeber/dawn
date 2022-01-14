@@ -160,7 +160,7 @@
             "review_type": "company",
             "reviews_shown": 20,
             "header_bg_colour": "#355179",
-            "header_colour": "#fff",
+            "header_colour": "#ffffff",
             "header_star_colour": "#fdcf0d",
             "heading_font": "assistant_n4",
             "enable_rich_snippets": true,
@@ -490,8 +490,8 @@
     "1632262113e988bb5e": {
       "type": "text-banner",
       "settings": {
-        "text_banner_title": "NORGESSEKKEN",
-        "text_banner_body": "Tursekker i klassisk stil",
+        "text_banner_title": "KUNSTTRYKK",
+        "text_banner_body": "SIGNERT AV EMMESELLE",
         "color-scheme": "primary"
       }
     },
@@ -499,7 +499,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "collection": "turutstyr",
+        "collection": "kunsttrykk-1",
         "products_to_show": 4,
         "show_view_all": true,
         "view_all_text": "",
