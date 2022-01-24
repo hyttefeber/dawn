@@ -2,27 +2,6 @@
   "sections": {
     "16336834187109d930": {
       "type": "apps",
-      "blocks": {
-        "f1356937-2c8e-4234-ab0b-a58cbc027cd8": {
-          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
-          "settings": {
-            "show_catroot": true,
-            "link_catroot": "\/",
-            "text_catroot": "Hjem",
-            "show_tags": true,
-            "separator_char_code": "rsaquo;",
-            "sep_plus_class": "breadcrumb__sep_plus5",
-            "insert_jsonld": true,
-            "link_catall": "\/collections\/alle-produkter",
-            "text_catall": "Alle produkter",
-            "show_product_title": true,
-            "truncate_limit": 0
-          }
-        }
-      },
-      "block_order": [
-        "f1356937-2c8e-4234-ab0b-a58cbc027cd8"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -32,6 +11,20 @@
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false
+      }
+    },
+    "16430653153a0224b0": {
+      "type": "hf-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/33.png",
+        "link": "shopify:\/\/collections\/alt-marius"
+      }
+    },
+    "1643065308c0d4a515": {
+      "type": "hf-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/24_3b1fe6b8-bcf5-4b9b-b01a-d2f34a16c3dd.png",
+        "link": ""
       }
     },
     "product-grid": {
@@ -57,6 +50,7 @@
         "collection": "alt-marius",
         "products_to_show": 12,
         "show_view_all": true,
+        "view_all_text": "",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -71,6 +65,8 @@
   "order": [
     "16336834187109d930",
     "banner",
+    "16430653153a0224b0",
+    "1643065308c0d4a515",
     "product-grid",
     "1635366300438ba707"
   ]
