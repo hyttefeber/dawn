@@ -11,6 +11,15 @@
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BANNER2.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+          }
+        },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
           "type": "column",
           "settings": {
@@ -29,15 +38,6 @@
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
         },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_9d4799d2-f83b-4a17-9d8e-4acaf6101231.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
-          }
-        },
         "column3": {
           "type": "column",
           "settings": {
@@ -49,9 +49,9 @@
         }
       },
       "block_order": [
+        "column2",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
         "column1",
-        "column2",
         "column3"
       ],
       "settings": {
