@@ -15,6 +15,7 @@
     },
     "16430653153a0224b0": {
       "type": "hf-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/33.png",
         "link": "shopify:\/\/collections\/alt-marius"
@@ -22,6 +23,7 @@
     },
     "1643065308c0d4a515": {
       "type": "hf-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/34.png",
         "link": "shopify:\/\/collections\/kunsttrykk-1"
