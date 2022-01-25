@@ -19,7 +19,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {%- unless settings.type_header_font.system? and settings.type_body_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
-{% render 'elevar-head' %}
+
     <title>
       {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
@@ -34,7 +34,6 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {% render 'meta-tags' %}
     
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
-    <!--<script async defer src="https://s.kviq.no/2249.js?sf"></script>-->
    
     <!-- Hacks for Shopify header -->
     {% capture h_content %}
@@ -45,14 +44,12 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {{ h_content
         | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
         | remove: "https:\/\/gdprcdn.b-cdn.net\/js\/gdpr_cookie_consent.min.js?shop=hyttefeber.myshopify.com"
-    	| remove: "https:\/\/hyttefeberno.app.baqend.com\/v1\/speedkit\/install.js?d=hyttefeber.no\u0026shop=hyttefeber.myshopify.com"
     }}
     {% else %}
     {{ h_content
         | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
         | remove: "https:\/\/gdprcdn.b-cdn.net\/js\/gdpr_cookie_consent.min.js?shop=hyttefeber.myshopify.com"
    	    | remove: "https:\/\/tabs.stationmade.com\/registered-scripts\/tabs-by-station.js?shop=hyttefeber.myshopify.com"
-    	| remove: "https:\/\/hyttefeberno.app.baqend.com\/v1\/speedkit\/install.js?d=hyttefeber.no\u0026shop=hyttefeber.myshopify.com"
     }}
     {% endif %}
     <!-- end hacks -->
@@ -143,19 +140,10 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {%- endif -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-  <!-- 
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:99043,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script> -->
+
 
   </head>
 
-  <body class="gradient"><div class="pagefly-container">{{ content_for_layout }}</div></body>
+  <body class="gradient">
+    {% render 'elevar-head' %}<div class="pagefly-container">{{ content_for_layout }}</div></body>
 </html>
