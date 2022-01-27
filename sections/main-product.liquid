@@ -530,6 +530,9 @@ richSnippet({
     "name": {{ product.title | json }},
     "url": {{ shop.url | append: product.url | json }},
     "description": {{ product.description | strip_html | json }},
+    {%- if product.selected_or_first_available_variant.sku != blank -%}
+      "sku": {{ product.selected_or_first_available_variant.sku | json }},
+    {%- endif -%}
     {%- if product.variants.first.barcode.size == 12 -%}
     "gtin12": {{ product.variants.first.barcode }},
   {%- endif -%}
@@ -549,9 +552,6 @@ richSnippet({
       "image": [
         {{ product.selected_or_first_available_variant.featured_media | img_url: media_size | prepend: "https:" | json }}
       ],
-    {%- endif -%}
-    {%- if product.selected_or_first_available_variant.sku != blank -%}
-      "sku": {{ product.selected_or_first_available_variant.sku | json }},
     {%- endif -%}
     "offers": [
       {%- for variant in product.variants -%}
