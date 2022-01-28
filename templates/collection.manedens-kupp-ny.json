@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16336834187109d930": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "pf-415bb86d": {
       "type": "pf-415bb86d",
       "settings": {
@@ -237,11 +231,12 @@
             "star": "#fdcf0d",
             "review_type": "product",
             "reviews_shown": 20,
-            "header_bg_colour": "#000",
-            "header_colour": "#fff",
+            "header_bg_colour": "#000000",
+            "header_colour": "#ffffff",
             "header_star_colour": "#fdcf0d",
             "heading_font": "cabin_n4",
-            "enable_rich_snippets": false
+            "enable_rich_snippets": false,
+            "logo_colour": "var(--logo-inverted)"
           }
         }
       },
@@ -254,7 +249,6 @@
     }
   },
   "order": [
-    "16336834187109d930",
     "pf-415bb86d",
     "163740507148c347b1",
     "1637237672269beed2",
