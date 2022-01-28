@@ -2,28 +2,6 @@
   "sections": {
     "16336834187109d930": {
       "type": "apps",
-      "blocks": {
-        "f1356937-2c8e-4234-ab0b-a58cbc027cd8": {
-          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
-          "settings": {
-            "show_catroot": true,
-            "link_catroot": "\/",
-            "text_catroot": "Hjem",
-            "show_tags": true,
-            "separator_char_code": "rsaquo;",
-            "sep_plus_class": "breadcrumb__sep_plus5",
-            "insert_jsonld": true,
-            "link_catall": "\/collections\/alle-produkter",
-            "text_catall": "Alle produkter",
-            "show_product_title": true,
-            "truncate_limit": 0,
-            "insert_shortlinkfix": false
-          }
-        }
-      },
-      "block_order": [
-        "f1356937-2c8e-4234-ab0b-a58cbc027cd8"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -57,7 +35,13 @@
         "16388220555866fa8a-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "julegavetips-2021"
+            "collection": "til-uteplassen"
+          }
+        },
+        "03a7b704-5d75-4af1-882a-5ff727e45966": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "balplassen"
           }
         },
         "16388220555866fa8a-1": {
@@ -84,12 +68,6 @@
             "collection": "ut-pa-tur"
           }
         },
-        "03a7b704-5d75-4af1-882a-5ff727e45966": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "balplassen"
-          }
-        },
         "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
           "type": "featured_collection",
           "settings": {
@@ -105,16 +83,16 @@
       },
       "block_order": [
         "16388220555866fa8a-0",
+        "03a7b704-5d75-4af1-882a-5ff727e45966",
         "16388220555866fa8a-1",
         "16388220555866fa8a-2",
         "8633003d-4061-401a-bb8c-65cad9a1c09e",
         "81fbae77-5db6-412c-a9e2-dc520af1565f",
-        "03a7b704-5d75-4af1-882a-5ff727e45966",
         "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
         "01fb9155-329e-40a2-91e1-e6470e9e2b49"
       ],
       "settings": {
-        "title": "Julegavetips og kolleksjoner",
+        "title": "Andre kolleksjoner",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
