@@ -3,6 +3,13 @@
     "163740507148c347b1": {
       "type": "collection-list",
       "blocks": {
+        "23e1df00-7ec6-4f60-ac84-ac6e703e6be2": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "_untagged-10-19"
+          }
+        },
         "1637405071fe09fe83-0": {
           "type": "featured_collection",
           "settings": {
@@ -20,20 +27,13 @@
           "settings": {
             "collection": "_untagged-41-100"
           }
-        },
-        "23e1df00-7ec6-4f60-ac84-ac6e703e6be2": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": "salg-manedens-kupp"
-          }
         }
       },
       "block_order": [
+        "23e1df00-7ec6-4f60-ac84-ac6e703e6be2",
         "1637405071fe09fe83-0",
         "1637405071fe09fe83-2",
-        "1637405071fe09fe83-1",
-        "23e1df00-7ec6-4f60-ac84-ac6e703e6be2"
+        "1637405071fe09fe83-1"
       ],
       "settings": {
         "title": "",
