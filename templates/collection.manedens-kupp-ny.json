@@ -1,17 +1,12 @@
 {
   "sections": {
-    "pf-415bb86d": {
-      "type": "pf-415bb86d",
-      "settings": {
-      }
-    },
     "163740507148c347b1": {
       "type": "collection-list",
       "blocks": {
         "1637405071fe09fe83-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "super-tilbud-50"
+            "collection": "_untagged-salg-20-30"
           }
         },
         "1637405071fe09fe83-1": {
@@ -249,7 +244,6 @@
     }
   },
   "order": [
-    "pf-415bb86d",
     "163740507148c347b1",
     "1637237672269beed2",
     "1637346594f86b48ab",
