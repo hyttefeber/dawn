@@ -31,6 +31,7 @@
     },
     "1643409139448a0635": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "9ef3521e-b905-4d7e-a17c-cc803ad25bf3": {
           "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
@@ -39,7 +40,7 @@
             "review_type": "company, product",
             "reviews_shown": 20,
             "header_bg_colour": "#355179",
-            "header_colour": "#fff",
+            "header_colour": "#ffffff",
             "header_star_colour": "#fdcf0d",
             "heading_font": "helvetica_n4",
             "enable_rich_snippets": false,
