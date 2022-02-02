@@ -420,6 +420,7 @@
     },
     "1632153250a8ceda25": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1632153250a8ceda25-0": {
           "type": "heading",
@@ -471,6 +472,7 @@
     },
     "1632178152df044e44": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "tova",
