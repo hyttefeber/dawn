@@ -117,6 +117,24 @@
         "show_rating": false
       }
     },
+    "163774777359a12be4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Flere kikkerter",
+        "collection": "kikkerter-fra-bresser",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "Vis alle kikkerter",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
@@ -134,25 +152,6 @@
         "show_atc": true,
         "show_rating": false
       }
-    },
-    "163774777359a12be4": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Mer fra Lama",
-        "collection": "lama-interior",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "view_all_text": "Vis alt fra Lama Interiør",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_atc": true,
-        "show_rating": false
-      }
     }
   },
   "order": [
@@ -160,7 +159,7 @@
     "main",
     "1639399390f2ae0664",
     "product-recommendations",
-    "1637747763162bef1b",
-    "163774777359a12be4"
+    "163774777359a12be4",
+    "1637747763162bef1b"
   ]
 }
