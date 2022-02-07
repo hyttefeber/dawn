@@ -120,11 +120,11 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Flere Putetrekk",
-        "collection": "putetrekk",
-        "products_to_show": 4,
+        "title": "Flere turprodukter",
+        "collection": "ut-pa-tur",
+        "products_to_show": 8,
         "show_view_all": true,
-        "view_all_text": "Vis alle putetrekk",
+        "view_all_text": "Vis alle turprodukter",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -137,6 +137,7 @@
     },
     "163774777359a12be4": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Mer fra Lama",
         "collection": "lama-interior",
