@@ -120,11 +120,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer Spire",
-        "collection": "spire-fra-porsgrund-porselen",
+        "title": "Kjøkkenredskaper",
+        "collection": "kjokkenredskaper",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt Spire",
+        "view_all_text": "Vis alle kjøkkenredskaper",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -138,14 +138,14 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer fra Porsgrund Porselen",
-        "collection": "alle-produkter-fra-porsgrund-porselaensfabrik",
+        "title": "Mer til Kjøkkenet",
+        "collection": "pa-kjokkenet",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra Porsgrund Porselen",
+        "view_all_text": "Vis alt til kjøkkenet",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
