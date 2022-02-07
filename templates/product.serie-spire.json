@@ -120,11 +120,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer Siri",
-        "collection": "nyhet-siri",
+        "title": "Mer Spire",
+        "collection": "spire-fra-porsgrund-porselen",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt Siri",
+        "view_all_text": "Vis alt Spire",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -138,11 +138,11 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer fra Hadeland Glassverk",
-        "collection": "hadeland-glassverk",
+        "title": "Mer fra Porsgrund Porselen",
+        "collection": "alle-produkter-fra-porsgrund-porselaensfabrik",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra Hadeland Glassverk",
+        "view_all_text": "Vis alt fra Porsgrund Porselen",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
