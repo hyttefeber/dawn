@@ -120,11 +120,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Flere turkniver og -økser",
-        "collection": "turkniver",
+        "title": "Flere termoser og termokopper",
+        "collection": "termoser-og-termokopper",
         "products_to_show": 6,
         "show_view_all": true,
-        "view_all_text": "Vis alle turkniver",
+        "view_all_text": "Vis alle termoser og termokopper",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
