@@ -67,10 +67,19 @@
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
         },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_21cd6a1e-0ed6-489e-8eaa-5959f3d399dc.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/paskeegg"
+          }
+        },
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2.png",
+            "image": "shopify:\/\/shop_images\/12_256ddd51-47c7-4cef-af70-6ad3f4480f18.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
@@ -84,22 +93,13 @@
             "text": "",
             "link": "shopify:\/\/collections\/belysning-og-lyslykter"
           }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_21cd6a1e-0ed6-489e-8eaa-5959f3d399dc.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/paskeegg"
-          }
         }
       },
       "block_order": [
         "column1",
+        "column3",
         "column2",
-        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
-        "column3"
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a"
       ],
       "settings": {
         "title": "",
