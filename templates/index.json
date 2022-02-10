@@ -20,15 +20,6 @@
             "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
-        "1629970086900f7d29-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_ee61e3ab-2e88-4332-bdd2-3c4b22d4a2e8.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/salg-manedens-kupp"
-          }
-        },
         "1629970086900f7d29-2": {
           "type": "column",
           "settings": {
@@ -37,12 +28,21 @@
             "text": "",
             "link": "shopify:\/\/collections\/utemobler-og-sitteplasser"
           }
+        },
+        "1629970086900f7d29-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_ee61e3ab-2e88-4332-bdd2-3c4b22d4a2e8.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/salg-manedens-kupp"
+          }
         }
       },
       "block_order": [
         "1629970086900f7d29-1",
-        "1629970086900f7d29-0",
-        "1629970086900f7d29-2"
+        "1629970086900f7d29-2",
+        "1629970086900f7d29-0"
       ],
       "settings": {
         "title": "",
