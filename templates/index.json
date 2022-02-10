@@ -8,6 +8,53 @@
         "link": "shopify:\/\/collections\/balplassen"
       }
     },
+    "1629970086900f7d29": {
+      "type": "multicolumn",
+      "blocks": {
+        "1629970086900f7d29-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6_ee61e3ab-2e88-4332-bdd2-3c4b22d4a2e8.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/salg-manedens-kupp"
+          }
+        },
+        "1629970086900f7d29-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_f8385137-650f-4693-b017-5881f4fdb624.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+          }
+        },
+        "1629970086900f7d29-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_dadc27c8-5d48-44e2-848c-de8bde1882ac.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/utemobler-og-sitteplasser"
+          }
+        }
+      },
+      "block_order": [
+        "1629970086900f7d29-0",
+        "1629970086900f7d29-1",
+        "1629970086900f7d29-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -53,53 +100,6 @@
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
         "column1",
         "column3"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": true
-      }
-    },
-    "1629970086900f7d29": {
-      "type": "multicolumn",
-      "blocks": {
-        "1629970086900f7d29-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_ee61e3ab-2e88-4332-bdd2-3c4b22d4a2e8.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/salg-manedens-kupp"
-          }
-        },
-        "1629970086900f7d29-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5_f8385137-650f-4693-b017-5881f4fdb624.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
-          }
-        },
-        "1629970086900f7d29-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_dadc27c8-5d48-44e2-848c-de8bde1882ac.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/utemobler-og-sitteplasser"
-          }
-        }
-      },
-      "block_order": [
-        "1629970086900f7d29-0",
-        "1629970086900f7d29-1",
-        "1629970086900f7d29-2"
       ],
       "settings": {
         "title": "",
@@ -577,8 +577,8 @@
   },
   "order": [
     "16327413955ebd8133",
-    "multi_column",
     "1629970086900f7d29",
+    "multi_column",
     "1632000821b08894c5",
     "featured_products",
     "1631626408eee30b8a",
