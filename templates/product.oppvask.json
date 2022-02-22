@@ -120,11 +120,11 @@
     "163774777359a12be4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer Ingrid",
-        "collection": "ingrid-fra-porsgrund-porselen",
-        "products_to_show": 4,
+        "title": "Mer til oppvasken",
+        "collection": "oppvaskstativer",
+        "products_to_show": 8,
         "show_view_all": true,
-        "view_all_text": "Vis alt Ingrid",
+        "view_all_text": "Vis alt til oppvasken",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -138,11 +138,11 @@
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer fra Porsgrund Porselænsfabrik",
-        "collection": "alle-produkter-fra-porsgrund-porselaensfabrik",
+        "title": "Mer til Kjøkkenet",
+        "collection": "pa-kjokkenet",
         "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra Porsgrund Porselænsfabrik",
+        "view_all_text": "Vis alt til kjøkkenet",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
