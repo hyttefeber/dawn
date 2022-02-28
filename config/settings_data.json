@@ -2,7 +2,8 @@
   "current": {
     "colors_accent_1": "#5faa58",
     "colors_accent_2": "#355179",
-    "colors_outline_button_labels": "#121212",
+    "colors_text": "#00122c",
+    "colors_outline_button_labels": "#00122c",
     "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
