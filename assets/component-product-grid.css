@@ -50,13 +50,13 @@
   padding-top: 3rem;
 }
 
-.collection .product-form {
+.collection .product-form, .template-search .product-form {
   display: flex;
   flex-direction: column;
   margin-top: auto;
 }
 
-.collection .card-wrapper {
+.collection .card-wrapper, .template-search .card-wrapper {
   display: flex;
   height: 100%;
   flex-direction: column;
