@@ -34,7 +34,7 @@
         "title": "Andre kjøpte også",
         "collection": "_bcp-over-100kr",
         "products_to_show": 12,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_text": "",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
