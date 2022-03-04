@@ -15,7 +15,7 @@
     {%- unless settings.type_header_font.system? and settings.type_body_font.system? -%}
       <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     {%- endunless -%}
-{% comment %} {% render 'elevar-head' %}{% endcomment %} 
+
     <title>
       {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
@@ -166,7 +166,7 @@
 {% comment %}---------------------/head-----------{% endcomment %}
   <body class="gradient">
    
-    {% render 'elevar-head' %}
+  {% comment %}  {% render 'elevar-head' %}{% endcomment %}
     
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
@@ -261,11 +261,11 @@
         }
     </script>{% endif %}
 
-    {% comment %}
+   
 
-  {% render 'tracking' %}{% endcomment %}
+  {% render 'tracking' %}
 
-    {% render 'elevar-body-end' %}
+  {% comment %}  {% render 'elevar-body-end' %}{% endcomment %}
     <script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=RSuWRa"></script>
    <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
    
