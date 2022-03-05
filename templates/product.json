@@ -130,6 +130,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Often kjøpt sammen med",
         "image_ratio": "adapt",
