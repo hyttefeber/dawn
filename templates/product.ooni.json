@@ -2,28 +2,6 @@
   "sections": {
     "16323451604b3f767a": {
       "type": "apps",
-      "blocks": {
-        "36a14efe-851c-4431-a0db-a3d4269571a5": {
-          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
-          "settings": {
-            "show_catroot": true,
-            "link_catroot": "\/",
-            "text_catroot": "Hjem",
-            "show_tags": true,
-            "separator_char_code": "rsaquo;",
-            "sep_plus_class": "breadcrumb__sep_plus5",
-            "insert_jsonld": true,
-            "link_catall": "\/collections\/alle-produkter",
-            "text_catall": "Alle produkter",
-            "show_product_title": true,
-            "truncate_limit": 24,
-            "insert_shortlinkfix": false
-          }
-        }
-      },
-      "block_order": [
-        "36a14efe-851c-4431-a0db-a3d4269571a5"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -41,13 +19,6 @@
         "title": {
           "type": "title",
           "settings": {
-          }
-        },
-        "5ab26f72-f46c-47b1-bf12-ff3315b31a23": {
-          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommerceproductreview\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
-          "disabled": true,
-          "settings": {
-            "slug": "Summary-widget-0"
           }
         },
         "c72c305f-ecb3-4da7-a6ca-3a5f521b448d": {
@@ -110,7 +81,6 @@
       "block_order": [
         "vendor",
         "title",
-        "5ab26f72-f46c-47b1-bf12-ff3315b31a23",
         "c72c305f-ecb3-4da7-a6ca-3a5f521b448d",
         "subtitle",
         "price",
@@ -182,6 +152,26 @@
         "show_atc": true,
         "show_rating": false
       }
+    },
+    "164648676107529f23": {
+      "type": "apps",
+      "blocks": {
+        "1d5c43a2-7ab0-4daa-a09d-7fde6a558948": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28294",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "1d5c43a2-7ab0-4daa-a09d-7fde6a558948"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -190,6 +180,7 @@
     "16393991796d7615c4",
     "product-recommendations",
     "163774777359a12be4",
-    "1637747763162bef1b"
+    "1637747763162bef1b",
+    "164648676107529f23"
   ]
 }

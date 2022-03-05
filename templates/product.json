@@ -49,6 +49,15 @@
           "settings": {
           }
         },
+        "641bfcb1-e351-4efe-ba1d-68c6bbd450fb": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28294",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -81,6 +90,7 @@
         "variant_picker",
         "quantity_selector",
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
+        "641bfcb1-e351-4efe-ba1d-68c6bbd450fb",
         "buy_buttons",
         "description",
         "share",
@@ -90,6 +100,26 @@
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
+      }
+    },
+    "1646486973563e7423": {
+      "type": "apps",
+      "blocks": {
+        "6a84beb6-becc-479c-8522-6c59c07638c5": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28294",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "6a84beb6-becc-479c-8522-6c59c07638c5"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "1639398220e5b56fa6": {
@@ -110,11 +140,33 @@
         "show_atc": true,
         "show_rating": false
       }
+    },
+    "1646486994454bf2bb": {
+      "type": "apps",
+      "blocks": {
+        "80e9761a-c0fb-4c74-a922-9d78a68dc592": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28293",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "80e9761a-c0fb-4c74-a922-9d78a68dc592"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
+    "1646486973563e7423",
     "1639398220e5b56fa6",
-    "product-recommendations"
+    "product-recommendations",
+    "1646486994454bf2bb"
   ]
 }
