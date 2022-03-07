@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16323451604b3f767a": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -49,6 +43,15 @@
           "settings": {
           }
         },
+        "940ef9d9-7006-42e4-a9ea-9093832b1e15": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28310",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -80,6 +83,7 @@
         "variant_picker",
         "quantity_selector",
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
+        "940ef9d9-7006-42e4-a9ea-9093832b1e15",
         "buy_buttons",
         "description",
         "share",
@@ -91,8 +95,29 @@
         "enable_video_looping": false
       }
     },
+    "1646653601fedac466": {
+      "type": "apps",
+      "blocks": {
+        "f22e56cb-0c50-471f-bf84-24452f5a3ac6": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28313",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "f22e56cb-0c50-471f-bf84-24452f5a3ac6"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Often kjøpt sammen med",
         "image_ratio": "adapt",
@@ -142,8 +167,8 @@
     }
   },
   "order": [
-    "16323451604b3f767a",
     "main",
+    "1646653601fedac466",
     "product-recommendations",
     "1637747763162bef1b",
     "163774777359a12be4"
