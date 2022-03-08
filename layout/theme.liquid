@@ -218,6 +218,7 @@
 <!-- Back in Stock helper snippet -->
 {% render 'back-in-stock-helper' %}
 <!-- End Back in Stock helper snippet -->
+<script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
 
     
   {% if template contains "pf" %} 
@@ -260,11 +261,9 @@
           console.warn(e);
         }
     </script>{% endif %}
-<script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
 
   {% render 'tracking' %}
 
-  {% comment %}  {% render 'elevar-body-end' %}{% endcomment %}
    <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
    
  {% include 'profitmetrics-origin' %}
