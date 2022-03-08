@@ -1126,7 +1126,7 @@ deferred-media {
 
 .button,
 .shopify-challenge__button,
-.customer button {
+.customer button,.rebuy-button {
   cursor: pointer;
   display: inline-flex;
   justify-content: center;
@@ -1188,7 +1188,7 @@ deferred-media {
 
 .button:not([disabled]):hover,
 .shopify-challenge__button:hover,
-.customer button:hover {
+.customer button:hover, .rebuy-button:hover {
   box-shadow: 0 0 0 0.05rem rgba(var(--color-button), var(--alpha-button-border));
 }
 
