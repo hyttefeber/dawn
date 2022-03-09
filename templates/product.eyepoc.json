@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16323451604b3f767a": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -186,7 +180,6 @@
     }
   },
   "order": [
-    "16323451604b3f767a",
     "main",
     "1639399831a851528f",
     "1646653571f8810152",
