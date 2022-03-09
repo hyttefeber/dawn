@@ -710,6 +710,19 @@
             "label": "Omvänd"
           },
           "label": "Färgschema"
+        },
+        "margin_bottom": {
+          "label": "Nedre marginal"
+        },
+        "menu_type_desktop": {
+          "label": "Typ av skrivbordsmeny",
+          "info": "Menytyp optimeras automatiskt för mobila enheter.",
+          "options__1": {
+            "label": "Rullgardinsmeny"
+          },
+          "options__2": {
+            "label": "Megameny"
+          }
         }
       }
     },

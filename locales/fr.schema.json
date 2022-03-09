@@ -704,6 +704,19 @@
             "label": "Inverser"
           },
           "label": "Combinaison de couleurs"
+        },
+        "margin_bottom": {
+          "label": "Marge inférieure"
+        },
+        "menu_type_desktop": {
+          "label": "Type de menu sur ordinateur",
+          "info": "Le type de menu est automatiquement optimisé pour les mobiles.",
+          "options__1": {
+            "label": "Menu déroulant"
+          },
+          "options__2": {
+            "label": "Méga menu"
+          }
         }
       }
     },
