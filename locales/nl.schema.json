@@ -687,23 +687,18 @@
           "label": "Sticky header inschakelen",
           "info": "De kop verschijnt op het scherm als de klanten omhoog scrollen."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Ondermarge"
+        },
+        "menu_type_desktop": {
+          "label": "Menutype voor desktop",
+          "info": "Menutype wordt automatisch aangepast voor mobiele apparaten.",
           "options__1": {
-            "label": "Accent 1"
+            "label": "Vervolgkeuzemenu"
           },
           "options__2": {
-            "label": "Accent 2"
-          },
-          "options__3": {
-            "label": "Achtergrond 1"
-          },
-          "options__4": {
-            "label": "Achtergrond 2"
-          },
-          "options__5": {
-            "label": "Omkeren"
-          },
-          "label": "Kleurschema"
+            "label": "Megamenu"
+          }
         }
       }
     },

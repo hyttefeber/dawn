@@ -690,23 +690,18 @@
           "label": "Aktiver festet overskrift",
           "info": "Overskriften vises på skjermen når kunden blar opp."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Bunnmarg"
+        },
+        "menu_type_desktop": {
+          "label": "Menytype på datamaskiner",
+          "info": "Menytypen optimaliseres automatisk for mobil.",
           "options__1": {
-            "label": "Aksent 1"
+            "label": "Rullegardin"
           },
           "options__2": {
-            "label": "Aksent 2"
-          },
-          "options__3": {
-            "label": "Bakgrunn 1"
-          },
-          "options__4": {
-            "label": "Bakgrunn 2"
-          },
-          "options__5": {
-            "label": "Omvendt"
-          },
-          "label": "Fargepalett"
+            "label": "Megameny"
+          }
         }
       }
     },

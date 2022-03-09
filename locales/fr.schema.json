@@ -687,23 +687,18 @@
           "label": "Activer l'en-tête collé",
           "info": "L'en-tête s'affiche à l'écran lorsque les clients font défiler vers le haut."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Marge inférieure"
+        },
+        "menu_type_desktop": {
+          "label": "Type de menu sur ordinateur",
+          "info": "Le type de menu est automatiquement optimisé pour les mobiles.",
           "options__1": {
-            "label": "Accentuation 1"
+            "label": "Menu déroulant"
           },
           "options__2": {
-            "label": "Accentuation 2"
-          },
-          "options__3": {
-            "label": "Arrière-plan 1"
-          },
-          "options__4": {
-            "label": "Arrière-plan 2"
-          },
-          "options__5": {
-            "label": "Inverser"
-          },
-          "label": "Combinaison de couleurs"
+            "label": "Méga menu"
+          }
         }
       }
     },

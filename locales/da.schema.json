@@ -687,23 +687,18 @@
           "label": "Aktivér fastgjort sidehoved",
           "info": "Sidehovedet vises på skærmen, når kunderne ruller op."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Nederste margen"
+        },
+        "menu_type_desktop": {
+          "label": "Computermenutype",
+          "info": "Menutypen optimeres automatisk til mobil.",
           "options__1": {
-            "label": "Markering 1"
+            "label": "Rullemenu"
           },
           "options__2": {
-            "label": "Markering 2"
-          },
-          "options__3": {
-            "label": "Baggrund 1"
-          },
-          "options__4": {
-            "label": "Baggrund 2"
-          },
-          "options__5": {
-            "label": "Omvendt"
-          },
-          "label": "Farveskema"
+            "label": "Megamenu"
+          }
         }
       }
     },

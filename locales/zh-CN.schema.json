@@ -693,23 +693,18 @@
           "label": "启用粘性标头",
           "info": "在客户向上滑动时，屏幕上会显示标头。"
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "下边距"
+        },
+        "menu_type_desktop": {
+          "label": "桌面菜单类型",
+          "info": "菜单类型会针对移动设备进行自动优化。",
           "options__1": {
-            "label": "强调色 1"
+            "label": "下拉菜单"
           },
           "options__2": {
-            "label": "强调色 2"
-          },
-          "options__3": {
-            "label": "背景 1"
-          },
-          "options__4": {
-            "label": "背景 2"
-          },
-          "options__5": {
-            "label": "反转"
-          },
-          "label": "配色方案"
+            "label": "超级菜单"
+          }
         }
       }
     },

@@ -693,23 +693,18 @@
           "label": "啟用固定式頁首",
           "info": "頁首會在顧客往上滑時顯示在螢幕上。"
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "下方邊界"
+        },
+        "menu_type_desktop": {
+          "label": "桌面版選單類型",
+          "info": "行動版的選單類型會自動調整大小。",
           "options__1": {
-            "label": "色調 1"
+            "label": "下拉式選單"
           },
           "options__2": {
-            "label": "色調 2"
-          },
-          "options__3": {
-            "label": "背景 1"
-          },
-          "options__4": {
-            "label": "背景 2"
-          },
-          "options__5": {
-            "label": "反轉"
-          },
-          "label": "顏色配置"
+            "label": "大型選單"
+          }
         }
       }
     },

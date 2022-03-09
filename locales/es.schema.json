@@ -687,23 +687,18 @@
           "label": "Activar encabezado fijo",
           "info": "El encabezado se muestra en la pantalla mientras los clientes se desplazan hacia arriba."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Margen inferior"
+        },
+        "menu_type_desktop": {
+          "label": "Tipo de menú de escritorio",
+          "info": "El tipo de menú se optimiza automáticamente para celular.",
           "options__1": {
-            "label": "Resaltado 1"
+            "label": "Desplegable"
           },
           "options__2": {
-            "label": "Resaltado 2"
-          },
-          "options__3": {
-            "label": "Fondo 1"
-          },
-          "options__4": {
-            "label": "Fondo 2"
-          },
-          "options__5": {
-            "label": "Invertir"
-          },
-          "label": "Esquema de colores"
+            "label": "Mega menú"
+          }
         }
       }
     },

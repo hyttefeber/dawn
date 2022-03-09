@@ -687,23 +687,18 @@
           "label": "Fixierten Header aktivieren",
           "info": "Der Header wird auf dem Bildschirm angezeigt, wenn der Kunde nach oben scrollt."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Unterer Rand"
+        },
+        "menu_type_desktop": {
+          "label": "Desktop-Menütyp",
+          "info": "Der Menütyp wird automatisch für die mobile Nutzung optimiert.",
           "options__1": {
-            "label": "Akzent 1"
+            "label": "Dropdown"
           },
           "options__2": {
-            "label": "Akzent 2"
-          },
-          "options__3": {
-            "label": "Hintergrund 1"
-          },
-          "options__4": {
-            "label": "Hintergrund 2"
-          },
-          "options__5": {
-            "label": "Invertiert"
-          },
-          "label": "Farbschema"
+            "label": "Mega-Menü"
+          }
         }
       }
     },

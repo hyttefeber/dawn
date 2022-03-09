@@ -687,23 +687,18 @@
           "label": "Zobrazit plovoucí záhlaví",
           "info": "Záhlaví zůstane zobrazené na obrazovce, přestože zákazníci skrolují dál."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Dolní okraj"
+        },
+        "menu_type_desktop": {
+          "label": "Typ desktopové nabídky",
+          "info": "Typ nabídky se automaticky optimalizuje pro mobilní prostředí.",
           "options__1": {
-            "label": "Zvýraznění 1"
+            "label": "Rozevírací nabídka"
           },
           "options__2": {
-            "label": "Zvýraznění 2"
-          },
-          "options__3": {
-            "label": "Pozadí 1"
-          },
-          "options__4": {
-            "label": "Pozadí 2"
-          },
-          "options__5": {
-            "label": "Inverze"
-          },
-          "label": "Barevné schéma"
+            "label": "Mega nabídka"
+          }
         }
       }
     },

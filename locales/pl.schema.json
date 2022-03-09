@@ -687,23 +687,18 @@
           "label": "Włącz przypięty nagłówek",
           "info": "Nagłówek pojawia się na ekranie, gdy klienci przewijają w górę."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Dolna granica"
+        },
+        "menu_type_desktop": {
+          "label": "Typ menu pulpitu",
+          "info": "Typ menu jest automatycznie optymalizowany pod kątem urządzeń mobilnych.",
           "options__1": {
-            "label": "Akcent 1"
+            "label": "Lista rozwijana"
           },
           "options__2": {
-            "label": "Akcent 2"
-          },
-          "options__3": {
-            "label": "Tło 1"
-          },
-          "options__4": {
-            "label": "Tło 2"
-          },
-          "options__5": {
-            "label": "Odwrócone"
-          },
-          "label": "Kolorystyka"
+            "label": "Mega menu"
+          }
         }
       }
     },

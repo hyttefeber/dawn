@@ -687,23 +687,18 @@
           "label": "Habilitar cabeçalho fixo",
           "info": "O cabeçalho fica na tela quando o cliente rola para cima."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Margem inferior"
+        },
+        "menu_type_desktop": {
+          "label": "Tipo de menu para desktop",
+          "info": "O tipo de menu é otimizado automaticamente para dispositivos móveis.",
           "options__1": {
-            "label": "Destaque 1"
+            "label": "Menu suspenso"
           },
           "options__2": {
-            "label": "Destaque 2"
-          },
-          "options__3": {
-            "label": "Plano de fundo 1"
-          },
-          "options__4": {
-            "label": "Plano de fundo 2"
-          },
-          "options__5": {
-            "label": "Inverso"
-          },
-          "label": "Esquema de cores"
+            "label": "Megamenu"
+          }
         }
       }
     },

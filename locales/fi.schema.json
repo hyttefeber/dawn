@@ -687,23 +687,18 @@
           "label": "Ota paikallaan pysyvä ylätunniste käyttöön",
           "info": "Ylätunniste näkyy näytöllä, kun asiakkaat vierittävät ylöspäin."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Alareunus"
+        },
+        "menu_type_desktop": {
+          "label": "Pöytäkoneen valikkotyyppi",
+          "info": "Valikkotyyppi optimoidaan automaattisesti mobiililaitteilla.",
           "options__1": {
-            "label": "Korostus 1"
+            "label": "Pudotusvalikko"
           },
           "options__2": {
-            "label": "Korostus 2"
-          },
-          "options__3": {
-            "label": "Tausta 1"
-          },
-          "options__4": {
-            "label": "Tausta 2"
-          },
-          "options__5": {
-            "label": "Käänteinen"
-          },
-          "label": "Värimalli"
+            "label": "Mega-valikko"
+          }
         }
       }
     },

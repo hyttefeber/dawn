@@ -687,23 +687,18 @@
           "label": "Bật đầu trang dính",
           "info": "Đầu trang hiển thị trên màn hình khi khách hàng cuộn lên."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Lề dưới"
+        },
+        "menu_type_desktop": {
+          "label": "Loại menu trên màn hình máy tính",
+          "info": "Loại menu được tự động tối ưu hóa cho thiết bị di động.",
           "options__1": {
-            "label": "Điểm nhấn 1"
+            "label": "Menu thả xuống"
           },
           "options__2": {
-            "label": "Điểm nhấn 2"
-          },
-          "options__3": {
-            "label": "Nền 1"
-          },
-          "options__4": {
-            "label": "Nền 2"
-          },
-          "options__5": {
-            "label": "Nghịch đảo"
-          },
-          "label": "Bảng màu"
+            "label": "Menu lớn"
+          }
         }
       }
     },

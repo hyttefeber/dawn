@@ -693,23 +693,18 @@
           "label": "고정 머리글 사용",
           "info": "고객이 위쪽으로 스크롤하면 화면에 표시되는 머리글입니다."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "하단 마진"
+        },
+        "menu_type_desktop": {
+          "label": "데스크톱 메뉴 유형",
+          "info": "메뉴 유형은 자동으로 모바일에 최적화됩니다.",
           "options__1": {
-            "label": "강조 1"
+            "label": "드롭다운"
           },
           "options__2": {
-            "label": "강조 2"
-          },
-          "options__3": {
-            "label": "배경 1"
-          },
-          "options__4": {
-            "label": "배경 2"
-          },
-          "options__5": {
-            "label": "서로 바꾸기"
-          },
-          "label": "색상 배합"
+            "label": "메가 메뉴"
+          }
         }
       }
     },

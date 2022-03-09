@@ -687,23 +687,18 @@
           "label": "Abilita header fisso",
           "info": "L'header viene mostrato sullo schermo quando i clienti scorrono verso l'alto."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Margine inferiore"
+        },
+        "menu_type_desktop": {
+          "label": "Tipo menu desktop",
+          "info": "Tipo menu automaticamente ottimizzato per dispositivi mobili.",
           "options__1": {
-            "label": "Elemento in risalto 1"
+            "label": "Menu a discesa"
           },
           "options__2": {
-            "label": "Elemento in risalto 2"
-          },
-          "options__3": {
-            "label": "Sfondo 1"
-          },
-          "options__4": {
-            "label": "Sfondo 2"
-          },
-          "options__5": {
-            "label": "Inverso"
-          },
-          "label": "Schema di colori"
+            "label": "Mega menu"
+          }
         }
       }
     },

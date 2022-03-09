@@ -693,23 +693,18 @@
           "label": "常時表示のヘッダーを有効にする",
           "info": "お客様が上にスクロールするとヘッダーが画面に表示されます。"
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "下マージン"
+        },
+        "menu_type_desktop": {
+          "label": "デスクトップのメニュータイプ",
+          "info": "メニュータイプはモバイル用に自動で最適化されます。",
           "options__1": {
-            "label": "アクセント1"
+            "label": "ドロップダウン"
           },
           "options__2": {
-            "label": "アクセント2"
-          },
-          "options__3": {
-            "label": "背景1"
-          },
-          "options__4": {
-            "label": "背景2"
-          },
-          "options__5": {
-            "label": "反転"
-          },
-          "label": "配色"
+            "label": "メガメニュー"
+          }
         }
       }
     },

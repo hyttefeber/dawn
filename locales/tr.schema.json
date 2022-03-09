@@ -687,23 +687,18 @@
           "label": "Yapışkanlı üstbilgiyi etkinleştir",
           "info": "Müşteriler yukarı doğru kaydırırken üstbilgi ekranda görünür."
         },
-        "color_scheme": {
+        "margin_bottom": {
+          "label": "Alt kenar boşluğu"
+        },
+        "menu_type_desktop": {
+          "label": "Masaüstü menü türü",
+          "info": "Menü türü, mobil cihazlar için otomatik olarak optimize edilir.",
           "options__1": {
-            "label": "1. Vurgu"
+            "label": "Açılır menü"
           },
           "options__2": {
-            "label": "2. Vurgu"
-          },
-          "options__3": {
-            "label": "1. Arka plan"
-          },
-          "options__4": {
-            "label": "2. Arka plan"
-          },
-          "options__5": {
-            "label": "Ters"
-          },
-          "label": "Renk şeması"
+            "label": "Mega menü"
+          }
         }
       }
     },
