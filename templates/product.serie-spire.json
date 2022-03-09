@@ -49,6 +49,15 @@
           "settings": {
           }
         },
+        "8ed5b032-1616-430b-9f8b-7a985e8efbfb": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28310",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -81,6 +90,7 @@
         "variant_picker",
         "quantity_selector",
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
+        "8ed5b032-1616-430b-9f8b-7a985e8efbfb",
         "buy_buttons",
         "description",
         "share",
@@ -100,6 +110,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Often kjøpt sammen med",
         "image_ratio": "adapt",
@@ -129,6 +140,26 @@
         "show_rating": false
       }
     },
+    "1646818134e4cb9f47": {
+      "type": "apps",
+      "blocks": {
+        "9323f06e-6160-4eba-aac2-748034b668fc": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28313",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "9323f06e-6160-4eba-aac2-748034b668fc"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "1637747763162bef1b": {
       "type": "featured-collection",
       "settings": {
@@ -153,6 +184,7 @@
     "16393999090471d85e",
     "product-recommendations",
     "163774777359a12be4",
+    "1646818134e4cb9f47",
     "1637747763162bef1b"
   ]
 }
