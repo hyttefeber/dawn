@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16323451604b3f767a": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -55,6 +49,15 @@
           "settings": {
           }
         },
+        "5dbb6470-7d0f-4b11-bd28-e32eca655787": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28310",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -87,6 +90,7 @@
         "variant_picker",
         "quantity_selector",
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
+        "5dbb6470-7d0f-4b11-bd28-e32eca655787",
         "buy_buttons",
         "description",
         "share",
@@ -106,6 +110,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Often kjøpt sammen med",
         "image_ratio": "adapt",
@@ -115,6 +120,26 @@
         "show_vendor": true,
         "show_atc": true,
         "show_rating": false
+      }
+    },
+    "1646818521c14c1efe": {
+      "type": "apps",
+      "blocks": {
+        "cc5230fe-9777-443f-b987-afeb4bacbe8c": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28313",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "cc5230fe-9777-443f-b987-afeb4bacbe8c"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "163774777359a12be4": {
@@ -155,10 +180,10 @@
     }
   },
   "order": [
-    "16323451604b3f767a",
     "main",
     "16393999090471d85e",
     "product-recommendations",
+    "1646818521c14c1efe",
     "163774777359a12be4",
     "1637747763162bef1b"
   ]
