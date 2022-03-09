@@ -43,6 +43,15 @@
           "settings": {
           }
         },
+        "c950a8b1-7574-4a64-a4ef-3ca379bcd221": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28310",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -69,6 +78,7 @@
         "variant_picker",
         "quantity_selector",
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
+        "c950a8b1-7574-4a64-a4ef-3ca379bcd221",
         "buy_buttons",
         "description",
         "share"
@@ -79,13 +89,6 @@
         "enable_video_looping": false
       }
     },
-    "16322551547c337064": {
-      "type": "apps",
-      "disabled": true,
-      "settings": {
-        "include_margins": true
-      }
-    },
     "pf-01f9cb42": {
       "type": "pf-01f9cb42",
       "settings": {
@@ -93,6 +96,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Du vil kanskje også like",
         "image_ratio": "adapt",
@@ -103,12 +107,32 @@
         "show_atc": true,
         "show_rating": false
       }
+    },
+    "16468170072647a0e8": {
+      "type": "apps",
+      "blocks": {
+        "65b70706-116f-4b39-b1c3-c3209658ba23": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28313",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "65b70706-116f-4b39-b1c3-c3209658ba23"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
-    "16322551547c337064",
     "pf-01f9cb42",
-    "product-recommendations"
+    "product-recommendations",
+    "16468170072647a0e8"
   ]
 }
