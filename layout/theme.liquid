@@ -165,8 +165,6 @@
   </head>
 {% comment %}---------------------/head-----------{% endcomment %}
   <body class="gradient">
-   
-  {% comment %}  {% render 'elevar-head' %}{% endcomment %}
     
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
@@ -265,11 +263,15 @@
 
   {% render 'tracking' %}
 
-  {% comment %} <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script> {% endcomment %}
+{% comment %} 
+    <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
+{% endcomment %}
    
  {% include 'profitmetrics-origin' %}
 <!-- CRITEO START -->
-{% unless template contains "reviews-template" %}{% include 'criteo-tracking' %} {% endunless %}
+{% unless template contains "reviews-template" %}
+    {% include 'criteo-tracking' %}
+    {% endunless %}
 <!-- CRITEO END -->
 </body>
 </html>
