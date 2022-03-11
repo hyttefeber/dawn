@@ -268,7 +268,7 @@
    
  {% include 'profitmetrics-origin' %}
 <!-- CRITEO START -->
-{% include 'criteo-tracking' %}
+{% unless template contains "reviews-template" %}{% include 'criteo-tracking' %} {% endunless %}
 <!-- CRITEO END -->
 </body>
 </html>
