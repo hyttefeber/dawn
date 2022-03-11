@@ -269,9 +269,13 @@
    
  {% include 'profitmetrics-origin' %}
 <!-- CRITEO START -->
+    
+    {% comment %} 
 {% unless template contains "reviews-template" %}
     {% include 'criteo-tracking' %}
     {% endunless %}
+    {% endcomment %} 
+    
 <!-- CRITEO END -->
 </body>
 </html>
