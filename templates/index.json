@@ -517,6 +517,7 @@
     },
     "163200636372ee71d9": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Nyheter",
         "blog": "nyheter",
