@@ -83,6 +83,12 @@
           "settings": {
             "collection": "spire-fra-porsgrund-porselen"
           }
+        },
+        "85e5809b-de0f-4eb2-9cba-f1b3ae5f7ce8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alle-servise-serier"
+          }
         }
       },
       "block_order": [
@@ -93,7 +99,8 @@
         "189a5856-b3a3-4130-87df-ee77d2432189",
         "ad3e1285-b18e-4af7-8294-ab3d6ca169cd",
         "d4770843-2f30-4328-bcac-6b7d00c0b5bf",
-        "17bf80b1-ede6-48d6-aac2-cd66b59a1566"
+        "17bf80b1-ede6-48d6-aac2-cd66b59a1566",
+        "85e5809b-de0f-4eb2-9cba-f1b3ae5f7ce8"
       ],
       "settings": {
         "title": "",
