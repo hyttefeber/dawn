@@ -42,16 +42,10 @@
             "collection": "kjokkenkniver"
           }
         },
-        "1633389115ecbd8946-0": {
+        "189a5856-b3a3-4130-87df-ee77d2432189": {
           "type": "featured_collection",
           "settings": {
-            "collection": "holm-tre-produkter"
-          }
-        },
-        "1633389115ecbd8946-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "fjoler-og-skjaerebrett"
+            "collection": "gryter-og-stekepanner"
           }
         },
         "b29da143-f5c9-41a3-993d-428f81705aa3": {
@@ -60,16 +54,22 @@
             "collection": "kjokkenredskaper-av-tre"
           }
         },
+        "1633389115ecbd8946-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fjoler-og-skjaerebrett"
+          }
+        },
+        "1633389115ecbd8946-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "holm-tre-produkter"
+          }
+        },
         "78ed54c8-4c8f-42ff-a58b-b6478e3b9088": {
           "type": "featured_collection",
           "settings": {
             "collection": "forkler-til-matlaging-inne-og-ute"
-          }
-        },
-        "189a5856-b3a3-4130-87df-ee77d2432189": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gryter-og-stekepanner"
           }
         },
         "86254aa5-1832-4664-9fa2-f71eb81a56c0": {
@@ -93,11 +93,11 @@
       },
       "block_order": [
         "1633389115ecbd8946-2",
-        "1633389115ecbd8946-0",
-        "1633389115ecbd8946-1",
-        "b29da143-f5c9-41a3-993d-428f81705aa3",
-        "78ed54c8-4c8f-42ff-a58b-b6478e3b9088",
         "189a5856-b3a3-4130-87df-ee77d2432189",
+        "b29da143-f5c9-41a3-993d-428f81705aa3",
+        "1633389115ecbd8946-1",
+        "1633389115ecbd8946-0",
+        "78ed54c8-4c8f-42ff-a58b-b6478e3b9088",
         "86254aa5-1832-4664-9fa2-f71eb81a56c0",
         "8269aaa0-7a7b-46fb-9954-11fc2ac018a0",
         "c5f8d6a8-63dd-4acf-8bfa-de4e03ac4f02"
