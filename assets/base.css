@@ -965,6 +965,7 @@ summary::-webkit-details-marker {
 
   .grid--3-col-tablet .grid__item {
     width: calc(33.33% - 1rem * 2 / 3);
+    max-width: 33%;
   }
 
   .grid--2-col-tablet .grid__item {
@@ -2204,7 +2205,7 @@ details[open] > .header__icon--menu .icon-hamburger {
 
 .header__menu-item span {
   transition: text-decoration var(--duration-short) ease;
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
 
 .header__menu-item:hover span {
