@@ -2451,6 +2451,9 @@ details-disclosure > details {
    .tax-note{
    text-align: left;
    }
+  cart-notification{
+   display:none; 
+  }
 
 .ratio::before {
   content: '';
