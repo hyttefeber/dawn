@@ -15,6 +15,12 @@
           "settings": {
           }
         },
+        "1dc9ab1f-7f9e-4d70-b653-ff7184ce1560": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"ruk_rating_snippet\" data-sku=\"{{ product.handle }};{{ product.variants | map: 'sku' | join: ';' }};{{ product.variants | map: 'id' | join: ';' }}\"><\/div>"
+          }
+        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -73,6 +79,7 @@
       "block_order": [
         "vendor",
         "title",
+        "1dc9ab1f-7f9e-4d70-b653-ff7184ce1560",
         "subtitle",
         "price",
         "variant_picker",
