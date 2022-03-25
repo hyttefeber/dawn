@@ -15,10 +15,9 @@
           "settings": {
           }
         },
-        "d18289bc-4d9e-46b1-99f3-c0337dafcba6": {
-          "type": "custom_liquid",
+        "b4f78be6-22fd-47d9-80ca-25fa0d59a9e3": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
           "settings": {
-            "custom_liquid": "<div class=\"ruk_rating_snippet\" data-sku=\"{{ product.handle }};{{ product.variants | map: 'sku' | join: ';' }};{{ product.variants | map: 'id' | join: ';' }}\"><\/div>"
           }
         },
         "subtitle": {
@@ -84,7 +83,7 @@
       "block_order": [
         "vendor",
         "title",
-        "d18289bc-4d9e-46b1-99f3-c0337dafcba6",
+        "b4f78be6-22fd-47d9-80ca-25fa0d59a9e3",
         "subtitle",
         "price",
         "variant_picker",
