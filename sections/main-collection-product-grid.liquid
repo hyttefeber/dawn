@@ -484,7 +484,7 @@
 
         <ul id="main-collection-product-grid" data-id="{{ section.id }}" class="
           grid grid--1-col negative-margin product-grid
-          {% if collection.products_count < 4 %} grid--3-col-tablet{% else %}
+          {% if collection.products_count < 4 %} grid--3-col-tablet--max33{% else %}
             {% if collection.products_count == 4 %} grid--4-col-desktop{% else %} grid--3-col-tablet grid--one-third-max grid--4-col-desktop grid--quarter-max{% endif %}
           {% endif %}">
           {%- for product in collection.products -%}
