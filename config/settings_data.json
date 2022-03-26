@@ -163,7 +163,8 @@
           "text": "Anmeldelser",
           "line_break": false,
           "show_popup": true,
-          "anchor_to_reviews_widget": false
+          "anchor_to_reviews_widget": true,
+          "show_empty_stars": false
         }
       }
     }
