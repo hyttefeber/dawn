@@ -101,12 +101,6 @@
         "enable_video_looping": false
       }
     },
-    "163939905528d6d26c": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"page-width\">\n<div id=\"reviewsio-carousel-widget\"><\/div><\/div>"
-      }
-    },
     "1646658003e0b2341c": {
       "type": "apps",
       "blocks": {
@@ -180,7 +174,6 @@
   },
   "order": [
     "main",
-    "163939905528d6d26c",
     "1646658003e0b2341c",
     "product-recommendations",
     "163774777359a12be4",
