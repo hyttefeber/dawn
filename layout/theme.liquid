@@ -216,15 +216,18 @@
 <!-- Back in Stock helper snippet -->
 {% render 'back-in-stock-helper' %}
 <!-- End Back in Stock helper snippet -->
-{% unless template contains "reviews-template" or "home" or "index" or "collection" or "page" or "article" %}
- <script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
-{% endunless %}
     
     {% comment %} Speed hack efforts for reviews.io {% endcomment %}
     {% if template contains "lama" %}
     <script src="{{ 'reviewsliderjs.js' | asset_url }}" async="async"></script>
     {{ 'reviewsliderstyles.css.css' | asset_url | stylesheet_tag }}
     {% endif %}
+    
+{% unless template contains "reviews-template" or "home" or "index" or "collection" or "page" or "article" %}
+ <script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
+{% endunless %}
+    
+    
     
   {% if template contains "pf" %} 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
