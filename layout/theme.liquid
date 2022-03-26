@@ -219,8 +219,8 @@
     
     {% comment %} Speed hack efforts for reviews.io {% endcomment %}
     {% if template contains "lama" %}
-    <script src="{{ 'reviewsliderjs.js' | asset_url }}" async="async"></script>
-    {{ 'reviewsliderstyles.css.css' | asset_url | stylesheet_tag }}
+    <script src="{{ 'reviewsliderjs.js' | asset_url }}"></script>
+    {{ 'reviewsliderstyles.css' | asset_url | stylesheet_tag }}
     {% endif %}
     
 {% unless template contains "reviews-template" or "home" or "index" or "collection" or "page" or "article" %}
