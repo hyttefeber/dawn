@@ -67,6 +67,15 @@
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
         },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_372158e3-7a1b-4307-a0e3-1f3f5c6e1d10.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/ingrid-fra-porsgrund-porselen"
+          }
+        },
         "column3": {
           "type": "column",
           "settings": {
@@ -74,15 +83,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/paskeegg"
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/12_256ddd51-47c7-4cef-af70-6ad3f4480f18.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
           }
         },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
@@ -97,8 +97,8 @@
       },
       "block_order": [
         "column1",
-        "column3",
         "column2",
+        "column3",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a"
       ],
       "settings": {
