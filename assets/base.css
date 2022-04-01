@@ -2450,3 +2450,4 @@ details-disclosure > details {
 #gorgias-chat-container iframe#chat-button { right: 22px }
 #gorgias-chat-container iframe#chat-window { right: 0 }
 #gorgias-chat-container iframe#chat-campaigns { right: 0 }
+.R-ReviewsList-container{z-index:2;}
