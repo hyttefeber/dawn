@@ -63,6 +63,11 @@
     {{ content_for_header }}
 {% endcapture %}
 
+    {% comment %} Below, we exclude redundant scripts and assets, as well as we remove them from the code and implement natively 
+    wherever possible. The two redundant Klaviyo scripts below gave a 0.4s increase in loading times for PDP.
+    
+    Next up will be to download, merge, and upload assets we can host ourselves {% endcomment %}
+    
     {% if template contains "product" %}
     {{ h_content
         | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
