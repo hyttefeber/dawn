@@ -282,6 +282,12 @@
     
   {% comment %}{% render 'third-party-performance-hacks' %}{% endcomment %}
   {% render 'tracking' %}
+  
+{% unless template contains "reviews-template" %}
+     <!-- CRITEO START -->
+    {% include 'criteo-tracking' %}
+    <!-- CRITEO END -->
+    {% endunless %} 
    
  {% include 'profitmetrics-origin' %}
 
