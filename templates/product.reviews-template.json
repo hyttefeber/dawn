@@ -124,11 +124,30 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "164908637775b1028b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mer til Hytta",
+        "collection": "pa-hytta",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "view_all_text": "Vis alt til Hytta",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
-    "1647027427cf640754"
+    "1647027427cf640754",
+    "164908637775b1028b"
   ]
 }
