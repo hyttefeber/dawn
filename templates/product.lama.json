@@ -106,7 +106,6 @@
       "blocks": {
         "969503c2-daae-4661-8c21-75aa6a3f1b67": {
           "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "disabled": true,
           "settings": {
             "star": "#fdcf0d",
             "review_type": "product_current",

@@ -226,11 +226,6 @@
 {% render 'back-in-stock-helper' %}
 <!-- End Back in Stock helper snippet -->
     
-    {% comment %} Speed hack efforts for reviews.io 
-    {% if template contains "lotsofhingsandsuffs" %}
-    <script src="{{ 'reviewsliderjs.js' | asset_url }}"></script>
-    {{ 'reviewsliderstyles.css' | asset_url | stylesheet_tag }}
-    {% endif %}{% endcomment %}
     
 {% unless template contains "reviews-template" or "home" or "index" or "collection" or "page" or "article" %}
  <script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
