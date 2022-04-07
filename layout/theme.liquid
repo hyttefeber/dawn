@@ -72,6 +72,7 @@
     
     {% if template contains "product" %}
     {{ h_content
+   	    | replace: 'AW-709355136', 'AW-738231931'
         | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
    	    | remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=RZLEec\u0026shop=hyttefeber.myshopify.com"
 		| remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=SqFFVH\u0026shop=hyttefeber.myshopify.com"
