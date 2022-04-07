@@ -78,11 +78,11 @@
     }}
     {% else %}
     {{ h_content
+    	| replace:'Google Gtag Pixel', 'Null Google Gtag Pixel'
         | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
    	    | remove: "https:\/\/tabs.stationmade.com\/registered-scripts\/tabs-by-station.js?shop=hyttefeber.myshopify.com"
        	| remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=RZLEec\u0026shop=hyttefeber.myshopify.com"
 		| remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=SqFFVH\u0026shop=hyttefeber.myshopify.com"
-    	| replace:'Google Gtag Pixel', 'Null Google Gtag Pixel'
     }}
     {% endif %}
     <!-- end hacks -->
