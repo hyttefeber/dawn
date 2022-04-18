@@ -79,10 +79,10 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_21cd6a1e-0ed6-489e-8eaa-5959f3d399dc.png",
+            "image": "shopify:\/\/shop_images\/1_8aa5279d-e919-45bb-8586-a614d0f31d6c.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/paskeegg"
+            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
           }
         },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
@@ -198,19 +198,20 @@
             "header_bg_colour": "#355179",
             "header_colour": "#ffffff",
             "header_star_colour": "#fdcf0d",
-            "heading_text_colour": "#0E1311",
+            "heading_text_colour": "#0e1311",
             "heading_font": "assistant_n4",
-            "body_text_colour": "#0E1311",
-            "badge_icon_colour": "#0E1311",
-            "badge_text_colour": "#0E1311",
+            "body_text_colour": "#0e1311",
+            "badge_icon_colour": "#0e1311",
+            "badge_text_colour": "#0e1311",
             "bg_start_colour": "#ffffff",
             "bg_end_colour": "#ffffff",
             "item_border_width": "0px",
-            "item_border_colour": "rgba(0,0,0,0.05)",
+            "item_border_colour": "#000000",
             "item_border_radius": "0px",
             "item_shadow_size": "10px",
-            "item_shadow_colour": "rgba(0,0,0,0.05)",
+            "item_shadow_colour": "#000000",
             "enable_rich_snippets": true,
+            "disable_same_customer": false,
             "logo_colour": "var(--logo-inverted)"
           }
         }
