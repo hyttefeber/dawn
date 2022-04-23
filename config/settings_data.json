@@ -78,8 +78,8 @@
           "newsletter_enable": false,
           "newsletter_heading": "Meld deg på vårt nyhetsbrev og få 10% rabatt på ditt første kjøp 😊",
           "show_social": true,
-          "enable_country_selector": true,
-          "enable_language_selector": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
           "payment_enable": true
         }
       },
