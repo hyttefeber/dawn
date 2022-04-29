@@ -151,15 +151,6 @@
     "1631626408eee30b8a": {
       "type": "multicolumn",
       "blocks": {
-        "1631626408eee30b8a-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_b8950b37-27e4-4822-94d3-e3b083e13272.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
-          }
-        },
         "1631626408eee30b8a-0": {
           "type": "column",
           "settings": {
@@ -168,11 +159,20 @@
             "text": "",
             "link": "shopify:\/\/collections\/fatboy"
           }
+        },
+        "1631626408eee30b8a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_b8950b37-27e4-4822-94d3-e3b083e13272.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
+          }
         }
       },
       "block_order": [
-        "1631626408eee30b8a-1",
-        "1631626408eee30b8a-0"
+        "1631626408eee30b8a-0",
+        "1631626408eee30b8a-1"
       ],
       "settings": {
         "title": "",
