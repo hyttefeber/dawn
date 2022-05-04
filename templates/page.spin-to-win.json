@@ -4,9 +4,16 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16516630633a65168c": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div id=\"woohoo-game-fullwheel\" class=\"woohoo-game-41689\"><\/div>"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16516630633a65168c"
   ]
 }
