@@ -2,6 +2,7 @@
   "sections": {
     "1652177916c74b866d": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "16521779162a9bf351-0": {
           "type": "featured_collection",
