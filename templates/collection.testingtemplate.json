@@ -1,0 +1,179 @@
+{
+  "sections": {
+    "1652177916c74b866d": {
+      "type": "collection-list",
+      "blocks": {
+        "16521779162a9bf351-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kjokkenredskaper-1"
+          }
+        },
+        "16521779162a9bf351-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "arabia"
+          }
+        },
+        "16521779162a9bf351-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alle-porselens-kopper"
+          }
+        }
+      },
+      "block_order": [
+        "16521779162a9bf351-0",
+        "16521779162a9bf351-1",
+        "16521779162a9bf351-2"
+      ],
+      "settings": {
+        "title": "Kolleksjoner",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 28,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "1643409139448a0635": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "9ef3521e-b905-4d7e-a17c-cc803ad25bf3": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "settings": {
+            "star": "#fdcf0d",
+            "review_type": "company, product",
+            "reviews_shown": 20,
+            "header_bg_colour": "#355179",
+            "header_colour": "#ffffff",
+            "header_star_colour": "#fdcf0d",
+            "heading_text_colour": "#0E1311",
+            "heading_font": "helvetica_n4",
+            "body_text_colour": "#0E1311",
+            "badge_icon_colour": "#0E1311",
+            "badge_text_colour": "#0E1311",
+            "bg_start_colour": "#ffffff",
+            "bg_end_colour": "#ffffff",
+            "item_border_width": "0px",
+            "item_border_colour": "rgba(0,0,0,0.05)",
+            "item_border_radius": "0px",
+            "item_shadow_size": "10px",
+            "item_shadow_colour": "rgba(0,0,0,0.05)",
+            "enable_rich_snippets": false,
+            "disable_same_customer": false,
+            "logo_colour": "var(--logo-inverted)"
+          }
+        }
+      },
+      "block_order": [
+        "9ef3521e-b905-4d7e-a17c-cc803ad25bf3"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "16388220553dbbfb02": {
+      "type": "collection-list",
+      "blocks": {
+        "16388220555866fa8a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "til-uteplassen"
+          }
+        },
+        "03a7b704-5d75-4af1-882a-5ff727e45966": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "balplassen"
+          }
+        },
+        "16388220555866fa8a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "interior-til-hytter-og-hus"
+          }
+        },
+        "16388220555866fa8a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "belysning-og-lyslykter"
+          }
+        },
+        "8633003d-4061-401a-bb8c-65cad9a1c09e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "81fbae77-5db6-412c-a9e2-dc520af1565f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ut-pa-tur"
+          }
+        },
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mummi-hos-hyttefeber"
+          }
+        },
+        "01fb9155-329e-40a2-91e1-e6470e9e2b49": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kjokken-og-servering"
+          }
+        }
+      },
+      "block_order": [
+        "16388220555866fa8a-0",
+        "03a7b704-5d75-4af1-882a-5ff727e45966",
+        "16388220555866fa8a-1",
+        "16388220555866fa8a-2",
+        "8633003d-4061-401a-bb8c-65cad9a1c09e",
+        "81fbae77-5db6-412c-a9e2-dc520af1565f",
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
+        "01fb9155-329e-40a2-91e1-e6470e9e2b49"
+      ],
+      "settings": {
+        "title": "Flere kolleksjoner",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    }
+  },
+  "order": [
+    "1652177916c74b866d",
+    "banner",
+    "product-grid",
+    "1643409139448a0635",
+    "16388220553dbbfb02"
+  ]
+}
