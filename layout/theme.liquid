@@ -259,7 +259,15 @@ gtag('event', 'conversion', {'send_to': 'AW-738231931/Y3gFCNWm87ADEPuMguAC'});
 {% unless template contains "reviews-template" or "home" or "index" or "collection" or "page" or "article" %}
  <script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
 {% endunless %}
-    
+   
+    {% comment %} Hack for hiding top collection on paginated collections {% endcomment %}
+    {% if canonical_url contains 'page' %}
+<style>
+#Slider-template--15326058971287__163740507148c347b1{
+display:none!important;
+}
+</style>
+    {% endif %}
     
     
   {% if template contains "pf" %} 
