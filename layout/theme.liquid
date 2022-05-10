@@ -262,13 +262,13 @@
         }
     </script>{% endif %}
 
-    {{ if url contains "?page="}}
+    {% if request.path contains "?page=" %}
 <style>
 #Slider-template--15687564492963__1652177916c74b866d{
 display:none;
 }
 </style>
-    {{ endif }}
+    {% endif %}
     
     
    
