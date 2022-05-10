@@ -262,6 +262,15 @@
         }
     </script>{% endif %}
 
+    {{ if url contains "?page="}}
+<style>
+#Slider-template--15687564492963__1652177916c74b866d{
+display:none;
+}
+</style>
+    {{ endif }}
+    
+    
    
 <script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
   {% render 'tracking' %}
