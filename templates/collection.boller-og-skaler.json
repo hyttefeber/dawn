@@ -29,25 +29,25 @@
         "165226219844ecd034-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "serveringsbrett-og-fat"
+            "collection": "boller-og-skaler"
           }
         },
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "serveringsbrett"
+            "collection": "boller-og-skaler-i-glass"
           }
         },
         "165226219844ecd034-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "emaljefat-1"
+            "collection": "boller-og-skaler-i-tre"
           }
         },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
           "settings": {
-            "collection": "trefat"
+            "collection": "boller-og-skaler-i-emalje"
           }
         },
         "2f73366f-24e8-48dd-9d89-17a7f0151208": {
@@ -74,7 +74,7 @@
         "1eaadf80-ec4a-4471-b4d1-3e386770955e"
       ],
       "settings": {
-        "title": "Flere fat og serveringsbrett",
+        "title": "Boller og skåler",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
