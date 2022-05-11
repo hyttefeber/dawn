@@ -29,23 +29,25 @@
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "boller-og-skaler-i-glass"
+            "collection": "bestikk"
           }
         },
         "165226219844ecd034-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "boller-og-skaler-i-tre"
+            "collection": "turbestikk"
           }
         },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "boller-og-skaler-i-emalje"
           }
         },
         "165226219844ecd034-0": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "boller-og-skaler"
           }
@@ -74,7 +76,7 @@
         "1eaadf80-ec4a-4471-b4d1-3e386770955e"
       ],
       "settings": {
-        "title": "Boller og skåler",
+        "title": "Bestikk",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
