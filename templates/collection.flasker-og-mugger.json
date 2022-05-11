@@ -29,35 +29,37 @@
         "165226219844ecd034-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kopper-og-krus"
+            "collection": "mugger-karaffler-og-flasker"
           }
         },
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "emaljerte-kopper"
+            "collection": "mugger"
           }
         },
         "165226219844ecd034-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mummikopper"
+            "collection": "karafler"
           }
         },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mariuskoppen-fra-porsgrund-porselen"
+            "collection": "serveringsflasker"
           }
         },
         "2f73366f-24e8-48dd-9d89-17a7f0151208": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "turkopper"
           }
         },
         "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "trekopper"
           }
@@ -72,7 +74,7 @@
         "1eaadf80-ec4a-4471-b4d1-3e386770955e"
       ],
       "settings": {
-        "title": "Flere kopper og krus",
+        "title": "Flere flasker og mugger",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
