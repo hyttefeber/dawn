@@ -29,29 +29,50 @@
         "165226219844ecd034-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kjokkenglass"
+            "collection": "kopper-og-krus"
           }
         },
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "serveringsglass-vin-ol-chapagne"
+            "collection": "emaljerte-kopper"
           }
         },
         "165226219844ecd034-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "glass"
+            "collection": "mummikopper"
+          }
+        },
+        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mariuskoppen-fra-porsgrund-porselen"
+          }
+        },
+        "2f73366f-24e8-48dd-9d89-17a7f0151208": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "turkopper"
+          }
+        },
+        "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "trekopper"
           }
         }
       },
       "block_order": [
         "165226219844ecd034-0",
         "165226219844ecd034-1",
-        "165226219844ecd034-2"
+        "165226219844ecd034-2",
+        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420",
+        "2f73366f-24e8-48dd-9d89-17a7f0151208",
+        "1eaadf80-ec4a-4471-b4d1-3e386770955e"
       ],
       "settings": {
-        "title": "Flere Drikkeglass",
+        "title": "Flere kopper og krus",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
