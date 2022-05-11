@@ -29,25 +29,25 @@
         "165226219844ecd034-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mugger-karaffler-og-flasker"
+            "collection": "serveringsbrett-og-fat"
           }
         },
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mugger"
+            "collection": "serveringsbrett"
           }
         },
         "165226219844ecd034-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "karafler"
+            "collection": "emaljefat-1"
           }
         },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
           "settings": {
-            "collection": "serveringsflasker"
+            "collection": "trefat"
           }
         },
         "2f73366f-24e8-48dd-9d89-17a7f0151208": {
@@ -74,7 +74,7 @@
         "1eaadf80-ec4a-4471-b4d1-3e386770955e"
       ],
       "settings": {
-        "title": "Flere flasker og mugger",
+        "title": "Flere fat og serveringsbrett",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
