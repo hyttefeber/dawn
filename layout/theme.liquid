@@ -172,6 +172,15 @@
     	| remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1650026765\u0026shop=hyttefeber.myshopify.com"
    	    | remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=RZLEec\u0026shop=hyttefeber.myshopify.com"
 		| remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=SqFFVH\u0026shop=hyttefeber.myshopify.com"
+    	| remove: "https:\/\/app.getwoohoo.com\/23484\/script.js?1652175449\u0026shop=hyttefeber.myshopify.com"
+    }}
+    {% elsif template contains "soppelspin" %}
+    {{ h_content
+        | remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1623001064\u0026shop=hyttefeber.myshopify.com"
+    	| remove: "https:\/\/storage.googleapis.com\/gsf-scripts\/global-remarketing\/hyttefeber.js?1650026765\u0026shop=hyttefeber.myshopify.com"
+   	    | remove: "https:\/\/tabs.stationmade.com\/registered-scripts\/tabs-by-station.js?shop=hyttefeber.myshopify.com"
+       	| remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=RZLEec\u0026shop=hyttefeber.myshopify.com"
+		| remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=SqFFVH\u0026shop=hyttefeber.myshopify.com"
     }}
     {% else %}
     {{ h_content
@@ -180,8 +189,10 @@
    	    | remove: "https:\/\/tabs.stationmade.com\/registered-scripts\/tabs-by-station.js?shop=hyttefeber.myshopify.com"
        	| remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=RZLEec\u0026shop=hyttefeber.myshopify.com"
 		| remove: "https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=SqFFVH\u0026shop=hyttefeber.myshopify.com"
+    	| remove: "https:\/\/app.getwoohoo.com\/23484\/script.js?1652175449\u0026shop=hyttefeber.myshopify.com"
     }}
     {% endif %}
+    
     
     <!-- end hacks -->
     
