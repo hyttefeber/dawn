@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16336834187109d930": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -42,8 +36,20 @@
             "header_bg_colour": "#355179",
             "header_colour": "#ffffff",
             "header_star_colour": "#fdcf0d",
+            "heading_text_colour": "#0E1311",
             "heading_font": "helvetica_n4",
+            "body_text_colour": "#0E1311",
+            "badge_icon_colour": "#0E1311",
+            "badge_text_colour": "#0E1311",
+            "bg_start_colour": "#ffffff",
+            "bg_end_colour": "#ffffff",
+            "item_border_width": "0px",
+            "item_border_colour": "rgba(0,0,0,0.05)",
+            "item_border_radius": "0px",
+            "item_shadow_size": "10px",
+            "item_shadow_colour": "rgba(0,0,0,0.05)",
             "enable_rich_snippets": false,
+            "disable_same_customer": false,
             "logo_colour": "var(--logo-inverted)"
           }
         }
@@ -128,7 +134,6 @@
     }
   },
   "order": [
-    "16336834187109d930",
     "banner",
     "product-grid",
     "1643409139448a0635",
