@@ -1,0 +1,203 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 28,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "16522621980aa319e9": {
+      "type": "collection-list",
+      "blocks": {
+        "165226219844ecd034-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "marius-servise"
+          }
+        },
+        "165226219844ecd034-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mummi-servise"
+          }
+        },
+        "165226219844ecd034-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ingrid-fra-porsgrund-porselen"
+          }
+        },
+        "63a381ac-2ac8-448e-9a75-cda98b66efdd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nyhet-siri"
+          }
+        },
+        "258c1e8a-22ce-409c-acc0-a5006d3a974e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "alv-fra-wik-og-walsoe"
+          }
+        },
+        "62aaa6a9-9938-49bf-abbe-6c3a9fe6a98f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camilla-phil"
+          }
+        },
+        "eb0a9803-0e0f-486e-8b93-af130e1c4c8d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serie-dompap"
+          }
+        },
+        "503f2bc0-0bb0-480b-882e-e7d41fc75fad": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "spire-fra-porsgrund-porselen"
+          }
+        },
+        "86aa3d4f-d417-4f61-a5b3-cd43e7fb4935": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jordbaereng"
+          }
+        },
+        "d8212ab7-ca26-493a-8fe1-593684eec4bd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "treservise"
+          }
+        },
+        "7a962257-8c6f-496b-a72e-915042688e38": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "uknuselig"
+          }
+        },
+        "0d2bd538-df56-4940-b61f-928a83a6876a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "emaljert-servise"
+          }
+        }
+      },
+      "block_order": [
+        "165226219844ecd034-0",
+        "165226219844ecd034-1",
+        "165226219844ecd034-2",
+        "63a381ac-2ac8-448e-9a75-cda98b66efdd",
+        "258c1e8a-22ce-409c-acc0-a5006d3a974e",
+        "62aaa6a9-9938-49bf-abbe-6c3a9fe6a98f",
+        "eb0a9803-0e0f-486e-8b93-af130e1c4c8d",
+        "503f2bc0-0bb0-480b-882e-e7d41fc75fad",
+        "86aa3d4f-d417-4f61-a5b3-cd43e7fb4935",
+        "d8212ab7-ca26-493a-8fe1-593684eec4bd",
+        "7a962257-8c6f-496b-a72e-915042688e38",
+        "0d2bd538-df56-4940-b61f-928a83a6876a"
+      ],
+      "settings": {
+        "title": "Flere serviser",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "16388220553dbbfb02": {
+      "type": "collection-list",
+      "blocks": {
+        "16388220555866fa8a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "til-uteplassen"
+          }
+        },
+        "03a7b704-5d75-4af1-882a-5ff727e45966": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "balplassen"
+          }
+        },
+        "16388220555866fa8a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "interior-til-hytter-og-hus"
+          }
+        },
+        "16388220555866fa8a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "belysning-og-lyslykter"
+          }
+        },
+        "8633003d-4061-401a-bb8c-65cad9a1c09e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "81fbae77-5db6-412c-a9e2-dc520af1565f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ut-pa-tur"
+          }
+        },
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mummi-hos-hyttefeber"
+          }
+        },
+        "01fb9155-329e-40a2-91e1-e6470e9e2b49": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kjokken-og-servering"
+          }
+        }
+      },
+      "block_order": [
+        "16388220555866fa8a-0",
+        "03a7b704-5d75-4af1-882a-5ff727e45966",
+        "16388220555866fa8a-1",
+        "16388220555866fa8a-2",
+        "8633003d-4061-401a-bb8c-65cad9a1c09e",
+        "81fbae77-5db6-412c-a9e2-dc520af1565f",
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
+        "01fb9155-329e-40a2-91e1-e6470e9e2b49"
+      ],
+      "settings": {
+        "title": "Flere kategorier",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "16522621980aa319e9",
+    "16388220553dbbfb02"
+  ]
+}
