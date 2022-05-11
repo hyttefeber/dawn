@@ -62,18 +62,16 @@
             "collection": "titan-servise"
           }
         },
-        "39be9d9d-6d06-406e-9c85-0e3a248ed36a": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": "turservise-og-servering"
-          }
-        },
         "165226219844ecd034-0": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "matlaging-pa-tur"
+          }
+        },
+        "39be9d9d-6d06-406e-9c85-0e3a248ed36a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sitteunderlag-og-turstoler"
           }
         },
         "9cbeb183-78d6-403c-af1f-e116b1284831": {
@@ -98,8 +96,8 @@
         "2f73366f-24e8-48dd-9d89-17a7f0151208",
         "1eaadf80-ec4a-4471-b4d1-3e386770955e",
         "bd3d068b-9a52-40b5-bce4-681ee97946ea",
-        "39be9d9d-6d06-406e-9c85-0e3a248ed36a",
         "165226219844ecd034-0",
+        "39be9d9d-6d06-406e-9c85-0e3a248ed36a",
         "9cbeb183-78d6-403c-af1f-e116b1284831",
         "670d40d3-79ba-48c6-90d9-fd96708960b3"
       ],
