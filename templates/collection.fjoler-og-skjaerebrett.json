@@ -26,28 +26,28 @@
     "16522621980aa319e9": {
       "type": "collection-list",
       "blocks": {
-        "2f73366f-24e8-48dd-9d89-17a7f0151208": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "brett-og-fat"
-          }
-        },
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "dekorfat"
+            "collection": "skjaerebrett-i-tre"
           }
         },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
           "settings": {
-            "collection": "brett-og-fjoler-i-tre"
+            "collection": "fjoler"
           }
         },
         "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "serveringsbrett"
+            "collection": "mummibrett"
+          }
+        },
+        "2f73366f-24e8-48dd-9d89-17a7f0151208": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "smarte-skjaerebrett-i-plast"
           }
         },
         "bd3d068b-9a52-40b5-bce4-681ee97946ea": {
@@ -94,10 +94,10 @@
         }
       },
       "block_order": [
-        "2f73366f-24e8-48dd-9d89-17a7f0151208",
         "165226219844ecd034-1",
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420",
         "1eaadf80-ec4a-4471-b4d1-3e386770955e",
+        "2f73366f-24e8-48dd-9d89-17a7f0151208",
         "bd3d068b-9a52-40b5-bce4-681ee97946ea",
         "165226219844ecd034-0",
         "39be9d9d-6d06-406e-9c85-0e3a248ed36a",
@@ -106,7 +106,7 @@
         "670d40d3-79ba-48c6-90d9-fd96708960b3"
       ],
       "settings": {
-        "title": "Brett og fat",
+        "title": "Fjøler og skjærebrett",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
