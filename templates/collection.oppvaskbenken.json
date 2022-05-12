@@ -29,31 +29,31 @@
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "tekstiler-til-kjokkenet"
+            "collection": "oppvaskstativer"
           }
         },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
           "settings": {
-            "collection": "forkler-til-matlaging-inne-og-ute"
+            "collection": "oppvaskstativer-1"
           }
         },
         "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kjokkenkluter"
+            "collection": "oppvaskborster-anbefalte"
           }
         },
         "2f73366f-24e8-48dd-9d89-17a7f0151208": {
           "type": "featured_collection",
           "settings": {
-            "collection": "tova-grytekluter"
+            "collection": "oppvaskmidler"
           }
         },
         "bd3d068b-9a52-40b5-bce4-681ee97946ea": {
           "type": "featured_collection",
           "settings": {
-            "collection": "grytekluter"
+            "collection": "oppvaskholdere-og-dispensere"
           }
         },
         "165226219844ecd034-0": {
@@ -104,7 +104,7 @@
         "670d40d3-79ba-48c6-90d9-fd96708960b3"
       ],
       "settings": {
-        "title": "Tekstiler til kjøkkenet",
+        "title": "Til oppvasken",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
