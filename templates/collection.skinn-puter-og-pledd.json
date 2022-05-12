@@ -29,42 +29,42 @@
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "matoppbevaring"
+            "collection": "skinn-puter-og-pledd"
           }
         },
         "165226219844ecd034-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "termoser"
+            "collection": "skinnfeller-og-sitteunderlag"
           }
         },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
           "settings": {
-            "collection": "termokopper"
+            "collection": "sitteunderlag"
           }
         },
         "2f73366f-24e8-48dd-9d89-17a7f0151208": {
           "type": "featured_collection",
           "settings": {
-            "collection": "drikkeflasker"
+            "collection": "sitteputer"
           }
         },
         "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "matbokser"
+            "collection": "pynteputer"
           }
         },
         "bd3d068b-9a52-40b5-bce4-681ee97946ea": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
-            "collection": "titan-servise"
+            "collection": "pledd"
           }
         },
         "165226219844ecd034-0": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "matlaging-pa-tur"
           }
@@ -104,7 +104,7 @@
         "670d40d3-79ba-48c6-90d9-fd96708960b3"
       ],
       "settings": {
-        "title": "Mattoppbevaring i farta",
+        "title": "Skinn, Puter og Pledd",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
