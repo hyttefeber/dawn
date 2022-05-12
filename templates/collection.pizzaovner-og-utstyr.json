@@ -26,28 +26,28 @@
     "16522621980aa319e9": {
       "type": "collection-list",
       "blocks": {
-        "165226219844ecd034-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bekledning"
-          }
-        },
         "165226219844ecd034-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "marius-sokker"
-          }
-        },
-        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "mummisokkene"
+            "collection": "ooni-pizzaovner-best-i-test"
           }
         },
         "2f73366f-24e8-48dd-9d89-17a7f0151208": {
           "type": "featured_collection",
           "settings": {
-            "collection": "luer-og-votter-med-mariusmonster"
+            "collection": "italienske-bake-pg-pizzaovner"
+          }
+        },
+        "165226219844ecd034-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pizza-tilbehor"
+          }
+        },
+        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ooni-tilbehor"
           }
         },
         "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
@@ -94,10 +94,10 @@
         }
       },
       "block_order": [
-        "165226219844ecd034-1",
         "165226219844ecd034-2",
-        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420",
         "2f73366f-24e8-48dd-9d89-17a7f0151208",
+        "165226219844ecd034-1",
+        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420",
         "1eaadf80-ec4a-4471-b4d1-3e386770955e",
         "bd3d068b-9a52-40b5-bce4-681ee97946ea",
         "165226219844ecd034-0",
@@ -106,7 +106,7 @@
         "670d40d3-79ba-48c6-90d9-fd96708960b3"
       ],
       "settings": {
-        "title": "Bekledning",
+        "title": "Pizzaovner og tilbehør",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
