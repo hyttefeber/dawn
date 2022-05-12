@@ -28,43 +28,43 @@
       "blocks": {
         "165226219844ecd034-1": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
-            "collection": "matvarer"
+            "collection": "tekstiler-til-kjokkenet"
           }
         },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
           "settings": {
-            "collection": "okologisk-olivenolje"
+            "collection": "forkler-til-matlaging-inne-og-ute"
           }
         },
         "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "norgesglass-krydder"
+            "collection": "kjokkenkluter"
           }
         },
         "2f73366f-24e8-48dd-9d89-17a7f0151208": {
           "type": "featured_collection",
           "settings": {
-            "collection": "godteri-pa-norgesglass"
+            "collection": "tova-grytekluter"
           }
         },
         "bd3d068b-9a52-40b5-bce4-681ee97946ea": {
           "type": "featured_collection",
           "settings": {
-            "collection": "nyhet-chilisaus-fra-hot-society"
+            "collection": "grytekluter"
           }
         },
         "165226219844ecd034-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "hjemmelaget-kakao"
+            "collection": "kjokkenhandklaer"
           }
         },
         "39be9d9d-6d06-406e-9c85-0e3a248ed36a": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "gele-pa-norgesglass"
           }
@@ -104,7 +104,7 @@
         "670d40d3-79ba-48c6-90d9-fd96708960b3"
       ],
       "settings": {
-        "title": "Matvarer",
+        "title": "Tekstiler til kjøkkenet",
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
