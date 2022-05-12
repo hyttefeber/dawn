@@ -103,6 +103,18 @@
           "settings": {
             "collection": "utekjokken"
           }
+        },
+        "ffae3b24-6a1c-47d4-9955-a2264f987b3f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "paletti-modulbasert-sittegruppe"
+          }
+        },
+        "0ef56292-f606-4819-9c53-4bde5447766d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fatboy"
+          }
         }
       },
       "block_order": [
@@ -118,7 +130,9 @@
         "9cbeb183-78d6-403c-af1f-e116b1284831",
         "670d40d3-79ba-48c6-90d9-fd96708960b3",
         "7399ad80-09f8-4985-838c-79db7586f827",
-        "5c38d841-fbe0-4b04-8298-84bf19b21f4f"
+        "5c38d841-fbe0-4b04-8298-84bf19b21f4f",
+        "ffae3b24-6a1c-47d4-9955-a2264f987b3f",
+        "0ef56292-f606-4819-9c53-4bde5447766d"
       ],
       "settings": {
         "title": "Utemøbler",
