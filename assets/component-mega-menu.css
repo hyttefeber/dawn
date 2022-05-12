@@ -17,6 +17,9 @@
   top: 100%;
   z-index: -1;
 }
+.mega-menu__content .font-body-bold{
+ text-transform: uppercase; 
+}
 
 .header-wrapper--border-bottom .mega-menu__content {
   border-top: 0;
