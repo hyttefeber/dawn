@@ -72,7 +72,6 @@
   text-decoration-thickness: 0.2rem;
 }
 .mega-menu__list li .list-unstyled li:first-child{
- /*font-weight: 700;*/
+ /*font-weight: 700;font-style: italic;*/
   text-transform: uppercase;
-  font-style: italic;
 }
