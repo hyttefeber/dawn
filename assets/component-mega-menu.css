@@ -71,6 +71,6 @@
 .mega-menu__link--active:hover {
   text-decoration-thickness: 0.2rem;
 }
-.mega-menu__list li ul:first-child{
+.mega-menu__list li .list-unstyled li:first-child{
  font-weight: 700; 
 }
