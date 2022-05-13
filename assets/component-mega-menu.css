@@ -74,4 +74,5 @@
 .mega-menu__list li .list-unstyled li:first-child{
  /*font-weight: 700;*/
   text-transform: uppercase;
+  font-style: italic;
 }
