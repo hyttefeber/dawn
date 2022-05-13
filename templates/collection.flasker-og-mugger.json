@@ -82,6 +82,42 @@
         "show_view_all": false
       }
     },
+    "1652479411d2a8a145": {
+      "type": "collection-list",
+      "blocks": {
+        "1652479411201bb885-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "glass"
+          }
+        },
+        "1652479411201bb885-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kjokkenglass"
+          }
+        },
+        "1652479411201bb885-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serveringsglass-vin-ol-champagne"
+          }
+        }
+      },
+      "block_order": [
+        "1652479411201bb885-0",
+        "1652479411201bb885-1",
+        "1652479411201bb885-2"
+      ],
+      "settings": {
+        "title": "Flere drikkeglass",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
     "16388220553dbbfb02": {
       "type": "collection-list",
       "blocks": {
@@ -158,6 +194,7 @@
     "banner",
     "product-grid",
     "16522621980aa319e9",
+    "1652479411d2a8a145",
     "16388220553dbbfb02"
   ]
 }
