@@ -326,13 +326,7 @@ display:none!important;
   {% comment %}{% render 'third-party-performance-hacks' %}{% endcomment %}
   {% render 'tracking' %}
   
-{% if template contains "reviews-template" %}
-    
-   {% else %}
-     <!-- CRITEO START -->
-    {% include 'criteo-tracking' %}
-    <!-- CRITEO END -->
-    {% endif %} 
+
    
  {% include 'profitmetrics-origin' %}
     
