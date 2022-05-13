@@ -22,7 +22,7 @@
 }
 @media screen and (min-width: 997px){
   .mega-menu__content .font-body-bold{ 
- height: 54px; 
+ min-height: 54px; 
 }
 }
 
