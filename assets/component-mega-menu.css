@@ -80,3 +80,6 @@
  /*font-weight: 700;font-style: italic;*/
   text-transform: uppercase;
 }
+#MegaMenu-Content-7 .mega-menu__list li .list-unstyled li:first-child{
+  text-transform: none;
+}
