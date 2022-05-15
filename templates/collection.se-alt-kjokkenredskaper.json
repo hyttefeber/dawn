@@ -99,7 +99,13 @@
         "2dca6a78-13c8-4bdc-8460-860c483e6f22": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "stopejern"
+          }
+        },
+        "8fc9dcd2-7b11-42b1-aa2e-46e65a9ffbc8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "setkepanner"
           }
         }
       },
@@ -114,7 +120,8 @@
         "8269aaa0-7a7b-46fb-9954-11fc2ac018a0",
         "c5f8d6a8-63dd-4acf-8bfa-de4e03ac4f02",
         "5b3509c2-4839-4fc5-aefd-0d7d5716db06",
-        "2dca6a78-13c8-4bdc-8460-860c483e6f22"
+        "2dca6a78-13c8-4bdc-8460-860c483e6f22",
+        "8fc9dcd2-7b11-42b1-aa2e-46e65a9ffbc8"
       ],
       "settings": {
         "title": "",
