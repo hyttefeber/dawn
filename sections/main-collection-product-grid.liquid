@@ -455,7 +455,12 @@
       </div>
     </div>
   {%- endif -%}
-</div>
+    {%- if section.settings.show_grid_swap -%}
+
+     {% render 'grid-swap' %}
+    {%- endif -%}
+
+  </div>
 
 <div id="CollectionProductGrid">
   {%- paginate collection.products by section.settings.products_per_page -%}
@@ -586,6 +591,12 @@
       "id": "show_atc",
       "default": false,
       "label": "Show Add To Cart"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_grid_swap",
+        "default": true,
+        "label": "Show Grid Swap"
       },
       {
       "type": "checkbox",
