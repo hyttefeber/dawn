@@ -45,7 +45,7 @@
         "189a5856-b3a3-4130-87df-ee77d2432189": {
           "type": "featured_collection",
           "settings": {
-            "collection": "gryter-og-stekepanner"
+            "collection": "gryter"
           }
         },
         "b29da143-f5c9-41a3-993d-428f81705aa3": {
@@ -89,6 +89,18 @@
           "settings": {
             "collection": "baking"
           }
+        },
+        "5b3509c2-4839-4fc5-aefd-0d7d5716db06": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brodrister-og-vannkoker"
+          }
+        },
+        "2dca6a78-13c8-4bdc-8460-860c483e6f22": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
@@ -100,7 +112,9 @@
         "78ed54c8-4c8f-42ff-a58b-b6478e3b9088",
         "86254aa5-1832-4664-9fa2-f71eb81a56c0",
         "8269aaa0-7a7b-46fb-9954-11fc2ac018a0",
-        "c5f8d6a8-63dd-4acf-8bfa-de4e03ac4f02"
+        "c5f8d6a8-63dd-4acf-8bfa-de4e03ac4f02",
+        "5b3509c2-4839-4fc5-aefd-0d7d5716db06",
+        "2dca6a78-13c8-4bdc-8460-860c483e6f22"
       ],
       "settings": {
         "title": "",
