@@ -155,7 +155,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Mer til oppvasken",
-        "collection": "oppvaskstativer",
+        "collection": "oppvask-for-hand-oppvaskbenken",
         "products_to_show": 8,
         "show_view_all": true,
         "view_all_text": "Vis alt til oppvasken",
