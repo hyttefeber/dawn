@@ -67,7 +67,7 @@ text-decoration: none;
 </li>
 {%- endif -%}
 <li class="breadcrumbs__item">
-<a class="breadcrumbs__link" href="{{ product.url | within: collection }}" aria-current="page">{{ product.title }}</a>
+<a class="breadcrumbs__link" href="{{ product.url }}" aria-current="page">{{ product.title }}</a>
 </li>
 {%- when 'collection' and collection.handle -%}
 {%- if current_tags -%}
