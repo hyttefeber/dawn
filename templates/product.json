@@ -3,7 +3,7 @@
     "1653319832485a1775": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% render 'breadcrumbs2' %}"
+        "custom_liquid": "{% render 'breadcrumbs' %}"
       }
     },
     "main": {
