@@ -48,7 +48,7 @@
 <nav class="breadcrumbs" role="navigation" aria-label="breadcrumbs">
   <ol class="breadcrumbs__list">
     <li class="breadcrumbs__item">
-      <a class="breadcrumbs__link" href="/">Home</a>
+      <a class="breadcrumbs__link" href="/">Hjem</a>
     </li>
     {%- case t -%}
       {%- when 'page' -%}
@@ -62,7 +62,7 @@
           </li>
         {%- endif -%}
         <li class="breadcrumbs__item">
-          <a class="breadcrumbs__link" href="{{ product.url | within: collection }}" aria-current="page">{{ product.title }}</a>
+          <a class="breadcrumbs__link" href="{{ product.url }}" aria-current="page">{{ product.title }}</a>
         </li>
       {%- when 'collection' and collection.handle -%}
         {%- if current_tags -%}
