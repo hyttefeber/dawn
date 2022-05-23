@@ -54,7 +54,7 @@ text-decoration: none;
 
 {%- unless template == 'index' or template == 'cart' or template == 'list-collections' or template == '404' -%}
 {%- assign t = template | split: '.' | first -%}
-
+<section class="page-width">
 <nav class="breadcrumbs" role="navigation" aria-label="breadcrumbs">
   <ol class="breadcrumbs__list">
     <li class="breadcrumbs__item">
@@ -116,4 +116,5 @@ text-decoration: none;
     {%- endcase -%}
   </ol>
 </nav>
+</section>
 {%- endunless -%}
