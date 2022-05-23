@@ -169,11 +169,10 @@
         </button>
           {% endif %}
 
-        <a href="{{ product_card_product.url }}" class="button button--full-width button--secondary">{{ 'products.product.read_more' | t }}</a>
+        <a href="{{ product_card_product.url | within: collection }}" class="button button--full-width button--secondary">{{ 'products.product.read_more' | t }}</a>
       </div>
     {%- endform -%}
   </product-form>
   {%- endif -%}
 </div>
 {%- render 'cart-notification' -%}
-
