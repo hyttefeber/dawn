@@ -3,7 +3,7 @@
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
-        "show_vendor": false
+        "show_vendor": true
       }
     },
     "cart-footer": {
@@ -30,6 +30,7 @@
     },
     "16373174030bda5d01": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Andre kjøpte også",
         "collection": "_bcp-over-100kr",
