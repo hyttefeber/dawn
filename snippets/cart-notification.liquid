@@ -18,6 +18,9 @@
         </button>
       </div>
       <div id="cart-notification-product" class="cart-notification-product"></div>
+        {% if item.variant.inventory_quantity < 0 %}
+                    <p class="preordertext">{{ item.product.metafields.inventory.preorderMessage }}</p>
+                    {% endif %}
       <div class="cart-notification__links">
         <a href="{{ routes.cart_url }}" id="cart-notification-button" class="button button--secondary button--full-width"></a>
         <form action="{{ routes.cart_url }}" method="post" id="cart">
