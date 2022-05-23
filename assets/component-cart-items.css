@@ -310,3 +310,7 @@ cart-remove-button .icon-remove {
     width: 60%;
   }
 }
+.cart-item__details .preordertext{
+ 	font-style: italic;
+    font-size: 0.9em; 
+}
