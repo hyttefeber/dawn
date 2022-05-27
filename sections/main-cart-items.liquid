@@ -65,7 +65,7 @@
                     <a href="{{ item.url }}" class="cart-item__name break">{{ item.product.title | escape }}</a>
                     {% comment %}Display preorder text, if any, when stock is 0 or below {% endcomment %}
                     
-                    {% if item.variant.inventory_quantity < 0 %}
+                    {% if item.variant.inventory_quantity < 1 %}
                     <p class="preordertext">{{ item.product.metafields.inventory.preorderMessage }}</p>
                     {% endif %}
 
