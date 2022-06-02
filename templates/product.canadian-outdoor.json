@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "3a7915f9-6e65-498a-a366-b264bd253e3e": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "6b9ba633-10f0-4907-bcf6-c04c3113db92": {
+          "type": "stock_status",
+          "settings": {
+          }
+        },
+        "5c4da8b8-34ad-4409-8489-39d8fb0f3adb": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28310",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Del"
+          }
+        },
+        "9f668dc8-c957-4451-b678-063693ea2ef1": {
+          "type": "vendor_link",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "3a7915f9-6e65-498a-a366-b264bd253e3e",
+        "subtitle",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "6b9ba633-10f0-4907-bcf6-c04c3113db92",
+        "5c4da8b8-34ad-4409-8489-39d8fb0f3adb",
+        "buy_buttons",
+        "description",
+        "share",
+        "9f668dc8-c957-4451-b678-063693ea2ef1"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "164831311125e7e7e8": {
+      "type": "apps",
+      "blocks": {
+        "ba759413-319f-4a07-bd61-54156a629110": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "settings": {
+            "star": "#fdcf0d",
+            "review_type": "product_current",
+            "reviews_shown": 20,
+            "header_bg_colour": "#355179",
+            "header_colour": "#fff",
+            "header_star_colour": "#fdcf0d",
+            "heading_font": "helvetica_n4",
+            "enable_rich_snippets": true,
+            "logo_colour": "var(--logo-inverted)"
+          }
+        }
+      },
+      "block_order": [
+        "ba759413-319f-4a07-bd61-54156a629110"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "164659648581d33266": {
+      "type": "apps",
+      "blocks": {
+        "efdf9439-c692-444c-8b03-ac29e20311fd": {
+          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "settings": {
+            "enabled": true,
+            "id": "28313",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
+          }
+        }
+      },
+      "block_order": [
+        "efdf9439-c692-444c-8b03-ac29e20311fd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "Often kjøpt sammen med",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "163774777359a12be4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mer fra Espegard",
+        "collection": "espegard",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "Vis alt fra Espegard",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "1637747763162bef1b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mer til Uteplassen",
+        "collection": "til-uteplassen",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "view_all_text": "Vis alt til uteplassen",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "164831311125e7e7e8",
+    "164659648581d33266",
+    "product-recommendations",
+    "163774777359a12be4",
+    "1637747763162bef1b"
+  ]
+}
