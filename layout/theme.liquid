@@ -142,7 +142,13 @@
     @media screen and (max-width: 749px){
 	.top-bar__wrapper {
     justify-content: space-around;
-	}}
+	}
+    .header__heading {
+    grid-area: heading;
+    justify-self: center;
+    margin: 0;
+	}
+    }
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
