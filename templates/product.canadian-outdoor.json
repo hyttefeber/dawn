@@ -111,10 +111,22 @@
             "review_type": "product_current",
             "reviews_shown": 20,
             "header_bg_colour": "#355179",
-            "header_colour": "#fff",
+            "header_colour": "#ffffff",
             "header_star_colour": "#fdcf0d",
+            "heading_text_colour": "#0E1311",
             "heading_font": "helvetica_n4",
+            "body_text_colour": "#0E1311",
+            "badge_icon_colour": "#0E1311",
+            "badge_text_colour": "#0E1311",
+            "bg_start_colour": "#ffffff",
+            "bg_end_colour": "#ffffff",
+            "item_border_width": "0px",
+            "item_border_colour": "rgba(0,0,0,0.05)",
+            "item_border_radius": "0px",
+            "item_shadow_size": "10px",
+            "item_shadow_colour": "rgba(0,0,0,0.05)",
             "enable_rich_snippets": true,
+            "disable_same_customer": false,
             "logo_colour": "var(--logo-inverted)"
           }
         }
@@ -160,20 +172,20 @@
         "show_rating": false
       }
     },
-    "163774777359a12be4": {
+    "1654182480ad1c733a": {
       "type": "featured-collection",
       "settings": {
-        "title": "Mer fra Espegard",
-        "collection": "espegard",
-        "products_to_show": 12,
+        "title": "Flere utemøbler fra Canadian Outdoor",
+        "collection": "canadian-outdoor",
+        "products_to_show": 4,
         "show_view_all": true,
-        "view_all_text": "Vis alt fra Espegard",
+        "view_all_text": "Se alt fra Canadian Outdoor",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_atc": true,
         "show_rating": false
       }
@@ -191,6 +203,24 @@
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "163774777359a12be4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mer fra Espegard",
+        "collection": "espegard",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "Vis alt fra Espegard",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
         "show_vendor": false,
         "show_atc": true,
         "show_rating": false
@@ -202,7 +232,8 @@
     "164831311125e7e7e8",
     "164659648581d33266",
     "product-recommendations",
-    "163774777359a12be4",
-    "1637747763162bef1b"
+    "1654182480ad1c733a",
+    "1637747763162bef1b",
+    "163774777359a12be4"
   ]
 }
