@@ -32,7 +32,16 @@
     {% if collection.url contains "/collections/vendors?q=" %}
 	<meta name=”robots” content=”noindex, follow”>
     {% endif %}
-    <meta name="thumbnail" content="{{ product.featured_image | img_url: '100x100' }}" />
+    <meta name="thumbnail" content="{{ product.featured_image | img_url: '100x130' }}" />
+    <!--
+  <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="{{ product.featured_image | img_url: '100x130' }}"/>
+      <Attribute name="width" value="100"/>
+      <Attribute name="height" value="130"/>
+    </DataObject>
+  </PageMap>
+-->
     
     <link rel="dns-prefetch" href="//gdprcdn.b-cdn.net">
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
