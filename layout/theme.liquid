@@ -28,9 +28,11 @@
     {% endif %}
 
     {% render 'meta-tags' %}
-    {% comment %} SEO boosters {% endcomment %}
+    {% comment %} Structured data {% endcomment %}
     {% if collection.url contains "/collections/vendors?q=" %}
-<meta name=”robots” content=”noindex, follow”>{% endif %}
+	<meta name=”robots” content=”noindex, follow”>
+    {% endif %}
+    <meta name="thumbnail" content="{{ product.featured_image | img_url: '100x100' }}" />
     
     <link rel="dns-prefetch" href="//gdprcdn.b-cdn.net">
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
