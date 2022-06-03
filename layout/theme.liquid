@@ -107,6 +107,13 @@
     font-size: 1.25rem;
     font-weight: 700;
 }
+    .top-bar__wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    margin: 0 auto;
+    font-weight: 700;
+}
     .spaced-section--full-width:first-child {
     margin-top: 0;
 }
@@ -114,6 +121,9 @@
         body {
           font-size: 1.6rem;
         }
+    .page-width--narrow {
+    padding: 0 9rem;
+		}
       }
     @media screen and (max-width: 749px){
 	.top-bar__wrapper {
@@ -129,6 +139,10 @@
 .page-width-desktop {
     max-width: var(--page-width);
     padding: 0 5rem;
+}
+    .page-width--narrow {
+    max-width: 72.6rem;
+    padding: 0;
 }}
     {% endstyle %}
 
