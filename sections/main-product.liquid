@@ -591,7 +591,12 @@ richSnippet({
     "name": "{{ product.vendor | escape }}"
   },
   "description": {{ product.description | strip_html | json }},
-  "image": "https:{{ product.featured_image.src | img_url: 'grande' }}",
+  {%- if product.selected_or_first_available_variant.featured_media -%}
+      {%- assign media_size = product.selected_or_first_available_variant.featured_media.preview_image.width | append: 'x' -%}
+      "image": [
+        {{ product.selected_or_first_available_variant.featured_media | img_url: media_size | prepend: "https:" | json }}
+      ],
+    {%- endif -%}
   {%- if product.variants -%}
   {%- assign fa_count = fa_count | plus: 1 -%}
     "offers":
