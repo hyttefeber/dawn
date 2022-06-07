@@ -113,6 +113,7 @@
           },
           "3fcb1549-bca4-4e32-a24d-f0a9ea48879d": {
             "type": "heading",
+            "disabled": true,
             "settings": {
               "icon": "shopify:\/\/shop_images\/ikon-fri-frakt.png",
               "text": "Fri frakt over 600,-",
