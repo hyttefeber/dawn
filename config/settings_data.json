@@ -87,7 +87,6 @@
         "blocks": {
           "724df200-c042-496b-b08b-bcfa4a22440e": {
             "type": "heading",
-            "disabled": true,
             "settings": {
               "text": "Personlig service",
               "mobile-visibility": true
@@ -95,7 +94,6 @@
           },
           "935e67a1-7bc1-499c-8ea4-77ae4d9ba083": {
             "type": "heading",
-            "disabled": true,
             "settings": {
               "text": "Lynrask levering",
               "mobile-visibility": true
@@ -103,7 +101,6 @@
           },
           "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66": {
             "type": "heading",
-            "disabled": true,
             "settings": {
               "text": "Åpent kjøp i 90 dager",
               "mobile-visibility": false
@@ -111,7 +108,6 @@
           },
           "3fcb1549-bca4-4e32-a24d-f0a9ea48879d": {
             "type": "heading",
-            "disabled": true,
             "settings": {
               "text": "Fri frakt over 600,-",
               "mobile-visibility": false
