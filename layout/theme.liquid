@@ -274,14 +274,13 @@ display:none!important;
     
    
 <script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
-  {% render 'tracking' %}
+  {% comment %}{% render 'tracking' %}{% endcomment %}
 
     <script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=RSuWRa"></script>
    <script src="//instant.page/5.1.0" type="module" integrity="sha384-by67kQnR+pyfy8yWP4kPO12fHKRLHZPfEsiSXR8u2IKcTdxD805MGUXBzVPnkLHw"></script>
-   
- {% comment %}{% include 'profitmetrics-origin' %}
+ {% include 'profitmetrics-origin' %}
 <!-- CRITEO START -->
-{% include 'criteo-tracking' %}{% endcomment %}
+{% include 'criteo-tracking' %}
 <!-- CRITEO END -->
 </body>
 </html>
