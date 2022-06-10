@@ -392,6 +392,52 @@ display:none!important;
    
  {% include 'profitmetrics-origin' %}
     
+    
+{% if template contains "product" %}    
+ <div id="shopify-block-15316669992541710076" class="shopify-block shopify-app-block"><script defer src="https://widget.reviews.io/rating-snippet/dist.js"></script>
+<link rel="stylesheet" href="https://widget.reviews.io/rating-snippet/dist.css" />
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+      loadReviewsIoRatingSnippets();
+    });
+
+    var loadReviewsIoRatingSnippets = function () {
+      if(typeof reviewsIoStore !== 'undefined') {
+        ratingSnippet("ruk_rating_snippet",{
+            store: reviewsIoStore,
+            color: '#fdcf0d',
+            linebreak: false,
+            
+            usePolaris: true,
+            
+            
+            
+              text: 'Anmeldelser',
+            
+            lang: reviewsIoLang,
+            mode: 'default',
+            showEmptyStars: false
+
+        });
+      }
+    }
+
+    
+</script>
+<style>
+    .ruk_rating_snippet span {
+        font-family: inherit !important;
+    }
+</style>
+</div><div id="shopify-block-10830403595879607806" class="shopify-block shopify-app-block"><script>
+  var reviewsIoStore = 'hyttefeber.no';
+  
+    var reviewsIoLang = 'no';
+  
+</script>
+</div>  
+{% endif %}
+    
 
 
 </body>
