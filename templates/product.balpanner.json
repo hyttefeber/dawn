@@ -2,6 +2,7 @@
   "sections": {
     "1654762766d1dd7a0a": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "2c772ed4-b674-4ce2-b54f-f80ae0f73e46": {
           "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
@@ -16,7 +17,7 @@
             "bb_top_padding": 5,
             "bb_margin": 0,
             "bb_align": "left",
-            "bb_color": "#C0C0C0"
+            "bb_color": "#c0c0c0"
           }
         }
       },
