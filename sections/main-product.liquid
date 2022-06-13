@@ -515,13 +515,6 @@
   }
 </script>{% endcomment %}
 
-<script src="https://widget.reviews.io/rich-snippet/dist.js"></script>
-<script>
-richSnippet({
-    store: 'hyttefeber.no',
-    sku: '{{ product.selected_or_first_available_variant.sku | json }}'
-});
-</script>
 
 <!-- Copyright FeedArmy 2022 Version 3.11 -->
 <!-- FeedArmy tutorial found at https://feedarmy.com/kb/shopify-microdata-for-google-shopping/ -->
@@ -658,6 +651,13 @@ richSnippet({
 </script>
 {%- endif -%}
 <!-- Copyright FeedArmy 2022 Version 3.11 -->
+<script src="https://widget.reviews.io/rich-snippet/dist.js"></script>
+<script>
+richSnippet({
+    store: 'hyttefeber.no',
+    sku: '{{ product.selected_or_first_available_variant.sku | json }}'
+});
+</script>
 
 {% schema %}
 {
