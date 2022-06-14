@@ -29,7 +29,7 @@
 
     {% render 'meta-tags' %}
     {% comment %} Structured data {% endcomment %}
-    {% if collection.url contains "/collections/vendors?q=" %}
+    {% if collection.url contains "/collections/vendors?q=" or collection.url contains "/collections/all" %}
 	<meta name=”robots” content=”noindex, follow”>
     {% endif %}
     <meta name="thumbnail" content="{{ product.featured_image | img_url: '100x130' }}" />
