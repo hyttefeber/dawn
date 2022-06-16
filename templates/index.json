@@ -58,6 +58,15 @@
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_f1424ed2-aa87-49f2-b3f1-3703cd24c0a7.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+          }
+        },
         "column1": {
           "type": "column",
           "settings": {
@@ -70,19 +79,10 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_372158e3-7a1b-4307-a0e3-1f3f5c6e1d10.png",
+            "image": "shopify:\/\/shop_images\/2_2fd13b1e-0d38-4e15-9c04-562b0172c5eb.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/ingrid-fra-porsgrund-porselen"
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_8aa5279d-e919-45bb-8586-a614d0f31d6c.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
           }
         },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
@@ -96,9 +96,9 @@
         }
       },
       "block_order": [
+        "column3",
         "column1",
         "column2",
-        "column3",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a"
       ],
       "settings": {
