@@ -499,13 +499,13 @@
       "generic_accessibility_label": "",
       "go_to_store_link": "",
       "loading_message": "",
-      "log_out_link": "",
+      "log_out_link": "Logg ut",
       "login_prompt": {
         "continue": "",
         "privacy": "",
         "title": ""
       },
-      "logout_overlay_label": "",
+      "logout_overlay_label": "Logger deg ut...",
       "nav_label_accessibility_label": "",
       "navigation_accessibility_message": "",
       "open_menu_accessibility_label": "",
@@ -588,10 +588,10 @@
             "descending_accessibility_label": ""
           },
           "order_number": {
-            "ascending": "",
-            "ascending_accessibility_label": "",
-            "descending": "",
-            "descending_accessibility_label": ""
+            "ascending": "Ordrenummer (lav til høy)",
+            "ascending_accessibility_label": "Sorter etter ordrenummer (lav til høy)",
+            "descending": "Ordrenummer (høy til lav)",
+            "descending_accessibility_label": "Sorter etter ordrenummer (høy til lav)"
           },
           "order_total": {
             "ascending": "",
