@@ -458,6 +458,9 @@
       "thank_you": {
         "unfulfilled_items_title": "Klargjøres for transport",
         "thank_you_confirmed_order_with_email": "Du mottar snart en bekreftelse på epost med ordrenummeret ditt."
+      },
+      "order_summary": {
+        "vat_label_html": "Inkludert {{ amount }} MVA"
       }
     },
     "links": {
