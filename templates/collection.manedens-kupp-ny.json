@@ -183,6 +183,7 @@
     },
     "1637775534263b1bcd": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "163777553416621845-0": {
           "type": "heading",
