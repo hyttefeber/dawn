@@ -472,6 +472,9 @@
           "unfulfilled": "Ikke sendt",
           "fulfilled": "Sendt"
         }
+      },
+      "tags": {
+        "remove_articles": "Utvid søket til artikler som ikke er tagget med {{ tag }}"
       }
     }
   },
@@ -661,7 +664,8 @@
       "taxes": "",
       "title": "",
       "total": "",
-      "unit_price": ""
+      "unit_price": "",
+      "not_applicable": ""
     },
     "addresses": {
       "add_button": "",
@@ -802,10 +806,38 @@
           "notification": "",
           "paid": {
             "description": "",
-            "title": ""
+            "title": "",
+            "title_with_date": ""
           },
           "pay_now": "",
-          "title": ""
+          "title": "",
+          "pending": {
+            "banner_overdue": {
+              "one": "",
+              "other": ""
+            },
+            "banner_due": {
+              "one": "",
+              "other": ""
+            },
+            "banner_due_today": "",
+            "title": "",
+            "title_with_date": "",
+            "description_overdue": "",
+            "description_partially_paid": "",
+            "description_authorized": ""
+          },
+          "refund": {
+            "title": "",
+            "title_with_date": "",
+            "description_full_refund": "",
+            "description_single_refund": "",
+            "description_multiple_refunds": ""
+          },
+          "canceled": {
+            "title": "",
+            "description": ""
+          }
         },
         "subtitle": "",
         "title": ""
