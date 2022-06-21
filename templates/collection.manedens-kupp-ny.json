@@ -1,24 +1,5 @@
 {
   "sections": {
-    "1637237672269beed2": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "BLACK FRIDAY SUPER TILBUD ( så lenge beholdning varer)",
-        "collection": "super-tilbud-50",
-        "products_to_show": 8,
-        "show_view_all": false,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_atc": true,
-        "show_rating": false
-      }
-    },
     "163740507148c347b1": {
       "type": "collection-list",
       "blocks": {
@@ -60,44 +41,6 @@
         "swipe_on_mobile": true,
         "image_padding": false,
         "show_view_all": false
-      }
-    },
-    "1637346594f86b48ab": {
-      "type": "rich-text",
-      "blocks": {
-        "16373465947cd1a556-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "16373465947cd1a556-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16373465947cd1a556-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Vis alle supertilbudene",
-            "button_link": "https:\/\/hyttefeber.myshopify.com\/collections\/super-tilbud-50",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "16373465947cd1a556-0",
-        "16373465947cd1a556-1",
-        "16373465947cd1a556-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
       }
     },
     "1637196511a899d270": {
@@ -180,93 +123,14 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
-    },
-    "1637775534263b1bcd": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "163777553416621845-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Kundevurderinger",
-            "heading_size": "h2"
-          }
-        },
-        "163777553416621845-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "163777553416621845-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "163777553416621845-0",
-        "163777553416621845-1",
-        "163777553416621845-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "1637775450dacaf89e": {
-      "type": "apps",
-      "blocks": {
-        "cbb790e9-d3ef-43dd-9e56-797cc1dcdfc1": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-            "star": "#fdcf0d",
-            "review_type": "company, product",
-            "reviews_shown": 20,
-            "header_bg_colour": "#355179",
-            "header_colour": "#ffffff",
-            "header_star_colour": "#fdcf0d",
-            "heading_text_colour": "#0e1311",
-            "heading_font": "cabin_n4",
-            "body_text_colour": "#0e1311",
-            "badge_icon_colour": "#0e1311",
-            "badge_text_colour": "#0e1311",
-            "bg_start_colour": "#ffffff",
-            "bg_end_colour": "#ffffff",
-            "item_border_width": "0px",
-            "item_border_colour": "#000000",
-            "item_border_radius": "0px",
-            "item_shadow_size": "10px",
-            "item_shadow_colour": "#000000",
-            "enable_rich_snippets": false,
-            "disable_same_customer": false,
-            "logo_colour": "var(--logo-inverted)"
-          }
-        }
-      },
-      "block_order": [
-        "cbb790e9-d3ef-43dd-9e56-797cc1dcdfc1"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
-    "1637237672269beed2",
     "163740507148c347b1",
-    "1637346594f86b48ab",
     "1637196511a899d270",
     "1637196768776bce95",
     "16371968864e99db71",
     "banner",
-    "product-grid",
-    "1637775534263b1bcd",
-    "1637775450dacaf89e"
+    "product-grid"
   ]
 }
