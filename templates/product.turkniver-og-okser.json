@@ -141,7 +141,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Flere turkniver og -økser",
-        "collection": "turkniver",
+        "collection": "turkniver-slirekniver-jaktkniver-foldekniver",
         "products_to_show": 6,
         "show_view_all": true,
         "view_all_text": "Vis alle turkniver",
