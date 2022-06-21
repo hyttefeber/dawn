@@ -287,7 +287,7 @@
           "type": "button",
           "settings": {
             "button_label": "Vis alt Marius",
-            "button_link": "shopify:\/\/collections\/alt-marius"
+            "button_link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
           }
         }
       },
@@ -309,7 +309,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "collection": "alt-marius",
+        "collection": "alt-marius-servise-kopper-sokker-servietter-og-mer",
         "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "Vis alt Marius",

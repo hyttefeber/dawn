@@ -2,27 +2,6 @@
   "sections": {
     "1654762549db0efe30": {
       "type": "apps",
-      "blocks": {
-        "179ba30b-b40e-4548-a6d4-f597e76a35a5": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
-          "settings": {
-            "home": "Hjem",
-            "home_link": "\/",
-            "bb_show_hide": true,
-            "bb_show_more": false,
-            "bb_capitalize": true,
-            "bb_font_size": 13,
-            "bb_padding": 15,
-            "bb_top_padding": 10,
-            "bb_margin": 0,
-            "bb_align": "left",
-            "bb_color": "#C0C0C0"
-          }
-        }
-      },
-      "block_order": [
-        "179ba30b-b40e-4548-a6d4-f597e76a35a5"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -203,7 +182,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Mer Marius",
-        "collection": "alt-marius",
+        "collection": "alt-marius-servise-kopper-sokker-servietter-og-mer",
         "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "Vis alt Marius",
