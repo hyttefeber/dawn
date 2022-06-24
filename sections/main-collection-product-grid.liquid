@@ -10,6 +10,11 @@
 
 <script src="{{ 'collection-filters-form.js' | asset_url }}" defer="defer"></script>
 
+{% comment %}Testing SEO-hack from 24.06.2022 {% endcomment %}
+{% if collection.description != null and collection.description != "" %}
+<p style="display:none;">Kjøp {{ collection.title }} hos Hyttefeber. Vi har alt du trenger for å kose deg, og tilbyr rask levering, gratis frakt over 600kr, og utmerket kundeservice.
+</p>{% endif %}
+
 {%- assign sort_by = collection.sort_by | default: collection.default_sort_by -%}
 
 <div class="page-width collection-filters" id="main-collection-filters" data-id="{{ section.id }}">
