@@ -463,7 +463,7 @@
 
   </div>
 {% comment %}Testing SEO-hack from 24.06.2022 {% endcomment %}
-{% if collection.description != null and collection.description != "" %}
+{% if collection.description == null and collection.description == "" %}
 <div style="display:none;">Kjøp {{ collection.title }} hos Hyttefeber. Vi har alt du trenger for å kose deg, og tilbyr rask levering, gratis frakt over 600kr, og utmerket kundeservice.
 </div>{% endif %}
 <div id="CollectionProductGrid">
