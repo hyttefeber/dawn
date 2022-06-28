@@ -44,6 +44,8 @@
   font-size: 1.6rem;
     letter-spacing: .08rem;
     min-height: 4.5rem;
+}
+.product-form .button--primary{
   font-weight: 600;
 }
 
