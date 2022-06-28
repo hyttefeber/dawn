@@ -447,7 +447,8 @@
     "checkout": {
       "general": {
         "back_to_payment_method": "Gå tilbake til betalingsvalg",
-        "continue_to_shipping_method": "Fortsett til frakt ->"
+        "continue_to_shipping_method": "Fortsett til frakt ->",
+        "continue_to_payment_method": "Fortsett til betaling ->"
       },
       "customer_account": {
         "save_my_information_label": "Opprett gratis konto: Lagre denne informasjonen til neste gang."
@@ -462,6 +463,9 @@
       },
       "order_summary": {
         "vat_label_html": "Inkludert {{ amount }} MVA"
+      },
+      "processing": {
+        "continue_to_payment_gateway_button_label": "Fortsett til betaling ->"
       }
     },
     "links": {
