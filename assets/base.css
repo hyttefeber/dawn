@@ -1213,6 +1213,9 @@ deferred-media {
   display: flex;
   width: 100%;
 }
+ .cart-notification__links form .button--primary.button--full-width{
+  font-weight: 600; 
+ }
 
 .button.loading {
   color: transparent;
