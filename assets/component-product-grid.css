@@ -44,6 +44,7 @@
   font-size: 1.6rem;
     letter-spacing: .08rem;
     min-height: 4.5rem;
+  font-weight: 600;
 }
 
 .card-wrapper .product-form__buttons {
