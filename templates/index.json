@@ -220,7 +220,7 @@
         "show_image_outline": true,
         "show_vendor": false,
         "show_atc": true,
-        "show_rating": true
+        "show_rating": false
       }
     },
     "1631626408eee30b8a": {
