@@ -4,8 +4,8 @@
       {%- case block.type -%}
         {%- when 'heading' -%}
           <div class="top-bar__icon  {% if block.settings.mobile-visibility %} top-bar__icon--hide {% endif %}">
-            {% unless block.settings.url == "" or "https://hyttefeber.no/" %} <a href="{{ block.settings.url }}">{% endunless %}<img src="{{ block.settings.icon | img_url: '60x'}}" alt="{{ block.settings.text | escape }}" height="{{block.settings.icon.height}}" width="{{block.settings.icon.width}}" loading="eager">
-            {% unless block.settings.url == "" or "https://hyttefeber.no/" %}</a>{% endunless %}<span>{{ block.settings.text | escape }}</span>
+            {% unless block.settings.url == "https://hyttefeber.no/" %} <a href="{{ block.settings.url }}">{% endunless %}<img src="{{ block.settings.icon | img_url: '60x'}}" alt="{{ block.settings.text | escape }}" height="{{block.settings.icon.height}}" width="{{block.settings.icon.width}}" loading="eager">
+            {% unless block.settings.url == "https://hyttefeber.no/" %}</a>{% endunless %}<span>{{ block.settings.text | escape }}</span>
     </div>
       {%- endcase -%}
     {%- endfor -%}
