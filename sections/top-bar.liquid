@@ -4,9 +4,9 @@
       {%- case block.type -%}
         {%- when 'heading' -%}
           <div class="top-bar__icon  {% if block.settings.mobile-visibility %} top-bar__icon--hide {% endif %}">
-            <a href="{{ block.settings.url }}"><img src="{{ block.settings.icon | img_url: '60x'}}" alt="{{ block.settings.text | escape }}" height="{{block.settings.icon.height}}" width="{{block.settings.icon.width}}" loading="eager"></a>
+            <a href="{{ block.settings.url }}"><img src="{{ block.settings.icon | img_url: '60x'}}" alt="{{ block.settings.text | escape }}" height="{{block.settings.icon.height}}" width="{{block.settings.icon.width}}" loading="eager">
             <span>{{ block.settings.text | escape }}</span>
-          </div>
+    </div></a>
       {%- endcase -%}
     {%- endfor -%}
   </div>
