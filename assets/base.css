@@ -2620,3 +2620,7 @@ font-weight: 700;
 font-weight: 700;
   color: #355179;
 }
+  .showall{
+    background-color: #355179!important;
+    box-shadow: none;
+    }
