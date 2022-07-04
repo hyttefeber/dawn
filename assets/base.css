@@ -2623,4 +2623,11 @@ font-weight: 700;
   .showall{
     background-color: #355179!important;
     box-shadow: none!important;
+    transition-duration:0.2s;
+    -webkit-transition-duration:0.2s;
+    -moz-transition-duration:0.2s;
+    -o-transition-duration:0.2s;
+    }
+  .showall:hover{
+    font-weight:600;
     }
