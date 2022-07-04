@@ -64,7 +64,7 @@
 
   {%- if section.settings.show_view_all and more_in_collection -%}
     <div class="center{% if section.settings.swipe_on_mobile %} small-hide medium-hide{% endif %}">
-<a href="{{ section.settings.collection.url }}" class="button" aria-label="
+<a href="{{ section.settings.collection.url }}" class="button showall" aria-label="
     {%- if section.settings.view_all_text != blank -%}
       {{ section.settings.view_all_text }}
     {%- else -%}
