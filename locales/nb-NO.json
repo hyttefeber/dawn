@@ -448,7 +448,8 @@
       "general": {
         "back_to_payment_method": "Gå tilbake til betalingsvalg",
         "continue_to_shipping_method": "Fortsett til frakt ->",
-        "continue_to_payment_method": "Fortsett til betaling ->"
+        "continue_to_payment_method": "Fortsett til betaling ->",
+        "complete_purchase_button_label": "Fullfør kjøp"
       },
       "customer_account": {
         "save_my_information_label": "Opprett gratis konto: Lagre denne informasjonen til neste gang."
