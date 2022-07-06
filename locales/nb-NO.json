@@ -467,6 +467,9 @@
       },
       "processing": {
         "continue_to_payment_gateway_button_label": "Fortsett til betaling ->"
+      },
+      "payment": {
+        "offsite_gateway_redirect_hint": "Etter å ha klikket på \"{{ button_label }}, blir du sendt videre til {{ gateway_label }} hvor du trygt kan fullføre kjøpet."
       }
     },
     "links": {
