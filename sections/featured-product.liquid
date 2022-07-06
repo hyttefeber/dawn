@@ -76,6 +76,7 @@
                   {{ 'onboarding.product_title' | t }}
                 {%- endif -%}
               </h2>
+	    {% render 'okendo-reviews-product-rating-summary', product: product %}
             {%- when 'price' -%}
               <div class="no-js-hidden" id="price-{{ section.id }}" {{ block.shopify_attributes }}>
                 {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
@@ -409,6 +410,21 @@
         }{% unless forloop.last %},{% endunless %}
       {%- endfor -%}
     ]
+    {% if product.metafields.okendo.summaryData.reviewCount > 0 %}
+    ,"aggregateRating": {
+      "@type": "AggregateRating",
+      "description": "Okendo Reviews",
+      "ratingValue": "{{ product.metafields.okendo.summaryData.reviewAverageValue }}",
+      "ratingCount": "{{ product.metafields.okendo.summaryData.reviewCount }}"
+    }
+    {% elsif product.metafields.okendo.ReviewCount > 0 %}
+    ,"aggregateRating": {
+      "@type": "AggregateRating",
+      "description": "Okendo Reviews",
+      "ratingValue": "{{ product.metafields.okendo.ReviewAverageValue }}",
+      "ratingCount": "{{ product.metafields.okendo.ReviewCount }}"
+    }
+    {% endif %}
   }
 </script>
 

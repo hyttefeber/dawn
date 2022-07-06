@@ -99,6 +99,7 @@
             <h1 class="product__title" {{ block.shopify_attributes }}>
               {{ product.title | escape }}
             </h1>
+          {% render 'okendo-reviews-product-rating-summary', product: product %}
           {%- when 'price' -%}
             <div class="no-js-hidden" id="price-{{ section.id }}" {{ block.shopify_attributes }}>
               {%- render 'price', product: product, use_variant: true, show_badges: false, price_class: 'price--large' -%}
@@ -647,6 +648,21 @@
     {%- endif -%}
     {%- endif -%}
   {%- endif -%}
+  {% if product.metafields.okendo.summaryData.reviewCount > 0 %}
+  ,"aggregateRating": {
+    "@type": "AggregateRating",
+    "description": "Okendo Reviews",
+    "ratingValue": "{{ product.metafields.okendo.summaryData.reviewAverageValue }}",
+    "ratingCount": "{{ product.metafields.okendo.summaryData.reviewCount }}"
+  }
+  {% elsif product.metafields.okendo.ReviewCount > 0 %}
+  ,"aggregateRating": {
+    "@type": "AggregateRating",
+    "description": "Okendo Reviews",
+    "ratingValue": "{{ product.metafields.okendo.ReviewAverageValue }}",
+    "ratingCount": "{{ product.metafields.okendo.ReviewCount }}"
+  }
+  {% endif %}
 }
 </script>
 {%- endif -%}
@@ -659,6 +675,7 @@ richSnippet({
 });
 </script>
 
+{% render 'okendo-reviews-widget', product: product %}
 {% schema %}
 {
   "name": "t:sections.main-product.name",
