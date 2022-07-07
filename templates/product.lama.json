@@ -1,32 +1,5 @@
 {
   "sections": {
-    "1654762690d629df32": {
-      "type": "apps",
-      "blocks": {
-        "d93d2879-a6e2-4c26-834f-c174b986c11b": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
-          "settings": {
-            "home": "Hjem",
-            "home_link": "\/",
-            "bb_show_hide": true,
-            "bb_show_more": false,
-            "bb_capitalize": true,
-            "bb_font_size": 13,
-            "bb_padding": 5,
-            "bb_top_padding": 5,
-            "bb_margin": 0,
-            "bb_align": "left",
-            "bb_color": "#C0C0C0"
-          }
-        }
-      },
-      "block_order": [
-        "d93d2879-a6e2-4c26-834f-c174b986c11b"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -39,11 +12,6 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
-        },
-        "b4f78be6-22fd-47d9-80ca-25fa0d59a9e3": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
           "settings": {
           }
         },
@@ -110,7 +78,6 @@
       "block_order": [
         "vendor",
         "title",
-        "b4f78be6-22fd-47d9-80ca-25fa0d59a9e3",
         "subtitle",
         "price",
         "variant_picker",
@@ -126,43 +93,6 @@
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "1649177259593e7def": {
-      "type": "apps",
-      "blocks": {
-        "2788c880-3fec-4548-9745-4602d65692bd": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-            "star": "#fdcf0d",
-            "review_type": "product_current",
-            "reviews_shown": 20,
-            "header_bg_colour": "#355179",
-            "header_colour": "#ffffff",
-            "header_star_colour": "#fdcf0d",
-            "heading_text_colour": "#0e1311",
-            "heading_font": "helvetica_n4",
-            "body_text_colour": "#0e1311",
-            "badge_icon_colour": "#0e1311",
-            "badge_text_colour": "#0e1311",
-            "bg_start_colour": "#ffffff",
-            "bg_end_colour": "#ffffff",
-            "item_border_width": "0px",
-            "item_border_colour": "#000000",
-            "item_border_radius": "0px",
-            "item_shadow_size": "10px",
-            "item_shadow_colour": "#000000",
-            "enable_rich_snippets": true,
-            "disable_same_customer": false,
-            "logo_colour": "var(--logo-inverted)"
-          }
-        }
-      },
-      "block_order": [
-        "2788c880-3fec-4548-9745-4602d65692bd"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "1646658003e0b2341c": {
@@ -237,9 +167,7 @@
     }
   },
   "order": [
-    "1654762690d629df32",
     "main",
-    "1649177259593e7def",
     "1646658003e0b2341c",
     "product-recommendations",
     "163774777359a12be4",

@@ -15,11 +15,6 @@
           "settings": {
           }
         },
-        "90eb3b49-a75b-47b2-a89e-e647c249769e": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-          }
-        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -83,7 +78,6 @@
       "block_order": [
         "vendor",
         "title",
-        "90eb3b49-a75b-47b2-a89e-e647c249769e",
         "subtitle",
         "price",
         "variant_picker",
@@ -99,42 +93,6 @@
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "1648812069fee96ce2": {
-      "type": "apps",
-      "blocks": {
-        "3a8ccc93-577d-43ba-8c56-5113371b4552": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-            "star": "#fdcf0d",
-            "review_type": "product_current",
-            "reviews_shown": 20,
-            "header_bg_colour": "#355179",
-            "header_colour": "#fff",
-            "header_star_colour": "#fdcf0d",
-            "heading_text_colour": "#0E1311",
-            "heading_font": "helvetica_n4",
-            "body_text_colour": "#0E1311",
-            "badge_icon_colour": "#0E1311",
-            "badge_text_colour": "#0E1311",
-            "bg_start_colour": "#ffffff",
-            "bg_end_colour": "#ffffff",
-            "item_border_width": "0px",
-            "item_border_colour": "rgba(0,0,0,0.05)",
-            "item_border_radius": "0px",
-            "item_shadow_size": "10px",
-            "item_shadow_colour": "rgba(0,0,0,0.05)",
-            "enable_rich_snippets": true,
-            "logo_colour": "var(--logo-inverted)"
-          }
-        }
-      },
-      "block_order": [
-        "3a8ccc93-577d-43ba-8c56-5113371b4552"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "164657558768f5108f": {
@@ -210,7 +168,6 @@
   },
   "order": [
     "main",
-    "1648812069fee96ce2",
     "164657558768f5108f",
     "product-recommendations",
     "163774777359a12be4",

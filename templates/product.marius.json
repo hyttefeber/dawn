@@ -1,11 +1,5 @@
 {
   "sections": {
-    "1654762549db0efe30": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -18,11 +12,6 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
-        },
-        "0e1d21ca-8d9f-41e7-8fef-1ed8bb157edd": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
           "settings": {
           }
         },
@@ -89,7 +78,6 @@
       "block_order": [
         "vendor",
         "title",
-        "0e1d21ca-8d9f-41e7-8fef-1ed8bb157edd",
         "subtitle",
         "price",
         "variant_picker",
@@ -105,43 +93,6 @@
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "1648812171aa594f96": {
-      "type": "apps",
-      "blocks": {
-        "ada29f76-5f3c-4c08-88b2-6489348afc3c": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-            "star": "#fdcf0d",
-            "review_type": "product_current",
-            "reviews_shown": 20,
-            "header_bg_colour": "#355179",
-            "header_colour": "#ffffff",
-            "header_star_colour": "#fdcf0d",
-            "heading_text_colour": "#0e1311",
-            "heading_font": "helvetica_n4",
-            "body_text_colour": "#0e1311",
-            "badge_icon_colour": "#0e1311",
-            "badge_text_colour": "#0e1311",
-            "bg_start_colour": "#ffffff",
-            "bg_end_colour": "#ffffff",
-            "item_border_width": "0px",
-            "item_border_colour": "#000000",
-            "item_border_radius": "0px",
-            "item_shadow_size": "10px",
-            "item_shadow_colour": "#000000",
-            "enable_rich_snippets": true,
-            "disable_same_customer": false,
-            "logo_colour": "var(--logo-inverted)"
-          }
-        }
-      },
-      "block_order": [
-        "ada29f76-5f3c-4c08-88b2-6489348afc3c"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "164665773071bf2b55": {
@@ -198,9 +149,7 @@
     }
   },
   "order": [
-    "1654762549db0efe30",
     "main",
-    "1648812171aa594f96",
     "164665773071bf2b55",
     "product-recommendations",
     "163774777359a12be4"
