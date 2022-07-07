@@ -667,13 +667,13 @@
 </script>
 {%- endif -%}
 <!-- Copyright FeedArmy 2022 Version 3.11 -->
-<script src="https://widget.reviews.io/rich-snippet/dist.js"></script>
+{% comment %}<script src="https://widget.reviews.io/rich-snippet/dist.js"></script>
 <script>
 richSnippet({
     store: 'hyttefeber.no',
     sku: '{{ product.selected_or_first_available_variant.sku | json }}'
 });
-</script>
+</script>{% endcomment %}
 
 {% render 'okendo-reviews-widget', product: product %}
 {% schema %}
