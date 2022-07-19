@@ -28,10 +28,11 @@
     {% endif %}
 
     {% render 'meta-tags' %}
-    {% comment %} Structured data. Noindex paginated pages, /all, and automatic vendor collections {% endcomment %}
+    {% comment %} Noindex paginated pages, /all, internal collections, and and automatic vendor collections {% endcomment %}
     {% if collection.url contains "/collections/vendors?q=" or collection.url contains "/collections/all" or collection.url contains "?page=" or collection.url contains "/collections/alle-produkter" or collection.url contains "/_" %}
 	<meta name=”robots” content=”noindex, follow”>
     {% endif %}
+    {% comment %} Structured data. {% endcomment %}
     <meta name="thumbnail" content="{{ product.featured_image | img_url: '100x130' }}" />
     <!--
   <PageMap>
