@@ -2631,3 +2631,13 @@ font-weight: 700;
   .showall:hover{
     font-weight:600;
     }
+#sticky-atc {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+  /* Add "background: #000;" to change the colour of your ATC button*/
+  /* Add "color: #fff;" to change the colour of your ATC text*/
+}
