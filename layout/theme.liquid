@@ -342,14 +342,14 @@ gtag('event', 'conversion', {'send_to': 'AW-738231931/Y3gFCNWm87ADEPuMguAC'});
 
 <!-- Back in Stock helper snippet -->
 {% render 'back-in-stock-helper' %}
-<!-- End Back in Stock helper snippet -->
-    
+<!-- End Back in Stock helper snippet -->   
     
 {% unless template contains "reviews-template" or "home" or "index" or "collection" or "page" or "article" %}
  <script async src="https://cdn.rebuyengine.com/onsite/js/rebuy.js?shop={{ shop.permanent_domain }}"></script>
 {% endunless %}
-   
+  
     {% comment %} Hack for hiding top collection on paginated collections {% endcomment %}
+
     {% if canonical_url contains 'page' %}
 <style>
 #Slider-template--15326058971287__163740507148c347b1{
@@ -408,58 +408,9 @@ display:none!important;
   {% render 'tracking' %}
   
 <!-- CRITEO START -->
-    {% include 'criteo-tracking' %}
-    <!-- CRITEO END -->
-   
- {% include 'profitmetrics-origin' %}
+{% include 'criteo-tracking' %}
+<!-- CRITEO END -->
+{% include 'profitmetrics-origin' %}
     
-    {% comment %}
-{% if template contains "product" %}    
- <div id="shopify-block-15316669992541710076" class="shopify-block shopify-app-block"><script defer src="https://widget.reviews.io/rating-snippet/dist.js"></script>
-<link rel="stylesheet" href="https://widget.reviews.io/rating-snippet/dist.css" />
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-      loadReviewsIoRatingSnippets();
-    });
-
-    var loadReviewsIoRatingSnippets = function () {
-      if(typeof reviewsIoStore !== 'undefined') {
-        ratingSnippet("ruk_rating_snippet",{
-            store: reviewsIoStore,
-            color: '#fdcf0d',
-            linebreak: false,
-            
-            usePolaris: true,
-            
-            
-            
-              text: 'Anmeldelser',
-            
-            lang: reviewsIoLang,
-            mode: 'default',
-            showEmptyStars: false
-
-        });
-      }
-    }
-
-    
-</script>
-<style>
-    .ruk_rating_snippet span {
-        font-family: inherit !important;
-    }
-</style>
-</div><div id="shopify-block-10830403595879607806" class="shopify-block shopify-app-block"><script>
-  var reviewsIoStore = 'hyttefeber.no';
-  
-    var reviewsIoLang = 'no';
-  
-</script>
-</div>  
-{% endif %}{% endcomment %}
-    
-
-
 </body>
 </html>
