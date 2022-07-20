@@ -331,6 +331,7 @@
     },
     "1632087735695d2a16": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "112d065a-968b-4f0a-9ca1-dda3553c5e80": {
           "type": "text_banner",
@@ -382,6 +383,7 @@
     },
     "163163093769b5efc1": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "alt-marius-servise-kopper-sokker-servietter-og-mer",
