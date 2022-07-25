@@ -32,6 +32,10 @@
     {% if collection.url contains "/collections/vendors?q=" or collection.url contains "/collections/all" or collection.url contains "?page=" or collection.url contains "/collections/alle-produkter" or collection.url contains "/_" %}
 	<meta name=”robots” content=”noindex, follow”>
     {% endif %}
+    {% comment %} Avoid keyword cannibalization  {% endcomment %}
+    {% if product.url contains "ooni-karu-utendors-pizzaovn-trekk-okologisk-olivenolje-inkludert" or product.url contains "ooni-koda-utendors-pizzaovn" or product.url contains "ooni-karu-utendors-pizzaovn" %}
+	<link rel="canonical" href="https://hyttefeber.no/collections/pizza-ovner-og-tilbehor">
+    {% endif %}
     {% comment %} Structured data. {% endcomment %}
     <meta name="thumbnail" content="{{ product.featured_image | img_url: '100x130' }}" />
     <!--
