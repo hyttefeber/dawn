@@ -5,15 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="{{ canonical_url }}">
-{% comment %} Avoid keyword cannibalization  {% endcomment %}
-    {% if product.url contains "ooni-karu-utendors-pizzaovn-trekk-okologisk-olivenolje-inkludert" or product.url contains "ooni-koda-utendors-pizzaovn" or product.url contains "ooni-karu-utendors-pizzaovn" %}
-	<link rel="canonical" href="https://hyttefeber.no/collections/pizza-ovner-og-tilbehor">
-      {% elsif collection.url contains "mummikopper-fra-arabia" %}
-      <link rel="canonical" href="https://hyttefeber.no/collections/mummikopper">
-    {% else %}
-    <link rel="canonical" href="{{ canonical_url }}">
-    {% endif %}
+{% comment %} Avoid keyword cannibalization  {% endcomment %}{% if product.url contains "ooni-karu-utendors-pizzaovn-trekk-okologisk-olivenolje-inkludert" or product.url contains "ooni-koda-utendors-pizzaovn" or product.url contains "ooni-karu-utendors-pizzaovn" %}
+	<link rel="canonical" href="https://hyttefeber.no/collections/pizza-ovner-og-tilbehor">{% elsif collection.url contains "mummikopper-fra-arabia" %}
+      <link rel="canonical" href="https://hyttefeber.no/collections/mummikopper">{% else %}
+    <link rel="canonical" href="{{ canonical_url }}">{% endif %}
     
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
 
