@@ -463,10 +463,13 @@
       },
       "thank_you": {
         "unfulfilled_items_title": "Klargjøres for transport",
-        "thank_you_confirmed_order_with_email": "Du mottar snart en bekreftelse på epost med ordrenummeret ditt."
+        "thank_you_confirmed_order_with_email": "Du mottar snart en bekreftelse på epost med ordrenummeret ditt.",
+        "order_number_label": "Ordrenummer"
       },
       "order_summary": {
-        "vat_label_html": "Inkludert {{ amount }} MVA"
+        "vat_label_html": "Inkludert {{ amount }} MVA",
+        "expand_order_summary": "Vis ordresammendrag og rabattkodefelt",
+        "collapse_order_summary": "Skjul ordresammendrag"
       },
       "processing": {
         "continue_to_payment_gateway_button_label": "Fortsett til betaling ->"
@@ -523,6 +526,9 @@
             "descending": "Ordrenummer (høy til lav)",
             "descending_accessibility_label": "Sorter etter ordrenummer (høy til lav)"
           }
+        },
+        "column_headers": {
+          "order_number": "Ordrenummer"
         }
       }
     },
