@@ -447,7 +447,7 @@
     "checkout": {
       "general": {
         "back_to_payment_method": "Gå tilbake til betalingsvalg",
-        "continue_to_shipping_method": "Fortsett til frakt ->",
+        "continue_to_shipping_method": "Velg fraktmetode ->",
         "continue_to_payment_method": "Fortsett til betaling ->",
         "complete_purchase_button_label": "Fullfør kjøp"
       },
