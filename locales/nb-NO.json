@@ -476,6 +476,9 @@
       },
       "failed_payment": {
         "return_to_cart_button_label": "Tilbake til handlekurv"
+      },
+      "shipping": {
+        "waiting_on_rate_notice": "Henter tilgjengelige fraktalternativ..."
       }
     },
     "links": {
