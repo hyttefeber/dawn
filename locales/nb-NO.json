@@ -280,7 +280,7 @@
       "title": "Konto",
       "details": "Kontodetaljer",
       "view_addresses": "Vis adresser",
-      "return": "Gå tilbake til kontodetaljer"
+      "return": "Tilbake til kontodetaljer"
     },
     "account_fallback": "Konto",
     "activate_account": {
@@ -446,10 +446,13 @@
   "shopify": {
     "checkout": {
       "general": {
-        "back_to_payment_method": "Gå tilbake til betalingsvalg",
+        "back_to_payment_method": "Tilbake til betalingsvalg",
         "continue_to_shipping_method": "Velg fraktmetode ->",
         "continue_to_payment_method": "Fortsett til betaling ->",
-        "complete_purchase_button_label": "Fullfør kjøp"
+        "complete_purchase_button_label": "Fullfør kjøp",
+        "back_to_cart": "Tilbake til handlekurv",
+        "back_to_contact_information": "Tilbake til kontaktinformasjon",
+        "back_to_shipping_method": "Tilbake til fraktvalg"
       },
       "customer_account": {
         "save_my_information_label": "Opprett gratis konto: Lagre denne informasjonen til neste gang."
@@ -470,6 +473,9 @@
       },
       "payment": {
         "offsite_gateway_redirect_hint": "Etter å ha klikket på \"{{ button_label }}, blir du sendt videre til {{ gateway_label }} hvor du trygt kan fullføre kjøpet."
+      },
+      "failed_payment": {
+        "return_to_cart_button_label": "Tilbake til handlekurv"
       }
     },
     "links": {
