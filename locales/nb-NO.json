@@ -504,6 +504,11 @@
       "tags": {
         "remove_articles": "Utvid søket til artikler som ikke er tagget med {{ tag }}"
       }
+    },
+    "collections": {
+      "sorting": {
+        "date_descending": "Dato, nyeste til eldste"
+      }
     }
   },
   "socialshopwave": {
