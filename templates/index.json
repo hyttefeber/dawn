@@ -58,6 +58,24 @@
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_127afacb-e537-4455-a603-4ac26ebce809.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_a5fdd6ee-0f69-4672-8023-98ae59fcd1fd.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
+          }
+        },
         "column3": {
           "type": "column",
           "settings": {
@@ -75,31 +93,13 @@
             "text": "",
             "link": "shopify:\/\/collections\/jordbaereng"
           }
-        },
-        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_a5fdd6ee-0f69-4672-8023-98ae59fcd1fd.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
-          }
-        },
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_127afacb-e537-4455-a603-4ac26ebce809.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
-          }
         }
       },
       "block_order": [
-        "column3",
-        "column2",
+        "column1",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
-        "column1"
+        "column3",
+        "column2"
       ],
       "settings": {
         "title": "",
