@@ -507,7 +507,8 @@
     },
     "collections": {
       "sorting": {
-        "date_descending": "Dato, nyeste til eldste"
+        "date_descending": "Dato, nyeste til eldste",
+        "date_ascending": "Dato, eldste til nyeste"
       }
     }
   },
