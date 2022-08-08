@@ -113,7 +113,24 @@ a.pagination__item:hover::after {
 /*.pagination-btns{
    display: none;
 }*/
-  
+  .pagination-btns{
+   max-width: 100%; 
+   display: block; 
+   min-height: 40px; 
+  }
+ .pagination-btns .pagination-btn{
+   max-width: 45%; 
+   float: right;
+   margin: 0 2.5% 2rem;
+   background:#355179!important;
+  }
+ .pagination-btns .previous{
+   float: left!important;
+  }
+  .pagination-btns .pagination-btn a{
+    color: #fff;
+    text-decoration: none;
+  }
  @media only screen and (max-width: 1024px) {
    .pagination-wrapper{
     margin-bottom: 2rem; 
