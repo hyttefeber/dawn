@@ -110,9 +110,9 @@ a.pagination__item:hover::after {
 .pagination__item-arrow:hover::after {
   display: none;
 }
-.pagination-btns{
+/*.pagination-btns{
    display: none;
-}
+}*/
   
  @media only screen and (max-width: 1024px) {
    .pagination-wrapper{
