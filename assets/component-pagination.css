@@ -111,6 +111,7 @@ a.pagination__item:hover::after {
    float: right;
    margin: 0 2.5% 2rem;
    background:#355179!important;
+   box-shadow: none;
   }
  .pagination-btns .previous{
    float: left!important;
