@@ -8,6 +8,18 @@
     margin-top: 5rem;
     margin-bottom: 10rem;
   }
+  li .pagination__item-arrow{
+    background: #355179;
+    border-radius: 5px;
+}
+.pagination__item .icon-caret{
+    color:white;
+    height: 1.1rem;
+}
+.pagination__item .icon-caret:hover{
+    color:white;
+    height: 1.3rem;
+}
 }
 
 .pagination__list {
