@@ -2592,3 +2592,11 @@ details-disclosure > details {
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
 }
+li .pagination__item-arrow{
+    background: #355179;
+    border-radius: 5px;
+}
+.pagination__item .icon-caret{
+    color:white;
+    height: 1.6rem;
+}
