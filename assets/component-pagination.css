@@ -6,7 +6,7 @@
 @media screen and (min-width: 990px) {
   .pagination-wrapper {
     margin-top: 5rem;
-    margin-bottom: 10rem;
+    margin-bottom: -4rem;
   }
   li .pagination__item-arrow{
     background: #355179;
@@ -119,7 +119,7 @@ a.pagination__item:hover::after {
    min-height: 40px; 
   }
  .pagination-btns .pagination-btn{
-   max-width: 45%; 
+   max-width: 200px; 
    float: right;
    margin: 0 2.5% 2rem;
    background:#355179!important;
