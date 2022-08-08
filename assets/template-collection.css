@@ -1,12 +1,6 @@
 .collection-grid-section {
   margin-top: 1rem;
 }
-.grid-swap__container, grid-swapper{
-  margin-top: 15px;
-}
-.mobile-facets__wrapper{
-  margin-bottom: 15px;
-}
 
 .collection {
   position: relative;
