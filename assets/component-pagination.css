@@ -16,7 +16,7 @@
     color:white;
     height: 1.1rem;
 }
-.pagination__item .icon-caret:hover{
+.pagination__item:hover .icon-caret{
     color:white;
     height: 1.3rem;
 }
