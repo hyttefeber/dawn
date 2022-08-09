@@ -17,6 +17,7 @@
         "show_image_outline": false,
         "show_vendor": false,
         "show_atc": true,
+        "show_grid_swap": true,
         "show_rating": false,
         "enable_filtering": true,
         "enable_sorting": true,
@@ -26,16 +27,16 @@
     "16522621980aa319e9": {
       "type": "collection-list",
       "blocks": {
-        "165226219844ecd034-0": {
+        "503f2bc0-0bb0-480b-882e-e7d41fc75fad": {
           "type": "featured_collection",
           "settings": {
-            "collection": "marius-servise"
+            "collection": "naturservise-fra-porsgrund-porselen"
           }
         },
-        "165226219844ecd034-1": {
+        "86aa3d4f-d417-4f61-a5b3-cd43e7fb4935": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mummi-servise"
+            "collection": "jordbaereng"
           }
         },
         "165226219844ecd034-2": {
@@ -48,6 +49,30 @@
           "type": "featured_collection",
           "settings": {
             "collection": "nyhet-siri"
+          }
+        },
+        "d8212ab7-ca26-493a-8fe1-593684eec4bd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "treservise"
+          }
+        },
+        "165226219844ecd034-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "marius-servise"
+          }
+        },
+        "165226219844ecd034-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mummi-servise"
+          }
+        },
+        "0d2bd538-df56-4940-b61f-928a83a6876a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "emaljert-servise"
           }
         },
         "258c1e8a-22ce-409c-acc0-a5006d3a974e": {
@@ -68,50 +93,26 @@
             "collection": "serie-dompap"
           }
         },
-        "503f2bc0-0bb0-480b-882e-e7d41fc75fad": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "spire-fra-porsgrund-porselen"
-          }
-        },
-        "86aa3d4f-d417-4f61-a5b3-cd43e7fb4935": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "jordbaereng"
-          }
-        },
-        "d8212ab7-ca26-493a-8fe1-593684eec4bd": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "treservise"
-          }
-        },
         "7a962257-8c6f-496b-a72e-915042688e38": {
           "type": "featured_collection",
           "settings": {
             "collection": "uknuselig"
           }
-        },
-        "0d2bd538-df56-4940-b61f-928a83a6876a": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "emaljert-servise"
-          }
         }
       },
       "block_order": [
-        "165226219844ecd034-0",
-        "165226219844ecd034-1",
+        "503f2bc0-0bb0-480b-882e-e7d41fc75fad",
+        "86aa3d4f-d417-4f61-a5b3-cd43e7fb4935",
         "165226219844ecd034-2",
         "63a381ac-2ac8-448e-9a75-cda98b66efdd",
+        "d8212ab7-ca26-493a-8fe1-593684eec4bd",
+        "165226219844ecd034-0",
+        "165226219844ecd034-1",
+        "0d2bd538-df56-4940-b61f-928a83a6876a",
         "258c1e8a-22ce-409c-acc0-a5006d3a974e",
         "62aaa6a9-9938-49bf-abbe-6c3a9fe6a98f",
         "eb0a9803-0e0f-486e-8b93-af130e1c4c8d",
-        "503f2bc0-0bb0-480b-882e-e7d41fc75fad",
-        "86aa3d4f-d417-4f61-a5b3-cd43e7fb4935",
-        "d8212ab7-ca26-493a-8fe1-593684eec4bd",
-        "7a962257-8c6f-496b-a72e-915042688e38",
-        "0d2bd538-df56-4940-b61f-928a83a6876a"
+        "7a962257-8c6f-496b-a72e-915042688e38"
       ],
       "settings": {
         "title": "Flere serviser",
