@@ -159,7 +159,7 @@
               {%- if product_card_product.selected_or_first_available_variant.available -%}
                 {{ 'products.product.add_to_cart' | t }}
                 {% render 'icon-cart' %}
-                {%- elsif product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.available and product.metafields.inventory.preorderMessage -%}
+                {%- elsif product.selected_or_first_available_variant.inventory_quantity <= 0 and product.selected_or_first_available_variant.available -%}
                 {{ 'products.product.preorder' | t }}
                 {% render 'icon-cart' %}
               {%- else -%}
