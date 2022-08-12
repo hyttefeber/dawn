@@ -157,7 +157,7 @@
           {% if product_card_product.selected_or_first_available_variant.available == false %}disabled{% endif %}
           >
       {%- if product.title contains "Termokopp" and product.first_available_variant.available -%}
-                {{ 'products.product.preorder' | t }}
+                'Bestill'
                 {% render 'icon-cart' %}      
       {%- elsif product_card_product.selected_or_first_available_variant.available -%}
                 {{ 'products.product.add_to_cart' | t }}
