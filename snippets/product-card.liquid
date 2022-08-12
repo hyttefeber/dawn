@@ -160,7 +160,7 @@
       {%- if product_card_product.selected_or_first_available_variant.available -%}
                 {{ 'products.product.add_to_cart' | t }}
                 {% render 'icon-cart' %}
-        {%- elsif product_card_product.vendor contains "Eyepoc" -%}
+        {%- elsif product_card_product.selected_or_first_available_variant.vendor contains "Eyepoc" -%}
                 'Bestill'
                 {% render 'icon-cart' %}   
               {%- else -%}
