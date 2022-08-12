@@ -511,6 +511,13 @@
         "date_ascending": "Dato, eldste til nyeste",
         "best_selling": "Bestselgere først"
       }
+    },
+    "filters": {
+      "availability": {
+        "value": {
+          "in_stock": "Tilgjengelig"
+        }
+      }
     }
   },
   "socialshopwave": {
