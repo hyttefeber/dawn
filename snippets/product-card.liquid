@@ -156,7 +156,7 @@
             class="product-form__submit button button--full-width button--primary {% if product_card_product.selected_or_first_available_variant.inventory_quantity <= 0 and product_card_product.selected_or_first_available_variant.available == false  %}hidden{% endif %}"
           {% if product_card_product.selected_or_first_available_variant.available == false %}disabled{% endif %}
           >
-      {%- if product.selected_or_first_available_variant.inventory_quantity == 0 and product.selected_or_first_available_variant.available -%}
+      {%- if product.first_available_variant.inventory_quantity == 0 and product.first_available_variant.available -%}
                 {{ 'products.product.preorder' | t }}
                 {% render 'icon-cart' %}      
       {%- elsif product_card_product.selected_or_first_available_variant.available -%}
