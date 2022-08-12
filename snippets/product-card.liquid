@@ -137,9 +137,12 @@
             class="product-form__submit button button--full-width button--primary {% if product_card_product.selected_or_first_available_variant.inventory_quantity <= 0 and product_card_product.selected_or_first_available_variant.available == false  %}hidden{% endif %}"
           {% if product_card_product.selected_or_first_available_variant.available == false %}disabled{% endif %}
           >
-              {%- if product_card_product.selected_or_first_available_variant.available -%}
+              {%- if product_card_product.selected_or_first_available_variant.inventory_quantity >= 1 -%}
                 {{ 'products.product.add_to_cart' | t }}
                 {% render 'icon-cart' %}
+        {% elsif product_card_product.selected_or_first_available_variant.inventory_quantity <= 0 and product_card_product.selected_or_first_available_variant.available == true  %}
+               {{ 'products.product.preorder' | t }}
+                {% render 'icon-cart' %}   
               {%- else -%}
                 {{ 'products.product.sold_out' | t }}
               {%- endif -%}
