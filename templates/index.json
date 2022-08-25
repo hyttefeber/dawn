@@ -88,10 +88,10 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2_3.png",
+            "image": "shopify:\/\/shop_images\/BANNER2_5.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/jordbaereng"
+            "link": "shopify:\/\/collections\/putetrekk"
           }
         }
       },
