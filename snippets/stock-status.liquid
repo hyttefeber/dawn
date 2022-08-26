@@ -17,9 +17,9 @@
 <span>*Varen er på vei til lager, og har 0-3 dager lengre leveringstid.</span>
 {% elsif product.selected_or_first_available_variant.inventory_quantity >= 1 -%}
 <i class="stock-status__indicator stock-status__indicator--green"></i>
-    <span>På lager og kan sendes nå 🚚 </span>{% if product.selected_or_first_available_variant.inventory_quantity >= 11 %}<span ="stockinfo-10">10+</span>
-          {% elsif product.selected_or_first_available_variant.inventory_quantity <= 5 %}<span ="stockinfo-low">{{ product.selected_or_first_available_variant.inventory_quantity }}</span>
-          {% elsif product.selected_or_first_available_variant.inventory_quantity <= 10 %}<span ="stockinfo-5-10">{{ product.selected_or_first_available_variant.inventory_quantity }}</span>
+    <span>På lager og kan sendes nå 🚚 </span>{% if product.selected_or_first_available_variant.inventory_quantity >= 11 %}<span ="stockinfo-10">(10+)</span>
+          {% elsif product.selected_or_first_available_variant.inventory_quantity <= 5 %}<span ="stockinfo-low">({{ product.selected_or_first_available_variant.inventory_quantity }})</span>
+          {% elsif product.selected_or_first_available_variant.inventory_quantity <= 10 %}<span ="stockinfo-5-10">({{ product.selected_or_first_available_variant.inventory_quantity }})</span>
       {% endif %}
 {% elsif product.selected_or_first_available_variant.available == false and product.metafields.inventory.soldoutMessage  -%}
 <i class="stock-status__indicator stock-status__indicator--red"></i>
