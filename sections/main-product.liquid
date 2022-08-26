@@ -163,10 +163,6 @@
             </div>
             {%- when 'stock_status' -%}
              {% render 'stock-status' %}
-            {% if product.selected_or_first_available_variant.inventory_quantity >= 11 %}<div ="stockinfo-10">10+ på lager</div>
-            {% elsif product.selected_or_first_available_variant.inventory_quantity <= 0 %}<div ="stockinfo-10">Ikke på lager</div>
-            {% elsif product.selected_or_first_available_variant.inventory_quantity <= 10 %}<div ="stockinfo-low">Kun {{ product.selected_or_first_available_variant.inventory_quantity }} på lager</div>
-{% endif %}
           {%- when 'popup' -%}
               <modal-opener class="product-popup-modal__opener no-js-hidden" data-modal="#PopupModal-{{ block.id }}" {{ block.shopify_attributes }}>
                 <button id="ProductPopup-{{ block.id }}" class="product-popup-modal__button link" type="button" aria-haspopup="dialog">{{ block.settings.text | default: block.settings.page.title }}</button>
