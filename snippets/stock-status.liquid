@@ -17,7 +17,7 @@
 <span>*Varen er på vei til lager, og har 0-3 dager lengre leveringstid.</span>
 {% elsif product.selected_or_first_available_variant.inventory_quantity >= 1 -%}
 <i class="stock-status__indicator stock-status__indicator--green"></i>
-    <span>På lager og kan sendes nå 🚚</span>{% if product.selected_or_first_available_variant.inventory_quantity >= 11 %}<span class="stockinfo-10">(10+)</span>
+    <span>På lager og kan sendes nå 🚚 </span>{% if product.selected_or_first_available_variant.inventory_quantity >= 11 %}<span class="stockinfo-10">(10+)</span>
           {% elsif product.selected_or_first_available_variant.inventory_quantity <= 5 %}<span class="stockinfo-low">({{ product.selected_or_first_available_variant.inventory_quantity }})</span>
           {% elsif product.selected_or_first_available_variant.inventory_quantity <= 10 %}<span class="stockinfo-5-10">({{ product.selected_or_first_available_variant.inventory_quantity }})</span>
       {% endif %}
