@@ -39,6 +39,12 @@
           "settings": {
           }
         },
+        "c1322279-1f61-444d-8feb-ccf41fc5758b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if current_variant.inventory_quantity <= 11 %}<div =\"stockinfo-10\">10+ på lager<\/div>\n{% elsif current_variant.inventory_quantity >= 10 %}<div =\"stockinfo-low\">Kun {{ variant.inventory_quantity  }} på lager<\/div>\n{% elsif current_variant.inventory_quantity >= 0 %}<div =\"stockinfo-10\">0 på lager<\/div>\n{% endif %}"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -93,6 +99,7 @@
         "b6061fac-f48a-4b9b-a0a2-b71b2f7b8d72",
         "subtitle",
         "price",
+        "c1322279-1f61-444d-8feb-ccf41fc5758b",
         "variant_picker",
         "quantity_selector",
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
