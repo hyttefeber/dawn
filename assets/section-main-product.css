@@ -805,3 +805,16 @@ display: none;
 .ElementsWidget-prefix .R-TextHeading, .R-TextHeading, .ElementsWidget-prefix .R-TextBody, .CarouselWidget-prefix .R-TextHeading{
 color: #355179!important;
 }
+/*Stock quantity indications */
+.stockinfo-10{
+  font-weight: 700;
+  color: #5FAA58;
+}
+.stockinfo-low{
+  color: #dc3e1e;
+  font-weight: 700;
+}
+.stockinfo-5-10{
+  color: #eca01e;
+  font-weight: 700;
+}
