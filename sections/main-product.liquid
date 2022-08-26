@@ -164,7 +164,7 @@
             {%- when 'stock_status' -%}
              {% render 'stock-status' %}
             {% if product.selected_or_first_available_variant.inventory_quantity <= 11 %}<div ="stockinfo-10">10+ på lager</div>
-{% elsif product.selected_or_first_available_variant.inventory_quantity >= 10 %}<div ="stockinfo-low">Kun {{ variant.inventory_quantity  }} på lager</div>
+{% elsif product.selected_or_first_available_variant.inventory_quantity >= 10 %}<div ="stockinfo-low">Kun {{ product.selected_or_first_available_variant.inventory_quantity }} på lager</div>
 {% elsif product.selected_or_first_available_variant.inventory_quantity >= 0 %}<div ="stockinfo-10">Ikke på lager</div>
 {% endif %}
           {%- when 'popup' -%}
