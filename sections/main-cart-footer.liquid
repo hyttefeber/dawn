@@ -69,12 +69,12 @@
             {%- else -%}
               <div class="cart__ctas" {{ block.shopify_attributes }}>
                 <noscript>
-                  <button type="submit" class="cart__update-button button button--secondary" form="cart">
+                  <button class="cart__update-button button button--secondary" >
                     {{ 'sections.cart.update' | t }}
                   </button>
                 </noscript>
 
-                <button  class="cart__checkout-button button" {% if cart == empty %} disabled{% endif %} form="cart">
+                <button  class="cart__checkout-button button" {% if cart == empty %} disabled{% endif %} >
                  {% render 'icon-padlock' %} {{ 'sections.cart.checkout' | t }}
                 </button>
               </div>
