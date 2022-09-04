@@ -11,15 +11,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "1629970086900f7d29-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8_2d822d85-e95d-4a0b-8d0c-dddb10de15ca.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
-          }
-        },
         "1629970086900f7d29-2": {
           "type": "column",
           "settings": {
@@ -27,6 +18,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/balplassen"
+          }
+        },
+        "1629970086900f7d29-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_2d822d85-e95d-4a0b-8d0c-dddb10de15ca.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "1629970086900f7d29-0": {
@@ -40,8 +40,8 @@
         }
       },
       "block_order": [
-        "1629970086900f7d29-1",
         "1629970086900f7d29-2",
+        "1629970086900f7d29-1",
         "1629970086900f7d29-0"
       ],
       "settings": {
