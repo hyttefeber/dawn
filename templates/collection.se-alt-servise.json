@@ -19,6 +19,7 @@
         "show_image_outline": true,
         "show_vendor": false,
         "show_atc": true,
+        "show_grid_swap": true,
         "show_rating": false,
         "enable_filtering": true,
         "enable_sorting": true,
@@ -29,7 +30,7 @@
       "type": "text-banner",
       "settings": {
         "text_banner_title": "ALLE SERVISE SERIER",
-        "text_banner_body": "",
+        "text_banner_body": "Her finner du seriene med ulike serviser.",
         "color-scheme": "primary"
       }
     },
@@ -40,6 +41,18 @@
           "type": "featured_collection",
           "settings": {
             "collection": "nyhet-siri"
+          }
+        },
+        "8ed00524-c6b9-4711-933b-831de8afc562": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ingrid-fra-porsgrund-porselen"
+          }
+        },
+        "7857b3ab-7de3-43a9-9bd0-e2a75e5daf03": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "naturservise-fra-porsgrund-porselen"
           }
         },
         "1633389115ecbd8946-0": {
@@ -60,6 +73,12 @@
             "collection": "mummi-servise"
           }
         },
+        "d4770843-2f30-4328-bcac-6b7d00c0b5bf": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "marius-servise"
+          }
+        },
         "189a5856-b3a3-4130-87df-ee77d2432189": {
           "type": "featured_collection",
           "settings": {
@@ -72,28 +91,38 @@
             "collection": "jordbaereng"
           }
         },
-        "d4770843-2f30-4328-bcac-6b7d00c0b5bf": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "marius-servise"
-          }
-        },
         "17bf80b1-ede6-48d6-aac2-cd66b59a1566": {
           "type": "featured_collection",
           "settings": {
             "collection": "spire-fra-porsgrund-porselen"
           }
+        },
+        "4e422d0a-bfae-4611-a5d8-3acff272369c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camilla-phil"
+          }
+        },
+        "d4cc5658-ce28-4293-9ea7-280a10daa3da": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "turservise-og-servering"
+          }
         }
       },
       "block_order": [
         "1633389115ecbd8946-2",
+        "8ed00524-c6b9-4711-933b-831de8afc562",
+        "7857b3ab-7de3-43a9-9bd0-e2a75e5daf03",
         "1633389115ecbd8946-0",
         "1633389115ecbd8946-1",
         "78ed54c8-4c8f-42ff-a58b-b6478e3b9088",
+        "d4770843-2f30-4328-bcac-6b7d00c0b5bf",
         "189a5856-b3a3-4130-87df-ee77d2432189",
         "ad3e1285-b18e-4af7-8294-ab3d6ca169cd",
-        "d4770843-2f30-4328-bcac-6b7d00c0b5bf",
-        "17bf80b1-ede6-48d6-aac2-cd66b59a1566"
+        "17bf80b1-ede6-48d6-aac2-cd66b59a1566",
+        "4e422d0a-bfae-4611-a5d8-3acff272369c",
+        "d4cc5658-ce28-4293-9ea7-280a10daa3da"
       ],
       "settings": {
         "title": "",
