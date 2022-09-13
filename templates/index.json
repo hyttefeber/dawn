@@ -114,6 +114,7 @@
     },
     "1632000821b08894c5": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Populært nå",
         "collection": "populaert-na",
