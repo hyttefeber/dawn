@@ -55,6 +55,24 @@
         "swipe_on_mobile": true
       }
     },
+    "1632000821b08894c5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populært nå",
+        "collection": "populaert-na",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -110,24 +128,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
-      }
-    },
-    "1632000821b08894c5": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Populært nå",
-        "collection": "populaert-na",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": false
       }
     },
     "featured_products": {
@@ -630,8 +630,8 @@
   "order": [
     "16327413955ebd8133",
     "1629970086900f7d29",
-    "multi_column",
     "1632000821b08894c5",
+    "multi_column",
     "featured_products",
     "1656508395028523fd",
     "16565084024c1aa69a",
