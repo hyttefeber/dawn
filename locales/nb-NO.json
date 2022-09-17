@@ -488,7 +488,8 @@
         "accept_marketing_checkbox_label": "Hold meg oppdatert på eksklusive tilbud på epost."
       },
       "contact": {
-        "title": "Kundeinformasjon"
+        "title": "Kundeinformasjon",
+        "email_placeholder": "E-postadresse"
       }
     },
     "links": {
