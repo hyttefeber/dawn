@@ -2631,3 +2631,6 @@ font-weight: 700;
   .showall:hover{
     font-weight:600;
     }
+.flickity-viewport{
+  outline:none;
+}
