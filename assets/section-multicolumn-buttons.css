@@ -41,7 +41,7 @@ li.multicolumn-list__item.grid__item{
     max-width:200px;
   }
 li.multicolumn-list__item.grid__item.center{
-  max-width: 120px;
+  max-width: 200px;
 }
 .title-wrapper-with-link.title-wrapper-with-link--no-heading{
   display:none;
