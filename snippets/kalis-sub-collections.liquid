@@ -1,0 +1,79 @@
+<style>
+  .kalis-sub-collections {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: auto;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  @media (max-width: 768px) {
+    .kalis-sub-collections {
+      justify-content: left;
+    }
+  }
+
+.subnav-img{
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  width:100px;
+  height:100px;
+}
+  .subnav-round{
+  text-align: center;
+  }
+  .kalis-sub-collections a {
+    display: inline-block;
+    padding: 9px 21px;
+    margin: 0px 6px;
+    font-size: 14px;
+    line-height: 18px;
+    border-radius: 38px;
+    font-weight: 700;
+    text-transform: uppercase;
+        color: rgba(var(--color-foreground),.75);
+    text-decoration: none;
+  }
+  @media (max-width: 768px) {
+    .kalis-sub-collections a {
+      padding: 8px 14px;
+      margin: 0px 5px;
+      font-size: 12px;
+      line-height: 15px;
+      border-radius: 33px;
+    }
+  }
+
+  .kalis-sub-collections a:first-of-type {
+    margin-left: 0px;
+  }
+  .kalis-sub-collections a:last-of-type {
+    margin-right: 0px;
+  }
+
+  /* normal sub-collections */
+  .kalis-sub-collections + .grid.grid--uniform {
+    display: none;
+  }
+</style>
+
+<div class="kalis-sub-collections">
+  {%- for sub_collection_link in sub_collection_links -%}
+    {%- if sub_collection_link.url contains '/collections/' -%}
+      {%- liquid
+        assign lang_code_string = request.locale.iso_code | prepend: '/' | downcase
+        assign sub_collection_handle = sub_collection_link.url | remove: '/collections/' | remove: lang_code_string
+        assign sub_collection = collections[sub_collection_handle]
+        assign sub_collection_image = sub_collection.featured_image
+      -%}
+      {%- if sub_collection != blank -%}
+        {%- unless parent_url == sub_collection.url -%}
+          <!-- Item Start -->
+     <div class="subnav-round"><a href="{{ sub_collection.url }}"> <img class="subnav-img" loading="eager" src="/{{ sub_collection.featured_image | img_url: '100x' }}">
+          {{ sub_collection_link.title }}</a></div>
+          <!-- Item End -->
+        {%- endunless -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+</div>
