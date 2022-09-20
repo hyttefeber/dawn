@@ -7,6 +7,53 @@
         "show_collection_image": false
       }
     },
+    "1663684966c6053de9": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "16636849668f045267-0": {
+          "type": "column",
+          "settings": {
+            "title": "Vedfyrt",
+            "link": "\/collections\/pizza-ovner-og-tilbehor\/vedfyrt"
+          }
+        },
+        "16636849668f045267-1": {
+          "type": "column",
+          "settings": {
+            "title": "Gassfyrt",
+            "link": "\/collections\/pizza-ovner-og-tilbehor\/gassfyrt"
+          }
+        },
+        "16636849668f045267-2": {
+          "type": "column",
+          "settings": {
+            "title": "Kombi",
+            "link": "\/collections\/pizza-ovner-og-tilbehor\/kombi"
+          }
+        },
+        "8931d54e-7c06-48b0-b945-a953b65cd29e": {
+          "type": "column",
+          "settings": {
+            "title": "Pellets",
+            "link": "\/collections\/pizza-ovner-og-tilbehor\/pellets"
+          }
+        }
+      },
+      "block_order": [
+        "16636849668f045267-0",
+        "16636849668f045267-1",
+        "16636849668f045267-2",
+        "8931d54e-7c06-48b0-b945-a953b65cd29e"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -17,6 +64,7 @@
         "show_image_outline": false,
         "show_vendor": false,
         "show_atc": true,
+        "show_grid_swap": true,
         "show_rating": false,
         "enable_filtering": true,
         "enable_sorting": true,
@@ -188,6 +236,7 @@
   },
   "order": [
     "banner",
+    "1663684966c6053de9",
     "product-grid",
     "16522621980aa319e9",
     "16388220553dbbfb02"
