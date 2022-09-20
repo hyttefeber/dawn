@@ -7,6 +7,45 @@
         "show_collection_image": false
       }
     },
+    "1663682185015c997b": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "16636821850622ed55-0": {
+          "type": "column",
+          "settings": {
+            "title": "Camper (liten)",
+            "link": "\/collections\/frost-produkter-rentbrennende-balpanner\/camper"
+          }
+        },
+        "16636821850622ed55-1": {
+          "type": "column",
+          "settings": {
+            "title": "Cabin (medium)",
+            "link": "\/collections\/frost-produkter-rentbrennende-balpanner\/cabin"
+          }
+        },
+        "16636821850622ed55-2": {
+          "type": "column",
+          "settings": {
+            "title": "Villa (stor)",
+            "link": "\/collections\/frost-produkter-rentbrennende-balpanner\/villa"
+          }
+        }
+      },
+      "block_order": [
+        "16636821850622ed55-0",
+        "16636821850622ed55-1",
+        "16636821850622ed55-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -183,53 +222,13 @@
         "image_padding": false,
         "show_view_all": false
       }
-    },
-    "1663682185015c997b": {
-      "type": "collection-buttons-multicol",
-      "disabled": true,
-      "blocks": {
-        "16636821850622ed55-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "link": ""
-          }
-        },
-        "16636821850622ed55-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "link": ""
-          }
-        },
-        "16636821850622ed55-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16636821850622ed55-0",
-        "16636821850622ed55-1",
-        "16636821850622ed55-2"
-      ],
-      "settings": {
-        "title": "Collection Buttons Multi",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
     "banner",
+    "1663682185015c997b",
     "product-grid",
     "16522621980aa319e9",
-    "16388220553dbbfb02",
-    "1663682185015c997b"
+    "16388220553dbbfb02"
   ]
 }
