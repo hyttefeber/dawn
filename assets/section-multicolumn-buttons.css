@@ -34,9 +34,12 @@
   text-decoration: none;
   font-weight: 700;
 }
-.multicolumn .grid{
+/*.multicolumn .grid{
   justify-content: center;
-}
+}*/
+li.multicolumn-list__item.grid__item{
+    max-width:200px;
+  }
 li.multicolumn-list__item.grid__item.center{
   max-width: 120px;
 }
