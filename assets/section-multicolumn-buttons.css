@@ -33,6 +33,7 @@
 .multicolumn-list a{
   text-decoration: none;
   font-weight: 700;
+  text-align: center;
 }
 /*.multicolumn .grid{
   justify-content: center;
