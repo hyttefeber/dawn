@@ -43,6 +43,45 @@
         "show_view_all": false
       }
     },
+    "16637709813f6ddaa9": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "1663770981339bcb57-0": {
+          "type": "column",
+          "settings": {
+            "title": "Hengekøye salg!",
+            "link": "https:\/\/hyttefeber.no\/collections\/hengekoyer"
+          }
+        },
+        "1663770981339bcb57-1": {
+          "type": "column",
+          "settings": {
+            "title": "Link",
+            "link": ""
+          }
+        },
+        "1663770981339bcb57-2": {
+          "type": "column",
+          "settings": {
+            "title": "Link",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663770981339bcb57-0",
+        "1663770981339bcb57-1",
+        "1663770981339bcb57-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
     "1637196511a899d270": {
       "type": "featured-collection",
       "disabled": true,
@@ -127,6 +166,7 @@
   },
   "order": [
     "163740507148c347b1",
+    "16637709813f6ddaa9",
     "1637196511a899d270",
     "1637196768776bce95",
     "16371968864e99db71",
