@@ -130,13 +130,21 @@
             "title": "Turutstyr",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Emaljekopper&filter.p.product_type=Kikkerter&filter.p.product_type=Matbokser&filter.p.product_type=Mobilvarmere&filter.p.product_type=Sitteunderlag&filter.p.product_type=Termokopp&filter.p.product_type=Termos&filter.p.product_type=Treservise&filter.p.product_type=Turbestikk&filter.p.product_type=Turkniver&filter.p.product_type=Turkopper&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
+        },
+        "62662591-46cd-4254-8ce8-3c1a0c33cad5": {
+          "type": "column",
+          "settings": {
+            "title": "Lyslykter",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "1663770981339bcb57-0",
         "1663770981339bcb57-1",
         "1663770981339bcb57-2",
-        "e94439e8-b736-495f-a1c4-0ca3dacd5151"
+        "e94439e8-b736-495f-a1c4-0ca3dacd5151",
+        "62662591-46cd-4254-8ce8-3c1a0c33cad5"
       ],
       "settings": {
         "title": "",
