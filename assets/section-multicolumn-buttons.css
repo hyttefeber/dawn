@@ -37,6 +37,7 @@
 }
 .multicolumn .grid{
   justify-content: center;
+  text-align: center;
 }
 li.multicolumn-list__item.grid__item{
     max-width:200px;
