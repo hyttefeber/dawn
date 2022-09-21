@@ -123,12 +123,20 @@
             "title": "Utemøbler",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Campingm%C3%B8bler&filter.p.product_type=Campingstol&filter.p.product_type=Hagem%C3%B8bler&filter.p.product_type=Hengek%C3%B8yer&filter.p.product_type=Utem%C3%B8bler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
+        },
+        "e94439e8-b736-495f-a1c4-0ca3dacd5151": {
+          "type": "column",
+          "settings": {
+            "title": "Turutstyr",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "1663770981339bcb57-0",
         "1663770981339bcb57-1",
-        "1663770981339bcb57-2"
+        "1663770981339bcb57-2",
+        "e94439e8-b736-495f-a1c4-0ca3dacd5151"
       ],
       "settings": {
         "title": "",
