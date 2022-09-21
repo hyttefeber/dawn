@@ -60,6 +60,7 @@
   display: grid;
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(2, auto);
+  overflow:hidden;
 }
  .collection-grid-section .button-label{
 	font-size: 1.8rem;
