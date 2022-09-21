@@ -43,45 +43,6 @@
         "show_view_all": false
       }
     },
-    "16637709813f6ddaa9": {
-      "type": "collection-buttons-multicol",
-      "blocks": {
-        "1663770981339bcb57-0": {
-          "type": "column",
-          "settings": {
-            "title": "Hengekøye salg!",
-            "link": "https:\/\/hyttefeber.no\/collections\/hengekoyer"
-          }
-        },
-        "1663770981339bcb57-1": {
-          "type": "column",
-          "settings": {
-            "title": "Link",
-            "link": ""
-          }
-        },
-        "1663770981339bcb57-2": {
-          "type": "column",
-          "settings": {
-            "title": "Link",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1663770981339bcb57-0",
-        "1663770981339bcb57-1",
-        "1663770981339bcb57-2"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "swipe_on_mobile": false
-      }
-    },
     "1637196511a899d270": {
       "type": "featured-collection",
       "disabled": true,
@@ -139,6 +100,45 @@
         "show_rating": false
       }
     },
+    "16637709813f6ddaa9": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "1663770981339bcb57-0": {
+          "type": "column",
+          "settings": {
+            "title": "Hengekøyer",
+            "link": "https:\/\/hyttefeber.no\/collections\/hengekoyer"
+          }
+        },
+        "1663770981339bcb57-1": {
+          "type": "column",
+          "settings": {
+            "title": "Servise",
+            "link": ""
+          }
+        },
+        "1663770981339bcb57-2": {
+          "type": "column",
+          "settings": {
+            "title": "Utemøbler",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Campingm%C3%B8bler&filter.p.product_type=Campingstol&filter.p.product_type=Hagem%C3%B8bler&filter.p.product_type=Hengek%C3%B8yer&filter.p.product_type=Utem%C3%B8bler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "1663770981339bcb57-0",
+        "1663770981339bcb57-1",
+        "1663770981339bcb57-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -166,10 +166,10 @@
   },
   "order": [
     "163740507148c347b1",
-    "16637709813f6ddaa9",
     "1637196511a899d270",
     "1637196768776bce95",
     "16371968864e99db71",
+    "16637709813f6ddaa9",
     "banner",
     "product-grid"
   ]
