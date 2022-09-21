@@ -35,9 +35,9 @@
   font-weight: 700;
   text-align: center;
 }
-/*.multicolumn .grid{
+.multicolumn .grid{
   justify-content: center;
-}*/
+}
 li.multicolumn-list__item.grid__item{
     max-width:200px;
   }
