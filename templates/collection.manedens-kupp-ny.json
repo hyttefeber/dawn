@@ -110,13 +110,6 @@
             "link": "https:\/\/hyttefeber.no\/collections\/hengekoyer"
           }
         },
-        "1663770981339bcb57-1": {
-          "type": "column",
-          "settings": {
-            "title": "Servise",
-            "link": ""
-          }
-        },
         "1663770981339bcb57-2": {
           "type": "column",
           "settings": {
@@ -137,14 +130,21 @@
             "title": "Lyslykter",
             "link": ""
           }
+        },
+        "1663770981339bcb57-1": {
+          "type": "column",
+          "settings": {
+            "title": "Servise",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "1663770981339bcb57-0",
-        "1663770981339bcb57-1",
         "1663770981339bcb57-2",
         "e94439e8-b736-495f-a1c4-0ca3dacd5151",
-        "62662591-46cd-4254-8ce8-3c1a0c33cad5"
+        "62662591-46cd-4254-8ce8-3c1a0c33cad5",
+        "1663770981339bcb57-1"
       ],
       "settings": {
         "title": "",
