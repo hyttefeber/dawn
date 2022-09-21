@@ -100,6 +100,42 @@
         "show_rating": false
       }
     },
+    "1663773124934989f7": {
+      "type": "rich-text",
+      "blocks": {
+        "16637731247bea7fc0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "⭐️Gode tilbud på det du trenger til Hytta⭐️",
+            "heading_size": "h1"
+          }
+        },
+        "16637731247bea7fc0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Her finner du alt som er på salg hos hyttefeber til enhver tid, fra 10% til 60% rabatt. Vi anbefaler å bruke <strong>filtrene <\/strong>under for å velge produkttyper og merkevarerdu er interessert i.<\/p>"
+          }
+        },
+        "16637731247bea7fc0-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16637731247bea7fc0-0",
+        "16637731247bea7fc0-1",
+        "16637731247bea7fc0-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "16637709813f6ddaa9": {
       "type": "collection-buttons-multicol",
       "blocks": {
@@ -193,6 +229,7 @@
     "1637196511a899d270",
     "1637196768776bce95",
     "16371968864e99db71",
+    "1663773124934989f7",
     "16637709813f6ddaa9",
     "banner",
     "product-grid"
