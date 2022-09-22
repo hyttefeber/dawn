@@ -149,6 +149,7 @@
         },
         "918dcb0f-1ee1-44ce-a4d0-9f07b700a33a": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Kopper & Krus",
             "link": "\/collections\/salg-manedens-kupp?filter.p.product_type=Emaljekopper&filter.p.product_type=Kopper+og+Krus&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
