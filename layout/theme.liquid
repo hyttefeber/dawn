@@ -303,8 +303,8 @@ gtag('event', 'conversion', {'send_to': 'AW-738231931/Y3gFCNWm87ADEPuMguAC'});
     {% section 'announcement-bar' %}
     {% section 'header' %}
 {% if template contains "collection" %}
-    {% render 'subcollections' %}
-    {% render 'subcollection-list' %} 
+    <div class="subcollection-lists">{% render 'subcollections' %}
+    {% render 'subcollection-list' %} </div>
 {%  endif %} 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
