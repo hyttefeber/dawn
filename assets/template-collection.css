@@ -267,6 +267,7 @@
   font-size: 1.4rem;
   margin-bottom: 1.5rem;
   padding: 0 1.75rem 0 0;
+  font-weight: 700;
 }
 
 .facets__disclosure[open] .facets__summary,
