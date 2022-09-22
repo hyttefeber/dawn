@@ -2634,3 +2634,8 @@ font-weight: 700;
 .flickity-viewport{
   outline:none;
 }
+.subcollection-lists{
+  display: inline-flex;
+    max-width: 1600px;
+    margin: 0 auto;
+}
