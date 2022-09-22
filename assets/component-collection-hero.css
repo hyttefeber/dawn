@@ -42,6 +42,8 @@
 .collection-hero__title {
   margin: 1rem 0 0 0;
   text-align: center;
+  font-weight:700;
+  color: #fff;
 }
 
 .collection-hero__title + .collection-hero__description {
@@ -92,4 +94,9 @@
     margin-left: 3rem;
     min-height: 20rem;
   }
+}
+
+.collection-hero{
+  background: #355179;
+  padding: 0 0 10px;
 }
