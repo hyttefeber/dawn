@@ -2224,6 +2224,7 @@ details[open] > .header__submenu {
   transition: text-decoration var(--duration-short) ease;
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 15px;
 }
 
 .header__menu-item:hover span {
