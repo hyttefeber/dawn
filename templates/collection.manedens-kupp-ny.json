@@ -93,6 +93,14 @@
         "full_width": true
       }
     },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
     "16637709813f6ddaa9": {
       "type": "collection-buttons-multicol",
       "blocks": {
@@ -133,6 +141,7 @@
         },
         "2e47041c-d1ca-41a6-a40b-003de7077f7a": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Kjøkken",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Bestikk&filter.p.product_type=Bordsk%C3%A5nere&filter.p.product_type=Brett+og+Fat&filter.p.product_type=Br%C3%B8dkurv&filter.p.product_type=Grytekluter&filter.p.product_type=Gryteunderlag&filter.p.product_type=Ildfast+form&filter.p.product_type=Kakefat&filter.p.product_type=Kj%C3%B8kkenforkle&filter.p.product_type=Kj%C3%B8kkenh%C3%A5ndkl%C3%A6r&filter.p.product_type=Kj%C3%B8kkenkluter&filter.p.product_type=Kj%C3%B8kkenkniver&filter.p.product_type=Kj%C3%B8kkenredskaper&filter.p.product_type=Knivholdere&filter.p.product_type=Knivsett&filter.p.product_type=Krukker&filter.p.product_type=Lokk+%26+Korker&filter.p.product_type=Oppvaskstativ&filter.p.product_type=Sakser&filter.p.product_type=Salt+og+pepperkverner&filter.p.product_type=Skj%C3%A6refj%C3%B8ler&filter.p.product_type=St%C3%B8pejernspanner&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
@@ -179,14 +188,6 @@
         "column_alignment": "left",
         "background_style": "primary",
         "swipe_on_mobile": false
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false
       }
     },
     "product-grid": {
@@ -255,8 +256,8 @@
     "1637196768776bce95",
     "16371968864e99db71",
     "1663773124934989f7",
-    "16637709813f6ddaa9",
     "banner",
+    "16637709813f6ddaa9",
     "product-grid",
     "163740507148c347b1"
   ]
