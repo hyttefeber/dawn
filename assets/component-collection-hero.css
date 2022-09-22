@@ -43,14 +43,14 @@
   margin: 1rem 0 0 0;
   text-align: center;
   font-weight:700;
-  color: #fff;
+  /*color: #fff;*/
 }
 
 .collection-hero__title + .collection-hero__description {
   margin-top: 1.5rem;
   font-size: 1.6rem;
   line-height: 1.5;
-  color: #fff;
+  /*color: #fff;*/
   text-align: center;
 }
 
@@ -99,6 +99,6 @@
 }
 
 .collection-hero{
-  background: #355179;
+  /*background: #355179;*/
   padding: 20px 0;
 }
