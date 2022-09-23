@@ -2638,7 +2638,8 @@ font-weight: 700;
 }
 .subcollection-lists{
   display: inline-flex;
-    max-width: 100%;
+  width:100%;
+    max-width: 1500px;
     margin: 0 auto;
 }
  .subcollection-lists .kalis-sub-collections:nth-child(4), .subcollection-lists .kalis-sub-collections:nth-child(6){
