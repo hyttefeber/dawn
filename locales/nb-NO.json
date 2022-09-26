@@ -204,7 +204,7 @@
       "cart_quantity_error_html": "Du kan bare legge til [quantity] av denne varen i handlekurven.",
       "taxes_and_shipping_policy_at_checkout_html": "Avgifter og <a href=\"{{ link }}\">frakt<\/a> beregnes i kassen",
       "taxes_included_but_shipping_at_checkout": "Inkludert mva og frakt beregnes i kassen",
-      "taxes_included_and_shipping_policy_html": "Levering til nærmeste hentested eller hjemlevering velges i kassen. (fra 59 kr) Gratis frakt på ordre over 600kr. Eventuelle gavekoder legges til i neste steg.",
+      "taxes_included_and_shipping_policy_html": "Levering til nærmeste hentested eller hjemlevering velges i kassen. (fra 59 kr) Gratis frakt på ordre over 600kr, under 35kg. Eventuelle gavekoder legges til i kassen i neste steg.",
       "taxes_and_shipping_at_checkout": "MVA og frakt beregnes i kassen",
       "headings": {
         "product": "Produkt",
