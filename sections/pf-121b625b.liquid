@@ -35,6 +35,46 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
                           data-oke-reviews-cell-link-text="Read More"
                           {{ product_data_attribute }}
                       ></div>
+                  {% endif %}</div></div></div></div></div></div><div data-section-id="pf-f943" data-pf-type="Section" class="sc-igXgud lhtyiH pf-81_"><div style="--cw:1170px" class="sc-cjrPHo eOcrMz"><div class="sc-jgrJph iGtnpe pf-80_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-gXRojI kCnmwO pf-79_"><div data-pf-type="Okendo" class="sc-bcCSHH guaGEK pf-78_">{% if shop.metafields.okendo.settings.isWidgetPlusEnabled == true %}
+                      {% assign renderWidgetPlusScript = true %}
+                  {% elsif shop.metafields.okendo.settings.isWidgetPlusAdminEnabled == true and request.design_mode %}
+                      {% assign renderWidgetPlusScript = true %}
+                  {% endif %}
+
+                  {% if product != blank %}
+                      {% capture product_data_attribute %}data-oke-reviews-product-id="shopify-{{ product.id }}"{% endcapture %}
+                  {% endif %}
+
+                  {% if renderWidgetPlusScript == true %}
+                      {% capture heading_data_attribute %}
+                        data-oke-header-text="undefined"
+                      {% endcapture %}
+                  {% else %}
+                      {% capture heading_data_attribute %}
+                        data-oke-reviews-carousel-heading="undefined"
+                      {% endcapture %}
+                  {% endif %}
+
+                  {% if renderWidgetPlusScript != true %}
+                      {% capture hide_header_attribute %}data-oke-reviews-carousel-hide-header="true"{% endcapture %}
+                  {% else %}
+                      {% capture hide_header_attribute %}data-oke-hide-header="true"{% endcapture %}
+                  {% endif %}
+
+                  {% if renderWidgetPlusScript == true %}
+                      <div
+                          data-oke-carousel
+                          {{ product_data_attribute }}
+                          {{ heading_data_attribute }}
+                          {{ hide_header_attribute}}
+                      ></div>
+                  {% else %}
+                      <div
+                          data-oke-reviews-carousel
+                          {{ product_data_attribute }}
+                          {{ heading_data_attribute }}
+                          {{ hide_header_attribute }}
+                      ></div>
                   {% endif %}</div></div></div></div></div></div><div data-section-id="pf-b83e" data-pf-type="Section" class="sc-igXgud lhtyiH pf-63_"><div style="--cw:1170px" class="sc-cjrPHo eOcrMz"><div class="sc-jgrJph iGtnpe pf-77_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-gXRojI kCnmwO pf-76_"><div data-pf-type="Okendo" class="sc-bcCSHH guaGEK pf-75_">{% if shop.metafields.okendo.settings.isWidgetPlusEnabled == true %}
                         {% assign renderWidgetPlusScript = true %}
                     {% elsif shop.metafields.okendo.settings.isWidgetPlusAdminEnabled == true and request.design_mode %}
