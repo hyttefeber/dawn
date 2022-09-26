@@ -35,8 +35,36 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
                           data-oke-reviews-cell-link-text="Read More"
                           {{ product_data_attribute }}
                       ></div>
-                  {% endif %}</div></div></div></div></div></div><div data-element-placeholder="true" data-parallax="false" data-section-id="pf-b83e" class="sc-igXgud lhtyiH pf-63_" data-pf-type="Section"><div data-pf-placeholder="true" style="min-height:96px" class="sc-khQegj kWsbtR"><div type="Section" class="sc-hUpaCq bKTcuQ"><div><b>Section</b></div><div>Drop element here!</div></div></div></div></div></div></div><script>
-    !function(){window.__pagefly_setting__&&(window.__pagefly_setting2__=window.__pagefly_setting__),window.__pagefly_setting__={"baseURL":"https://apps.pagefly.io","analyticsURL":"https://analytics.pagefly.io","isBackend":false,"cdnURL":"https://cdn.pagefly.io","pageflyVersion":"3.23.9","shopDomain":"hyttefeber.myshopify.com","elementData":{},"pageTitle":"Kundevurderinger","pageType":"page","pageId":"121b625b-9221-48fd-9e82-9797510f238f","lazyLoad":true,"forceByPassGoogleLightHouse":false,"imageLazyLoad":true,"useThemeJQ":false,"selectedFonts":{"Oswald":{"400":0,"900":0},"Montserrat":{"400":1},"Playfair Display":{"400":0},"Lato":{"400":0},"Source Sans Pro":{"400":0},"Raleway":{"400":0,"700":0}},"trackingIDs":[],"shopifyProxyPath":"/a/pf_preview"},window.__pagefly_setting2__&&(window.__pagefly_setting__=function _(d,b){let c={...d||{}};for(let a of Object.keys(b))b[a]instanceof Object&&(Array.isArray(b[a])&&c[a]?Object.assign(b[a],[...b[a],...c[a]]):Object.assign(b[a],_(c[a],b[a])));return Object.assign(c||{},b),c}(__pagefly_setting2__,__pagefly_setting__),delete window.__pagefly_setting2__),window.__pagefly_setting__.moneyFormat={{shop.money_format|json}}}();
+                  {% endif %}</div></div></div></div></div></div><div data-section-id="pf-b83e" data-pf-type="Section" class="sc-igXgud lhtyiH pf-63_"><div style="--cw:1170px" class="sc-cjrPHo eOcrMz"><div class="sc-jgrJph iGtnpe pf-77_ pf-r pf-r-eh" style="--s-xs:15px" data-pf-type="Row"><div class="pf-c" style="--c-xs:12;--c-md:12;--c-lg:12"><div data-pf-type="Column" class="sc-gXRojI kCnmwO pf-76_"><div data-pf-type="Okendo" class="sc-bcCSHH guaGEK pf-75_">{% if shop.metafields.okendo.settings.isWidgetPlusEnabled == true %}
+                        {% assign renderWidgetPlusScript = true %}
+                    {% elsif shop.metafields.okendo.settings.isWidgetPlusAdminEnabled == true and request.design_mode %}
+                        {% assign renderWidgetPlusScript = true %}
+                    {% endif %}
+
+                    {% if product != blank %}
+                        {% capture product_data_attribute %}data-oke-reviews-product-id="shopify-{{ product.id }}"{% endcapture %}
+                    {% endif %}
+
+                    {% if renderWidgetPlusScript == true %}
+                        {% if shop.metafields.okendo.ReviewsWidgetStyles != blank %}
+                            {{ shop.metafields.okendo.ReviewsWidgetStyles }}
+                        {% endif %}
+                            <div
+                                data-oke-widget
+                                {{ product_data_attribute }}
+                            >
+                                {{ product.metafields.okendo.ReviewsWidgetSnippet }}
+                            </div>
+                        {% else %}
+                              <div
+                                  class="okeReviews-widget-holder"
+                                  data-oke-reviews-widget
+                                  {{ product_data_attribute }}
+                              >
+                                  {{ product.metafields.okendo.ProductReviewsWidgetSnippet }}
+                              </div>
+                            {% endif %}</div></div></div></div></div></div></div></div></div><script>
+    !function(){window.__pagefly_setting__&&(window.__pagefly_setting2__=window.__pagefly_setting__),window.__pagefly_setting__={"baseURL":"https://apps.pagefly.io","analyticsURL":"https://analytics.pagefly.io","isBackend":false,"cdnURL":"https://cdn.pagefly.io","pageflyVersion":"3.23.9","shopDomain":"hyttefeber.myshopify.com","elementData":{},"pageTitle":"Kundevurderinger","pageType":"page","pageId":"121b625b-9221-48fd-9e82-9797510f238f","lazyLoad":true,"imageLazyLoad":true,"selectedFonts":{"Oswald":{"400":0,"900":0},"Montserrat":{"400":1},"Playfair Display":{"400":0},"Lato":{"400":0},"Source Sans Pro":{"400":0},"Raleway":{"400":0,"700":0}},"trackingIDs":[],"shopifyProxyPath":"/a/pf_preview"},window.__pagefly_setting2__&&(window.__pagefly_setting__=function _(d,b){let c={...d||{}};for(let a of Object.keys(b))b[a]instanceof Object&&(Array.isArray(b[a])&&c[a]?Object.assign(b[a],[...b[a],...c[a]]):Object.assign(b[a],_(c[a],b[a])));return Object.assign(c||{},b),c}(__pagefly_setting2__,__pagefly_setting__),delete window.__pagefly_setting2__),window.__pagefly_setting__.moneyFormat={{shop.money_format|json}}}();
     </script><script src="https://cdn.pagefly.io/pagefly/3.23.9/core/helper.js" async></script>
 {% schema %}
 {
