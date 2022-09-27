@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16336834187109d930": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -21,9 +15,10 @@
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": false,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_atc": true,
-        "show_rating": false,
+        "show_grid_swap": true,
+        "show_rating": true,
         "enable_filtering": true,
         "enable_sorting": true,
         "collapse_on_larger_devices": false
@@ -102,7 +97,6 @@
     }
   },
   "order": [
-    "16336834187109d930",
     "banner",
     "product-grid",
     "163430032528abe728"
