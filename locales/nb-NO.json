@@ -519,6 +519,9 @@
           "in_stock": "Tilgjengelig"
         }
       }
+    },
+    "page_titles": {
+      "search": "Søk etter produkt eller merkevare. F.eks. \"Halvor Bakke\""
     }
   },
   "socialshopwave": {
