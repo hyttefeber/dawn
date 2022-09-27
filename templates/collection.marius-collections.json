@@ -1,11 +1,5 @@
 {
   "sections": {
-    "16336834187109d930": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -103,7 +97,6 @@
     }
   },
   "order": [
-    "16336834187109d930",
     "banner",
     "product-grid",
     "163430032528abe728"
