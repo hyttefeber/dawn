@@ -513,10 +513,7 @@
      {%- endfor -%}
         </ul>
         {%- if paginate.pages > 1 -%}
-          {% comment %}
-		  {% render 'pagination', paginate: paginate, anchor: '' %} 
-		{% endcomment %}
-		{% render 'eg-infinite-pagination', paginate: paginate %}
+          {% render 'pagination', paginate: paginate, anchor: '' %}
            <div class="pagination-btns">
     {% if paginate.next.is_link %}
         <button class="button button--full-width button--primary pagination-btn next"><a href="{{ paginate.next.url }}">{{ paginate.next.title }}</a></button>
