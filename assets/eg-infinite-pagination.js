@@ -12,8 +12,8 @@ window.egLoadNextPage = async (btn) => {
     const parser = new DOMParser();
     const newDocument = parser.parseFromString(data, 'text/html');
 
-    document.querySelector('#product-grid')
-        .insertAdjacentHTML('beforeend', newDocument.querySelector('#product-grid').innerHTML);
+    document.querySelector('#CollectionProductGrid')
+        .insertAdjacentHTML('beforeend', newDocument.querySelector('#CollectionProductGrid').innerHTML);
 
     document.querySelector('#eg-infinite-pagination')
         .replaceWith(newDocument.querySelector('#eg-infinite-pagination'));
