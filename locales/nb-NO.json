@@ -37,7 +37,7 @@
       "previous": "Forrige side"
     },
     "search": {
-      "search": "Søk"
+      "search": "Søk etter produkt eller merkevare. F.eks. \"Halvor Bakke\"..."
     },
     "cart": {
       "view": "Vis handlekurven ({{ count }})",
@@ -519,9 +519,6 @@
           "in_stock": "Tilgjengelig"
         }
       }
-    },
-    "page_titles": {
-      "search": "Søk etter produkt eller merkevare. F.eks. \"Halvor Bakke\""
     }
   },
   "socialshopwave": {
