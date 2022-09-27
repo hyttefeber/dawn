@@ -70,7 +70,7 @@
         "show_image_outline": false,
         "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "multi_column": {
@@ -257,7 +257,7 @@
         "show_image_outline": true,
         "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "1632087749cf8f8ea0": {
@@ -326,7 +326,7 @@
         "show_image_outline": false,
         "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "1632087735695d2a16": {
@@ -466,7 +466,7 @@
         "show_image_outline": false,
         "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "1632153250a8ceda25": {
