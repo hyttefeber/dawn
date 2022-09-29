@@ -2646,6 +2646,6 @@ font-weight: 700;
     max-width: 1500px;
     margin: 0 auto;
 }
- .subcollection-lists .kalis-sub-collections:nth-child(4), .subcollection-lists .kalis-sub-collections:nth-child(6){
+ .subcollection-lists .kalis-sub-collections:nth-child(4), .subcollection-lists .kalis-sub-collections:nth-child(6),.subcollection-lists .kalis-sub-collections:nth-child(5), .subcollection-lists .kalis-sub-collections:nth-child(3){
   display:none;
 }
