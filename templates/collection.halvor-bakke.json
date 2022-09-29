@@ -1,0 +1,252 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "1664444426c4fd94e4": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "16644444261d218ff7-0": {
+          "type": "column",
+          "settings": {
+            "title": "Lykter og lys",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Duftlys&filter.p.product_type=Lamper&filter.p.product_type=Lampeskjermer&filter.p.product_type=Lanterner&filter.p.product_type=Lysestaker&filter.p.product_type=Lyslykter&filter.p.product_type=Vegglykter&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "16644444261d218ff7-1": {
+          "type": "column",
+          "settings": {
+            "title": "Putetrekk",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Putetrekk&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "16644444261d218ff7-2": {
+          "type": "column",
+          "settings": {
+            "title": "Interiør",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Brett+og+Fat&filter.p.product_type=Dekkebrikker&filter.p.product_type=Gardiner&filter.p.product_type=Interi%C3%B8r&filter.p.product_type=Knagger+og+Knotter&filter.p.product_type=Krukker&filter.p.product_type=Mugger+og+Vaser&filter.p.product_type=Oppbevaring&filter.p.product_type=Pledd&filter.p.product_type=Puff&filter.p.product_type=Serviettringer&filter.p.product_type=Skohorn&filter.p.product_type=Speil&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "801b139e-286c-41d8-a6e2-22af38f56945": {
+          "type": "column",
+          "settings": {
+            "title": "Tekstil",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Badek%C3%A5per&filter.p.product_type=Gardiner&filter.p.product_type=Grytekluter&filter.p.product_type=Kj%C3%B8kkenforkle&filter.p.product_type=Kj%C3%B8kkenh%C3%A5ndkl%C3%A6r&filter.p.product_type=Nattskjorte&filter.p.product_type=Pledd&filter.p.product_type=Pysjbukse&filter.p.product_type=Sengesett&filter.p.product_type=Teppe&filter.p.product_type=T%C3%B8yservietter&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "16644444261d218ff7-0",
+        "16644444261d218ff7-1",
+        "16644444261d218ff7-2",
+        "801b139e-286c-41d8-a6e2-22af38f56945"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 28,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_grid_swap": true,
+        "show_rating": true,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "16522621980aa319e9": {
+      "type": "collection-list",
+      "blocks": {
+        "2f73366f-24e8-48dd-9d89-17a7f0151208": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "interior-til-hytter-og-hus"
+          }
+        },
+        "165226219844ecd034-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serie-halvor-bakke"
+          }
+        },
+        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serie-aina-sollie-steen"
+          }
+        },
+        "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lama-interior-lykter-tekstil-brett-fat-og-dekor"
+          }
+        },
+        "bd3d068b-9a52-40b5-bce4-681ee97946ea": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "belysning-og-lyslykter"
+          }
+        },
+        "165226219844ecd034-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "brett-og-fat"
+          }
+        },
+        "39be9d9d-6d06-406e-9c85-0e3a248ed36a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oppbevaring-kasser-kurver-etc"
+          }
+        },
+        "165226219844ecd034-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vaser-og-dekor"
+          }
+        },
+        "9cbeb183-78d6-403c-af1f-e116b1284831": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kroker-og-knotter"
+          }
+        },
+        "670d40d3-79ba-48c6-90d9-fd96708960b3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tekstil"
+          }
+        },
+        "a3386076-354e-4a02-84bd-b3d3841e45be": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "putetrekk"
+          }
+        },
+        "d90e02fb-3d22-4df4-a0fe-f15193478cc0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pa-veggen"
+          }
+        }
+      },
+      "block_order": [
+        "2f73366f-24e8-48dd-9d89-17a7f0151208",
+        "165226219844ecd034-1",
+        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420",
+        "1eaadf80-ec4a-4471-b4d1-3e386770955e",
+        "bd3d068b-9a52-40b5-bce4-681ee97946ea",
+        "165226219844ecd034-0",
+        "39be9d9d-6d06-406e-9c85-0e3a248ed36a",
+        "165226219844ecd034-2",
+        "9cbeb183-78d6-403c-af1f-e116b1284831",
+        "670d40d3-79ba-48c6-90d9-fd96708960b3",
+        "a3386076-354e-4a02-84bd-b3d3841e45be",
+        "d90e02fb-3d22-4df4-a0fe-f15193478cc0"
+      ],
+      "settings": {
+        "title": "Interiør",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "16388220553dbbfb02": {
+      "type": "collection-list",
+      "blocks": {
+        "16388220555866fa8a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "til-uteplassen"
+          }
+        },
+        "03a7b704-5d75-4af1-882a-5ff727e45966": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "balplassen"
+          }
+        },
+        "16388220555866fa8a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "interior-til-hytter-og-hus"
+          }
+        },
+        "16388220555866fa8a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "belysning-og-lyslykter"
+          }
+        },
+        "8633003d-4061-401a-bb8c-65cad9a1c09e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "81fbae77-5db6-412c-a9e2-dc520af1565f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ut-pa-tur"
+          }
+        },
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mummi-hos-hyttefeber"
+          }
+        },
+        "01fb9155-329e-40a2-91e1-e6470e9e2b49": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kjokken-og-servering"
+          }
+        }
+      },
+      "block_order": [
+        "16388220555866fa8a-0",
+        "03a7b704-5d75-4af1-882a-5ff727e45966",
+        "16388220555866fa8a-1",
+        "16388220555866fa8a-2",
+        "8633003d-4061-401a-bb8c-65cad9a1c09e",
+        "81fbae77-5db6-412c-a9e2-dc520af1565f",
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
+        "01fb9155-329e-40a2-91e1-e6470e9e2b49"
+      ],
+      "settings": {
+        "title": "Flere kategorier",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "1664444426c4fd94e4",
+    "product-grid",
+    "16522621980aa319e9",
+    "16388220553dbbfb02"
+  ]
+}
