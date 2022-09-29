@@ -2636,9 +2636,13 @@ font-weight: 700;
 .flickity-viewport{
   outline:none;
 }
+
+@media screen and (max-width: 990px) {
+  .subcollection-lists{
+  width:100%;
+  }
 .subcollection-lists{
   display: inline-flex;
-  width:100%;
     max-width: 1500px;
     margin: 0 auto;
 }
