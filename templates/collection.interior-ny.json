@@ -7,6 +7,53 @@
         "show_collection_image": false
       }
     },
+    "1664444426c4fd94e4": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "16644444261d218ff7-0": {
+          "type": "column",
+          "settings": {
+            "title": "Lykter og lys",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Duftlys&filter.p.product_type=Lamper&filter.p.product_type=Lampeskjermer&filter.p.product_type=Lanterner&filter.p.product_type=Lysestaker&filter.p.product_type=Lyslykter&filter.p.product_type=Vegglykter&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "16644444261d218ff7-1": {
+          "type": "column",
+          "settings": {
+            "title": "Putetrekk",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Putetrekk&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "16644444261d218ff7-2": {
+          "type": "column",
+          "settings": {
+            "title": "Interiør",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Brett+og+Fat&filter.p.product_type=Dekkebrikker&filter.p.product_type=Gardiner&filter.p.product_type=Interi%C3%B8r&filter.p.product_type=Knagger+og+Knotter&filter.p.product_type=Krukker&filter.p.product_type=Mugger+og+Vaser&filter.p.product_type=Oppbevaring&filter.p.product_type=Pledd&filter.p.product_type=Puff&filter.p.product_type=Serviettringer&filter.p.product_type=Skohorn&filter.p.product_type=Speil&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "801b139e-286c-41d8-a6e2-22af38f56945": {
+          "type": "column",
+          "settings": {
+            "title": "Tekstil",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Badek%C3%A5per&filter.p.product_type=Gardiner&filter.p.product_type=Grytekluter&filter.p.product_type=Kj%C3%B8kkenforkle&filter.p.product_type=Kj%C3%B8kkenh%C3%A5ndkl%C3%A6r&filter.p.product_type=Nattskjorte&filter.p.product_type=Pledd&filter.p.product_type=Pysjbukse&filter.p.product_type=Sengesett&filter.p.product_type=Teppe&filter.p.product_type=T%C3%B8yservietter&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "16644444261d218ff7-0",
+        "16644444261d218ff7-1",
+        "16644444261d218ff7-2",
+        "801b139e-286c-41d8-a6e2-22af38f56945"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -197,6 +244,7 @@
   },
   "order": [
     "banner",
+    "1664444426c4fd94e4",
     "product-grid",
     "16522621980aa319e9",
     "16388220553dbbfb02"
