@@ -2649,3 +2649,6 @@ font-weight: 700;
  .subcollection-lists .kalis-sub-collections:nth-child(4), .subcollection-lists .kalis-sub-collections:nth-child(6),.subcollection-lists .kalis-sub-collections:nth-child(5), .subcollection-lists .kalis-sub-collections:nth-child(3){
   display:none;
 }
+.subcollection-lists:nth-child(4),.subcollection-lists:nth-child(6){
+  display:none;
+}
