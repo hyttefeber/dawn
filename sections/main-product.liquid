@@ -220,7 +220,7 @@
                                 form="product-form-{{ section.id }}"
                                 {% if option.selected_value == value %}checked{% endif %}
                           >
-                          <label for="{{ section.id }}-{{ option.name }}-{{ forloop.index0 }}" {% if variant.available == false %}class="inactive-radio"{% endif %}>
+                          <label for="{{ section.id }}-{{ option.name }}-{{ forloop.index0 }}" {% if product_variant.available == false %}class="inactive-radio"{% endif %}>
                             {{ value }}
                           </label>
                         {%- endfor -%}
