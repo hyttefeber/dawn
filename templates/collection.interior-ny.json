@@ -9,6 +9,7 @@
     },
     "1664444426c4fd94e4": {
       "type": "collection-buttons-multicol",
+      "disabled": true,
       "blocks": {
         "16644444261d218ff7-0": {
           "type": "column",
