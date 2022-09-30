@@ -61,7 +61,7 @@
         "5cb3db86-f131-4800-bad1-8761d1cb11c7": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<img class=\"payment-icons-pdp\" style=\"max-width:100%;margin:0 auto;\" src=\"{{ 'payment-icons-full2.png' | asset_img_url: '1024x512' }}\" alt=\"Betalingsalternativer\">"
+            "custom_liquid": "<img class=\"payment-icons-pdp\" style=\"max-width:100%;margin:0 auto;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0043\/7560\/9437\/files\/bare_ikoner_x_200_x_40_px.svg?v=1664551040\" alt=\"Betalingsalternativer\">"
           }
         },
         "description": {
