@@ -58,6 +58,12 @@
             "show_dynamic_checkout": false
           }
         },
+        "e1b93de5-2140-4cea-8f78-7532f9d6fc01": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<img class=\"payment-icons-pdp\" style=\"width:100%;margin:0 auto;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0043\/7560\/9437\/files\/bare_ikoner_x_200_x_40_px.svg?v=1664551040\" loading=\"eager\" alt=\"Betalingsalternativer\">"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -85,6 +91,7 @@
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
         "e0f2672a-7ec7-4f78-8b8b-fd5cff93dc85",
         "buy_buttons",
+        "e1b93de5-2140-4cea-8f78-7532f9d6fc01",
         "description",
         "share",
         "9f668dc8-c957-4451-b678-063693ea2ef1"
