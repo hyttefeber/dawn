@@ -15,11 +15,6 @@
           "settings": {
           }
         },
-        "eab8cb5b-4e3f-46c5-adea-04678cd56649": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-          }
-        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -63,6 +58,12 @@
             "show_dynamic_checkout": false
           }
         },
+        "3f01abb0-3419-4dcc-adc7-18b048db88da": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<img class=\"payment-icons-pdp\" style=\"width:100%;margin:0 auto;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0043\/7560\/9437\/files\/bare_ikoner_x_200_x_40_px.svg?v=1664551040\" loading=\"eager\" alt=\"Betalingsalternativer\">"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -83,7 +84,6 @@
       "block_order": [
         "vendor",
         "title",
-        "eab8cb5b-4e3f-46c5-adea-04678cd56649",
         "subtitle",
         "price",
         "variant_picker",
@@ -91,6 +91,7 @@
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
         "8f282a29-525e-4dc9-8c1f-f6a8dd075163",
         "buy_buttons",
+        "3f01abb0-3419-4dcc-adc7-18b048db88da",
         "description",
         "share",
         "9f668dc8-c957-4451-b678-063693ea2ef1"
@@ -103,36 +104,6 @@
     },
     "1649430046a8308657": {
       "type": "apps",
-      "blocks": {
-        "85e2f063-fe64-45df-afcc-c31636a9f3b9": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-            "star": "#fdcf0d",
-            "review_type": "product_current",
-            "reviews_shown": 20,
-            "header_bg_colour": "#355179",
-            "header_colour": "#fff",
-            "header_star_colour": "#fdcf0d",
-            "heading_text_colour": "#0E1311",
-            "heading_font": "helvetica_n4",
-            "body_text_colour": "#0E1311",
-            "badge_icon_colour": "#0E1311",
-            "badge_text_colour": "#0E1311",
-            "bg_start_colour": "#ffffff",
-            "bg_end_colour": "#ffffff",
-            "item_border_width": "0px",
-            "item_border_colour": "rgba(0,0,0,0.05)",
-            "item_border_radius": "0px",
-            "item_shadow_size": "10px",
-            "item_shadow_colour": "rgba(0,0,0,0.05)",
-            "enable_rich_snippets": true,
-            "logo_colour": "var(--logo-inverted)"
-          }
-        }
-      },
-      "block_order": [
-        "85e2f063-fe64-45df-afcc-c31636a9f3b9"
-      ],
       "settings": {
         "include_margins": true
       }
