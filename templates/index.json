@@ -188,22 +188,13 @@
     "1656508395028523fd": {
       "type": "multicolumn",
       "blocks": {
-        "165650839508dbe543-0": {
+        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/7_b5f386c4-a4a1-4102-8816-eccf5f97c8f3.png",
-            "title": "JORDBÆRENG",
+            "image": "shopify:\/\/shop_images\/11_d0a88d5d-645b-4c74-bf40-3919136d1da5.png",
+            "title": "MARIUS",
             "text": "",
-            "link": "shopify:\/\/collections\/jordbaereng"
-          }
-        },
-        "165650839508dbe543-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8_c5755b49-d561-4f92-af95-865bddba7654.png",
-            "title": "INGRID",
-            "text": "",
-            "link": "shopify:\/\/collections\/ingrid-fra-porsgrund-porselen"
+            "link": "shopify:\/\/collections\/marius-servise"
           }
         },
         "165650839508dbe543-2": {
@@ -215,21 +206,30 @@
             "link": "shopify:\/\/collections\/nyhet-siri"
           }
         },
-        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
+        "165650839508dbe543-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/11_d0a88d5d-645b-4c74-bf40-3919136d1da5.png",
-            "title": "MARIUS",
+            "image": "shopify:\/\/shop_images\/8_c5755b49-d561-4f92-af95-865bddba7654.png",
+            "title": "INGRID",
             "text": "",
-            "link": "shopify:\/\/collections\/marius-servise"
+            "link": "shopify:\/\/collections\/ingrid-fra-porsgrund-porselen"
+          }
+        },
+        "165650839508dbe543-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_b5f386c4-a4a1-4102-8816-eccf5f97c8f3.png",
+            "title": "JORDBÆRENG",
+            "text": "",
+            "link": "shopify:\/\/collections\/jordbaereng"
           }
         }
       },
       "block_order": [
-        "165650839508dbe543-0",
-        "165650839508dbe543-1",
+        "85fc501c-c7a0-490f-be65-8610024dd8c4",
         "165650839508dbe543-2",
-        "85fc501c-c7a0-490f-be65-8610024dd8c4"
+        "165650839508dbe543-1",
+        "165650839508dbe543-0"
       ],
       "settings": {
         "title": "Supertilbud",
