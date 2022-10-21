@@ -209,6 +209,9 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    {% if template contains "33788505" %}
+<script src="https://cdn.galleryjs.io/webpack/gallery-v2.launcher.js" async></script>
+  {% endif %}
 
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
@@ -232,11 +235,6 @@
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ckwcni4l1k");
 </script>{% endcomment %}
-
-
-{% if template contains "33788505" %}
-<script src="https://cdn.galleryjs.io/webpack/gallery-v2.launcher.js" async></script>
-  {% endif %}
   
   </head>
 {% comment %}---------------------/head-----------{% endcomment %}
