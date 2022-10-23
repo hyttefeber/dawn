@@ -145,7 +145,7 @@
         "show_image_outline": false,
         "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "1631626408eee30b8a": {
@@ -406,7 +406,7 @@
         "show_image_outline": false,
         "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "163208927285d0ee5e": {
