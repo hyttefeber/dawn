@@ -15,6 +15,12 @@
           "settings": {
           }
         },
+        "a6668117-2894-47cd-895c-c8e290098f40": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -78,6 +84,7 @@
       "block_order": [
         "vendor",
         "title",
+        "a6668117-2894-47cd-895c-c8e290098f40",
         "subtitle",
         "price",
         "variant_picker",
@@ -142,9 +149,9 @@
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "1637747763162bef1b": {
@@ -160,9 +167,9 @@
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     }
   },
