@@ -17,6 +17,7 @@
         },
         "304b53d0-2b49-4f15-9379-116afa1a1117": {
           "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "disabled": true,
           "settings": {
             "product": "{{product}}"
           }
