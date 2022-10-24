@@ -2,6 +2,7 @@
   "sections": {
     "0e0a6270-4298-4ba4-8b94-424b466a3008": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<script src=\"https:\/\/cdn.galleryjs.io\/webpack\/gallery-v2.launcher.js\" async><\/script>"
       }
@@ -10,17 +11,10 @@
       "type": "pf-33788505",
       "settings": {
       }
-    },
-    "2c0a6af9-df08-49fa-9606-19af974eb162": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div data-gallery-include=\"Au0Yu\"><\/div>"
-      }
     }
   },
   "order": [
     "0e0a6270-4298-4ba4-8b94-424b466a3008",
-    "pf-33788505",
-    "2c0a6af9-df08-49fa-9606-19af974eb162"
+    "pf-33788505"
   ]
 }
