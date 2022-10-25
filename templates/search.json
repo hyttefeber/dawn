@@ -7,8 +7,8 @@
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false,
+        "show_vendor": true,
+        "show_rating": true,
         "article_show_date": true,
         "article_show_author": false
       }
@@ -34,9 +34,9 @@
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false,
+        "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     }
   },
