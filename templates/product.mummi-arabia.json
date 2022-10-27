@@ -17,45 +17,8 @@
         },
         "15c6c29c-5818-45bf-ac1f-9037d9a67f12": {
           "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
-          "disabled": true,
           "settings": {
             "product": "{{product}}"
-          }
-        },
-        "741da751-ae08-4213-a791-06202da98c37": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-polaris\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "disabled": true,
-          "settings": {
-            "star": "#000000",
-            "review_type": "product_review,questions",
-            "per_page": 8,
-            "primary_btn_bg_color": "#000000",
-            "primary_btn_border_color": "#000000",
-            "primary_btn_text_color": "#ffffff",
-            "secondary_btn_bg_color": "rgba(0,0,0,0)",
-            "secondary_btn_border_color": "#000000",
-            "secondary_btn_text_color": "#000000",
-            "border_color": "#000000",
-            "heading_text_color": "#000000",
-            "heading_font": "helvetica_n4",
-            "body_text_color": "#000000",
-            "badge_icon_color": "#000000",
-            "badge_text_color": "#000000",
-            "enable_rich_snippets": true,
-            "show_location": true,
-            "show_tab_selector": false,
-            "show_dates": true,
-            "show_avatar": true,
-            "enable_replies": false,
-            "capitalise_headers": false,
-            "capitalise_buttons": false,
-            "show_review_title": false,
-            "default_sort": "date_desc"
-          }
-        },
-        "08c248c4-41a4-4941-b53e-bbe545fd737d": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
           }
         },
         "subtitle": {
@@ -122,8 +85,6 @@
         "vendor",
         "title",
         "15c6c29c-5818-45bf-ac1f-9037d9a67f12",
-        "741da751-ae08-4213-a791-06202da98c37",
-        "08c248c4-41a4-4941-b53e-bbe545fd737d",
         "subtitle",
         "price",
         "variant_picker",
@@ -143,37 +104,6 @@
     },
     "1649429644870244b3": {
       "type": "apps",
-      "blocks": {
-        "07dfca6c-0350-41c3-9731-b1d8adda7955": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-            "star": "#fdcf0d",
-            "review_type": "product_current",
-            "reviews_shown": 20,
-            "header_bg_colour": "#355179",
-            "header_colour": "#ffffff",
-            "header_star_colour": "#fdcf0d",
-            "heading_text_colour": "#0e1311",
-            "heading_font": "helvetica_n4",
-            "body_text_colour": "#0e1311",
-            "badge_icon_colour": "#0e1311",
-            "badge_text_colour": "#0e1311",
-            "bg_start_colour": "#ffffff",
-            "bg_end_colour": "#ffffff",
-            "item_border_width": "0px",
-            "item_border_colour": "#000000",
-            "item_border_radius": "0px",
-            "item_shadow_size": "10px",
-            "item_shadow_colour": "#000000",
-            "enable_rich_snippets": true,
-            "disable_same_customer": false,
-            "logo_colour": "var(--logo-inverted)"
-          }
-        }
-      },
-      "block_order": [
-        "07dfca6c-0350-41c3-9731-b1d8adda7955"
-      ],
       "settings": {
         "include_margins": true
       }
