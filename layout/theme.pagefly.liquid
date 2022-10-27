@@ -97,10 +97,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {% endif %}
     <!-- end hacks -->
     
-    {% comment %}Okendo integration {% endcomment %}
-    {{ shop.metafields.okendo.ReviewsWidgetStyleTag }}
 
-{{ shop.metafields.okendo.StyleCustomizations }}
 
     {%- liquid
       assign body_font_bold = settings.type_body_font | font_modify: 'weight', 'bold'
@@ -188,9 +185,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     {%- endif -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-{{ shop.metafields.okendo.ReviewsWidgetStyleTag }}
 
-{{ shop.metafields.okendo.StyleCustomizations }}
   </head>
 {% comment %}---------------------/head-----------{% endcomment %}
   <body class="gradient"><div class="pagefly-container">{{ content_for_layout }}</div>
