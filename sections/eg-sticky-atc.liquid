@@ -322,6 +322,7 @@
                             {{ product.title }}
 
                         </h3>
+                        {% render 'okendo-reviews-product-rating-summary', product: product %}
 
                         <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
 
