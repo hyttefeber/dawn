@@ -15,9 +15,10 @@
           "settings": {
           }
         },
-        "11b71f9f-1b96-4ebe-9f7f-353ba6e638ef": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "e9739945-c9e5-4e30-a062-fc00a51fea3d": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
+            "product": "{{product}}"
           }
         },
         "subtitle": {
@@ -83,7 +84,7 @@
       "block_order": [
         "vendor",
         "title",
-        "11b71f9f-1b96-4ebe-9f7f-353ba6e638ef",
+        "e9739945-c9e5-4e30-a062-fc00a51fea3d",
         "subtitle",
         "price",
         "variant_picker",
@@ -103,36 +104,6 @@
     },
     "1649177906135aea27": {
       "type": "apps",
-      "blocks": {
-        "aeb9bad4-5173-489d-9048-f36645b2c02a": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
-          "settings": {
-            "star": "#fdcf0d",
-            "review_type": "product_current",
-            "reviews_shown": 20,
-            "header_bg_colour": "#355179",
-            "header_colour": "#fff",
-            "header_star_colour": "#fdcf0d",
-            "heading_text_colour": "#0E1311",
-            "heading_font": "helvetica_n4",
-            "body_text_colour": "#0E1311",
-            "badge_icon_colour": "#0E1311",
-            "badge_text_colour": "#0E1311",
-            "bg_start_colour": "#ffffff",
-            "bg_end_colour": "#ffffff",
-            "item_border_width": "0px",
-            "item_border_colour": "rgba(0,0,0,0.05)",
-            "item_border_radius": "0px",
-            "item_shadow_size": "10px",
-            "item_shadow_colour": "rgba(0,0,0,0.05)",
-            "enable_rich_snippets": true,
-            "logo_colour": "var(--logo-inverted)"
-          }
-        }
-      },
-      "block_order": [
-        "aeb9bad4-5173-489d-9048-f36645b2c02a"
-      ],
       "settings": {
         "include_margins": true
       }
