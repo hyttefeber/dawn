@@ -21,12 +21,6 @@
           "settings": {
           }
         },
-        "7c71082d-0d83-4325-a867-55eff66f1360": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
-          }
-        },
         "b6061fac-f48a-4b9b-a0a2-b71b2f7b8d72": {
           "type": "custom_liquid",
           "disabled": true,
@@ -97,7 +91,6 @@
       "block_order": [
         "vendor",
         "title",
-        "7c71082d-0d83-4325-a867-55eff66f1360",
         "b6061fac-f48a-4b9b-a0a2-b71b2f7b8d72",
         "subtitle",
         "price",
