@@ -15,6 +15,12 @@
           "settings": {
           }
         },
+        "8fc4d1e9-ca10-4e75-920f-e103e1fe1679": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -84,6 +90,7 @@
       "block_order": [
         "vendor",
         "title",
+        "8fc4d1e9-ca10-4e75-920f-e103e1fe1679",
         "subtitle",
         "price",
         "variant_picker",
