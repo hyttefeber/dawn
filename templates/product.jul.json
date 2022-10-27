@@ -2,28 +2,6 @@
   "sections": {
     "16323451604b3f767a": {
       "type": "apps",
-      "blocks": {
-        "36a14efe-851c-4431-a0db-a3d4269571a5": {
-          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
-          "settings": {
-            "show_catroot": true,
-            "link_catroot": "\/",
-            "text_catroot": "Hjem",
-            "show_tags": true,
-            "separator_char_code": "rsaquo;",
-            "sep_plus_class": "breadcrumb__sep_plus5",
-            "insert_jsonld": true,
-            "link_catall": "\/collections\/alle-produkter",
-            "text_catall": "Alle produkter",
-            "show_product_title": true,
-            "truncate_limit": 24,
-            "insert_shortlinkfix": false
-          }
-        }
-      },
-      "block_order": [
-        "36a14efe-851c-4431-a0db-a3d4269571a5"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -43,15 +21,15 @@
           "settings": {
           }
         },
-        "5ab26f72-f46c-47b1-bf12-ff3315b31a23": {
-          "type": "shopify:\/\/apps\/cm-commerce-email-marketing\/blocks\/cmcommerceproductreview\/7520f53f-f57b-4b7d-9c5c-6144a46037c7",
-          "disabled": true,
+        "b3236f2d-920a-4f31-a621-aa45498484d3": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
           "settings": {
-            "slug": "Summary-widget-0"
+            "product": "{{product}}"
           }
         },
         "440600de-b850-4587-b8fe-fbdd74cee27d": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"ruk_rating_snippet\" data-sku=\"{{ product.handle }};{{ product.variants | map: 'sku' | join: ';' }};{{ product.variants | map: 'id' | join: ';' }}\"><\/div>"
           }
@@ -110,7 +88,7 @@
       "block_order": [
         "vendor",
         "title",
-        "5ab26f72-f46c-47b1-bf12-ff3315b31a23",
+        "b3236f2d-920a-4f31-a621-aa45498484d3",
         "440600de-b850-4587-b8fe-fbdd74cee27d",
         "subtitle",
         "price",
