@@ -187,10 +187,12 @@
           {%- endfor -%}
         </ul>
         {%- if paginate.pages > 1 -%}
-          {% render 'pagination', paginate: paginate %}
+         {% comment %} {% render 'pagination', paginate: paginate %}{% endcomment %}
+          {% render 'eg-infinite-pagination-search', paginate: paginate %}
         {%- endif -%}
       </div>
     {% endpaginate %}
+                  
   {%- endif -%}
 </div>
 
