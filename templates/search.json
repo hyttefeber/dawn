@@ -9,7 +9,7 @@
         "show_image_outline": true,
         "show_vendor": true,
         "show_rating": true,
-        "article_show_date": true,
+        "article_show_date": false,
         "article_show_author": false
       }
     },
