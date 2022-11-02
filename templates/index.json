@@ -94,15 +94,6 @@
             "link": "shopify:\/\/collections\/belysning-og-lyslykter"
           }
         },
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2_4.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
-          }
-        },
         "column3": {
           "type": "column",
           "settings": {
@@ -111,13 +102,22 @@
             "text": "",
             "link": "https:\/\/hyttefeber.no\/pages\/konkurranse"
           }
+        },
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BANNER2_4.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
         }
       },
       "block_order": [
         "column2",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
-        "column1",
-        "column3"
+        "column3",
+        "column1"
       ],
       "settings": {
         "title": "",
