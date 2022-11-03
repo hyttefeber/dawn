@@ -111,6 +111,27 @@
             "link": "https:\/\/hyttefeber.no\/collections\/hengekoyer"
           }
         },
+        "62662591-46cd-4254-8ce8-3c1a0c33cad5": {
+          "type": "column",
+          "settings": {
+            "title": "Lyslykter",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Kubbelys&filter.p.product_type=Lanterner&filter.p.product_type=Lyslykter&filter.p.product_type=Utelykter&filter.p.product_type=Vegglykter&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "3c77438e-2ec7-4cc0-9037-a7ca0786695e": {
+          "type": "column",
+          "settings": {
+            "title": "Putetrekk",
+            "link": "\/collections\/salg-manedens-kupp?filter.p.product_type=Putetrekk&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "2e47041c-d1ca-41a6-a40b-003de7077f7a": {
+          "type": "column",
+          "settings": {
+            "title": "Kjøkken",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Bestikk&filter.p.product_type=Bordsk%C3%A5nere&filter.p.product_type=Brett+og+Fat&filter.p.product_type=Br%C3%B8dkurv&filter.p.product_type=Grytekluter&filter.p.product_type=Gryteunderlag&filter.p.product_type=Ildfast+form&filter.p.product_type=Kakefat&filter.p.product_type=Kj%C3%B8kkenforkle&filter.p.product_type=Kj%C3%B8kkenh%C3%A5ndkl%C3%A6r&filter.p.product_type=Kj%C3%B8kkenkluter&filter.p.product_type=Kj%C3%B8kkenkniver&filter.p.product_type=Kj%C3%B8kkenredskaper&filter.p.product_type=Knivholdere&filter.p.product_type=Knivsett&filter.p.product_type=Krukker&filter.p.product_type=Lokk+%26+Korker&filter.p.product_type=Oppvaskstativ&filter.p.product_type=Sakser&filter.p.product_type=Salt+og+pepperkverner&filter.p.product_type=Skj%C3%A6refj%C3%B8ler&filter.p.product_type=St%C3%B8pejernspanner&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
         "1663770981339bcb57-2": {
           "type": "column",
           "settings": {
@@ -120,16 +141,10 @@
         },
         "e94439e8-b736-495f-a1c4-0ca3dacd5151": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Turutstyr",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Emaljekopper&filter.p.product_type=Kikkerter&filter.p.product_type=Matbokser&filter.p.product_type=Mobilvarmere&filter.p.product_type=Sitteunderlag&filter.p.product_type=Termokopp&filter.p.product_type=Termos&filter.p.product_type=Treservise&filter.p.product_type=Turbestikk&filter.p.product_type=Turkniver&filter.p.product_type=Turkopper&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
-          }
-        },
-        "62662591-46cd-4254-8ce8-3c1a0c33cad5": {
-          "type": "column",
-          "settings": {
-            "title": "Lyslykter",
-            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Kubbelys&filter.p.product_type=Lanterner&filter.p.product_type=Lyslykter&filter.p.product_type=Utelykter&filter.p.product_type=Vegglykter&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
         "1663770981339bcb57-1": {
@@ -137,14 +152,6 @@
           "settings": {
             "title": "Servise",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Drikkeglass&filter.p.product_type=Eggeglass&filter.p.product_type=Mugger+og+Vaser&filter.p.product_type=Sausemugge&filter.p.product_type=Serveringsfat&filter.p.product_type=Servietter&filter.p.product_type=Serviettringer&filter.p.product_type=Servise&filter.p.product_type=Sk%C3%A5ler+%26+Boller&filter.p.product_type=Treservise&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
-          }
-        },
-        "2e47041c-d1ca-41a6-a40b-003de7077f7a": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Kjøkken",
-            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Bestikk&filter.p.product_type=Bordsk%C3%A5nere&filter.p.product_type=Brett+og+Fat&filter.p.product_type=Br%C3%B8dkurv&filter.p.product_type=Grytekluter&filter.p.product_type=Gryteunderlag&filter.p.product_type=Ildfast+form&filter.p.product_type=Kakefat&filter.p.product_type=Kj%C3%B8kkenforkle&filter.p.product_type=Kj%C3%B8kkenh%C3%A5ndkl%C3%A6r&filter.p.product_type=Kj%C3%B8kkenkluter&filter.p.product_type=Kj%C3%B8kkenkniver&filter.p.product_type=Kj%C3%B8kkenredskaper&filter.p.product_type=Knivholdere&filter.p.product_type=Knivsett&filter.p.product_type=Krukker&filter.p.product_type=Lokk+%26+Korker&filter.p.product_type=Oppvaskstativ&filter.p.product_type=Sakser&filter.p.product_type=Salt+og+pepperkverner&filter.p.product_type=Skj%C3%A6refj%C3%B8ler&filter.p.product_type=St%C3%B8pejernspanner&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
         "918dcb0f-1ee1-44ce-a4d0-9f07b700a33a": {
@@ -155,13 +162,6 @@
             "link": "\/collections\/salg-manedens-kupp?filter.p.product_type=Emaljekopper&filter.p.product_type=Kopper+og+Krus&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
-        "3c77438e-2ec7-4cc0-9037-a7ca0786695e": {
-          "type": "column",
-          "settings": {
-            "title": "Putetrekk",
-            "link": "\/collections\/salg-manedens-kupp?filter.p.product_type=Putetrekk&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
-          }
-        },
         "ac5b23e5-6e97-4878-9bd1-b5afb420ecce": {
           "type": "column",
           "disabled": true,
@@ -169,18 +169,26 @@
             "title": "Link",
             "link": ""
           }
+        },
+        "6763d0c1-aa00-469a-9fb4-ba18dc8456fd": {
+          "type": "column",
+          "settings": {
+            "title": "Norgesglass",
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
         }
       },
       "block_order": [
         "1663770981339bcb57-0",
+        "62662591-46cd-4254-8ce8-3c1a0c33cad5",
+        "3c77438e-2ec7-4cc0-9037-a7ca0786695e",
+        "2e47041c-d1ca-41a6-a40b-003de7077f7a",
         "1663770981339bcb57-2",
         "e94439e8-b736-495f-a1c4-0ca3dacd5151",
-        "62662591-46cd-4254-8ce8-3c1a0c33cad5",
         "1663770981339bcb57-1",
-        "2e47041c-d1ca-41a6-a40b-003de7077f7a",
         "918dcb0f-1ee1-44ce-a4d0-9f07b700a33a",
-        "3c77438e-2ec7-4cc0-9037-a7ca0786695e",
-        "ac5b23e5-6e97-4878-9bd1-b5afb420ecce"
+        "ac5b23e5-6e97-4878-9bd1-b5afb420ecce",
+        "6763d0c1-aa00-469a-9fb4-ba18dc8456fd"
       ],
       "settings": {
         "title": "",
