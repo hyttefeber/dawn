@@ -149,6 +149,7 @@
         },
         "1663770981339bcb57-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Hengekøyer",
             "link": "https:\/\/hyttefeber.no\/collections\/hengekoyer"
