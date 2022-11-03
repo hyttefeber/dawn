@@ -104,11 +104,11 @@
     "16637709813f6ddaa9": {
       "type": "collection-buttons-multicol",
       "blocks": {
-        "1663770981339bcb57-0": {
+        "6763d0c1-aa00-469a-9fb4-ba18dc8456fd": {
           "type": "column",
           "settings": {
-            "title": "Hengekøyer",
-            "link": "https:\/\/hyttefeber.no\/collections\/hengekoyer"
+            "title": "Norgesglass",
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
         },
         "62662591-46cd-4254-8ce8-3c1a0c33cad5": {
@@ -147,6 +147,13 @@
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Emaljekopper&filter.p.product_type=Kikkerter&filter.p.product_type=Matbokser&filter.p.product_type=Mobilvarmere&filter.p.product_type=Sitteunderlag&filter.p.product_type=Termokopp&filter.p.product_type=Termos&filter.p.product_type=Treservise&filter.p.product_type=Turbestikk&filter.p.product_type=Turkniver&filter.p.product_type=Turkopper&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
+        "1663770981339bcb57-0": {
+          "type": "column",
+          "settings": {
+            "title": "Hengekøyer",
+            "link": "https:\/\/hyttefeber.no\/collections\/hengekoyer"
+          }
+        },
         "1663770981339bcb57-1": {
           "type": "column",
           "settings": {
@@ -169,26 +176,19 @@
             "title": "Link",
             "link": ""
           }
-        },
-        "6763d0c1-aa00-469a-9fb4-ba18dc8456fd": {
-          "type": "column",
-          "settings": {
-            "title": "Norgesglass",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
         }
       },
       "block_order": [
-        "1663770981339bcb57-0",
+        "6763d0c1-aa00-469a-9fb4-ba18dc8456fd",
         "62662591-46cd-4254-8ce8-3c1a0c33cad5",
         "3c77438e-2ec7-4cc0-9037-a7ca0786695e",
         "2e47041c-d1ca-41a6-a40b-003de7077f7a",
         "1663770981339bcb57-2",
         "e94439e8-b736-495f-a1c4-0ca3dacd5151",
+        "1663770981339bcb57-0",
         "1663770981339bcb57-1",
         "918dcb0f-1ee1-44ce-a4d0-9f07b700a33a",
-        "ac5b23e5-6e97-4878-9bd1-b5afb420ecce",
-        "6763d0c1-aa00-469a-9fb4-ba18dc8456fd"
+        "ac5b23e5-6e97-4878-9bd1-b5afb420ecce"
       ],
       "settings": {
         "title": "",
