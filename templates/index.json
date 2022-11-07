@@ -11,6 +11,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "1629970086900f7d29-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/INSTAGRAM_BANNER3_1080_x_1080_px_10.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/jul"
+          }
+        },
         "1629970086900f7d29-1": {
           "type": "column",
           "settings": {
@@ -28,21 +37,12 @@
             "text": "",
             "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
           }
-        },
-        "1629970086900f7d29-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/INSTAGRAM_BANNER3_1080_x_1080_px_10.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/jul"
-          }
         }
       },
       "block_order": [
+        "1629970086900f7d29-2",
         "1629970086900f7d29-1",
-        "1629970086900f7d29-0",
-        "1629970086900f7d29-2"
+        "1629970086900f7d29-0"
       ],
       "settings": {
         "title": "",
