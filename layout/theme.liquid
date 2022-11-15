@@ -426,7 +426,13 @@ display:none!important;
     
   {% comment %}{% render 'third-party-performance-hacks' %}{% endcomment %}
   {% render 'tracking' %}
-  
+  <script>
+(function(s,m,a,r,t){
+if(s.hasOwnProperty("$smcInstall"))return!1;s.$smcInstall=1;
+s[r]=s[r]||[];var f=m.getElementsByTagName(a)[0],j=m.createElement(a),dl=r!='dataLayer'?'&r='+r:'';
+j.async=true;j.src='//smct.co/tm/?t='+t+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','hyttefeber.no');
+</script>
 <!-- CRITEO START -->
 {% include 'criteo-tracking' %}
 <!-- CRITEO END -->
