@@ -43,13 +43,61 @@
             "title": "-25% Julekuler",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Julekuler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
+        },
+        "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Jordbæreng",
+            "link": "https:\/\/hyttefeber.no\/collections\/jordbaereng"
+          }
+        },
+        "a8c8d149-cb94-4eff-a73c-116d6bd40a4a": {
+          "type": "column",
+          "settings": {
+            "title": "-25% Spire",
+            "link": "https:\/\/hyttefeber.no\/collections\/spire-fra-porsgrund-porselen"
+          }
+        },
+        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Marius Servise",
+            "link": "https:\/\/hyttefeber.no\/collections\/marius-servise"
+          }
+        },
+        "05f85552-c1ca-44b1-adec-639e74fbefed": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Natur",
+            "link": "https:\/\/hyttefeber.no\/collections\/naturservise-fra-porsgrund-porselen"
+          }
+        },
+        "a29525f0-de82-4bf5-9651-9581275b5209": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Karu 16 Pizzaovn",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Pizzaovner&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "65b02595-6415-402b-8224-8690e7ba06e8": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Hashtagkrus",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-hashtagkrus"
+          }
         }
       },
       "block_order": [
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-0",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2",
-        "e343ca5d-e7a5-4717-ac41-9b3468c6fadc"
+        "e343ca5d-e7a5-4717-ac41-9b3468c6fadc",
+        "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b",
+        "a8c8d149-cb94-4eff-a73c-116d6bd40a4a",
+        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
+        "05f85552-c1ca-44b1-adec-639e74fbefed",
+        "a29525f0-de82-4bf5-9651-9581275b5209",
+        "65b02595-6415-402b-8224-8690e7ba06e8"
       ],
       "settings": {
         "title": "",
