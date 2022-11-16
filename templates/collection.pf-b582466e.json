@@ -99,12 +99,19 @@
         "image_padding": false,
         "show_view_all": false
       }
+    },
+    "af821f79-4dca-481f-8bef-7e2288ed3b00": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": ""
+      }
     }
   },
   "order": [
     "pf-b582466e",
     "banner",
     "product-grid",
-    "16388220553dbbfb02"
+    "16388220553dbbfb02",
+    "af821f79-4dca-481f-8bef-7e2288ed3b00"
   ]
 }
