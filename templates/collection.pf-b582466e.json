@@ -85,6 +85,13 @@
             "title": "-30% Hashtagkrus",
             "link": "https:\/\/hyttefeber.no\/collections\/serie-hashtagkrus"
           }
+        },
+        "4171d81c-ba27-4e44-92d5-b9b0aa849c3f": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Norgesglasset",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Norgesglasset&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
         }
       },
       "block_order": [
@@ -97,7 +104,8 @@
         "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
         "05f85552-c1ca-44b1-adec-639e74fbefed",
         "a29525f0-de82-4bf5-9651-9581275b5209",
-        "65b02595-6415-402b-8224-8690e7ba06e8"
+        "65b02595-6415-402b-8224-8690e7ba06e8",
+        "4171d81c-ba27-4e44-92d5-b9b0aa849c3f"
       ],
       "settings": {
         "title": "",
