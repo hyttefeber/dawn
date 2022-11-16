@@ -28,6 +28,16 @@ function _pm_getcookie( cookiename ) {
 	}
 }
 
+function _pm_getGa4SessionId() {
+    const cookie = document.cookie.split(';').filter(function(cookie) { return cookie.indexOf('_ga_') !== -1; })[0]
+    return cookie ? cookie.split('.')[2] : null;
+}
+
+function _pm_getGa4SessionCount() {
+    const cookie = document.cookie.split(';').filter(function(cookie) { return cookie.indexOf('_ga_') !== -1; })[0]
+    return cookie ? cookie.split('.')[3] : null;
+}
+
 function _pm_getStoredTPTrack() {
 	var ret = _pm_getcookie( "pmTPTrack" );
 	if( null != ret && ret.length > 0 ) {
@@ -85,28 +95,141 @@ function _pm_buildTPURL( carttoken, checkoutid ) {
 		u += "&t=" + encodeURIComponent( JSON.stringify( _pm_curPMTPTrack.firstvisit ) );
 	}
 
+    if ( _pm_curPMTPTrack.gbraid ) {
+        u += "&gbraid=" + encodeURIComponent( _pm_curPMTPTrack.gbraid );
+    }
+
+    if ( _pm_curPMTPTrack.wbraid ) {
+        u += "&wbraid=" + encodeURIComponent( _pm_curPMTPTrack.wbraid );
+    }
+
+    if ( _pm_curPMTPTrack.ga4SessionId ) {
+        u += "&ga4_sessionid=" + encodeURIComponent( _pm_curPMTPTrack.ga4SessionId );
+    }
+
+    if ( _pm_curPMTPTrack.ga4SessionCount ) {
+        u += "&ga4_sessioncount=" + encodeURIComponent( _pm_curPMTPTrack.ga4SessionCount );
+    }
+
 	return u;
 }
 
-function _pm_sendTPTrack( carttoken ) {
-	_pm_sendTPTrack( carttoken, null );
-}
-
 function _pm_sendTPTrack( carttoken, checkoutid ) {
-	(function() {
-		var u = _pm_buildTPURL( carttoken, checkoutid );
+	var u = _pm_buildTPURL( carttoken, checkoutid );
 
-		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u; s.parentNode.insertBefore(g,s);
-	})();	
+	var doSend = true;
+	try {
+		var botAgents = [ // taken 2022-11-11
+			"AdsBot-Google",
+			"AdsBot-Google-Mobile",
+			"Googlebot",
+			"Storebot-Google",
+			"APIs-Google",
+			"Mediapartners-Google",
+			"FeedFetcher-Google",
+			"Google-Read-Aloud",
+			"DuplexWeb-Google",
+			"Google Favicon",
+			"googleweblight",
+			"Pinterestbot",
+			"AhrefsSiteAudit",
+			"AhrefsBot",
+			"Seekport Crawler",
+			"DuckDuckBot",
+			"PingdomPageSpeed",
+			"pingbot",
+			"YandexAccessibilityBot",
+			"adidxbot",
+			"bingbot",
+			"SMTBot",
+			"HubSpot Crawler",
+			"e.ventures Investment Crawler",
+			"Cincraw",
+			"Facebot",
+			"Twitterbot",
+			"Jooblebot",
+			"YisouSpider",
+			"YandexMetrika",
+			"Applebot",
+			"PagePeeker",
+			"Linespider",
+			"proximic",
+			"Algolia Crawler Renderscript",
+			"PetalBot",
+			"SEOFeedback_WebCrawler",
+			"oBot",
+			"Impact Radius Compliance Bot",
+			"Cocolyzebot",
+			"nlnbot",
+			"SemrushBot-SA",
+			"Bytespider",
+			"RyteBot",
+			"BrandVeritySpider",
+			"ethical-bugbot",
+			"Screaming Frog SEO Spider",
+			"BublupBot",
+			"bitlybot",
+			"Better Uptime Bot",
+			"KargoBot-Artemis-Mobile",
+			"YandexVideoParser",
+			"DotBot",
+			"BLEXBot",
+			"CheckMarkNetwork",
+			"MegaIndex.ru",
+			"Baiduspider",
+			"SurdotlyBot",
+			"Taboolabot",
+			"SiteScoreBot",
+			"StatusCake_Pagespeed_Indev",
+			"www.facebook.com/externalhit_uatext.php",
+			"+http://yandex.com/bots",
+			"YandexBot",
+			"LinkedInBot",
+			"+https://intelx.io",
+			"+https://www.seokicks.de/robot.html",
+			"SEOkicks;",
+			"ZoominfoBot",
+			"BingPreview",
+			"Morningscore",
+			"heritrix",
+			"http://tech.quickpay.net/api/callback",
+			"CookieInformationScanner",
+			"MJ12bot",
+			"KlarnaBot-PriceWatcher",
+			"HeadlessChrome",
+			"Barkrowler"
+		];
+
+		const userAgent = navigator.userAgent.toLowerCase();
+		const isBot = botAgents.some((v) => userAgent.indexOf(v.toLowerCase()) >= 0);
+
+		if( isBot == true ) {
+			doSend = false;
+		}
+	} catch( ee ) {
+	}
+
+	try {
+		const dedupUrl = u;
+		const lastSentTpUrl = localStorage.getItem( '_pm_dedup_tpurl' );
+
+		const isDup = lastSentTpUrl != null && lastSentTpUrl == dedupUrl;
+
+		if( !isDup ) {
+			localStorage.setItem( '_pm_dedup_tpurl', dedupUrl );
+		}
+
+		if( isDup == true ) {
+			doSend = false;
+		}
+	} catch( ee ) {
+	}
+
+	if( doSend ) {
+		fetch(u);
+	}
 }
 
-
-
-function _pm_sendTPTrackJQ( carttoken ) {
-	var u = _pm_buildTPURL( carttoken, null );
-	return jQuery.get( u );
-}
 
 //////////////////////
 
@@ -140,6 +263,31 @@ var _pm_newGacid = _pm_getcookie( "_ga" );
 if( null != _pm_newGacid && _pm_curPMTPTrack.gacid_source != "gatracker" && _pm_curPMTPTrack.gacid != _pm_newGacid ) {
 	_pm_curPMTPTrack.gacid = _pm_newGacid;
 	_pm_curPMTPTrack.gacid_source = "gacookie";
+}
+
+
+var _pm_gbraid = _pm_geturlparm( "gbraid" );
+if( _pm_gbraid != "" ) {
+    _pm_curPMTPTrack.gbraid = _pm_gbraid;
+    _pm_curPMTPTrack.timestamp = (new Date)/1E3|0;
+}
+
+var _pm_wbraid = _pm_geturlparm( "wbraid" );
+if( _pm_wbraid != "" ) {
+    _pm_curPMTPTrack.wbraid = _pm_wbraid;
+    _pm_curPMTPTrack.timestamp = (new Date)/1E3|0;
+}
+
+var _pm_ga4SessionId = _pm_getGa4SessionId();
+if( _pm_ga4SessionId ) {
+    _pm_curPMTPTrack.ga4SessionId = _pm_ga4SessionId;
+    _pm_curPMTPTrack.timestamp = (new Date)/1E3|0;
+}
+
+var _pm_ga4SessionCount = _pm_getGa4SessionCount();
+if( _pm_ga4SessionCount ) {
+    _pm_curPMTPTrack.ga4SessionCount = _pm_ga4SessionCount;
+    _pm_curPMTPTrack.timestamp = (new Date)/1E3|0;
 }
 
 
@@ -219,22 +367,29 @@ _pm_getGacidFromTracker();
 // ======
 
 function _pm_ensureCart() {
-	jQuery.post( "/cart/update.js", { attributes: { "__profitmetrics_ignore": "ignore" } }, function(cart) {
-		_pm_sendTPTrack( cart.token );
-		if( null == cart.attributes.__profitmetrics_ct || cart.token != cart.attributes.__profitmetrics_ct ) {
-			jQuery.post( "/cart/update.js", { attributes: { "__profitmetrics_ct": cart.token } }, null, "json" );
-		}
-	}, "json" );
-}
-  
-function _pm_waitForJquery( method ) {
-	if( window.jQuery ) {
-		method();
-	} else {
-		setTimeout( function() { _pm_waitForJquery(method) }, 50 );
-	}
+    fetch('/cart/update.js', {
+        method: 'post',
+        body: "attributes[__profitmetrics_ignore]=ignore",
+        headers: {
+            "Content-Type": "application/x-www-form-urlencoded",
+        },
+    }).then(res => {
+        return res.json();
+    }).then(cart => {
+        _pm_sendTPTrack( cart.token );
+
+        if( null == cart.attributes.__profitmetrics_ct || cart.token != cart.attributes.__profitmetrics_ct ) {
+            fetch('/cart/update.js', {
+                method: 'post',
+                headers: {
+                    "Content-Type": "application/x-www-form-urlencoded",
+                },
+                body: 'attributes[__profitmetrics_ct]=' + cart.token
+            });
+        }
+    });
 }
 
-_pm_waitForJquery( _pm_ensureCart );
+_pm_ensureCart();
 
 </script>
