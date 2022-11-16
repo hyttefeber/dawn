@@ -7,9 +7,57 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false
+      }
+    },
+    "172dc8d4-0708-4b25-b19f-6f0d859b417b": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-0": {
+          "type": "column",
+          "settings": {
+            "title": "-25% Headdemock",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Hengek%C3%B8yer&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Mummi Skjærefjøler",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Moomin&filter.p.product_type=Skj%C3%A6refj%C3%B8ler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2": {
+          "type": "column",
+          "settings": {
+            "title": "-20% Alv",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "e343ca5d-e7a5-4717-ac41-9b3468c6fadc": {
+          "type": "column",
+          "settings": {
+            "title": "-25% Julekuler",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Julekuler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-0",
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2",
+        "e343ca5d-e7a5-4717-ac41-9b3468c6fadc"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
       }
     },
     "product-grid": {
@@ -110,6 +158,7 @@
   "order": [
     "pf-b582466e",
     "banner",
+    "172dc8d4-0708-4b25-b19f-6f0d859b417b",
     "product-grid",
     "16388220553dbbfb02",
     "af821f79-4dca-481f-8bef-7e2288ed3b00"
