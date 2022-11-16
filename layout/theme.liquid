@@ -209,11 +209,16 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    {% if template contains "b582466e" %}
+  <style></style>.multicol-btn h3{color:#e7d80f;}
+.multicol-btn {background-color: #000000;}</style>
+   {% endif %}
     {% if template contains "33788505" %}
       <style>div:empty{display:block;}
       </style>
 <script src="https://cdn.galleryjs.io/webpack/gallery-v2.launcher.js" async></script>
   {% endif %}
+
 
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
