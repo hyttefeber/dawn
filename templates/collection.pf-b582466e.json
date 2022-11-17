@@ -16,6 +16,13 @@
     "172dc8d4-0708-4b25-b19f-6f0d859b417b": {
       "type": "collection-buttons-multicol",
       "blocks": {
+        "cf6d0d18-754e-464a-a32c-d3922d4bc05f": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️ -45% Frost Bålpanne",
+            "link": ""
+          }
+        },
         "a29525f0-de82-4bf5-9651-9581275b5209": {
           "type": "column",
           "settings": {
@@ -96,6 +103,7 @@
         }
       },
       "block_order": [
+        "cf6d0d18-754e-464a-a32c-d3922d4bc05f",
         "a29525f0-de82-4bf5-9651-9581275b5209",
         "4171d81c-ba27-4e44-92d5-b9b0aa849c3f",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
