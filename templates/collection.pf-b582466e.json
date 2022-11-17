@@ -16,25 +16,18 @@
     "172dc8d4-0708-4b25-b19f-6f0d859b417b": {
       "type": "collection-buttons-multicol",
       "blocks": {
+        "a29525f0-de82-4bf5-9651-9581275b5209": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Karu 16 Pizzaovn",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Pizzaovner&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-0": {
           "type": "column",
           "settings": {
             "title": "-25% Headdemock",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Hengek%C3%B8yer&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
-          }
-        },
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1": {
-          "type": "column",
-          "settings": {
-            "title": "-30% Mummi Skjærefjøler",
-            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Moomin&filter.p.product_type=Skj%C3%A6refj%C3%B8ler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
-          }
-        },
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2": {
-          "type": "column",
-          "settings": {
-            "title": "-20% Alv",
-            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
         "e343ca5d-e7a5-4717-ac41-9b3468c6fadc": {
@@ -44,8 +37,44 @@
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Julekuler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
+        "4171d81c-ba27-4e44-92d5-b9b0aa849c3f": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Norgesglasset",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Norgesglasset&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Mummi Skjærefjøler",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Moomin&filter.p.product_type=Skj%C3%A6refj%C3%B8ler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Marius Servise",
+            "link": "https:\/\/hyttefeber.no\/collections\/marius-servise"
+          }
+        },
+        "65b02595-6415-402b-8224-8690e7ba06e8": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Hashtagkrus",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-hashtagkrus"
+          }
+        },
+        "05f85552-c1ca-44b1-adec-639e74fbefed": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Natur",
+            "link": "https:\/\/hyttefeber.no\/collections\/naturservise-fra-porsgrund-porselen"
+          }
+        },
         "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "-30% Jordbæreng",
             "link": "https:\/\/hyttefeber.no\/collections\/jordbaereng"
@@ -58,54 +87,26 @@
             "link": "https:\/\/hyttefeber.no\/collections\/spire-fra-porsgrund-porselen"
           }
         },
-        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89": {
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2": {
           "type": "column",
           "settings": {
-            "title": "-30% Marius Servise",
-            "link": "https:\/\/hyttefeber.no\/collections\/marius-servise"
-          }
-        },
-        "05f85552-c1ca-44b1-adec-639e74fbefed": {
-          "type": "column",
-          "settings": {
-            "title": "-30% Natur",
-            "link": "https:\/\/hyttefeber.no\/collections\/naturservise-fra-porsgrund-porselen"
-          }
-        },
-        "a29525f0-de82-4bf5-9651-9581275b5209": {
-          "type": "column",
-          "settings": {
-            "title": "-30% Karu 16 Pizzaovn",
-            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Pizzaovner&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
-          }
-        },
-        "65b02595-6415-402b-8224-8690e7ba06e8": {
-          "type": "column",
-          "settings": {
-            "title": "-30% Hashtagkrus",
-            "link": "https:\/\/hyttefeber.no\/collections\/serie-hashtagkrus"
-          }
-        },
-        "4171d81c-ba27-4e44-92d5-b9b0aa849c3f": {
-          "type": "column",
-          "settings": {
-            "title": "-30% Norgesglasset",
-            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Norgesglasset&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+            "title": "-20% Alv",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         }
       },
       "block_order": [
+        "a29525f0-de82-4bf5-9651-9581275b5209",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-0",
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2",
         "e343ca5d-e7a5-4717-ac41-9b3468c6fadc",
+        "4171d81c-ba27-4e44-92d5-b9b0aa849c3f",
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
+        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
+        "65b02595-6415-402b-8224-8690e7ba06e8",
+        "05f85552-c1ca-44b1-adec-639e74fbefed",
         "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b",
         "a8c8d149-cb94-4eff-a73c-116d6bd40a4a",
-        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
-        "05f85552-c1ca-44b1-adec-639e74fbefed",
-        "a29525f0-de82-4bf5-9651-9581275b5209",
-        "65b02595-6415-402b-8224-8690e7ba06e8",
-        "4171d81c-ba27-4e44-92d5-b9b0aa849c3f"
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2"
       ],
       "settings": {
         "title": "",
