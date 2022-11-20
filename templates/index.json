@@ -119,13 +119,13 @@
     "1656508395028523fd": {
       "type": "multicolumn",
       "blocks": {
-        "165650839508dbe543-0": {
+        "165650839508dbe543-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fb09d00a-7833-41b5-9181-24d78ff9b842.png",
-            "title": "FATBOY",
+            "image": "shopify:\/\/shop_images\/1_7d6843bf-bdd6-4f0b-9d73-c1ddfa6508a9.png",
+            "title": "ESPEGARD",
             "text": "",
-            "link": "shopify:\/\/collections\/fatboy"
+            "link": "shopify:\/\/collections\/espegard"
           }
         },
         "85fc501c-c7a0-490f-be65-8610024dd8c4": {
@@ -137,15 +137,6 @@
             "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
           }
         },
-        "165650839508dbe543-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_7d6843bf-bdd6-4f0b-9d73-c1ddfa6508a9.png",
-            "title": "ESPEGARD",
-            "text": "",
-            "link": "shopify:\/\/collections\/espegard"
-          }
-        },
         "165650839508dbe543-1": {
           "type": "column",
           "settings": {
@@ -154,16 +145,25 @@
             "text": "",
             "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
+        },
+        "165650839508dbe543-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_fb09d00a-7833-41b5-9181-24d78ff9b842.png",
+            "title": "FATBOY",
+            "text": "",
+            "link": "shopify:\/\/collections\/fatboy"
+          }
         }
       },
       "block_order": [
-        "165650839508dbe543-0",
-        "85fc501c-c7a0-490f-be65-8610024dd8c4",
         "165650839508dbe543-2",
-        "165650839508dbe543-1"
+        "85fc501c-c7a0-490f-be65-8610024dd8c4",
+        "165650839508dbe543-1",
+        "165650839508dbe543-0"
       ],
       "settings": {
-        "title": "Supertilbud",
+        "title": "Populære merker",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "center",
