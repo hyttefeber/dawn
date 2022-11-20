@@ -134,60 +134,60 @@
         "show_rating": true
       }
     },
-    "multi_column": {
+    "1656508395028523fd": {
       "type": "multicolumn",
       "blocks": {
-        "column2": {
+        "165650839508dbe543-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2_5.png",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/4_fb09d00a-7833-41b5-9181-24d78ff9b842.png",
+            "title": "FATBOY",
             "text": "",
-            "link": "shopify:\/\/collections\/putetrekk-fra-emmeselle-og-hyttefeber"
+            "link": "shopify:\/\/collections\/fatboy"
           }
         },
-        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
+        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/12_3b789e5c-f9aa-48f7-b924-da13c7e8b5fb.png",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/2_143cd483-3a8a-4848-adb9-4c70e182fba9.png",
+            "title": "OONI PIZZAOVNER",
             "text": "",
-            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
+            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
           }
         },
-        "column3": {
+        "165650839508dbe543-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2_7.png",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/1_7d6843bf-bdd6-4f0b-9d73-c1ddfa6508a9.png",
+            "title": "ESPEGARD",
             "text": "",
-            "link": "https:\/\/hyttefeber.no\/pages\/konkurranse"
+            "link": "shopify:\/\/collections\/espegard"
           }
         },
-        "column1": {
+        "165650839508dbe543-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2_4.png",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/3_9ec2a9ec-5033-4712-9b43-0cdce36f5cb3.png",
+            "title": "NORGESGLASS",
             "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
         }
       },
       "block_order": [
-        "column2",
-        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
-        "column3",
-        "column1"
+        "165650839508dbe543-0",
+        "85fc501c-c7a0-490f-be65-8610024dd8c4",
+        "165650839508dbe543-2",
+        "165650839508dbe543-1"
       ],
       "settings": {
-        "title": "",
+        "title": "Supertilbud",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
-        "button_link": "",
+        "button_link": "shopify:\/\/collections\/salg-manedens-kupp",
         "swipe_on_mobile": true
       }
     },
@@ -257,60 +257,60 @@
         "swipe_on_mobile": false
       }
     },
-    "1656508395028523fd": {
+    "multi_column": {
       "type": "multicolumn",
       "blocks": {
-        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
+        "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_143cd483-3a8a-4848-adb9-4c70e182fba9.png",
-            "title": "OONI PIZZAOVNER",
+            "image": "shopify:\/\/shop_images\/BANNER2_5.png",
+            "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
+            "link": "shopify:\/\/collections\/putetrekk-fra-emmeselle-og-hyttefeber"
           }
         },
-        "165650839508dbe543-2": {
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_7d6843bf-bdd6-4f0b-9d73-c1ddfa6508a9.png",
-            "title": "ESPEGARD",
+            "image": "shopify:\/\/shop_images\/12_3b789e5c-f9aa-48f7-b924-da13c7e8b5fb.png",
+            "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/espegard"
+            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
           }
         },
-        "165650839508dbe543-1": {
+        "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_9ec2a9ec-5033-4712-9b43-0cdce36f5cb3.png",
-            "title": "NORGESGLASS",
+            "image": "shopify:\/\/shop_images\/BANNER2_7.png",
+            "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+            "link": "https:\/\/hyttefeber.no\/pages\/konkurranse"
           }
         },
-        "165650839508dbe543-0": {
+        "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_fb09d00a-7833-41b5-9181-24d78ff9b842.png",
-            "title": "FATBOY",
+            "image": "shopify:\/\/shop_images\/BANNER2_4.png",
+            "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/fatboy"
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
         }
       },
       "block_order": [
-        "85fc501c-c7a0-490f-be65-8610024dd8c4",
-        "165650839508dbe543-2",
-        "165650839508dbe543-1",
-        "165650839508dbe543-0"
+        "column2",
+        "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
+        "column3",
+        "column1"
       ],
       "settings": {
-        "title": "Supertilbud",
+        "title": "",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
-        "button_link": "shopify:\/\/collections\/salg-manedens-kupp",
+        "button_link": "",
         "swipe_on_mobile": true
       }
     },
@@ -684,10 +684,10 @@
     "1629970086900f7d29",
     "16565084024c1aa69a",
     "1632000821b08894c5",
-    "multi_column",
+    "1656508395028523fd",
     "featured_products",
     "1631626408eee30b8a",
-    "1656508395028523fd",
+    "multi_column",
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
     "1632087735695d2a16",
