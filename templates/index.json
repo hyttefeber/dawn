@@ -116,24 +116,6 @@
         "show_rating": true
       }
     },
-    "1632000821b08894c5": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Populært nå",
-        "collection": "populaert-na",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": true
-      }
-    },
     "1656508395028523fd": {
       "type": "multicolumn",
       "blocks": {
@@ -189,6 +171,24 @@
         "button_label": "",
         "button_link": "shopify:\/\/collections\/salg-manedens-kupp",
         "swipe_on_mobile": true
+      }
+    },
+    "1632000821b08894c5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populært nå",
+        "collection": "populaert-na",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": true
       }
     },
     "featured_products": {
@@ -683,8 +683,8 @@
     "16327413955ebd8133",
     "1629970086900f7d29",
     "16565084024c1aa69a",
-    "1632000821b08894c5",
     "1656508395028523fd",
+    "1632000821b08894c5",
     "featured_products",
     "1631626408eee30b8a",
     "multi_column",
