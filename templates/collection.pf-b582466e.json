@@ -132,6 +132,13 @@
             "title": "-20% Alv",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
+        },
+        "6c2e7b1f-79e7-438d-b70e-09c93d50e22c": {
+          "type": "column",
+          "settings": {
+            "title": "🔥 SUPERTILBUD",
+            "link": "shopify:\/\/collections\/sjokksalg-black-week"
+          }
         }
       },
       "block_order": [
@@ -150,7 +157,8 @@
         "05f85552-c1ca-44b1-adec-639e74fbefed",
         "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b",
         "a8c8d149-cb94-4eff-a73c-116d6bd40a4a",
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2"
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2",
+        "6c2e7b1f-79e7-438d-b70e-09c93d50e22c"
       ],
       "settings": {
         "title": "",
