@@ -190,6 +190,7 @@
       "type": "hf-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_De_koslige_gavene_1325_x_360_px_17.png",
+        "mobile_image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_De_koslige_gavene_1325_x_360_px_377_x_360_px_3.png",
         "link": "shopify:\/\/collections\/sjokksalg-black-week"
       }
     },
