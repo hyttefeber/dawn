@@ -313,6 +313,15 @@
             "text": "",
             "link": ""
           }
+        },
+        "92620dba-ae71-42a3-9f2d-9d9fd2d4241f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_64aaccee-b899-4eac-8356-919c94bf9c6b.png",
+            "title": "",
+            "text": "",
+            "link": "https:\/\/hyttefeber.no\/collections\/belysning-og-lyslykter"
+          }
         }
       },
       "block_order": [
@@ -321,7 +330,8 @@
         "column3",
         "column1",
         "8798b5fe-dd63-46c5-a05b-343dd25ed45c",
-        "c0b59aab-a523-4771-8247-754382fce068"
+        "c0b59aab-a523-4771-8247-754382fce068",
+        "92620dba-ae71-42a3-9f2d-9d9fd2d4241f"
       ],
       "settings": {
         "title": "",
