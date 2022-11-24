@@ -188,6 +188,7 @@
     },
     "55ea4d80-098f-42ec-8359-6b72dad9193e": {
       "type": "hf-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_De_koslige_gavene_1325_x_360_px_17.png",
         "mobile_image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_De_koslige_gavene_1325_x_360_px_377_x_360_px_3.png",
