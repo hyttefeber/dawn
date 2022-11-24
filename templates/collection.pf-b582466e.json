@@ -89,6 +89,7 @@
         },
         "05f85552-c1ca-44b1-adec-639e74fbefed": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "-30% Natur",
             "link": "https:\/\/hyttefeber.no\/collections\/naturservise-fra-porsgrund-porselen"
@@ -104,6 +105,7 @@
         },
         "a8c8d149-cb94-4eff-a73c-116d6bd40a4a": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "-25% Spire",
             "link": "https:\/\/hyttefeber.no\/collections\/spire-fra-porsgrund-porselen"
@@ -111,9 +113,17 @@
         },
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "-20% Alv",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "b06b32e6-9974-45f9-afcc-98cb2d66a3d0": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️-5-40% Espegard",
+            "link": "shopify:\/\/collections\/espegard"
           }
         }
       },
@@ -131,7 +141,8 @@
         "05f85552-c1ca-44b1-adec-639e74fbefed",
         "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b",
         "a8c8d149-cb94-4eff-a73c-116d6bd40a4a",
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2"
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2",
+        "b06b32e6-9974-45f9-afcc-98cb2d66a3d0"
       ],
       "settings": {
         "title": "",
