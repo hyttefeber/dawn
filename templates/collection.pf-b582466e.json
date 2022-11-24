@@ -178,6 +178,13 @@
         "collapse_on_larger_devices": false
       }
     },
+    "55ea4d80-098f-42ec-8359-6b72dad9193e": {
+      "type": "hf-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_De_koslige_gavene_1325_x_360_px_17.png",
+        "link": ""
+      }
+    },
     "16388220553dbbfb02": {
       "type": "collection-list",
       "blocks": {
@@ -261,6 +268,7 @@
     "banner",
     "172dc8d4-0708-4b25-b19f-6f0d859b417b",
     "product-grid",
+    "55ea4d80-098f-42ec-8359-6b72dad9193e",
     "16388220553dbbfb02",
     "af821f79-4dca-481f-8bef-7e2288ed3b00"
   ]
