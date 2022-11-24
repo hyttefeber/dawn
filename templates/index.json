@@ -191,72 +191,6 @@
         "show_rating": true
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Siste Nyheter",
-        "collection": "nyheter-hos-hyttefeber",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "Vis alle nyheter",
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": true
-      }
-    },
-    "1631626408eee30b8a": {
-      "type": "multicolumn",
-      "blocks": {
-        "1631626408eee30b8a-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_b8950b37-27e4-4822-94d3-e3b083e13272.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
-          }
-        },
-        "13b1e9a7-4d56-4d47-9ad9-76303457fdf5": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER4_745x495_2.png",
-            "title": "",
-            "text": "",
-            "link": "https:\/\/hyttefeber.no\/collections\/alle-balpanner"
-          }
-        },
-        "1631626408eee30b8a-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER4_745x495_1.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/fatboy"
-          }
-        }
-      },
-      "block_order": [
-        "1631626408eee30b8a-1",
-        "13b1e9a7-4d56-4d47-9ad9-76303457fdf5",
-        "1631626408eee30b8a-0"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -356,6 +290,72 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Siste Nyheter",
+        "collection": "nyheter-hos-hyttefeber",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "Vis alle nyheter",
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": true
+      }
+    },
+    "1631626408eee30b8a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1631626408eee30b8a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_b8950b37-27e4-4822-94d3-e3b083e13272.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
+          }
+        },
+        "13b1e9a7-4d56-4d47-9ad9-76303457fdf5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BANNER4_745x495_2.png",
+            "title": "",
+            "text": "",
+            "link": "https:\/\/hyttefeber.no\/collections\/alle-balpanner"
+          }
+        },
+        "1631626408eee30b8a-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BANNER4_745x495_1.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/fatboy"
+          }
+        }
+      },
+      "block_order": [
+        "1631626408eee30b8a-1",
+        "13b1e9a7-4d56-4d47-9ad9-76303457fdf5",
+        "1631626408eee30b8a-0"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "1632087749cf8f8ea0": {
@@ -729,9 +729,9 @@
     "16565084024c1aa69a",
     "1656508395028523fd",
     "1632000821b08894c5",
+    "multi_column",
     "featured_products",
     "1631626408eee30b8a",
-    "multi_column",
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
     "1632087735695d2a16",
