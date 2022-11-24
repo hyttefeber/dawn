@@ -116,81 +116,6 @@
         "show_rating": true
       }
     },
-    "1656508395028523fd": {
-      "type": "multicolumn",
-      "blocks": {
-        "165650839508dbe543-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_7d6843bf-bdd6-4f0b-9d73-c1ddfa6508a9.png",
-            "title": "ESPEGARD",
-            "text": "",
-            "link": "shopify:\/\/collections\/espegard"
-          }
-        },
-        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_143cd483-3a8a-4848-adb9-4c70e182fba9.png",
-            "title": "OONI PIZZAOVNER",
-            "text": "",
-            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
-          }
-        },
-        "165650839508dbe543-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_9ec2a9ec-5033-4712-9b43-0cdce36f5cb3.png",
-            "title": "NORGESGLASS",
-            "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "165650839508dbe543-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_fb09d00a-7833-41b5-9181-24d78ff9b842.png",
-            "title": "FATBOY",
-            "text": "",
-            "link": "shopify:\/\/collections\/fatboy"
-          }
-        }
-      },
-      "block_order": [
-        "165650839508dbe543-2",
-        "85fc501c-c7a0-490f-be65-8610024dd8c4",
-        "165650839508dbe543-1",
-        "165650839508dbe543-0"
-      ],
-      "settings": {
-        "title": "Populære merker",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "shopify:\/\/collections\/salg-manedens-kupp",
-        "swipe_on_mobile": true
-      }
-    },
-    "1632000821b08894c5": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Populært nå",
-        "collection": "populaert-na",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": true
-      }
-    },
     "multi_column": {
       "type": "multicolumn",
       "blocks": {
@@ -289,6 +214,81 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1632000821b08894c5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Populært nå",
+        "collection": "populaert-na",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": true
+      }
+    },
+    "1656508395028523fd": {
+      "type": "multicolumn",
+      "blocks": {
+        "165650839508dbe543-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_7d6843bf-bdd6-4f0b-9d73-c1ddfa6508a9.png",
+            "title": "ESPEGARD",
+            "text": "",
+            "link": "shopify:\/\/collections\/espegard"
+          }
+        },
+        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_143cd483-3a8a-4848-adb9-4c70e182fba9.png",
+            "title": "OONI PIZZAOVNER",
+            "text": "",
+            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
+          }
+        },
+        "165650839508dbe543-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_9ec2a9ec-5033-4712-9b43-0cdce36f5cb3.png",
+            "title": "NORGESGLASS",
+            "text": "",
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "165650839508dbe543-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_fb09d00a-7833-41b5-9181-24d78ff9b842.png",
+            "title": "FATBOY",
+            "text": "",
+            "link": "shopify:\/\/collections\/fatboy"
+          }
+        }
+      },
+      "block_order": [
+        "165650839508dbe543-2",
+        "85fc501c-c7a0-490f-be65-8610024dd8c4",
+        "165650839508dbe543-1",
+        "165650839508dbe543-0"
+      ],
+      "settings": {
+        "title": "Populære merker",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify:\/\/collections\/salg-manedens-kupp",
         "swipe_on_mobile": true
       }
     },
@@ -727,9 +727,9 @@
     "16327413955ebd8133",
     "1629970086900f7d29",
     "16565084024c1aa69a",
-    "1656508395028523fd",
-    "1632000821b08894c5",
     "multi_column",
+    "1632000821b08894c5",
+    "1656508395028523fd",
     "featured_products",
     "1631626408eee30b8a",
     "1632087749cf8f8ea0",
