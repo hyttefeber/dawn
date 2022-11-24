@@ -304,6 +304,15 @@
             "text": "<p>Skap den ekstra gode stemningen med levedne flammer.<\/p>",
             "link": ""
           }
+        },
+        "c0b59aab-a523-4771-8247-754382fce068": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_2cbbab29-7376-4325-83bf-a14e8a5e2bc7.png",
+            "title": "",
+            "text": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -311,7 +320,8 @@
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
         "column3",
         "column1",
-        "8798b5fe-dd63-46c5-a05b-343dd25ed45c"
+        "8798b5fe-dd63-46c5-a05b-343dd25ed45c",
+        "c0b59aab-a523-4771-8247-754382fce068"
       ],
       "settings": {
         "title": "",
