@@ -128,6 +128,15 @@
             "link": "shopify:\/\/collections\/julepynt"
           }
         },
+        "8798b5fe-dd63-46c5-a05b-343dd25ed45c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_86df762a-6518-47c0-8f7c-934f8270b98a.png",
+            "title": "",
+            "text": "",
+            "link": ""
+          }
+        },
         "92620dba-ae71-42a3-9f2d-9d9fd2d4241f": {
           "type": "column",
           "settings": {
@@ -144,15 +153,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
-          }
-        },
-        "8798b5fe-dd63-46c5-a05b-343dd25ed45c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_86df762a-6518-47c0-8f7c-934f8270b98a.png",
-            "title": "",
-            "text": "",
-            "link": ""
           }
         },
         "column2": {
@@ -198,9 +198,9 @@
       },
       "block_order": [
         "c0b59aab-a523-4771-8247-754382fce068",
+        "8798b5fe-dd63-46c5-a05b-343dd25ed45c",
         "92620dba-ae71-42a3-9f2d-9d9fd2d4241f",
         "bd2db269-33a3-4b48-9eb9-39d094bb8574",
-        "8798b5fe-dd63-46c5-a05b-343dd25ed45c",
         "column2",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
         "column3",
