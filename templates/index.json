@@ -295,13 +295,23 @@
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
+        },
+        "8798b5fe-dd63-46c5-a05b-343dd25ed45c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_86df762a-6518-47c0-8f7c-934f8270b98a.png",
+            "title": "OLJELAMPER",
+            "text": "<p>Skap den ekstra gode stemningen med levedne flammer.<\/p>",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column2",
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a",
         "column3",
-        "column1"
+        "column1",
+        "8798b5fe-dd63-46c5-a05b-343dd25ed45c"
       ],
       "settings": {
         "title": "",
