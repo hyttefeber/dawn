@@ -16,6 +16,13 @@
     "172dc8d4-0708-4b25-b19f-6f0d859b417b": {
       "type": "collection-buttons-multicol",
       "blocks": {
+        "b06b32e6-9974-45f9-afcc-98cb2d66a3d0": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️-5-40% Espegard",
+            "link": "shopify:\/\/collections\/espegard"
+          }
+        },
         "cf6d0d18-754e-464a-a32c-d3922d4bc05f": {
           "type": "column",
           "settings": {
@@ -119,15 +126,16 @@
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
-        "b06b32e6-9974-45f9-afcc-98cb2d66a3d0": {
+        "1690151f-13bb-4fb9-a62b-f67ceb99a558": {
           "type": "column",
           "settings": {
-            "title": "⭐️-5-40% Espegard",
-            "link": "shopify:\/\/collections\/espegard"
+            "title": "⭐️-7-25% Fatboy",
+            "link": "shopify:\/\/collections\/fatboy"
           }
         }
       },
       "block_order": [
+        "b06b32e6-9974-45f9-afcc-98cb2d66a3d0",
         "cf6d0d18-754e-464a-a32c-d3922d4bc05f",
         "a29525f0-de82-4bf5-9651-9581275b5209",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-0",
@@ -142,7 +150,7 @@
         "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b",
         "a8c8d149-cb94-4eff-a73c-116d6bd40a4a",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2",
-        "b06b32e6-9974-45f9-afcc-98cb2d66a3d0"
+        "1690151f-13bb-4fb9-a62b-f67ceb99a558"
       ],
       "settings": {
         "title": "",
