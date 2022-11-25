@@ -23,6 +23,13 @@
             "link": "shopify:\/\/collections\/sjokksalg-black-week"
           }
         },
+        "e29f472e-a9ad-41b7-9437-b401030e986f": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️ -20% Fatboy buggle up",
+            "link": "shopify:\/\/collections\/sittesekker-fra-fatboy"
+          }
+        },
         "b06b32e6-9974-45f9-afcc-98cb2d66a3d0": {
           "type": "column",
           "settings": {
@@ -89,6 +96,7 @@
         },
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "-30% Mummi Skjærefjøler",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Moomin&filter.p.product_type=Skj%C3%A6refj%C3%B8ler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
@@ -143,6 +151,7 @@
       },
       "block_order": [
         "6c2e7b1f-79e7-438d-b70e-09c93d50e22c",
+        "e29f472e-a9ad-41b7-9437-b401030e986f",
         "b06b32e6-9974-45f9-afcc-98cb2d66a3d0",
         "1690151f-13bb-4fb9-a62b-f67ceb99a558",
         "cf6d0d18-754e-464a-a32c-d3922d4bc05f",
