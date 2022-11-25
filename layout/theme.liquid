@@ -209,7 +209,7 @@
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
-    {% if template contains "b582466e" %}
+    {% if template contains "b582466e" or template contains "black" %}
   <style>.multicol-btn:hover h3{color:#e7d80f!important;}
 .multicol-btn {background-color: #000000!important;}</style>
    {% endif %}
