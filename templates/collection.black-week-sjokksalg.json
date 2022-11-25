@@ -1,0 +1,294 @@
+{
+  "sections": {
+    "pf-b582466e": {
+      "type": "pf-b582466e",
+      "settings": {
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "172dc8d4-0708-4b25-b19f-6f0d859b417b": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "6c2e7b1f-79e7-438d-b70e-09c93d50e22c": {
+          "type": "column",
+          "settings": {
+            "title": "🔥 SUPERTILBUD",
+            "link": "shopify:\/\/collections\/sjokksalg-black-week"
+          }
+        },
+        "e29f472e-a9ad-41b7-9437-b401030e986f": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️ -20% Fatboy buggle up",
+            "link": "shopify:\/\/collections\/sittesekker-fra-fatboy"
+          }
+        },
+        "b06b32e6-9974-45f9-afcc-98cb2d66a3d0": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️-5-40% Espegard",
+            "link": "shopify:\/\/collections\/espegard"
+          }
+        },
+        "1690151f-13bb-4fb9-a62b-f67ceb99a558": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️-7-25% Fatboy",
+            "link": "shopify:\/\/collections\/fatboy"
+          }
+        },
+        "cf6d0d18-754e-464a-a32c-d3922d4bc05f": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️ -45% Frost Bålpanne",
+            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
+          }
+        },
+        "a29525f0-de82-4bf5-9651-9581275b5209": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️-30% Karu 16 Pizzaovn",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Pizzaovner&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-0": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️-25% Headdemock",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Hengek%C3%B8yer&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "e343ca5d-e7a5-4717-ac41-9b3468c6fadc": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️-30% Julekuler",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Julekuler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "4400dfba-342f-4f7c-a04f-af26c5f38d6c": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️ - 20% Alle putetrekk",
+            "link": "shopify:\/\/collections\/putetrekk"
+          }
+        },
+        "a566c0b8-296c-4664-a429-c8b4648ab34b": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "-24% Espegard Bålfat",
+            "link": "shopify:\/\/products\/balfat-70cm"
+          }
+        },
+        "4171d81c-ba27-4e44-92d5-b9b0aa849c3f": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Norgesglasset",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Norgesglasset&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "-30% Mummi Skjærefjøler",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Moomin&filter.p.product_type=Skj%C3%A6refj%C3%B8ler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        },
+        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Marius Servise",
+            "link": "https:\/\/hyttefeber.no\/collections\/marius-servise"
+          }
+        },
+        "65b02595-6415-402b-8224-8690e7ba06e8": {
+          "type": "column",
+          "settings": {
+            "title": "-30% Hashtagkrus",
+            "link": "https:\/\/hyttefeber.no\/collections\/serie-hashtagkrus"
+          }
+        },
+        "05f85552-c1ca-44b1-adec-639e74fbefed": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "-30% Natur",
+            "link": "https:\/\/hyttefeber.no\/collections\/naturservise-fra-porsgrund-porselen"
+          }
+        },
+        "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "-30% Jordbæreng",
+            "link": "https:\/\/hyttefeber.no\/collections\/jordbaereng"
+          }
+        },
+        "a8c8d149-cb94-4eff-a73c-116d6bd40a4a": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "-25% Spire",
+            "link": "https:\/\/hyttefeber.no\/collections\/spire-fra-porsgrund-porselen"
+          }
+        },
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "-20% Alv",
+            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+          }
+        }
+      },
+      "block_order": [
+        "6c2e7b1f-79e7-438d-b70e-09c93d50e22c",
+        "e29f472e-a9ad-41b7-9437-b401030e986f",
+        "b06b32e6-9974-45f9-afcc-98cb2d66a3d0",
+        "1690151f-13bb-4fb9-a62b-f67ceb99a558",
+        "cf6d0d18-754e-464a-a32c-d3922d4bc05f",
+        "a29525f0-de82-4bf5-9651-9581275b5209",
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-0",
+        "e343ca5d-e7a5-4717-ac41-9b3468c6fadc",
+        "4400dfba-342f-4f7c-a04f-af26c5f38d6c",
+        "a566c0b8-296c-4664-a429-c8b4648ab34b",
+        "4171d81c-ba27-4e44-92d5-b9b0aa849c3f",
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
+        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
+        "65b02595-6415-402b-8224-8690e7ba06e8",
+        "05f85552-c1ca-44b1-adec-639e74fbefed",
+        "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b",
+        "a8c8d149-cb94-4eff-a73c-116d6bd40a4a",
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 28,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_grid_swap": true,
+        "show_rating": true,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
+    "55ea4d80-098f-42ec-8359-6b72dad9193e": {
+      "type": "hf-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_De_koslige_gavene_1325_x_360_px_17.png",
+        "mobile_image": "shopify:\/\/shop_images\/Kopi_av_Kopi_av_De_koslige_gavene_1325_x_360_px_377_x_360_px_3.png",
+        "link": "shopify:\/\/collections\/sjokksalg-black-week"
+      }
+    },
+    "16388220553dbbfb02": {
+      "type": "collection-list",
+      "blocks": {
+        "16388220555866fa8a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "til-uteplassen"
+          }
+        },
+        "03a7b704-5d75-4af1-882a-5ff727e45966": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "balplassen"
+          }
+        },
+        "16388220555866fa8a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "interior-til-hytter-og-hus"
+          }
+        },
+        "16388220555866fa8a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "belysning-og-lyslykter"
+          }
+        },
+        "8633003d-4061-401a-bb8c-65cad9a1c09e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "81fbae77-5db6-412c-a9e2-dc520af1565f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ut-pa-tur"
+          }
+        },
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mummi-hos-hyttefeber"
+          }
+        },
+        "01fb9155-329e-40a2-91e1-e6470e9e2b49": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kjokken-og-servering"
+          }
+        }
+      },
+      "block_order": [
+        "16388220555866fa8a-0",
+        "03a7b704-5d75-4af1-882a-5ff727e45966",
+        "16388220555866fa8a-1",
+        "16388220555866fa8a-2",
+        "8633003d-4061-401a-bb8c-65cad9a1c09e",
+        "81fbae77-5db6-412c-a9e2-dc520af1565f",
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
+        "01fb9155-329e-40a2-91e1-e6470e9e2b49"
+      ],
+      "settings": {
+        "title": "Flere kategorier",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
+    "af821f79-4dca-481f-8bef-7e2288ed3b00": {
+      "type": "pagefly-section",
+      "settings": {
+        "section_id": "pf-3fba6747"
+      }
+    }
+  },
+  "order": [
+    "pf-b582466e",
+    "banner",
+    "172dc8d4-0708-4b25-b19f-6f0d859b417b",
+    "product-grid",
+    "55ea4d80-098f-42ec-8359-6b72dad9193e",
+    "16388220553dbbfb02",
+    "af821f79-4dca-481f-8bef-7e2288ed3b00"
+  ]
+}
