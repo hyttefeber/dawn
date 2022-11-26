@@ -173,16 +173,16 @@
         "swipe_on_mobile": true
       }
     },
-    "featured_products": {
+    "1632000821b08894c5": {
       "type": "featured-collection",
       "settings": {
-        "title": "Siste Nyheter",
-        "collection": "nyheter-hos-hyttefeber",
+        "title": "Populært nå",
+        "collection": "populaert-na",
         "products_to_show": 12,
         "show_view_all": true,
-        "view_all_text": "Vis alle nyheter",
+        "view_all_text": "",
         "swipe_on_mobile": true,
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": false,
@@ -292,16 +292,16 @@
         "swipe_on_mobile": true
       }
     },
-    "1632000821b08894c5": {
+    "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Populært nå",
-        "collection": "populaert-na",
+        "title": "Siste Nyheter",
+        "collection": "nyheter-hos-hyttefeber",
         "products_to_show": 12,
         "show_view_all": true,
-        "view_all_text": "",
+        "view_all_text": "Vis alle nyheter",
         "swipe_on_mobile": true,
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": false,
@@ -728,9 +728,9 @@
     "1629970086900f7d29",
     "16565084024c1aa69a",
     "1656508395028523fd",
-    "featured_products",
-    "multi_column",
     "1632000821b08894c5",
+    "multi_column",
+    "featured_products",
     "1631626408eee30b8a",
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
