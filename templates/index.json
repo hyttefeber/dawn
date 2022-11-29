@@ -128,6 +128,15 @@
             "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
         },
+        "165650839508dbe543-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/17_926217ec-77f1-429d-806a-9d4fa30e4190.png",
+            "title": "FATBOY",
+            "text": "",
+            "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
+          }
+        },
         "165650839508dbe543-2": {
           "type": "column",
           "settings": {
@@ -145,22 +154,13 @@
             "text": "",
             "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
           }
-        },
-        "165650839508dbe543-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/17_926217ec-77f1-429d-806a-9d4fa30e4190.png",
-            "title": "FATBOY",
-            "text": "",
-            "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
-          }
         }
       },
       "block_order": [
         "165650839508dbe543-1",
+        "165650839508dbe543-0",
         "165650839508dbe543-2",
-        "85fc501c-c7a0-490f-be65-8610024dd8c4",
-        "165650839508dbe543-0"
+        "85fc501c-c7a0-490f-be65-8610024dd8c4"
       ],
       "settings": {
         "title": "Populære merker",
