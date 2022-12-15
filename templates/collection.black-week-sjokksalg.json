@@ -2,6 +2,7 @@
   "sections": {
     "pf-b582466e": {
       "type": "pf-b582466e",
+      "disabled": true,
       "settings": {
       }
     },
@@ -110,6 +111,7 @@
         },
         "65b02595-6415-402b-8224-8690e7ba06e8": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "-30% Hashtagkrus",
             "link": "https:\/\/hyttefeber.no\/collections\/serie-hashtagkrus"
