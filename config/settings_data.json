@@ -23,10 +23,9 @@
         "blocks": {
           "149fc714-e81a-45af-a35c-2b11f466c16a": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "🎄 Bestill før 19.12 kl 12:00 for levering før jul, og før 16.12 kl 14:00 for levering i nord 🎁",
-              "color_scheme": "inverse",
+              "text": "⭐️ Vi flytter til nye bedre or enda raskere lokaler romjulen og  ordre som kommer inn etter 25 desember blir sendt fra våre nye lokaler 2 januar. ⭐️",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
