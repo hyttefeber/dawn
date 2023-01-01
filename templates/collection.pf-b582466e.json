@@ -63,6 +63,7 @@
         },
         "cf6d0d18-754e-464a-a32c-d3922d4bc05f": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️ -45% Frost Bålpanne",
             "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
@@ -70,6 +71,7 @@
         },
         "a29525f0-de82-4bf5-9651-9581275b5209": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️-25% Karu 16 Pizzaovn",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Pizzaovner&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
