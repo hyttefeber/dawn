@@ -76,6 +76,15 @@
             "text": "",
             "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
           }
+        },
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_2.png",
+            "title": "",
+            "text": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -85,7 +94,8 @@
         "0f369159-2c35-4032-9801-e5826fc19abb",
         "1629970086900f7d29-2",
         "1629970086900f7d29-1",
-        "1629970086900f7d29-0"
+        "1629970086900f7d29-0",
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c"
       ],
       "settings": {
         "title": "",
