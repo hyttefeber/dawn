@@ -108,6 +108,7 @@
         },
         "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "-30% Marius Servise",
             "link": "https:\/\/hyttefeber.no\/collections\/marius-servise"
