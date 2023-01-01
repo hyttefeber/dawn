@@ -30,8 +30,16 @@
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Julekuler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
+        "0a5c8754-2370-4e39-b27b-e9f9741f4f56": {
+          "type": "column",
+          "settings": {
+            "title": "⭐️- 25% Brusletto",
+            "link": ""
+          }
+        },
         "e29f472e-a9ad-41b7-9437-b401030e986f": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️ -20% Fatboy buggle up",
             "link": "shopify:\/\/collections\/sittesekker-fra-fatboy"
@@ -39,6 +47,7 @@
         },
         "b06b32e6-9974-45f9-afcc-98cb2d66a3d0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️-5-40% Espegard",
             "link": "shopify:\/\/collections\/espegard"
@@ -46,6 +55,7 @@
         },
         "1690151f-13bb-4fb9-a62b-f67ceb99a558": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️-7-25% Fatboy",
             "link": "shopify:\/\/collections\/fatboy"
@@ -68,7 +78,7 @@
         "4400dfba-342f-4f7c-a04f-af26c5f38d6c": {
           "type": "column",
           "settings": {
-            "title": "⭐️ - 20% Alle putetrekk",
+            "title": "⭐️ - 25% Alle putetrekk",
             "link": "shopify:\/\/collections\/putetrekk"
           }
         },
@@ -142,18 +152,12 @@
             "title": "-20% Alv",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
-        },
-        "0a5c8754-2370-4e39-b27b-e9f9741f4f56": {
-          "type": "column",
-          "settings": {
-            "title": "⭐️- 25% Brusletto",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "6c2e7b1f-79e7-438d-b70e-09c93d50e22c",
         "e343ca5d-e7a5-4717-ac41-9b3468c6fadc",
+        "0a5c8754-2370-4e39-b27b-e9f9741f4f56",
         "e29f472e-a9ad-41b7-9437-b401030e986f",
         "b06b32e6-9974-45f9-afcc-98cb2d66a3d0",
         "1690151f-13bb-4fb9-a62b-f67ceb99a558",
@@ -168,8 +172,7 @@
         "05f85552-c1ca-44b1-adec-639e74fbefed",
         "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b",
         "a8c8d149-cb94-4eff-a73c-116d6bd40a4a",
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2",
-        "0a5c8754-2370-4e39-b27b-e9f9741f4f56"
+        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2"
       ],
       "settings": {
         "title": "",
