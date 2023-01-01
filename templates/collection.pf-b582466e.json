@@ -34,7 +34,7 @@
           "type": "column",
           "settings": {
             "title": "⭐️- 25% Brusletto",
-            "link": ""
+            "link": "shopify:\/\/collections\/brusletto"
           }
         },
         "e29f472e-a9ad-41b7-9437-b401030e986f": {
@@ -80,7 +80,7 @@
         "4400dfba-342f-4f7c-a04f-af26c5f38d6c": {
           "type": "column",
           "settings": {
-            "title": "⭐️ - 25% Alle putetrekk",
+            "title": "⭐️ - 25% Putetrekk",
             "link": "shopify:\/\/collections\/putetrekk"
           }
         },
