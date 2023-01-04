@@ -20,19 +20,6 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
-        "blocks": {
-          "149fc714-e81a-45af-a35c-2b11f466c16a": {
-            "type": "announcement",
-            "settings": {
-              "text": "⭐️ Vi flytter til nye bedre lokaler i romjulen og  ordre fom. 26 des. blir sendt fra våre nye lokaler 2. januar. ⭐️",
-              "color_scheme": "accent-2",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "149fc714-e81a-45af-a35c-2b11f466c16a"
-        ],
         "settings": {
         }
       },
