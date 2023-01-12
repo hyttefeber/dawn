@@ -732,6 +732,24 @@
         "show_text_below": true,
         "link": ""
       }
+    },
+    "6d1399e5-2d1a-45fb-92f2-effaad47c701": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "skikart-og-sjokart-til-hytte",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
     }
   },
   "order": [
@@ -754,6 +772,7 @@
     "1632262113e988bb5e",
     "1632181677ff608e6b",
     "163200636372ee71d9",
-    "1632004573cbceffe9"
+    "1632004573cbceffe9",
+    "6d1399e5-2d1a-45fb-92f2-effaad47c701"
   ]
 }
