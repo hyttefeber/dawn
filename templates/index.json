@@ -204,6 +204,7 @@
     },
     "multi_column": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "c0b59aab-a523-4771-8247-754382fce068": {
           "type": "column",
@@ -328,10 +329,10 @@
         "1631626408eee30b8a-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_b8950b37-27e4-4822-94d3-e3b083e13272.png",
+            "image": "shopify:\/\/shop_images\/2_68c62a03-2105-4ee3-a2d7-2767d460b3ed.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
+            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
           }
         },
         "13b1e9a7-4d56-4d47-9ad9-76303457fdf5": {
