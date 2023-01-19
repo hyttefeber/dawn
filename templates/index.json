@@ -11,16 +11,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "be8f641a-12ea-4f32-8392-cc1a62b5e82f": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_3.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/products\/gavekort"
-          }
-        },
         "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
           "type": "column",
           "settings": {
@@ -41,6 +31,7 @@
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/5_c6e59f1c-e985-4f15-8948-9bb8321ab180.png",
             "title": "",
@@ -48,10 +39,19 @@
             "link": "shopify:\/\/collections\/putetrekk"
           }
         },
+        "be8f641a-12ea-4f32-8392-cc1a62b5e82f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_0f255dba-88f9-44ac-8bd5-a9878d3947f5.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/skinnfeller-og-sitteunderlag"
+          }
+        },
         "0f369159-2c35-4032-9801-e5826fc19abb": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/25_82cb76af-c2b9-466c-a73a-f95de8b7561d.png",
+            "image": "shopify:\/\/shop_images\/6_20441ca7-a5d7-40cd-854e-9fb58d114f95.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
@@ -89,10 +89,10 @@
         }
       },
       "block_order": [
-        "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "12c3d4d4-9095-42c6-af0e-4ec76fddf704",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
+        "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
         "0f369159-2c35-4032-9801-e5826fc19abb",
         "1629970086900f7d29-2",
         "1629970086900f7d29-1",
