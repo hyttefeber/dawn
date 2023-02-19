@@ -125,44 +125,11 @@
             "link": "https:\/\/hyttefeber.no\/collections\/marius-servise"
           }
         },
-        "65b02595-6415-402b-8224-8690e7ba06e8": {
+        "65ca848f-beb8-4b57-8461-23a4df6d81cd": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "title": "-30% Hashtagkrus",
-            "link": "https:\/\/hyttefeber.no\/collections\/serie-hashtagkrus"
-          }
-        },
-        "05f85552-c1ca-44b1-adec-639e74fbefed": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "-30% Natur",
-            "link": "https:\/\/hyttefeber.no\/collections\/naturservise-fra-porsgrund-porselen"
-          }
-        },
-        "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "-30% Jordbæreng",
-            "link": "https:\/\/hyttefeber.no\/collections\/jordbaereng"
-          }
-        },
-        "a8c8d149-cb94-4eff-a73c-116d6bd40a4a": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "-25% Spire",
-            "link": "https:\/\/hyttefeber.no\/collections\/spire-fra-porsgrund-porselen"
-          }
-        },
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "-20% Alv",
-            "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Wik+%26+Wals%C3%B8e&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+            "title": "🔥 Billigkroken",
+            "link": "shopify:\/\/collections\/billigkroken"
           }
         }
       },
@@ -181,11 +148,7 @@
         "4171d81c-ba27-4e44-92d5-b9b0aa849c3f",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
         "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
-        "65b02595-6415-402b-8224-8690e7ba06e8",
-        "05f85552-c1ca-44b1-adec-639e74fbefed",
-        "d7245c2e-9fff-4f9c-b5b9-c034c5455d3b",
-        "a8c8d149-cb94-4eff-a73c-116d6bd40a4a",
-        "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-2"
+        "65ca848f-beb8-4b57-8461-23a4df6d81cd"
       ],
       "settings": {
         "title": "",
