@@ -94,7 +94,7 @@
             "settings": {
               "icon": "shopify:\/\/shop_images\/ikon-personlig-service.png",
               "text": "PERSONLIG SERVICE",
-              "url": "\/pages\/kundeservice-hyttefeber",
+              "url": "https:\/\/hyttefeber.no\/pages\/kundeservice-hyttefeber",
               "mobile-visibility": true
             }
           },
@@ -103,7 +103,7 @@
             "settings": {
               "icon": "shopify:\/\/shop_images\/ikon-rask-levering.png",
               "text": "LYNRASK LEVERING",
-              "url": "\/pages\/frakt-og-leveringsinformasjon",
+              "url": "https:\/\/hyttefeber.no\/pages\/frakt-og-leveringsinformasjon",
               "mobile-visibility": true
             }
           },
