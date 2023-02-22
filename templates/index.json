@@ -20,6 +20,15 @@
             "link": "shopify:\/\/collections\/paskeegg"
           }
         },
+        "be8f641a-12ea-4f32-8392-cc1a62b5e82f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_5.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
         "0f369159-2c35-4032-9801-e5826fc19abb": {
           "type": "column",
           "settings": {
@@ -46,15 +55,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/putetrekk"
-          }
-        },
-        "be8f641a-12ea-4f32-8392-cc1a62b5e82f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_5.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
           }
         },
         "1629970086900f7d29-2": {
@@ -90,10 +90,10 @@
       },
       "block_order": [
         "12c3d4d4-9095-42c6-af0e-4ec76fddf704",
+        "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
         "0f369159-2c35-4032-9801-e5826fc19abb",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
-        "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
         "1629970086900f7d29-2",
         "1629970086900f7d29-1",
         "1629970086900f7d29-0"
