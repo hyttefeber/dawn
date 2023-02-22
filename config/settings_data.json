@@ -93,7 +93,7 @@
             "type": "heading",
             "settings": {
               "icon": "shopify:\/\/shop_images\/ikon-personlig-service.png",
-              "text": "Personlig service",
+              "text": "PERSONLIG SERVICE",
               "url": "\/pages\/kundeservice-hyttefeber",
               "mobile-visibility": true
             }
@@ -102,7 +102,7 @@
             "type": "heading",
             "settings": {
               "icon": "shopify:\/\/shop_images\/ikon-rask-levering.png",
-              "text": "Lynrask levering",
+              "text": "LYNRASK LEVERING",
               "url": "\/pages\/frakt-og-leveringsinformasjon",
               "mobile-visibility": true
             }
@@ -111,8 +111,8 @@
             "type": "heading",
             "settings": {
               "icon": "shopify:\/\/shop_images\/ikon-apent-kjop.png",
-              "text": "Åpent kjøp i 90 dager",
-              "url": "",
+              "text": "ÅPENT KJØP I 90 DAGER",
+              "url": "https:\/\/hyttefeber.no\/pages\/bytte-og-returer",
               "mobile-visibility": false
             }
           },
@@ -120,8 +120,8 @@
             "type": "heading",
             "settings": {
               "icon": "shopify:\/\/shop_images\/ikon-fri-frakt.png",
-              "text": "*Fri frakt over 899,-",
-              "url": "\/pages\/frakt-og-leveringsinformasjon",
+              "text": "*GRATIS FRAKT OVER 899",
+              "url": "https:\/\/hyttefeber.no\/pages\/frakt-og-leveringsinformasjon",
               "mobile-visibility": false
             }
           }
