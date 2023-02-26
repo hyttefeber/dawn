@@ -16,6 +16,13 @@
     "172dc8d4-0708-4b25-b19f-6f0d859b417b": {
       "type": "collection-buttons-multicol",
       "blocks": {
+        "65ca848f-beb8-4b57-8461-23a4df6d81cd": {
+          "type": "column",
+          "settings": {
+            "title": "🔥 Månedens tilbud",
+            "link": "shopify:\/\/collections\/billigkroken"
+          }
+        },
         "f1565508-0119-4960-b7c6-87cd295c39cb": {
           "type": "column",
           "settings": {
@@ -124,16 +131,10 @@
             "title": "-30% Marius Servise",
             "link": "https:\/\/hyttefeber.no\/collections\/marius-servise"
           }
-        },
-        "65ca848f-beb8-4b57-8461-23a4df6d81cd": {
-          "type": "column",
-          "settings": {
-            "title": "🔥 Billigkroken",
-            "link": "shopify:\/\/collections\/billigkroken"
-          }
         }
       },
       "block_order": [
+        "65ca848f-beb8-4b57-8461-23a4df6d81cd",
         "f1565508-0119-4960-b7c6-87cd295c39cb",
         "6c2e7b1f-79e7-438d-b70e-09c93d50e22c",
         "4400dfba-342f-4f7c-a04f-af26c5f38d6c",
@@ -147,8 +148,7 @@
         "a566c0b8-296c-4664-a429-c8b4648ab34b",
         "4171d81c-ba27-4e44-92d5-b9b0aa849c3f",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
-        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
-        "65ca848f-beb8-4b57-8461-23a4df6d81cd"
+        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89"
       ],
       "settings": {
         "title": "",
