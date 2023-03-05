@@ -706,7 +706,7 @@
       "settings": {
         "heading": "Nyheter",
         "blog": "nyheter",
-        "post_limit": 2,
+        "post_limit": 3,
         "show_image": true,
         "show_date": false,
         "show_author": false,
