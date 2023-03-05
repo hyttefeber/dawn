@@ -20,6 +20,19 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "69e60e65-8b20-4842-9cee-6ee72fde9cb8": {
+            "type": "announcement",
+            "settings": {
+              "text": "NYHET! Gratis BRING hjemlevering på alle ordre 10-35kg!",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "69e60e65-8b20-4842-9cee-6ee72fde9cb8"
+        ],
         "settings": {
         }
       },
