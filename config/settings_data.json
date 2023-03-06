@@ -39,9 +39,9 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Hyttefeber_6_6ccf16af-7fee-4e6c-b7bf-c9b98f01bde3.png",
-          "scroll_logo": "shopify:\/\/shop_images\/Hyttefeber_text_only.png",
+          "color_scheme": "accent-2",
+          "logo": "shopify:\/\/shop_images\/Hyttefeber_8_no_text.png",
+          "scroll_logo": "shopify:\/\/shop_images\/Hyttefeber_8_no_graphic_white.png",
           "logo_width": 150,
           "logo_position": "top-center",
           "menu": "overmeny-2022",
