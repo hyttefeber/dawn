@@ -4,9 +4,17 @@
       "type": "pf-1099abbf",
       "settings": {
       }
+    },
+    "895a0fd4-3982-4839-a04c-f5543e02d4e1": {
+      "type": "hf-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ALt_du_elsker_til_hjem_OG_Hytte_1325_x_260_px_1.png",
+        "link": ""
+      }
     }
   },
   "order": [
-    "pf-1099abbf"
+    "pf-1099abbf",
+    "895a0fd4-3982-4839-a04c-f5543e02d4e1"
   ]
 }
