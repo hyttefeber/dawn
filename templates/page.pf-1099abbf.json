@@ -5,13 +5,6 @@
       "settings": {
       }
     },
-    "895a0fd4-3982-4839-a04c-f5543e02d4e1": {
-      "type": "hf-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ALt_du_elsker_til_hjem_OG_Hytte_1325_x_260_px_1.png",
-        "link": ""
-      }
-    },
     "715848c3-8cf3-465b-86b9-1f54a6dae942": {
       "type": "featured-blog",
       "settings": {
@@ -24,11 +17,18 @@
         "soft_background": false,
         "show_view_all": true
       }
+    },
+    "895a0fd4-3982-4839-a04c-f5543e02d4e1": {
+      "type": "hf-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ALt_du_elsker_til_hjem_OG_Hytte_1325_x_260_px_1.png",
+        "link": ""
+      }
     }
   },
   "order": [
     "pf-1099abbf",
-    "895a0fd4-3982-4839-a04c-f5543e02d4e1",
-    "715848c3-8cf3-465b-86b9-1f54a6dae942"
+    "715848c3-8cf3-465b-86b9-1f54a6dae942",
+    "895a0fd4-3982-4839-a04c-f5543e02d4e1"
   ]
 }
