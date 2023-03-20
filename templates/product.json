@@ -2,27 +2,6 @@
   "sections": {
     "16547624683fff72d1": {
       "type": "apps",
-      "blocks": {
-        "d5d23973-befe-45d6-9bcd-3d2689fc07de": {
-          "type": "shopify:\/\/apps\/schema-breadcrumbs\/blocks\/product-block\/b5b4b35d-8c76-40f1-b83c-b869ed5c50ef",
-          "settings": {
-            "home": "Hjem",
-            "home_link": "\/",
-            "bb_show_hide": true,
-            "bb_show_more": false,
-            "bb_capitalize": true,
-            "bb_font_size": 13,
-            "bb_padding": 32,
-            "bb_top_padding": 10,
-            "bb_margin": 0,
-            "bb_align": "left",
-            "bb_color": "#C0C0C0"
-          }
-        }
-      },
-      "block_order": [
-        "d5d23973-befe-45d6-9bcd-3d2689fc07de"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -91,6 +70,11 @@
             "show_dynamic_checkout": false
           }
         },
+        "ddff70ba-f0b1-44a3-854f-35ac3b5312b1": {
+          "type": "shopify:\/\/apps\/vipps-hurtigkasse-hyttefeber\/blocks\/express-checkout-button\/02c51c2e-184d-4ead-8772-6ee946e4bb55",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -119,6 +103,7 @@
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
         "bdbd0e2a-b5c7-4ec8-a2aa-506db71709c2",
         "buy_buttons",
+        "ddff70ba-f0b1-44a3-854f-35ac3b5312b1",
         "description",
         "share",
         "9f668dc8-c957-4451-b678-063693ea2ef1"
