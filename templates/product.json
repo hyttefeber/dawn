@@ -55,23 +55,14 @@
           "settings": {
           }
         },
-        "bdbd0e2a-b5c7-4ec8-a2aa-506db71709c2": {
-          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
-          "settings": {
-            "enabled": true,
-            "id": "28310",
-            "product_id_enabled": true,
-            "collection_id_enabled": false
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false
           }
         },
-        "ddff70ba-f0b1-44a3-854f-35ac3b5312b1": {
-          "type": "shopify:\/\/apps\/vipps-hurtigkasse-hyttefeber\/blocks\/express-checkout-button\/02c51c2e-184d-4ead-8772-6ee946e4bb55",
+        "c85ace0d-d33d-4833-b052-5e2e2f4efbd3": {
+          "type": "shopify:\/\/apps\/hyttefeber-vipps-hurtigkasse\/blocks\/express-checkout-button\/ff3cbb61-62ca-4929-aa22-67fd0cce9ff1",
           "settings": {
           }
         },
@@ -101,9 +92,8 @@
         "variant_picker",
         "quantity_selector",
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
-        "bdbd0e2a-b5c7-4ec8-a2aa-506db71709c2",
         "buy_buttons",
-        "ddff70ba-f0b1-44a3-854f-35ac3b5312b1",
+        "c85ace0d-d33d-4833-b052-5e2e2f4efbd3",
         "description",
         "share",
         "9f668dc8-c957-4451-b678-063693ea2ef1"
@@ -122,20 +112,6 @@
     },
     "164657632350204f87": {
       "type": "apps",
-      "blocks": {
-        "16ec091a-c03d-4581-b65f-8e855776ca18": {
-          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
-          "settings": {
-            "enabled": true,
-            "id": "28313",
-            "product_id_enabled": true,
-            "collection_id_enabled": false
-          }
-        }
-      },
-      "block_order": [
-        "16ec091a-c03d-4581-b65f-8e855776ca18"
-      ],
       "settings": {
         "include_margins": true
       }
