@@ -61,8 +61,8 @@
             "show_dynamic_checkout": false
           }
         },
-        "c85ace0d-d33d-4833-b052-5e2e2f4efbd3": {
-          "type": "shopify:\/\/apps\/hyttefeber-vipps-hurtigkasse\/blocks\/express-checkout-button\/ff3cbb61-62ca-4929-aa22-67fd0cce9ff1",
+        "e0b95f93-4f57-4413-8e6d-c1aeafd6ce30": {
+          "type": "shopify:\/\/apps\/vipps-hurtigkasse-hyttefeber\/blocks\/express-checkout-button\/02c51c2e-184d-4ead-8772-6ee946e4bb55",
           "settings": {
           }
         },
@@ -93,7 +93,7 @@
         "quantity_selector",
         "6b9ba633-10f0-4907-bcf6-c04c3113db92",
         "buy_buttons",
-        "c85ace0d-d33d-4833-b052-5e2e2f4efbd3",
+        "e0b95f93-4f57-4413-8e6d-c1aeafd6ce30",
         "description",
         "share",
         "9f668dc8-c957-4451-b678-063693ea2ef1"
