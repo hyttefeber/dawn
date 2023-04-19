@@ -7,6 +7,69 @@
         "show_collection_image": false
       }
     },
+    "52ae4691-4bdd-47bb-b004-40fe4a82d617": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-0": {
+          "type": "column",
+          "settings": {
+            "title": "Hengekøyer",
+            "link": "shopify:\/\/collections\/hengekoyer"
+          }
+        },
+        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-1": {
+          "type": "column",
+          "settings": {
+            "title": "Sittesekker",
+            "link": "shopify:\/\/collections\/sittesekker-fra-fatboy"
+          }
+        },
+        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-2": {
+          "type": "column",
+          "settings": {
+            "title": "Belysning",
+            "link": "shopify:\/\/collections\/fatboy-belysning"
+          }
+        },
+        "2c8b8c0d-2344-4627-afcb-b6a00c581393": {
+          "type": "column",
+          "settings": {
+            "title": "Paletti",
+            "link": "shopify:\/\/collections\/paletti-modulbasert-sittegruppe"
+          }
+        },
+        "9cff6b2e-7493-438f-a444-7cf91a34dabf": {
+          "type": "column",
+          "settings": {
+            "title": "Stoler",
+            "link": ""
+          }
+        },
+        "fdb878b0-3bef-4461-8ce7-5d4eafd0edf0": {
+          "type": "column",
+          "settings": {
+            "title": "Bord",
+            "link": "shopify:\/\/collections\/fatboy-hengekoyer"
+          }
+        }
+      },
+      "block_order": [
+        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-0",
+        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-1",
+        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-2",
+        "2c8b8c0d-2344-4627-afcb-b6a00c581393",
+        "9cff6b2e-7493-438f-a444-7cf91a34dabf",
+        "fdb878b0-3bef-4461-8ce7-5d4eafd0edf0"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -218,6 +281,7 @@
   },
   "order": [
     "banner",
+    "52ae4691-4bdd-47bb-b004-40fe4a82d617",
     "product-grid",
     "16522621980aa319e9",
     "16388220553dbbfb02"
