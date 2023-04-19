@@ -24,7 +24,7 @@
             "link": "shopify:\/\/collections\/sittesekker-fra-fatboy"
           }
         },
-        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-2": {
+        "4da4d4d0-0adc-4413-968c-0fff184f7fc0": {
           "type": "column",
           "settings": {
             "title": "Belysning",
@@ -56,7 +56,7 @@
       "block_order": [
         "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-0",
         "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-1",
-        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-2",
+        "4da4d4d0-0adc-4413-968c-0fff184f7fc0",
         "2c8b8c0d-2344-4627-afcb-b6a00c581393",
         "9cff6b2e-7493-438f-a444-7cf91a34dabf",
         "fdb878b0-3bef-4461-8ce7-5d4eafd0edf0"
