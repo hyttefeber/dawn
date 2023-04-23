@@ -18,6 +18,7 @@
       "blocks": {
         "65ca848f-beb8-4b57-8461-23a4df6d81cd": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "🔥 Månedens tilbud",
             "link": "shopify:\/\/collections\/billigkroken"
@@ -25,6 +26,7 @@
         },
         "f1565508-0119-4960-b7c6-87cd295c39cb": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️-40% Tova tøfler",
             "link": "shopify:\/\/collections\/tofler"
@@ -40,6 +42,7 @@
         },
         "4400dfba-342f-4f7c-a04f-af26c5f38d6c": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️ - 30% Putetrekk",
             "link": "shopify:\/\/collections\/putetrekk"
@@ -47,6 +50,7 @@
         },
         "e343ca5d-e7a5-4717-ac41-9b3468c6fadc": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️-55% Julekuler",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Julekuler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
