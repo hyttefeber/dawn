@@ -139,6 +139,15 @@
             "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
         },
+        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_2.png",
+            "title": "OONI PIZZAOVNER",
+            "text": "",
+            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
+          }
+        },
         "165650839508dbe543-0": {
           "type": "column",
           "settings": {
@@ -156,22 +165,13 @@
             "text": "",
             "link": "shopify:\/\/collections\/espegard"
           }
-        },
-        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_2.png",
-            "title": "OONI PIZZAOVNER",
-            "text": "",
-            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
-          }
         }
       },
       "block_order": [
         "165650839508dbe543-1",
+        "85fc501c-c7a0-490f-be65-8610024dd8c4",
         "165650839508dbe543-0",
-        "165650839508dbe543-2",
-        "85fc501c-c7a0-490f-be65-8610024dd8c4"
+        "165650839508dbe543-2"
       ],
       "settings": {
         "title": "Populære merker",
@@ -329,19 +329,19 @@
         "1631626408eee30b8a-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER4_745x495_4.png",
+            "image": "shopify:\/\/shop_images\/3_32a3c816-3b8b-4acc-8400-925e0ca2778a.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "13b1e9a7-4d56-4d47-9ad9-76303457fdf5": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_c4cede3e-4684-41f2-bcbf-7e4f341377a2.png",
+            "image": "shopify:\/\/shop_images\/BANNER4_745x495_4.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/pilar-balbrenner"
+            "link": "shopify:\/\/collections\/lama-interior-lykter-tekstil-brett-fat-og-dekor"
           }
         },
         "1631626408eee30b8a-0": {
