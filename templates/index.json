@@ -326,15 +326,6 @@
     "1631626408eee30b8a": {
       "type": "multicolumn",
       "blocks": {
-        "1631626408eee30b8a-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3_32a3c816-3b8b-4acc-8400-925e0ca2778a.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
-          }
-        },
         "13b1e9a7-4d56-4d47-9ad9-76303457fdf5": {
           "type": "column",
           "settings": {
@@ -346,19 +337,28 @@
         },
         "1631626408eee30b8a-0": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/BANNER4_745x495_1.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/fatboy"
           }
+        },
+        "1631626408eee30b8a-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_32a3c816-3b8b-4acc-8400-925e0ca2778a.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+          }
         }
       },
       "block_order": [
-        "1631626408eee30b8a-1",
         "13b1e9a7-4d56-4d47-9ad9-76303457fdf5",
-        "1631626408eee30b8a-0"
+        "1631626408eee30b8a-0",
+        "1631626408eee30b8a-1"
       ],
       "settings": {
         "title": "",
