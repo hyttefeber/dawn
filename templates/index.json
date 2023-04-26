@@ -150,7 +150,6 @@
         },
         "85fc501c-c7a0-490f-be65-8610024dd8c4": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_29.11_2.png",
             "title": "OONI PIZZAOVNER",
@@ -170,7 +169,6 @@
         },
         "165650839508dbe543-2": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/12_9c45abb7-f54f-4eef-b2ba-d787885002b6.png",
             "title": "ESPEGARD",
