@@ -133,10 +133,19 @@
         "165650839508dbe543-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_1.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_1_833b628c-4f4b-491f-a392-5c395581e349.png",
             "title": "NORGESGLASS",
             "text": "",
             "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "41dd7d56-59d0-474e-95dc-511597159bb0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_677764f0-e9c3-4728-87e0-ae039ed5317d.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/barebones"
           }
         },
         "85fc501c-c7a0-490f-be65-8610024dd8c4": {
@@ -150,6 +159,7 @@
         },
         "165650839508dbe543-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/17_926217ec-77f1-429d-806a-9d4fa30e4190.png",
             "title": "MARIUS",
@@ -169,6 +179,7 @@
       },
       "block_order": [
         "165650839508dbe543-1",
+        "41dd7d56-59d0-474e-95dc-511597159bb0",
         "85fc501c-c7a0-490f-be65-8610024dd8c4",
         "165650839508dbe543-0",
         "165650839508dbe543-2"
