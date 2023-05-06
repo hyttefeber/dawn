@@ -11,6 +11,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_a69b1363-e366-4f36-8618-d10036bdc082.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
         "be8f641a-12ea-4f32-8392-cc1a62b5e82f": {
           "type": "column",
           "settings": {
@@ -87,18 +96,10 @@
             "text": "",
             "link": "shopify:\/\/collections\/kakeboks"
           }
-        },
-        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_a69b1363-e366-4f36-8618-d10036bdc082.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
         }
       },
       "block_order": [
+        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
@@ -106,8 +107,7 @@
         "12c3d4d4-9095-42c6-af0e-4ec76fddf704",
         "1629970086900f7d29-0",
         "1629970086900f7d29-2",
-        "1629970086900f7d29-1",
-        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee"
+        "1629970086900f7d29-1"
       ],
       "settings": {
         "title": "",
@@ -141,15 +141,6 @@
     "1656508395028523fd": {
       "type": "multicolumn",
       "blocks": {
-        "165650839508dbe543-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_1_833b628c-4f4b-491f-a392-5c395581e349.png",
-            "title": "NORGESGLASS",
-            "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
-        },
         "41dd7d56-59d0-474e-95dc-511597159bb0": {
           "type": "column",
           "settings": {
@@ -157,6 +148,15 @@
             "title": "BAREBONES",
             "text": "",
             "link": "shopify:\/\/collections\/barebones"
+          }
+        },
+        "165650839508dbe543-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_1_833b628c-4f4b-491f-a392-5c395581e349.png",
+            "title": "NORGESGLASS",
+            "text": "",
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
         },
         "85fc501c-c7a0-490f-be65-8610024dd8c4": {
@@ -189,8 +189,8 @@
         }
       },
       "block_order": [
-        "165650839508dbe543-1",
         "41dd7d56-59d0-474e-95dc-511597159bb0",
+        "165650839508dbe543-1",
         "85fc501c-c7a0-490f-be65-8610024dd8c4",
         "165650839508dbe543-0",
         "165650839508dbe543-2"
