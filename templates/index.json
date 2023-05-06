@@ -40,6 +40,7 @@
         },
         "0f369159-2c35-4032-9801-e5826fc19abb": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1_38308edf-53b9-451c-b9d2-dc86d9015401.png",
             "title": "",
@@ -86,6 +87,15 @@
             "text": "",
             "link": "shopify:\/\/collections\/kakeboks"
           }
+        },
+        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_a69b1363-e366-4f36-8618-d10036bdc082.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
         }
       },
       "block_order": [
@@ -96,7 +106,8 @@
         "12c3d4d4-9095-42c6-af0e-4ec76fddf704",
         "1629970086900f7d29-0",
         "1629970086900f7d29-2",
-        "1629970086900f7d29-1"
+        "1629970086900f7d29-1",
+        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee"
       ],
       "settings": {
         "title": "",
@@ -130,15 +141,6 @@
     "1656508395028523fd": {
       "type": "multicolumn",
       "blocks": {
-        "41dd7d56-59d0-474e-95dc-511597159bb0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_677764f0-e9c3-4728-87e0-ae039ed5317d.png",
-            "title": "BAREBONES",
-            "text": "",
-            "link": "shopify:\/\/collections\/barebones"
-          }
-        },
         "165650839508dbe543-1": {
           "type": "column",
           "settings": {
@@ -146,6 +148,15 @@
             "title": "NORGESGLASS",
             "text": "",
             "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "41dd7d56-59d0-474e-95dc-511597159bb0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_677764f0-e9c3-4728-87e0-ae039ed5317d.png",
+            "title": "BAREBONES",
+            "text": "",
+            "link": "shopify:\/\/collections\/barebones"
           }
         },
         "85fc501c-c7a0-490f-be65-8610024dd8c4": {
@@ -178,8 +189,8 @@
         }
       },
       "block_order": [
-        "41dd7d56-59d0-474e-95dc-511597159bb0",
         "165650839508dbe543-1",
+        "41dd7d56-59d0-474e-95dc-511597159bb0",
         "85fc501c-c7a0-490f-be65-8610024dd8c4",
         "165650839508dbe543-0",
         "165650839508dbe543-2"
