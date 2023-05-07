@@ -39,16 +39,16 @@
             "collection": "norgesglass-kjokkenglass"
           }
         },
-        "4c2f4c1e-166a-4e0d-91b8-4c501a4ba256": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "norgesglass-oppbevaringsglassene"
-          }
-        },
         "2a399ed1-45e4-40b0-ac2c-84e8d0bfbf45": {
           "type": "featured_collection",
           "settings": {
             "collection": "norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "4c2f4c1e-166a-4e0d-91b8-4c501a4ba256": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "norgesglass-oppbevaringsglassene"
           }
         },
         "f8b0c5fb-6e16-4e48-b172-b6ec73a73c00": {
@@ -79,8 +79,8 @@
       "block_order": [
         "163430032528abe728-0",
         "163430032528abe728-1",
-        "4c2f4c1e-166a-4e0d-91b8-4c501a4ba256",
         "2a399ed1-45e4-40b0-ac2c-84e8d0bfbf45",
+        "4c2f4c1e-166a-4e0d-91b8-4c501a4ba256",
         "f8b0c5fb-6e16-4e48-b172-b6ec73a73c00",
         "163430032528abe728-2",
         "7bece23b-2bc4-44f1-86a7-a5e1cd286eaf",
