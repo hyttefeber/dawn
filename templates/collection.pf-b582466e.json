@@ -42,7 +42,6 @@
         },
         "4400dfba-342f-4f7c-a04f-af26c5f38d6c": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "⭐️ - 30% Putetrekk",
             "link": "shopify:\/\/collections\/putetrekk"
@@ -114,9 +113,8 @@
         },
         "4171d81c-ba27-4e44-92d5-b9b0aa849c3f": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "title": "-25% Norgesglasset",
+            "title": "⭐️-30% Norgesglasset",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Norgesglasset&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
