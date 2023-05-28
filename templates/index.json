@@ -393,6 +393,24 @@
         "swipe_on_mobile": false
       }
     },
+    "ce52e10f-5356-4f35-84cb-efa8bcdc4069": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Putetrekk",
+        "collection": "putetrekk",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "1632087749cf8f8ea0": {
       "type": "image-with-text",
       "blocks": {
@@ -799,6 +817,7 @@
     "multi_column",
     "featured_products",
     "1631626408eee30b8a",
+    "ce52e10f-5356-4f35-84cb-efa8bcdc4069",
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
     "1632087735695d2a16",
