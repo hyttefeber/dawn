@@ -13,29 +13,37 @@
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0": {
           "type": "column",
           "settings": {
-            "title": "LINPUTER",
+            "title": "LIN",
             "link": "shopify:\/\/collections\/lin"
           }
         },
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1": {
           "type": "column",
           "settings": {
-            "title": "Følyelsputer",
+            "title": "FLØYEL",
             "link": "shopify:\/\/collections\/floyel"
           }
         },
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2": {
           "type": "column",
           "settings": {
-            "title": "Link",
-            "link": ""
+            "title": "ULL",
+            "link": "shopify:\/\/collections\/ull"
+          }
+        },
+        "be482084-912b-438a-b0f9-10982f78e3dc": {
+          "type": "column",
+          "settings": {
+            "title": "MOTIV",
+            "link": "shopify:\/\/collections\/motiv"
           }
         }
       },
       "block_order": [
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0",
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1",
-        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2"
+        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2",
+        "be482084-912b-438a-b0f9-10982f78e3dc"
       ],
       "settings": {
         "title": "",
