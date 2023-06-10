@@ -43,7 +43,7 @@
         "4400dfba-342f-4f7c-a04f-af26c5f38d6c": {
           "type": "column",
           "settings": {
-            "title": "⭐️ - 30% Putetrekk",
+            "title": "⭐️ Putetrekk -30%",
             "link": "shopify:\/\/collections\/putetrekk"
           }
         },
@@ -106,7 +106,7 @@
         "4171d81c-ba27-4e44-92d5-b9b0aa849c3f": {
           "type": "column",
           "settings": {
-            "title": "⭐️-25% Norgesglasset",
+            "title": "⭐️Norgesglasset -25%",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.vendor=Norgesglasset&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
@@ -125,6 +125,13 @@
             "title": "-30% Marius Servise",
             "link": "https:\/\/hyttefeber.no\/collections\/marius-servise"
           }
+        },
+        "8ba345ae-deee-4d76-9b7c-5d650fd227e6": {
+          "type": "column",
+          "settings": {
+            "title": "Hengekøyer - 9%",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -141,7 +148,8 @@
         "a566c0b8-296c-4664-a429-c8b4648ab34b",
         "4171d81c-ba27-4e44-92d5-b9b0aa849c3f",
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
-        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89"
+        "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
+        "8ba345ae-deee-4d76-9b7c-5d650fd227e6"
       ],
       "settings": {
         "title": "",
