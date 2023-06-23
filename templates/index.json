@@ -22,7 +22,6 @@
         },
         "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/8_c1204c13-61b5-4e27-b165-037b7c0d8675.png",
             "title": "",
@@ -50,6 +49,7 @@
         },
         "be8f641a-12ea-4f32-8392-cc1a62b5e82f": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_5.png",
             "title": "",
