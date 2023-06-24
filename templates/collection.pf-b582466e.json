@@ -16,6 +16,13 @@
     "172dc8d4-0708-4b25-b19f-6f0d859b417b": {
       "type": "collection-buttons-multicol",
       "blocks": {
+        "324238ba-be63-48cb-a31b-024946198efb": {
+          "type": "column",
+          "settings": {
+            "title": "☀️SOMMERSALG☀️",
+            "link": "shopify:\/\/collections\/sommersalg"
+          }
+        },
         "65ca848f-beb8-4b57-8461-23a4df6d81cd": {
           "type": "column",
           "disabled": true,
@@ -79,14 +86,6 @@
             "link": "shopify:\/\/collections\/espegard"
           }
         },
-        "cf6d0d18-754e-464a-a32c-d3922d4bc05f": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "⭐️ -45% Frost Bålpanne",
-            "link": "shopify:\/\/collections\/frost-produkter-rentbrennende-balpanner"
-          }
-        },
         "a29525f0-de82-4bf5-9651-9581275b5209": {
           "type": "column",
           "disabled": true,
@@ -129,12 +128,13 @@
         "8ba345ae-deee-4d76-9b7c-5d650fd227e6": {
           "type": "column",
           "settings": {
-            "title": "Hengekøyer - 9%",
+            "title": "⭐️Hengekøyer - 9%",
             "link": ""
           }
         }
       },
       "block_order": [
+        "324238ba-be63-48cb-a31b-024946198efb",
         "65ca848f-beb8-4b57-8461-23a4df6d81cd",
         "f1565508-0119-4960-b7c6-87cd295c39cb",
         "6c2e7b1f-79e7-438d-b70e-09c93d50e22c",
@@ -143,7 +143,6 @@
         "0a5c8754-2370-4e39-b27b-e9f9741f4f56",
         "e29f472e-a9ad-41b7-9437-b401030e986f",
         "b06b32e6-9974-45f9-afcc-98cb2d66a3d0",
-        "cf6d0d18-754e-464a-a32c-d3922d4bc05f",
         "a29525f0-de82-4bf5-9651-9581275b5209",
         "a566c0b8-296c-4664-a429-c8b4648ab34b",
         "4171d81c-ba27-4e44-92d5-b9b0aa849c3f",
