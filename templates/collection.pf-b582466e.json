@@ -19,7 +19,7 @@
         "324238ba-be63-48cb-a31b-024946198efb": {
           "type": "column",
           "settings": {
-            "title": "☀️SOMMERSALG☀️",
+            "title": "☀️SE SOMMERSALG",
             "link": "shopify:\/\/collections\/sommersalg"
           }
         },
@@ -49,6 +49,7 @@
         },
         "4400dfba-342f-4f7c-a04f-af26c5f38d6c": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️ Putetrekk -30%",
             "link": "shopify:\/\/collections\/putetrekk"
@@ -127,6 +128,7 @@
         },
         "8ba345ae-deee-4d76-9b7c-5d650fd227e6": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️Hengekøyer - 9%",
             "link": ""
