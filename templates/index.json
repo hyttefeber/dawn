@@ -11,10 +11,19 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_b4f3b8bf-c9c1-40ef-b05c-45e3e251cd23.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/sommersalg"
+          }
+        },
         "048e39d8-f470-4ff8-ac04-e015056a5a01": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_2_723c43a2-1b93-46ee-94d7-1c85423660bc.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_6_ac667298-1333-4bcf-8859-89716ac475fc.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/solo-stove"
@@ -22,6 +31,7 @@
         },
         "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/8_c1204c13-61b5-4e27-b165-037b7c0d8675.png",
             "title": "",
@@ -109,6 +119,7 @@
         }
       },
       "block_order": [
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
