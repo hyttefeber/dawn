@@ -50,6 +50,7 @@
         },
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/2_ed61f094-8ebf-4823-b275-bec2b895feeb.png",
             "title": "",
