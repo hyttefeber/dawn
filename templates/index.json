@@ -20,8 +20,27 @@
             "link": "shopify:\/\/collections\/sommersalg"
           }
         },
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_612790cf-9bf6-459c-9409-d659f159fd49.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+          }
+        },
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_c1204c13-61b5-4e27-b165-037b7c0d8675.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/fatboy"
+          }
+        },
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/14_b2379e89-2a37-4fdc-b8c0-aad5b6921bbf.png",
             "title": "",
@@ -36,25 +55,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/solo-stove"
-          }
-        },
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8_c1204c13-61b5-4e27-b165-037b7c0d8675.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/fatboy"
-          }
-        },
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_612790cf-9bf6-459c-9409-d659f159fd49.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
@@ -130,10 +130,10 @@
       },
       "block_order": [
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
         "0f369159-2c35-4032-9801-e5826fc19abb",
