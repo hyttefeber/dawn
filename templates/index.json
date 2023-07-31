@@ -515,12 +515,13 @@
     },
     "1632087735695d2a16": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "112d065a-968b-4f0a-9ca1-dda3553c5e80": {
           "type": "text_banner",
           "settings": {
-            "text_banner_heading": "MARIUS®",
-            "text_banner_content": "Tidløst, tradisjonelt og trendy",
+            "text_banner_heading": "Marius",
+            "text_banner_content": "Tisdløst og trendy",
             "color_scheme": "accent-2"
           }
         },
@@ -564,14 +565,65 @@
         "layout": "image_first"
       }
     },
+    "149a154a-b132-4c7a-b012-715fd0af5888": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "LUMIZ SOLCELLELYKTER"
+          }
+        },
+        "80983682-0b67-4a4d-962d-3e86e4f2e662": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "LUMIZ",
+            "text_banner_content": "Eksklusivt på Hyttefeber.no",
+            "color_scheme": "accent-2"
+          }
+        },
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Fargelegg hagen din med Lumiz.<br\/><\/strong>Den perfekte måten å skape en magisk stemning på i en enhver hage, bakgård uteplass eller veranda.<\/p><p><strong>Slipp kreativiteten løs - disse lyktene elsker å bli kombinert sammen.<br\/><\/strong><\/p>"
+          }
+        },
+        "119d7d91-5b25-4482-a980-ef49ae1ea00e": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/294490642_473824028077086_3778541620175889844_n.png"
+          }
+        },
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vis Alle",
+            "button_link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
+          }
+        }
+      },
+      "block_order": [
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-heading-1",
+        "80983682-0b67-4a4d-962d-3e86e4f2e662",
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-text-1",
+        "119d7d91-5b25-4482-a980-ef49ae1ea00e",
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8258_f1c08fd6-ea4f-4ccc-8a23-6019a823608d.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "163163093769b5efc1": {
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "collection": "alt-marius-servise-kopper-sokker-servietter-og-mer",
+        "collection": "lumiz-solcelle-lanterner",
         "products_to_show": 12,
         "show_view_all": true,
-        "view_all_text": "Vis alt Marius",
+        "view_all_text": "Vis alt Lumiz",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -854,6 +906,7 @@
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
     "1632087735695d2a16",
+    "149a154a-b132-4c7a-b012-715fd0af5888",
     "163163093769b5efc1",
     "163208927285d0ee5e",
     "163215496531ff8641",
