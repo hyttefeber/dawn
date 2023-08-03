@@ -7,6 +7,45 @@
         "show_collection_image": false
       }
     },
+    "071ef2a6-a647-4f3f-afbb-a5a00d87aa8e": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "template--15102286037143__071ef2a6-a647-4f3f-afbb-a5a00d87aa8e-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "BONFIRE",
+            "link": "shopify:\/\/collections\/solo-stove-bonfire"
+          }
+        },
+        "template--15102286037143__071ef2a6-a647-4f3f-afbb-a5a00d87aa8e-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "YUKON",
+            "link": "shopify:\/\/collections\/solo-stove-yukon"
+          }
+        },
+        "template--15102286037143__071ef2a6-a647-4f3f-afbb-a5a00d87aa8e-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "PIZZA",
+            "link": "shopify:\/\/collections\/solo-stove-pizza"
+          }
+        }
+      },
+      "block_order": [
+        "template--15102286037143__071ef2a6-a647-4f3f-afbb-a5a00d87aa8e-column-1",
+        "template--15102286037143__071ef2a6-a647-4f3f-afbb-a5a00d87aa8e-column-2",
+        "template--15102286037143__071ef2a6-a647-4f3f-afbb-a5a00d87aa8e-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -98,6 +137,7 @@
   },
   "order": [
     "banner",
+    "071ef2a6-a647-4f3f-afbb-a5a00d87aa8e",
     "product-grid",
     "16388220553dbbfb02"
   ]
