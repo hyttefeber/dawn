@@ -14,7 +14,7 @@
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_15.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_2_a9bd41e7-b04d-4e8b-914a-90892a427615.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/sommersalg"
@@ -270,7 +270,6 @@
     },
     "multi_column": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "c0b59aab-a523-4771-8247-754382fce068": {
           "type": "column",
@@ -360,6 +359,7 @@
         "column3",
         "column1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "image_width": "full",
@@ -559,7 +559,6 @@
     },
     "1632087735695d2a16": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "112d065a-968b-4f0a-9ca1-dda3553c5e80": {
           "type": "text_banner",
@@ -602,6 +601,7 @@
         "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2",
         "1632087735695d2a16-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/marius-forside-brand.jpg",
         "height": "small",
