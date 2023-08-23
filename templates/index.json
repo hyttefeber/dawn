@@ -182,78 +182,10 @@
         "show_rating": true
       }
     },
-    "1656508395028523fd": {
-      "type": "multicolumn",
-      "blocks": {
-        "41dd7d56-59d0-474e-95dc-511597159bb0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_677764f0-e9c3-4728-87e0-ae039ed5317d.png",
-            "title": "BAREBONES",
-            "text": "",
-            "link": "shopify:\/\/collections\/barebones"
-          }
-        },
-        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_2.png",
-            "title": "OONI PIZZAOVNER",
-            "text": "",
-            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
-          }
-        },
-        "165650839508dbe543-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_1_833b628c-4f4b-491f-a392-5c395581e349.png",
-            "title": "NORGESGLASS",
-            "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "165650839508dbe543-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/17_926217ec-77f1-429d-806a-9d4fa30e4190.png",
-            "title": "MARIUS",
-            "text": "",
-            "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
-          }
-        },
-        "165650839508dbe543-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/12_9c45abb7-f54f-4eef-b2ba-d787885002b6.png",
-            "title": "ESPEGARD",
-            "text": "",
-            "link": "shopify:\/\/collections\/espegard"
-          }
-        }
-      },
-      "block_order": [
-        "41dd7d56-59d0-474e-95dc-511597159bb0",
-        "85fc501c-c7a0-490f-be65-8610024dd8c4",
-        "165650839508dbe543-1",
-        "165650839508dbe543-0",
-        "165650839508dbe543-2"
-      ],
-      "settings": {
-        "title": "Populære merker",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "shopify:\/\/collections\/salg-manedens-kupp",
-        "swipe_on_mobile": true
-      }
-    },
     "1632000821b08894c5": {
       "type": "featured-collection",
       "settings": {
-        "title": "Populært nå",
+        "title": "POPULÆRT NÅ",
         "collection": "populaert-na",
         "products_to_show": 12,
         "show_view_all": true,
@@ -374,7 +306,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Siste Nyheter",
+        "title": "SISTE NYHETER",
         "collection": "nyheter-hos-hyttefeber",
         "products_to_show": 12,
         "show_view_all": true,
@@ -699,7 +631,7 @@
     "b4fa5622-d269-4c4c-8b18-fd772bd14b4d": {
       "type": "text-banner",
       "settings": {
-        "text_banner_title": "Putetrekk",
+        "text_banner_title": "PUTETREKK",
         "text_banner_body": "Kvalitetsputer som varer.",
         "color-scheme": "primary"
       }
@@ -776,6 +708,74 @@
         "show_rating": true
       }
     },
+    "1656508395028523fd": {
+      "type": "multicolumn",
+      "blocks": {
+        "41dd7d56-59d0-474e-95dc-511597159bb0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_677764f0-e9c3-4728-87e0-ae039ed5317d.png",
+            "title": "BAREBONES",
+            "text": "",
+            "link": "shopify:\/\/collections\/barebones"
+          }
+        },
+        "85fc501c-c7a0-490f-be65-8610024dd8c4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_2.png",
+            "title": "OONI PIZZAOVNER",
+            "text": "",
+            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
+          }
+        },
+        "165650839508dbe543-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_1_833b628c-4f4b-491f-a392-5c395581e349.png",
+            "title": "NORGESGLASS",
+            "text": "",
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "165650839508dbe543-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/17_926217ec-77f1-429d-806a-9d4fa30e4190.png",
+            "title": "MARIUS",
+            "text": "",
+            "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
+          }
+        },
+        "165650839508dbe543-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12_9c45abb7-f54f-4eef-b2ba-d787885002b6.png",
+            "title": "ESPEGARD",
+            "text": "",
+            "link": "shopify:\/\/collections\/espegard"
+          }
+        }
+      },
+      "block_order": [
+        "41dd7d56-59d0-474e-95dc-511597159bb0",
+        "85fc501c-c7a0-490f-be65-8610024dd8c4",
+        "165650839508dbe543-1",
+        "165650839508dbe543-0",
+        "165650839508dbe543-2"
+      ],
+      "settings": {
+        "title": "POPULÆRE MERKER",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify:\/\/collections\/salg-manedens-kupp",
+        "swipe_on_mobile": true
+      }
+    },
     "163200636372ee71d9": {
       "type": "featured-blog",
       "settings": {
@@ -847,7 +847,6 @@
     "16327413955ebd8133",
     "1629970086900f7d29",
     "16565084024c1aa69a",
-    "1656508395028523fd",
     "1632000821b08894c5",
     "multi_column",
     "featured_products",
@@ -865,6 +864,7 @@
     "1632181677ff608e6b",
     "acd696e2-614f-4e14-a6b2-3dbdb393a176",
     "6d1399e5-2d1a-45fb-92f2-effaad47c701",
+    "1656508395028523fd",
     "163200636372ee71d9",
     "4828d3b1-8fb6-4343-95a0-83aa06fb0bd8",
     "1632004573cbceffe9"
