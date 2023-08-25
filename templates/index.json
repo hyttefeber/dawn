@@ -169,7 +169,7 @@
       "settings": {
         "title": "KAMPANJER",
         "collection": "salg-manedens-kupp",
-        "products_to_show": 8,
+        "products_to_show": 4,
         "show_view_all": true,
         "view_all_text": "",
         "swipe_on_mobile": true,
@@ -327,7 +327,7 @@
         "13b1e9a7-4d56-4d47-9ad9-76303457fdf5": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5_6a54613a-2bad-43b0-aa91-73d516a1cbda.png",
+            "image": "shopify:\/\/shop_images\/BANNER4_745x495_e011b212-aa28-4311-911b-6ca5dd3f3b2f.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/lama-interior-lykter-tekstil-brett-fat-og-dekor"
@@ -366,7 +366,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "149a154a-b132-4c7a-b012-715fd0af5888": {
