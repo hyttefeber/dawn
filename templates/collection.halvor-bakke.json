@@ -21,7 +21,7 @@
           "type": "column",
           "settings": {
             "title": "Putetrekk",
-            "link": "https:\/\/hyttefeber.no\/collections\/serie-halvor-bakke?filter.p.product_type=Putetrekk&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
+            "link": "shopify:\/\/collections\/putetrekk-halvor-bakke"
           }
         },
         "16644444261d218ff7-2": {
