@@ -134,7 +134,7 @@
             "type": "heading",
             "settings": {
               "icon": "shopify:\/\/shop_images\/ikon-fri-frakt.png",
-              "text": "*GRATIS FRAKT OVER 999",
+              "text": "*GRATIS FRAKT OVER 999,-",
               "url": "https:\/\/hyttefeber.no\/pages\/frakt-og-leveringsinformasjon",
               "mobile-visibility": false
             }
