@@ -204,7 +204,7 @@
       "cart_quantity_error_html": "Du kan bare legge til [quantity] av denne varen i handlekurven.",
       "taxes_and_shipping_policy_at_checkout_html": "Avgifter og <a href=\"{{ link }}\">frakt<\/a> beregnes i kassen",
       "taxes_included_but_shipping_at_checkout": "Inkludert mva og frakt beregnes i kassen",
-      "taxes_included_and_shipping_policy_html": "Frakt velges i neste steg (fra 79 kr) Gratis frakt på ordre over 999kr, under 35kg.  Klikk på den grønne kanppen for å gå til kassen.",
+      "taxes_included_and_shipping_policy_html": "Frakt fra 79kr velges i neste steg. Gratis frakt på ordre over 999kr, under 35kg.  Klikk på den grønne kanppen for å gå til kassen.",
       "taxes_and_shipping_at_checkout": "MVA og frakt beregnes i kassen",
       "headings": {
         "product": "Produkt",
