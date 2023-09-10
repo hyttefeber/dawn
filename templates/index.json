@@ -11,13 +11,13 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
+        "010e5a34-6e95-4429-82f1-20644f8c07df": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_3_3d536da6-23aa-4ef7-8b4f-577e0aae0fbe.png",
+            "image": "shopify:\/\/shop_images\/12_2279362f-b4c9-4a33-9b2d-8b9601894cc0.png",
             "title": "",
             "text": "",
-            "link": "https:\/\/hyttefeber.no\/collections\/matlaging-utendors"
+            "link": "shopify:\/\/collections\/stoler-og-skamler"
           }
         },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
@@ -29,15 +29,6 @@
             "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
-        "010e5a34-6e95-4429-82f1-20644f8c07df": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/12_2279362f-b4c9-4a33-9b2d-8b9601894cc0.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/stoler-og-skamler"
-          }
-        },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
           "type": "column",
           "settings": {
@@ -45,6 +36,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+          }
+        },
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_3_3d536da6-23aa-4ef7-8b4f-577e0aae0fbe.png",
+            "title": "",
+            "text": "",
+            "link": "https:\/\/hyttefeber.no\/collections\/matlaging-utendors"
           }
         },
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc": {
@@ -139,10 +139,10 @@
         }
       },
       "block_order": [
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
