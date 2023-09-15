@@ -21,9 +21,13 @@
   })
   (window,document,"script","//bat.bing.com/bat.js","uetq");
 </script>
-<script>
+<!--<script>
    window.uetq = window.uetq || []; 
    window.uetq.push('event', '', { 'revenue_value': {{ total_price | money_without_currency }}, 'currency': '{{ shop.currency }}' }); 
+</script>-->
+
+<script>window.uetq = window.uetq || [];
+  window.uetq.push('event', 'PRODUCT_PURCHASE', {"ecomm_prodid":"{{ product.id }}","ecomm_pagetype":"PURCHASE","revenue_value":{{ total_price | money_without_currency }},"currency":"{{ shop.currency }}"});
 </script>
 
 <!-- Added 29.06.2020. Adtraction. Added 07.08.2020. Kelkoo -->
