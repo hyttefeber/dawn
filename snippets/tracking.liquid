@@ -21,6 +21,10 @@
   })
   (window,document,"script","//bat.bing.com/bat.js","uetq");
 </script>
+<script>
+   window.uetq = window.uetq || []; 
+   window.uetq.push('event', '', { 'revenue_value': {{ total_price | money_without_currency }}, 'currency': '{{ shop.currency }}' }); 
+</script>
 
 <!-- Added 29.06.2020. Adtraction. Added 07.08.2020. Kelkoo -->
 <script async="true" defer type="text/javascript" src="https://s.kk-resources.com/leadtag.js" ></script>
