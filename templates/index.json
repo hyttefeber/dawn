@@ -11,6 +11,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_5_be0b7d8f-43f7-4d2a-82cf-ae472c64abd2.png",
+            "title": "",
+            "text": "",
+            "link": "https:\/\/hyttefeber.no\/blogs\/nyheter\/lumiz"
+          }
+        },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
           "type": "column",
           "settings": {
@@ -36,15 +45,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
-          }
-        },
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_5_be0b7d8f-43f7-4d2a-82cf-ae472c64abd2.png",
-            "title": "",
-            "text": "",
-            "link": ""
           }
         },
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc": {
@@ -139,10 +139,10 @@
         }
       },
       "block_order": [
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
