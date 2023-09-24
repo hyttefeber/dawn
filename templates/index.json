@@ -11,15 +11,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_6_e14f67a9-9b6b-4458-a400-e430185dc1fe.png",
-            "title": "",
-            "text": "",
-            "link": "https:\/\/hyttefeber.no\/blogs\/nyheter\/lumiz"
-          }
-        },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
           "settings": {
@@ -27,6 +18,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_6_e14f67a9-9b6b-4458-a400-e430185dc1fe.png",
+            "title": "",
+            "text": "",
+            "link": "https:\/\/hyttefeber.no\/blogs\/nyheter\/lumiz"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -139,8 +139,8 @@
         }
       },
       "block_order": [
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
+        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
