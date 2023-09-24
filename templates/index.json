@@ -20,6 +20,15 @@
             "link": "https:\/\/hyttefeber.no\/blogs\/nyheter\/lumiz"
           }
         },
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/15_b846343b-5636-4e6f-94d9-cac4fa52b55e.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
           "type": "column",
           "settings": {
@@ -36,15 +45,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/stoler-og-skamler"
-          }
-        },
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_2_a9bd41e7-b04d-4e8b-914a-90892a427615.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc": {
@@ -140,9 +140,9 @@
       },
       "block_order": [
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
