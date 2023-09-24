@@ -217,7 +217,7 @@ details[open].menu-opening > .menu-drawer__submenu {
   font-size: 1.4rem;
 }
 
-.menu-drawer__account .icon-account {
+.menu-drawer__account .icon-account, .icon-info {
   height: 2rem;
   width: 2rem;
   margin-right: 1rem;

@@ -342,5 +342,15 @@
         "label": "Free shipping Threshold"
       }
     ]
+  },
+  {
+    "name": "Kundeservice-link",
+    "settings": [
+      {
+        "type": "page",
+        "id": "kundeservice_link",
+        "label": "Kundeservice-link"
+      }
+    ]
   }
 ]

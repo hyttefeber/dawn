@@ -159,7 +159,9 @@
                   </ul>
                 </nav>
                 <div class="menu-drawer__utility-links">
+                  <ul class="list-unstyled">
                   {%- if shop.customer_accounts_enabled -%}
+                  <li>
                     <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="menu-drawer__account link link--text focus-inset h5">
                       {% render 'icon-account' %}
                       {%- liquid
@@ -170,7 +172,18 @@
                         endif
                       -%}
                     </a>
+                    </li>
                   {%- endif -%}
+                  {%- if settings.kundeservice_link != blank -%}
+                  <li>
+                    
+                  <a href="{{ settings.kundeservice_link.url }}" class="menu-drawer__account link link--text focus-inset h5" title="{{ settings.kundeservice_link.title }}">
+                    {% render 'icon-info' %}
+                    {{ settings.kundeservice_link.title }}
+                    </a>
+                    </li>
+                  {%- endif -%}
+                  </ul>
                   <ul class="list list-social list-unstyled" role="list">
                     {%- if settings.social_twitter_link != blank -%}
                       <li class="list-social__item">
