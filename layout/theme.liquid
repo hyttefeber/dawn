@@ -228,7 +228,14 @@
     {%- endif -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-    
+
+      <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5C8T5VD8');</script>
+<!-- End Google Tag Manager -->
 
 {% comment %} Microsoft clarity, added 01.07.2022. Re-added 03.11 
     <script type="text/javascript">
@@ -239,7 +246,8 @@
     })(window, document, "clarity", "script", "ckwcni4l1k");
 </script>{% endcomment %}
   
-  <!--DOOFINDER-SHOPIFY--> {% if content_for_header contains 'doofinder-installed.js' %} {% render 'doofinder-script-tag' %} {% endif %} <!--/DOOFINDER-SHOPIFY--></head>
+  <!--DOOFINDER-SHOPIFY--> {% if content_for_header contains 'doofinder-installed.js' %} {% render 'doofinder-script-tag' %} {% endif %} <!--/DOOFINDER-SHOPIFY-->
+</head>
 {% comment %}---------------------/head-----------{% endcomment %}
   <body class="gradient">
       <!-- Hacks for Shopify header -->
@@ -280,6 +288,12 @@
     Next up will be to download, merge, and upload assets we can host ourselves {% endcomment %}
     
     <!-- end hacks -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5C8T5VD8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
 <!-- Converdiant tag. Added 21.09 @ 13:00 -->
     <script src="//app.converdiant.com/my/﻿120" async></script>     
         <!-- Global site tag (gtag.js) - Google Ads: 738231931 -->
