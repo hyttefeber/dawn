@@ -218,7 +218,7 @@
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Logg på<\/a> for å betale raskere."
       },
       "free_shipping_remaining": "Legg til {{ remainder }} i handlekurven for å få gratis frakt",
-      "free_shipping": "Gratulerer! Du er over grensen for gratis frakt 👏"
+      "free_shipping": "Gratulerer! Du er over grensen for gratis frakt👏 (for ordre under 35kg)"
     },
     "footer": {
       "payment": "Betalingsmåter",
