@@ -11,13 +11,13 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
+        "048e39d8-f470-4ff8-ac04-e015056a5a01": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/15_b846343b-5636-4e6f-94d9-cac4fa52b55e.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_8.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+            "link": "shopify:\/\/collections\/solo-stove"
           }
         },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
@@ -29,8 +29,18 @@
             "link": "shopify:\/\/collections\/stoler-og-skamler"
           }
         },
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/15_b846343b-5636-4e6f-94d9-cac4fa52b55e.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
         "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_6_e14f67a9-9b6b-4458-a400-e430185dc1fe.png",
             "title": "",
@@ -55,16 +65,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/okologisk-olivenolje"
-          }
-        },
-        "048e39d8-f470-4ff8-ac04-e015056a5a01": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_6_ac667298-1333-4bcf-8859-89716ac475fc.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/solo-stove"
           }
         },
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
@@ -139,12 +139,12 @@
         }
       },
       "block_order": [
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
+        "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
-        "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
         "0f369159-2c35-4032-9801-e5826fc19abb",
