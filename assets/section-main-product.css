@@ -272,7 +272,8 @@ a.product__text {
 }
 
 .product .price {
-  align-items: flex-start;
+  gap: 1rem;
+  min-height: 5.2rem;
 }
 
 .product .price--on-sale dl {

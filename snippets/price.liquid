@@ -35,6 +35,8 @@
   {%- if available == false %} price--sold-out {% endif -%}
   {%- if compare_at_price > price %} price--on-sale {% endif -%}
   {%- if product.price_varies == false and product.compare_at_price_varies %} price--no-compare{% endif -%}">
+
+
   <dl>
     {%- comment -%}
       Explanation of description list:
@@ -89,6 +91,10 @@
       </dd>
     </small>
   </dl>
+  <div
+  class="prisjakt_cheapest" data-shop="37187" data-product="{{ product.selected_or_first_available_variant.id }}" data-market="NO"
+  data-format="small3"
+  ></div>
   {%- if show_badges -%}
     <span class="badge price__badge-sale color-{{ settings.sale_badge_color_scheme }}" aria-hidden="true">
       {{ 'products.product.on_sale' | t }}
