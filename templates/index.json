@@ -11,6 +11,24 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/balplassen"
+          }
+        },
+        "048e39d8-f470-4ff8-ac04-e015056a5a01": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_12_b47c7634-e64b-4b96-a32f-70ec5f1a5af5.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/jul"
+          }
+        },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
           "settings": {
@@ -37,24 +55,6 @@
             "title": "",
             "text": "",
             "link": "https:\/\/hyttefeber.no\/blogs\/nyheter\/lumiz"
-          }
-        },
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
-          }
-        },
-        "048e39d8-f470-4ff8-ac04-e015056a5a01": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_12_b47c7634-e64b-4b96-a32f-70ec5f1a5af5.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/jul"
           }
         },
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc": {
@@ -139,11 +139,11 @@
         }
       },
       "block_order": [
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
+        "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
-        "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
