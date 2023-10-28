@@ -7,53 +7,6 @@
         "show_collection_image": false
       }
     },
-    "148b10d4-efb7-4d52-91b1-5dbf08bf5547": {
-      "type": "collection-buttons-multicol",
-      "blocks": {
-        "template--15102286037143__148b10d4-efb7-4d52-91b1-5dbf08bf5547-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Julekuler",
-            "link": "shopify:\/\/collections\/julekuler"
-          }
-        },
-        "template--15102286037143__148b10d4-efb7-4d52-91b1-5dbf08bf5547-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Julepynt",
-            "link": "shopify:\/\/collections\/julepynt"
-          }
-        },
-        "template--15102286037143__148b10d4-efb7-4d52-91b1-5dbf08bf5547-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Julebakst",
-            "link": "shopify:\/\/collections\/baking"
-          }
-        },
-        "d093d7c8-3a42-4f21-b4a5-7ac0e54a8005": {
-          "type": "column",
-          "settings": {
-            "title": "Gavetips",
-            "link": "shopify:\/\/collections\/julegavetips-2023"
-          }
-        }
-      },
-      "block_order": [
-        "template--15102286037143__148b10d4-efb7-4d52-91b1-5dbf08bf5547-column-1",
-        "template--15102286037143__148b10d4-efb7-4d52-91b1-5dbf08bf5547-column-2",
-        "template--15102286037143__148b10d4-efb7-4d52-91b1-5dbf08bf5547-column-3",
-        "d093d7c8-3a42-4f21-b4a5-7ac0e54a8005"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "swipe_on_mobile": false
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -145,7 +98,6 @@
   },
   "order": [
     "banner",
-    "148b10d4-efb7-4d52-91b1-5dbf08bf5547",
     "product-grid",
     "16388220553dbbfb02"
   ]
