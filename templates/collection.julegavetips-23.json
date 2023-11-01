@@ -15,6 +15,24 @@
             "collection": "gavepakket"
           }
         },
+        "19851bad-eb9e-4b6c-a19f-88231541e8fb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "til-henne"
+          }
+        },
+        "d633d935-471c-46c1-b9ec-1e0489f5bffd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "til-han"
+          }
+        },
+        "257b108b-3aae-41d6-971f-25e6dc474d0d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gavepakket"
+          }
+        },
         "163934423482faf569-1": {
           "type": "featured_collection",
           "settings": {
@@ -26,19 +44,15 @@
           "settings": {
             "collection": "julegavetips-2023"
           }
-        },
-        "ad0adc38-432a-44e9-8a32-d50f3d25ef37": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gavetips-til-turen"
-          }
         }
       },
       "block_order": [
         "163934423482faf569-0",
+        "19851bad-eb9e-4b6c-a19f-88231541e8fb",
+        "d633d935-471c-46c1-b9ec-1e0489f5bffd",
+        "257b108b-3aae-41d6-971f-25e6dc474d0d",
         "163934423482faf569-1",
-        "163934423482faf569-2",
-        "ad0adc38-432a-44e9-8a32-d50f3d25ef37"
+        "163934423482faf569-2"
       ],
       "settings": {
         "title": "",
@@ -66,6 +80,7 @@
         "show_image_outline": false,
         "show_vendor": false,
         "show_atc": true,
+        "show_grid_swap": true,
         "show_rating": false,
         "enable_filtering": true,
         "enable_sorting": true,
