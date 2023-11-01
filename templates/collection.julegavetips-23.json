@@ -1,9 +1,50 @@
 {
   "sections": {
-    "16336834187109d930": {
-      "type": "apps",
+    "f5b49e32-859e-4307-a27a-3215a7e361f7": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "template--16236919193751__f5b49e32-859e-4307-a27a-3215a7e361f7-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "TIL HAN",
+            "link": "shopify:\/\/collections\/til-han"
+          }
+        },
+        "template--16236919193751__f5b49e32-859e-4307-a27a-3215a7e361f7-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "TIL HENNE",
+            "link": "shopify:\/\/collections\/til-henne"
+          }
+        },
+        "template--16236919193751__f5b49e32-859e-4307-a27a-3215a7e361f7-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "GAVEPAKKET",
+            "link": "shopify:\/\/collections\/gavepakket"
+          }
+        },
+        "2098a0d7-dea1-4b07-bb92-79496276f54a": {
+          "type": "column",
+          "settings": {
+            "title": "TIL BARN",
+            "link": "shopify:\/\/collections\/julegaver-til-barn"
+          }
+        }
+      },
+      "block_order": [
+        "template--16236919193751__f5b49e32-859e-4307-a27a-3215a7e361f7-column-1",
+        "template--16236919193751__f5b49e32-859e-4307-a27a-3215a7e361f7-column-2",
+        "template--16236919193751__f5b49e32-859e-4307-a27a-3215a7e361f7-column-3",
+        "2098a0d7-dea1-4b07-bb92-79496276f54a"
+      ],
       "settings": {
-        "include_margins": true
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
       }
     },
     "1639344234a1ee580c": {
@@ -157,13 +198,34 @@
         "image_padding": false,
         "show_view_all": false
       }
+    },
+    "16336834187109d930": {
+      "type": "apps",
+      "blocks": {
+        "fffe4a77-691d-4c10-91a5-5616265534c8": {
+          "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-carousel\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "show_heading": false,
+            "heading": "",
+            "badge_link": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "fffe4a77-691d-4c10-91a5-5616265534c8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "16336834187109d930",
+    "f5b49e32-859e-4307-a27a-3215a7e361f7",
     "1639344234a1ee580c",
     "banner",
     "product-grid",
-    "163430032528abe728"
+    "163430032528abe728",
+    "16336834187109d930"
   ]
 }
