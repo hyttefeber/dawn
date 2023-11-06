@@ -58,6 +58,7 @@
       <dt class="price__compare">
         <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
       </dt>
+      {% if target.metafields.sale.promo %}
       <dd class="price__compare">
         <s class="price-item price-item--regular">
           {% if settings.currency_code_enabled %}
@@ -67,6 +68,7 @@
           {% endif %}
         </s>
       </dd>
+      {% endif %}
       <dt>
         <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.sale_price' | t }}</span>
       </dt>

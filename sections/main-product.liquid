@@ -28,6 +28,7 @@
           {%- assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src' -%}
           {%- if product.selected_or_first_available_variant.featured_media != null -%}
             {%- assign media = product.selected_or_first_available_variant.featured_media -%}
+            
             <li class="product__media-item grid__item slider__slide{% if media.media_type != 'image' %} product__media-item--full{% endif %}{% if section.settings.hide_variants and variant_images contains media.src %} product__media-item--variant{% endif %}" data-media-id="{{ section.id }}-{{ media.id }}">
               {% render 'product-thumbnail', media: media, position: 'featured', loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: true %}
             </li>
@@ -36,19 +37,9 @@
             {%- unless media.id == product.selected_or_first_available_variant.featured_media.id -%}
               <li class="product__media-item grid__item slider__slide{% if media.media_type != 'image' %} product__media-item--full{% endif %}{% if section.settings.hide_variants and variant_images contains media.src %} product__media-item--variant{% endif %}" data-media-id="{{ section.id }}-{{ media.id }}">
                 {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: true %}
-                {%- assign discount = product.price | times: 1.0 | divided_by: product.compare_at_price | round: 2 -%}
-                {%- assign remainder = 1 | minus: discount -%}
-                {%- if product.compare_at_price > product.price and remainder > 0.04  -%}
-                {% if forloop.index == 1 %}
-                <div class="card__badge card__badge--top-right">
-                  <span class="badge badge--circular color-{{ settings.sale_badge_color_scheme }}">
-                    <p>
-                    {% render 'discount-price', product, price_class: '' %}
-                  </p>
-                  </span>
-                </div>
+                {% if product.metafields.sale.promo %}
+                 {% render 'promo-badge', product, index: forloop.index == 1 %}
                 {% endif %}
-                {%- endif -%}
               </li>
             {%- endunless -%}
           {%- endfor -%}
