@@ -1,0 +1,28 @@
+{% comment %}
+  Renders a list of product's price (regular, sale)
+
+  Accepts:
+  - product: {Object} Product Liquid object (optional)
+  - index: {Boolean} If the badge should be toggled or not (optional)
+  - position: {String} Adds a price class to the price element (optional)
+
+  Usage:
+  {% render 'price', product: product %}
+{% endcomment %}
+
+
+{%- assign discount = product.price | times: 1.0 | divided_by: product.compare_at_price | round: 2 -%}
+{%- assign remainder = 1 | minus: discount -%}
+{%- if product.compare_at_price > product.price and remainder > 0.04 -%}
+  {% if index == 1 %}
+    <div class="card__badge card__badge--top-right">
+      <span class="badge badge--circular color-{{ settings.sale_badge_color_scheme }}">
+        <p>
+          {% render 'discount-price'
+            , product: product
+            , price_class: '' %}
+        </p>
+      </span>
+    </div>
+  {% endif %}
+{%- endif -%}
