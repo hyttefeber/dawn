@@ -105,6 +105,7 @@
       "add_to_cart": "Legg i handlekurv",
       "description": "Beskrivelse",
       "on_sale": "Tilbud",
+      "guarantee": "Prisgaranti",
       "product_variants": "Produktvarianter",
       "quantity": {
         "label": "Antall",
