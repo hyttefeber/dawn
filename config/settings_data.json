@@ -203,9 +203,27 @@
         "settings": {
         }
       },
+      "12526071353035850722": {
+        "type": "shopify:\/\/apps\/back-in-stock-customer-alerts\/blocks\/app-embed\/bfa6a8c4-24e2-411a-9396-e35031b33f34",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "2950567246721570496": {
+        "type": "shopify:\/\/apps\/tabs-studio\/blocks\/global_embed_block\/19980fb9-f2ca-4ada-ad36-c0364c3318b8",
+        "disabled": true,
+        "settings": {
+          "init_type": "fallback",
+          "init_selector": "",
+          "replace_contents": false,
+          "init_timing": "immediate",
+          "custom_script": "",
+          "custom_style": ""
+        }
+      },
       "4608251692753025422": {
         "type": "shopify:\/\/apps\/sales-discounts\/blocks\/sale-labels\/29205fb1-2e68-4d81-a905-d828a51c8413",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       }
