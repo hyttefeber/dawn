@@ -81,19 +81,6 @@
           "settings": {
             "share_label": "Del"
           }
-        },
-        "0d6a1dad-30b6-4072-8c1d-5c53b2bdac9e": {
-          "type": "shopify:\/\/apps\/back-in-stock-customer-alerts\/blocks\/app-block\/bfa6a8c4-24e2-411a-9396-e35031b33f34",
-          "settings": {
-            "caption": "Email when available",
-            "font_size": 16,
-            "color": "#ffffff",
-            "background_color": "#000000",
-            "margin_top": 10,
-            "margin_bottom": 10,
-            "classes": "button button--full-width",
-            "style": "text-decoration:none"
-          }
         }
       },
       "block_order": [
@@ -109,8 +96,7 @@
         "88208802-8817-4f95-a2d6-e154d5b3bcca",
         "buy_buttons",
         "description",
-        "share",
-        "0d6a1dad-30b6-4072-8c1d-5c53b2bdac9e"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
