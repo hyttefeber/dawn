@@ -610,6 +610,24 @@
         "layout": "image_first"
       }
     },
+    "f96a9c4c-2c52-4710-8e98-e0ead759982e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "canadian-outdoor",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "163215496531ff8641": {
       "type": "featured-collection",
       "settings": {
@@ -841,24 +859,6 @@
         "show_text_below": true,
         "link": ""
       }
-    },
-    "f96a9c4c-2c52-4710-8e98-e0ead759982e": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "collection": "canadian-outdoor",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_atc": true,
-        "show_rating": false
-      }
     }
   },
   "order": [
@@ -875,6 +875,7 @@
     "163163093769b5efc1",
     "1632087735695d2a16",
     "163208927285d0ee5e",
+    "f96a9c4c-2c52-4710-8e98-e0ead759982e",
     "163215496531ff8641",
     "b4fa5622-d269-4c4c-8b18-fd772bd14b4d",
     "ce52e10f-5356-4f35-84cb-efa8bcdc4069",
@@ -885,7 +886,6 @@
     "1656508395028523fd",
     "163200636372ee71d9",
     "4828d3b1-8fb6-4343-95a0-83aa06fb0bd8",
-    "1632004573cbceffe9",
-    "f96a9c4c-2c52-4710-8e98-e0ead759982e"
+    "1632004573cbceffe9"
   ]
 }
