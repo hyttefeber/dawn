@@ -18,6 +18,7 @@
       "blocks": {
         "324238ba-be63-48cb-a31b-024946198efb": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "⭐️KAMPANJER⭐️",
             "link": "shopify:\/\/collections\/kampanjer"
@@ -25,9 +26,8 @@
         },
         "65ca848f-beb8-4b57-8461-23a4df6d81cd": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "title": "🔥 Månedens tilbud",
+            "title": "🔥  Månedskupp",
             "link": "shopify:\/\/collections\/billigkroken"
           }
         },
@@ -50,7 +50,7 @@
         "4400dfba-342f-4f7c-a04f-af26c5f38d6c": {
           "type": "column",
           "settings": {
-            "title": "⭐️ Putetrekk",
+            "title": "⭐️Putetrekk",
             "link": "shopify:\/\/collections\/putetrekk"
           }
         },
@@ -58,7 +58,7 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "title": "⭐️-55% Julekuler",
+            "title": "⭐️Julekuler",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Julekuler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
           }
         },
