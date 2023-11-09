@@ -26,6 +26,7 @@
         },
         "65ca848f-beb8-4b57-8461-23a4df6d81cd": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "🔥  Månedskupp",
             "link": "shopify:\/\/collections\/billigkroken"
@@ -56,7 +57,6 @@
         },
         "e343ca5d-e7a5-4717-ac41-9b3468c6fadc": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "title": "⭐️Julekuler",
             "link": "https:\/\/hyttefeber.no\/collections\/salg-manedens-kupp?filter.p.product_type=Julekuler&filter.v.price.gte=&filter.v.price.lte=&sort_by=manual"
