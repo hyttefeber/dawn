@@ -147,6 +147,14 @@
             "title": "Link",
             "link": ""
           }
+        },
+        "46f7bf0c-ce21-45b5-af2e-e99efc2f004e": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Norgesglasset",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -166,7 +174,8 @@
         "8ba345ae-deee-4d76-9b7c-5d650fd227e6",
         "f2efcee6-bf70-453e-a584-2e8c484cde48",
         "cf57f847-113b-4f87-a6f6-904e540b41bb",
-        "fd26e205-73ff-46fd-a5bb-d27c39d7d858"
+        "fd26e205-73ff-46fd-a5bb-d27c39d7d858",
+        "46f7bf0c-ce21-45b5-af2e-e99efc2f004e"
       ],
       "settings": {
         "title": "",
