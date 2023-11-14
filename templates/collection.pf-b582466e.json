@@ -155,6 +155,14 @@
             "title": "Norgesglasset",
             "link": ""
           }
+        },
+        "846882c9-b27e-4404-a922-154c6d3a9b8d": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Lama",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -175,7 +183,8 @@
         "f2efcee6-bf70-453e-a584-2e8c484cde48",
         "cf57f847-113b-4f87-a6f6-904e540b41bb",
         "fd26e205-73ff-46fd-a5bb-d27c39d7d858",
-        "46f7bf0c-ce21-45b5-af2e-e99efc2f004e"
+        "46f7bf0c-ce21-45b5-af2e-e99efc2f004e",
+        "846882c9-b27e-4404-a922-154c6d3a9b8d"
       ],
       "settings": {
         "title": "",
