@@ -131,6 +131,14 @@
             "title": "LUMIZ",
             "link": ""
           }
+        },
+        "cf57f847-113b-4f87-a6f6-904e540b41bb": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "SUPERTILBUD",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -148,7 +156,8 @@
         "template--15931402158231__172dc8d4-0708-4b25-b19f-6f0d859b417b-1668637788bed73490-1",
         "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
         "8ba345ae-deee-4d76-9b7c-5d650fd227e6",
-        "f2efcee6-bf70-453e-a584-2e8c484cde48"
+        "f2efcee6-bf70-453e-a584-2e8c484cde48",
+        "cf57f847-113b-4f87-a6f6-904e540b41bb"
       ],
       "settings": {
         "title": "",
