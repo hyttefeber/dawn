@@ -139,6 +139,14 @@
             "title": "SUPERTILBUD",
             "link": ""
           }
+        },
+        "fd26e205-73ff-46fd-a5bb-d27c39d7d858": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Link",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -157,7 +165,8 @@
         "9dd5a2ad-e7ef-435d-aafd-8d64a6d33e89",
         "8ba345ae-deee-4d76-9b7c-5d650fd227e6",
         "f2efcee6-bf70-453e-a584-2e8c484cde48",
-        "cf57f847-113b-4f87-a6f6-904e540b41bb"
+        "cf57f847-113b-4f87-a6f6-904e540b41bb",
+        "fd26e205-73ff-46fd-a5bb-d27c39d7d858"
       ],
       "settings": {
         "title": "",
