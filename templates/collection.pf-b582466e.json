@@ -1,7 +1,13 @@
 {
   "sections": {
+    "pf-b582466e": {
+      "type": "pf-b582466e",
+      "settings": {
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false
@@ -94,17 +100,12 @@
         "image_padding": false,
         "show_view_all": false
       }
-    },
-    "pf-b582466e": {
-      "type": "pf-b582466e",
-      "settings": {
-      }
     }
   },
   "order": [
+    "pf-b582466e",
     "banner",
     "product-grid",
-    "16388220553dbbfb02",
-    "pf-b582466e"
+    "16388220553dbbfb02"
   ]
 }
