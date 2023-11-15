@@ -39,10 +39,10 @@
       "settings": {
         "title": "",
         "collection": "lumiz-solcelle-lanterner",
-        "products_to_show": 4,
+        "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "add_image_padding": false,
@@ -116,7 +116,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "collection": "norgesglasset-hele-den-originale-serien",
+        "collection": "alt-marius-servise-kopper-sokker-servietter-og-mer",
         "products_to_show": 4,
         "show_view_all": true,
         "view_all_text": "",
