@@ -30,7 +30,7 @@
       "type": "text-banner",
       "settings": {
         "text_banner_title": "LUMIZ",
-        "text_banner_body": "20% BLACK WEEK TILBUD NÅ",
+        "text_banner_body": "30% BLACK WEEK TILBUD NÅ",
         "color-scheme": "primary"
       }
     },
@@ -61,6 +61,32 @@
       }
     },
     "924ea983-ca1b-4768-b197-cfe941f137a0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "emmeselle",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "d333a1b5-e210-4669-a370-de0cfcc323db": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "NORGESGLASSET",
+        "text_banner_body": "25% BLACK WEEK TILBUD NÅ",
+        "color-scheme": "primary"
+      }
+    },
+    "34a9cd35-a2d0-4085-810e-f231d5517b52": {
       "type": "featured-collection",
       "settings": {
         "title": "",
@@ -181,6 +207,8 @@
     "1017b6c2-bdd1-4e55-852e-44cd637b7a35",
     "e621a15e-4838-4ec0-b8fb-fd2a328d4726",
     "924ea983-ca1b-4768-b197-cfe941f137a0",
+    "d333a1b5-e210-4669-a370-de0cfcc323db",
+    "34a9cd35-a2d0-4085-810e-f231d5517b52",
     "banner",
     "product-grid",
     "16388220553dbbfb02"
