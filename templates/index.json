@@ -14,6 +14,42 @@
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/23_bf8200d3-4f84-4053-b510-74108849b5a8.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
+          }
+        },
+        "eed93007-8b9f-484a-8fc3-0771ea41fe45": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/stoler-og-skamler"
+          }
+        },
+        "e96bf912-caff-4547-8ff3-40c365560886": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/stoler-og-skamler"
+          }
+        },
+        "86f2e94c-f650-4119-8d47-755c4e820cea": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/stoler-og-skamler"
+          }
+        },
+        "88d43d4d-a81e-4961-b8d1-116dab30ff7d": {
+          "type": "column",
+          "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
             "title": "",
             "text": "",
@@ -140,6 +176,10 @@
       },
       "block_order": [
         "010e5a34-6e95-4429-82f1-20644f8c07df",
+        "eed93007-8b9f-484a-8fc3-0771ea41fe45",
+        "e96bf912-caff-4547-8ff3-40c365560886",
+        "86f2e94c-f650-4119-8d47-755c4e820cea",
+        "88d43d4d-a81e-4961-b8d1-116dab30ff7d",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
