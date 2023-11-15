@@ -1,5 +1,62 @@
 {
   "sections": {
+    "7039a547-7454-4605-8281-e76f359bcaed": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/23_9a7f0d92-05c4-43ab-ac8a-6287653ada00.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
+          }
+        },
+        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/26_86c371be-0b93-4eb8-a273-100bcb0658a5.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
+          }
+        },
+        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/27_42b26fbf-35f5-4c02-829a-a5c1e2da56b6.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "948e7916-aff3-4e6e-83e2-1cd42d9352da": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/25_a9bb164a-2f5b-4fb1-896c-d56aed39c109.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/emmeselle"
+          }
+        }
+      },
+      "block_order": [
+        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1",
+        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2",
+        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3",
+        "948e7916-aff3-4e6e-83e2-1cd42d9352da"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -225,66 +282,10 @@
         "image_padding": false,
         "show_view_all": false
       }
-    },
-    "7039a547-7454-4605-8281-e76f359bcaed": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/23_9a7f0d92-05c4-43ab-ac8a-6287653ada00.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
-          }
-        },
-        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/26_86c371be-0b93-4eb8-a273-100bcb0658a5.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
-          }
-        },
-        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/27_42b26fbf-35f5-4c02-829a-a5c1e2da56b6.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "948e7916-aff3-4e6e-83e2-1cd42d9352da": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/25_a9bb164a-2f5b-4fb1-896c-d56aed39c109.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/emmeselle"
-          }
-        }
-      },
-      "block_order": [
-        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1",
-        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2",
-        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3",
-        "948e7916-aff3-4e6e-83e2-1cd42d9352da"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
+    "7039a547-7454-4605-8281-e76f359bcaed",
     "banner",
     "product-grid",
     "fc5c3c7e-9681-40db-b12c-31556a051487",
@@ -297,7 +298,6 @@
     "34a9cd35-a2d0-4085-810e-f231d5517b52",
     "d333a1b5-e210-4669-a370-de0cfcc323db",
     "7d5d021c-8a48-48dd-b13e-b6050d7c9b79",
-    "16388220553dbbfb02",
-    "7039a547-7454-4605-8281-e76f359bcaed"
+    "16388220553dbbfb02"
   ]
 }
