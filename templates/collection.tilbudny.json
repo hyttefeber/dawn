@@ -3,6 +3,15 @@
     "7039a547-7454-4605-8281-e76f359bcaed": {
       "type": "multicolumn",
       "blocks": {
+        "32d8b532-188d-4986-926e-6b3b9bbed258": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24_cee6d37d-de7c-498d-a7ae-d3ab4b10d4bc.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/serie-halvor-bakke"
+          }
+        },
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1": {
           "type": "column",
           "settings": {
@@ -38,23 +47,14 @@
             "text": "",
             "link": "shopify:\/\/collections\/emmeselle"
           }
-        },
-        "32d8b532-188d-4986-926e-6b3b9bbed258": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24_cee6d37d-de7c-498d-a7ae-d3ab4b10d4bc.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/serie-halvor-bakke"
-          }
         }
       },
       "block_order": [
+        "32d8b532-188d-4986-926e-6b3b9bbed258",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3",
-        "948e7916-aff3-4e6e-83e2-1cd42d9352da",
-        "32d8b532-188d-4986-926e-6b3b9bbed258"
+        "948e7916-aff3-4e6e-83e2-1cd42d9352da"
       ],
       "settings": {
         "title": "",
