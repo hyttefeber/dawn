@@ -26,7 +26,7 @@
         "show_rating": false
       }
     },
-    "e621a15e-4838-4ec0-b8fb-fd2a328d4726": {
+    "6e4b7aae-e7b0-4663-b52f-5c97b0978b9e": {
       "type": "text-banner",
       "settings": {
         "text_banner_title": "LUMIZ",
@@ -38,7 +38,33 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "collection": "serie-halvor-bakke",
+        "collection": "lumiz-solcelle-lanterner",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
+    "e621a15e-4838-4ec0-b8fb-fd2a328d4726": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "EMMESELLE",
+        "text_banner_body": "30% BLACK WEEK TILBUD NÅ",
+        "color-scheme": "primary"
+      }
+    },
+    "924ea983-ca1b-4768-b197-cfe941f137a0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "lumiz-solcelle-lanterner",
         "products_to_show": 4,
         "show_view_all": true,
         "view_all_text": "",
@@ -151,8 +177,10 @@
   "order": [
     "fc5c3c7e-9681-40db-b12c-31556a051487",
     "84df7b9b-4a8d-4e31-91af-6e88fa07f9fd",
-    "e621a15e-4838-4ec0-b8fb-fd2a328d4726",
+    "6e4b7aae-e7b0-4663-b52f-5c97b0978b9e",
     "1017b6c2-bdd1-4e55-852e-44cd637b7a35",
+    "e621a15e-4838-4ec0-b8fb-fd2a328d4726",
+    "924ea983-ca1b-4768-b197-cfe941f137a0",
     "banner",
     "product-grid",
     "16388220553dbbfb02"
