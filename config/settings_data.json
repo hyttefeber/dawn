@@ -215,15 +215,15 @@
           "custom_style": ""
         }
       },
-      "4608251692753025422": {
-        "type": "shopify:\/\/apps\/sales-discounts\/blocks\/sale-labels\/29205fb1-2e68-4d81-a905-d828a51c8413",
+      "12526071353035850722": {
+        "type": "shopify:\/\/apps\/back-in-stock-customer-alerts\/blocks\/app-embed\/bfa6a8c4-24e2-411a-9396-e35031b33f34",
         "disabled": true,
         "settings": {
         }
       },
-      "12526071353035850722": {
-        "type": "shopify:\/\/apps\/back-in-stock-customer-alerts\/blocks\/app-embed\/bfa6a8c4-24e2-411a-9396-e35031b33f34",
-        "disabled": true,
+      "4608251692753025422": {
+        "type": "shopify:\/\/apps\/sales-discounts\/blocks\/sale-labels\/29205fb1-2e68-4d81-a905-d828a51c8413",
+        "disabled": false,
         "settings": {
         }
       }
