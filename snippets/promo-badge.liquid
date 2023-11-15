@@ -17,11 +17,11 @@
   {% if index == 1 %}
     <div class="card__badge card__badge--top-right">
       <span class="badge badge--circular color-{{ settings.sale_badge_color_scheme }}">
-        <p>
+        <span>
           {% render 'discount-price'
             , product: product
             , price_class: '' %}
-        </p>
+        </span>
       </span>
     </div>
   {% endif %}
