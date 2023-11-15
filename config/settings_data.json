@@ -4,6 +4,8 @@
     "colors_accent_2": "#355179",
     "colors_text": "#00122c",
     "colors_outline_button_labels": "#00122c",
+    "colors_background_1": "#FFFFFF",
+    "colors_background_2": "#f3f3f3",
     "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
@@ -223,7 +225,7 @@
       },
       "4608251692753025422": {
         "type": "shopify:\/\/apps\/sales-discounts\/blocks\/sale-labels\/29205fb1-2e68-4d81-a905-d828a51c8413",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }
