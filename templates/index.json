@@ -41,7 +41,7 @@
         "86f2e94c-f650-4119-8d47-755c4e820cea": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
+            "image": "shopify:\/\/shop_images\/26_bf4a6ada-f245-4970-a44a-b75f30fcd87f.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
@@ -49,6 +49,7 @@
         },
         "88d43d4d-a81e-4961-b8d1-116dab30ff7d": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
             "title": "",
@@ -58,6 +59,7 @@
         },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_9.png",
             "title": "",
@@ -67,6 +69,7 @@
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
             "title": "",
@@ -76,6 +79,7 @@
         },
         "048e39d8-f470-4ff8-ac04-e015056a5a01": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_12_b47c7634-e64b-4b96-a32f-70ec5f1a5af5.png",
             "title": "",
