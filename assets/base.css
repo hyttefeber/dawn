@@ -10,6 +10,7 @@
 .color-background-2 {
   --color-background: var(--color-base-background-2);
   --gradient-background: var(--gradient-base-background-2);
+  --color-foreground: var(--color-base-background-1);
 }
 
 .color-inverse {
@@ -68,8 +69,8 @@
 .color-inverse,
 .color-accent-1,
 .color-accent-2 {
-  --color-button: var(--color-foreground);
-  --color-button-text: var(--color-background);
+  --color-button: var(--color-background);
+  --color-button-text: var(--color-foreground);
 }
 
 .button--secondary {
@@ -2467,7 +2468,6 @@ details-disclosure > details {
   padding: 0.6rem 1.3rem;
   text-align: center;
   background-color: rgb(var(--color-badge-background));
-  /*background-color: #000;*/
   border-color: rgba(var(--color-badge-border), var(--alpha-badge-border));
   color: rgb(var(--color-foreground));
   word-break: break-word;
@@ -2560,9 +2560,7 @@ details-disclosure > details {
    .free-shipping{
     margin: 10px 0;
    }
-   .grid__item .card-wrapper .product-form__buttons .BIS_trigger{
- 	background-color: #355179!important;
-	}
+
    .product-form__buttons:hover, .button:not([disabled]):hover{
     -webkit-transition-duration:0.2s;
     transition-duration:0.2s;

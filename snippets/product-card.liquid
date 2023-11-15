@@ -181,7 +181,7 @@
           {% if product_card_product.selected_or_first_available_variant.inventory_quantity <= 0 and product_card_product.selected_or_first_available_variant.available == false %}
             <button
               data-product-data="{{ product_card_product | json | escape }}"
-              class="product-form__submit button button--full-width color--inverse color-background-2 BIS_trigger"
+              class="product-form__submit button button--full-width BIS_trigger color-accent-2"
               {% if product_card_product.available %}
               style="display: none;"
               {% endif %}
