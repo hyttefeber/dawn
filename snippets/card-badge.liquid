@@ -1,0 +1,23 @@
+<div class="card__badge">
+  {%- if product.available == false -%}
+    <span class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}" aria-hidden="true">{{ 'products.product.sold_out' | t }}</span>
+  {%- endif -%}
+</div>
+
+<div class="card__badge">
+  {%- if product.available == false -%}
+    <span class="badge badge--bottom-left color-{{ settings.sold_out_badge_color_scheme }}" aria-hidden="true">{{ 'products.product.sold_out' | t }}</span>
+  {%- elsif product.metafields.sale.promotion_text -%}
+    <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" aria-hidden="true">{{ product.metafields.sale.promotion_text }}</span>
+
+  {%- elsif product.metafields.sale.guarantee -%}
+    <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" aria-hidden="true">{{ 'products.product.guarantee' | t }}</span>
+  {%- elsif product.compare_at_price > product.price and product.available and product.metafields.sale.promo -%}
+    <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}" aria-hidden="true">{{ 'products.product.on_sale' | t }}</span>
+  {%- endif -%}
+</div>
+{%- if product.metafields.sale.promotion_text_top -%}
+  <div class="card__badge badge--top-left">
+    <span class="badge color-{{ settings.sale_badge_color_scheme }} badge--square" aria-hidden="true">{{ product.metafields.sale.promotion_text_top }}</span>
+  </div>
+{%- endif -%}
