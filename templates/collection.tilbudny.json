@@ -1,5 +1,29 @@
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 8,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_grid_swap": true,
+        "show_rating": true,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "collapse_on_larger_devices": false
+      }
+    },
     "fc5c3c7e-9681-40db-b12c-31556a051487": {
       "type": "text-banner",
       "settings": {
@@ -130,30 +154,6 @@
         "show_rating": false
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 8,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_grid_swap": true,
-        "show_rating": true,
-        "enable_filtering": true,
-        "enable_sorting": true,
-        "collapse_on_larger_devices": false
-      }
-    },
     "16388220553dbbfb02": {
       "type": "collection-list",
       "blocks": {
@@ -227,6 +227,8 @@
     }
   },
   "order": [
+    "banner",
+    "product-grid",
     "fc5c3c7e-9681-40db-b12c-31556a051487",
     "84df7b9b-4a8d-4e31-91af-6e88fa07f9fd",
     "6e4b7aae-e7b0-4663-b52f-5c97b0978b9e",
@@ -237,8 +239,6 @@
     "34a9cd35-a2d0-4085-810e-f231d5517b52",
     "d333a1b5-e210-4669-a370-de0cfcc323db",
     "7d5d021c-8a48-48dd-b13e-b6050d7c9b79",
-    "banner",
-    "product-grid",
     "16388220553dbbfb02"
   ]
 }
