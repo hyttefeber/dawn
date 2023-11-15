@@ -273,6 +273,16 @@
   font-size: 1rem;
 }
 
+.badge--top-left {
+  top: 1rem;
+  left: 1rem;
+  text-align: center;
+}
+
+.badge--square {
+  border-radius: 0rem;
+}
+
 .product .badge--circular > span {
   top: 50%;
   transform: translateY(-50%);
