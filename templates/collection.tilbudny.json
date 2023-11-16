@@ -41,12 +41,20 @@
         },
         "948e7916-aff3-4e6e-83e2-1cd42d9352da": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/25_a9bb164a-2f5b-4fb1-896c-d56aed39c109.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/emmeselle"
+          }
+        },
+        "88b69057-9b79-416b-bf3f-ab6987048eed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_14_d8876673-5ba3-4ad0-8e7d-c3b4cba0f5b6.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/super-tilbud-50"
           }
         }
       },
@@ -55,7 +63,8 @@
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3",
-        "948e7916-aff3-4e6e-83e2-1cd42d9352da"
+        "948e7916-aff3-4e6e-83e2-1cd42d9352da",
+        "88b69057-9b79-416b-bf3f-ab6987048eed"
       ],
       "settings": {
         "title": "",
