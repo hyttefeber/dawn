@@ -128,6 +128,32 @@
         "show_rating": false
       }
     },
+    "ca7a2492-bac7-465e-9e4f-772c73f5b54b": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "SPESIELT GODE TILBUD",
+        "text_banner_body": "OPP TIL 50% OG DAGSTILBUD",
+        "color-scheme": "primary"
+      }
+    },
+    "912f9651-d4c8-4920-9b18-b94cfc83b3f1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "super-tilbud-50",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "6e4b7aae-e7b0-4663-b52f-5c97b0978b9e": {
       "type": "text-banner",
       "settings": {
@@ -310,6 +336,8 @@
     "product-grid",
     "fc5c3c7e-9681-40db-b12c-31556a051487",
     "84df7b9b-4a8d-4e31-91af-6e88fa07f9fd",
+    "ca7a2492-bac7-465e-9e4f-772c73f5b54b",
+    "912f9651-d4c8-4920-9b18-b94cfc83b3f1",
     "6e4b7aae-e7b0-4663-b52f-5c97b0978b9e",
     "1017b6c2-bdd1-4e55-852e-44cd637b7a35",
     "e621a15e-4838-4ec0-b8fb-fd2a328d4726",
