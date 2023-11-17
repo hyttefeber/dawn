@@ -258,18 +258,14 @@
   font-weight: bold;
   margin: 0;
   padding: 5px;
-  /*padding: 15px;*/
 }
 
 .badge--circular > span {
-  position: relative;
   margin: 0;
   border-radius: 0;
   border: 0;
   padding: 0;
   background: none;
-  top: 20%;
-  transform: translateY(-60%);
   font-size: 1rem;
 }
 
@@ -283,16 +279,6 @@
   border-radius: 0rem;
 }
 
-.product .badge--circular > span {
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.slider__slide .badge--circular {
-  width: 35px;
-  height: 35px;
-}
-
 @media screen and (min-width: 990px) {
   .badge--circular {
     height: 50px;
@@ -300,21 +286,7 @@
   }
 
   .badge--circular > span {
-    top: 30%;
-    transform: translateY(-70%);
     font-size: 1.2rem;
-  }
-
-  .slider__slide .badge--circular {
-    width: 50px;
-    height: 50px;
-    /*width: 80px;
-    height: 80px;
-    top: 0;
-    right: 0;
-    position: absolute;
-    padding: 13px;
-    font-size: 1em;*/
   }
 }
 
