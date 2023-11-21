@@ -3,6 +3,15 @@
     "7039a547-7454-4605-8281-e76f359bcaed": {
       "type": "multicolumn",
       "blocks": {
+        "88b69057-9b79-416b-bf3f-ab6987048eed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_15_972939d6-f888-464f-bd55-40b719970252.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/super-tilbud-50"
+          }
+        },
         "32d8b532-188d-4986-926e-6b3b9bbed258": {
           "type": "column",
           "settings": {
@@ -56,25 +65,16 @@
             "text": "",
             "link": "shopify:\/\/collections\/julekuler"
           }
-        },
-        "88b69057-9b79-416b-bf3f-ab6987048eed": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_15_972939d6-f888-464f-bd55-40b719970252.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/super-tilbud-50"
-          }
         }
       },
       "block_order": [
+        "88b69057-9b79-416b-bf3f-ab6987048eed",
         "32d8b532-188d-4986-926e-6b3b9bbed258",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3",
         "948e7916-aff3-4e6e-83e2-1cd42d9352da",
-        "b83d88bc-c139-4a79-9676-1106a70b6a77",
-        "88b69057-9b79-416b-bf3f-ab6987048eed"
+        "b83d88bc-c139-4a79-9676-1106a70b6a77"
       ],
       "settings": {
         "title": "",
