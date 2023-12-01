@@ -49,16 +49,6 @@
             "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
           }
         },
-        "88d43d4d-a81e-4961-b8d1-116dab30ff7d": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/stoler-og-skamler"
-          }
-        },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
           "disabled": true,
@@ -182,10 +172,19 @@
         "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_16_6c85e5af-525b-433b-8ce8-c577fd27ac7c.png",
+            "image": "shopify:\/\/shop_images\/25_cef94fc1-3e5d-4125-94d9-3d09ccb93f9c.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/julekuler"
+          }
+        },
+        "88d43d4d-a81e-4961-b8d1-116dab30ff7d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/stoler-og-skamler"
           }
         }
       },
@@ -194,7 +193,6 @@
         "eed93007-8b9f-484a-8fc3-0771ea41fe45",
         "e96bf912-caff-4547-8ff3-40c365560886",
         "86f2e94c-f650-4119-8d47-755c4e820cea",
-        "88d43d4d-a81e-4961-b8d1-116dab30ff7d",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
@@ -207,7 +205,8 @@
         "1629970086900f7d29-0",
         "1629970086900f7d29-2",
         "1629970086900f7d29-1",
-        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b"
+        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
+        "88d43d4d-a81e-4961-b8d1-116dab30ff7d"
       ],
       "settings": {
         "title": "",
