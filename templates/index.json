@@ -11,15 +11,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "010e5a34-6e95-4429-82f1-20644f8c07df": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/24_ff6a493d-48d5-4782-bfcc-531f525b9058.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
-          }
-        },
         "eed93007-8b9f-484a-8fc3-0771ea41fe45": {
           "type": "column",
           "disabled": true,
@@ -30,13 +21,22 @@
             "link": "shopify:\/\/collections\/serie-halvor-bakke"
           }
         },
-        "e96bf912-caff-4547-8ff3-40c365560886": {
+        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_21.png",
+            "image": "shopify:\/\/shop_images\/25_cef94fc1-3e5d-4125-94d9-3d09ccb93f9c.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/super-tilbud-50"
+            "link": "shopify:\/\/collections\/julekuler"
+          }
+        },
+        "010e5a34-6e95-4429-82f1-20644f8c07df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24_ff6a493d-48d5-4782-bfcc-531f525b9058.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
           }
         },
         "86f2e94c-f650-4119-8d47-755c4e820cea": {
@@ -57,6 +57,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
+        "e96bf912-caff-4547-8ff3-40c365560886": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_21.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/super-tilbud-50"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -169,15 +178,6 @@
             "link": "shopify:\/\/collections\/kakeboks"
           }
         },
-        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/25_cef94fc1-3e5d-4125-94d9-3d09ccb93f9c.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/julekuler"
-          }
-        },
         "88d43d4d-a81e-4961-b8d1-116dab30ff7d": {
           "type": "column",
           "settings": {
@@ -189,11 +189,12 @@
         }
       },
       "block_order": [
-        "010e5a34-6e95-4429-82f1-20644f8c07df",
         "eed93007-8b9f-484a-8fc3-0771ea41fe45",
-        "e96bf912-caff-4547-8ff3-40c365560886",
+        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
+        "010e5a34-6e95-4429-82f1-20644f8c07df",
         "86f2e94c-f650-4119-8d47-755c4e820cea",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
+        "e96bf912-caff-4547-8ff3-40c365560886",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
@@ -205,7 +206,6 @@
         "1629970086900f7d29-0",
         "1629970086900f7d29-2",
         "1629970086900f7d29-1",
-        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
         "88d43d4d-a81e-4961-b8d1-116dab30ff7d"
       ],
       "settings": {
