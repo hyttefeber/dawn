@@ -243,10 +243,9 @@
     },
     "d333a1b5-e210-4669-a370-de0cfcc323db": {
       "type": "text-banner",
-      "disabled": true,
       "settings": {
-        "text_banner_title": "ALT MARIUS",
-        "text_banner_body": "25% BLACK WEEK TILBUD NÅ",
+        "text_banner_title": "FATBOY",
+        "text_banner_body": "",
         "color-scheme": "primary"
       }
     },
