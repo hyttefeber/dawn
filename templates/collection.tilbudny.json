@@ -5,6 +5,7 @@
       "blocks": {
         "88b69057-9b79-416b-bf3f-ab6987048eed": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_15_972939d6-f888-464f-bd55-40b719970252.png",
             "title": "",
@@ -14,6 +15,7 @@
         },
         "b83d88bc-c139-4a79-9676-1106a70b6a77": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_16_6c85e5af-525b-433b-8ce8-c577fd27ac7c.png",
             "title": "",
@@ -23,6 +25,7 @@
         },
         "a42b960a-98d2-42e4-9078-b7ba4b38eeb7": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_17_3e00c4aa-47fd-4559-a96b-9f1192e5f153.png",
             "title": "",
@@ -32,6 +35,7 @@
         },
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23_9a7f0d92-05c4-43ab-ac8a-6287653ada00.png",
             "title": "",
@@ -41,6 +45,7 @@
         },
         "32d8b532-188d-4986-926e-6b3b9bbed258": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/24_cee6d37d-de7c-498d-a7ae-d3ab4b10d4bc.png",
             "title": "",
@@ -50,6 +55,7 @@
         },
         "948e7916-aff3-4e6e-83e2-1cd42d9352da": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/30_aeba0a97-c2f4-441e-8ab8-e6d31d86fd71.png",
             "title": "",
@@ -59,6 +65,7 @@
         },
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/26_86c371be-0b93-4eb8-a273-100bcb0658a5.png",
             "title": "",
@@ -68,6 +75,7 @@
         },
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/27_42b26fbf-35f5-4c02-829a-a5c1e2da56b6.png",
             "title": "",
@@ -243,6 +251,7 @@
     },
     "d333a1b5-e210-4669-a370-de0cfcc323db": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "text_banner_title": "FATBOY",
         "text_banner_body": "Julens Fatboy kupp",
