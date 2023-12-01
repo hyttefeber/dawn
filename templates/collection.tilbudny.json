@@ -273,7 +273,7 @@
       "type": "text-banner",
       "settings": {
         "text_banner_title": "GODT PRISET",
-        "text_banner_body": "Varer som har faste gode priser",
+        "text_banner_body": "Varer med faste gode priser",
         "color-scheme": "primary"
       }
     },
