@@ -133,6 +133,7 @@
     },
     "fc5c3c7e-9681-40db-b12c-31556a051487": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "text_banner_title": "HALVOR BAKKE",
         "text_banner_body": "",
@@ -141,6 +142,7 @@
     },
     "84df7b9b-4a8d-4e31-91af-6e88fa07f9fd": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "serie-halvor-bakke",
@@ -185,14 +187,16 @@
     },
     "e621a15e-4838-4ec0-b8fb-fd2a328d4726": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "text_banner_title": "EMMESELLE",
-        "text_banner_body": "30% BLACK WEEK TILBUD NÅ",
+        "text_banner_body": "",
         "color-scheme": "primary"
       }
     },
     "924ea983-ca1b-4768-b197-cfe941f137a0": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "emmeselle",
@@ -211,6 +215,7 @@
     },
     "19ffaafe-0216-41c8-a6ba-31627f6ec091": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "text_banner_title": "NORGESGLASSET",
         "text_banner_body": "25% BLACK WEEK TILBUD NÅ",
@@ -219,6 +224,7 @@
     },
     "34a9cd35-a2d0-4085-810e-f231d5517b52": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "norgesglasset-hele-den-originale-serien",
@@ -237,6 +243,7 @@
     },
     "d333a1b5-e210-4669-a370-de0cfcc323db": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "text_banner_title": "ALT MARIUS",
         "text_banner_body": "25% BLACK WEEK TILBUD NÅ",
@@ -245,6 +252,7 @@
     },
     "7d5d021c-8a48-48dd-b13e-b6050d7c9b79": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "alt-marius-servise-kopper-sokker-servietter-og-mer",
@@ -259,6 +267,14 @@
         "show_vendor": false,
         "show_atc": true,
         "show_rating": false
+      }
+    },
+    "86319391-0afe-47be-bcbc-46197dd8376d": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "GODT PRISET",
+        "text_banner_body": "Varer som har faste gode priser",
+        "color-scheme": "primary"
       }
     },
     "product-grid": {
@@ -365,6 +381,7 @@
     "34a9cd35-a2d0-4085-810e-f231d5517b52",
     "d333a1b5-e210-4669-a370-de0cfcc323db",
     "7d5d021c-8a48-48dd-b13e-b6050d7c9b79",
+    "86319391-0afe-47be-bcbc-46197dd8376d",
     "product-grid",
     "16388220553dbbfb02"
   ]
