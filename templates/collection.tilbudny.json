@@ -109,7 +109,7 @@
       "type": "text-banner",
       "settings": {
         "text_banner_title": "SPESIELT GODE TILBUD",
-        "text_banner_body": "OPP TIL 50% OG DAGSTILBUD",
+        "text_banner_body": "",
         "color-scheme": "primary"
       }
     },
@@ -135,7 +135,7 @@
       "type": "text-banner",
       "settings": {
         "text_banner_title": "HALVOR BAKKE",
-        "text_banner_body": "20% BLACK WEEK TILBUD NÅ",
+        "text_banner_body": "",
         "color-scheme": "primary"
       }
     },
@@ -161,7 +161,7 @@
       "type": "text-banner",
       "settings": {
         "text_banner_title": "LUMIZ",
-        "text_banner_body": "30% BLACK WEEK TILBUD NÅ",
+        "text_banner_body": "JULEGAVEPRISET 🎁",
         "color-scheme": "primary"
       }
     },
