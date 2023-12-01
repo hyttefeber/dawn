@@ -245,7 +245,7 @@
       "type": "text-banner",
       "settings": {
         "text_banner_title": "FATBOY",
-        "text_banner_body": "",
+        "text_banner_body": "Julens Fatboy kupp",
         "color-scheme": "primary"
       }
     },
@@ -254,7 +254,7 @@
       "disabled": true,
       "settings": {
         "title": "",
-        "collection": "alt-marius-servise-kopper-sokker-servietter-og-mer",
+        "collection": "fatboy-bolleke-edison-hotspot",
         "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "",
