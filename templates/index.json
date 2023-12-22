@@ -11,6 +11,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "75802d1b-c8dd-4166-8371-118ba064d75c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_23.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/products\/gavekort"
+          }
+        },
         "eed93007-8b9f-484a-8fc3-0771ea41fe45": {
           "type": "column",
           "disabled": true,
@@ -180,6 +189,7 @@
         },
         "88d43d4d-a81e-4961-b8d1-116dab30ff7d": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
             "title": "",
@@ -189,6 +199,7 @@
         }
       },
       "block_order": [
+        "75802d1b-c8dd-4166-8371-118ba064d75c",
         "eed93007-8b9f-484a-8fc3-0771ea41fe45",
         "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
