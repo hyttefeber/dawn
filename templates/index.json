@@ -11,8 +11,18 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/balplassen"
+          }
+        },
         "75802d1b-c8dd-4166-8371-118ba064d75c": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_23.png",
             "title": "",
@@ -75,16 +85,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
-          }
-        },
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
           }
         },
         "048e39d8-f470-4ff8-ac04-e015056a5a01": {
@@ -199,6 +199,7 @@
         }
       },
       "block_order": [
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "75802d1b-c8dd-4166-8371-118ba064d75c",
         "eed93007-8b9f-484a-8fc3-0771ea41fe45",
         "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
@@ -206,7 +207,6 @@
         "86f2e94c-f650-4119-8d47-755c4e820cea",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "e96bf912-caff-4547-8ff3-40c365560886",
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
