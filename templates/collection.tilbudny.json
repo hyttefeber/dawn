@@ -108,7 +108,6 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false
@@ -116,6 +115,7 @@
     },
     "ca7a2492-bac7-465e-9e4f-772c73f5b54b": {
       "type": "text-banner",
+      "disabled": true,
       "settings": {
         "text_banner_title": "SPESIELT GODE TILBUD",
         "text_banner_body": "",
