@@ -94,6 +94,7 @@
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "image_width": "full",
@@ -135,144 +136,6 @@
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": true,
-        "show_atc": true,
-        "show_rating": false
-      }
-    },
-    "fc5c3c7e-9681-40db-b12c-31556a051487": {
-      "type": "text-banner",
-      "disabled": true,
-      "settings": {
-        "text_banner_title": "HALVOR BAKKE",
-        "text_banner_body": "",
-        "color-scheme": "primary"
-      }
-    },
-    "84df7b9b-4a8d-4e31-91af-6e88fa07f9fd": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "collection": "serie-halvor-bakke",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": false
-      }
-    },
-    "6e4b7aae-e7b0-4663-b52f-5c97b0978b9e": {
-      "type": "text-banner",
-      "settings": {
-        "text_banner_title": "LUMIZ",
-        "text_banner_body": "JULEGAVEPRISET 🎁",
-        "color-scheme": "primary"
-      }
-    },
-    "1017b6c2-bdd1-4e55-852e-44cd637b7a35": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "lumiz-solcelle-lanterner",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_atc": true,
-        "show_rating": false
-      }
-    },
-    "e621a15e-4838-4ec0-b8fb-fd2a328d4726": {
-      "type": "text-banner",
-      "disabled": true,
-      "settings": {
-        "text_banner_title": "EMMESELLE",
-        "text_banner_body": "",
-        "color-scheme": "primary"
-      }
-    },
-    "924ea983-ca1b-4768-b197-cfe941f137a0": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "collection": "emmeselle",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_atc": true,
-        "show_rating": false
-      }
-    },
-    "19ffaafe-0216-41c8-a6ba-31627f6ec091": {
-      "type": "text-banner",
-      "disabled": true,
-      "settings": {
-        "text_banner_title": "NORGESGLASSET",
-        "text_banner_body": "25% BLACK WEEK TILBUD NÅ",
-        "color-scheme": "primary"
-      }
-    },
-    "34a9cd35-a2d0-4085-810e-f231d5517b52": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "collection": "norgesglasset-hele-den-originale-serien",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_atc": true,
-        "show_rating": false
-      }
-    },
-    "d333a1b5-e210-4669-a370-de0cfcc323db": {
-      "type": "text-banner",
-      "disabled": true,
-      "settings": {
-        "text_banner_title": "FATBOY",
-        "text_banner_body": "Julens Fatboy kupp",
-        "color-scheme": "primary"
-      }
-    },
-    "7d5d021c-8a48-48dd-b13e-b6050d7c9b79": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "collection": "fatboy-bolleke-edison-hotspot",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
         "show_atc": true,
         "show_rating": false
       }
@@ -379,16 +242,6 @@
     "banner",
     "ca7a2492-bac7-465e-9e4f-772c73f5b54b",
     "912f9651-d4c8-4920-9b18-b94cfc83b3f1",
-    "fc5c3c7e-9681-40db-b12c-31556a051487",
-    "84df7b9b-4a8d-4e31-91af-6e88fa07f9fd",
-    "6e4b7aae-e7b0-4663-b52f-5c97b0978b9e",
-    "1017b6c2-bdd1-4e55-852e-44cd637b7a35",
-    "e621a15e-4838-4ec0-b8fb-fd2a328d4726",
-    "924ea983-ca1b-4768-b197-cfe941f137a0",
-    "19ffaafe-0216-41c8-a6ba-31627f6ec091",
-    "34a9cd35-a2d0-4085-810e-f231d5517b52",
-    "d333a1b5-e210-4669-a370-de0cfcc323db",
-    "7d5d021c-8a48-48dd-b13e-b6050d7c9b79",
     "86319391-0afe-47be-bcbc-46197dd8376d",
     "product-grid",
     "16388220553dbbfb02"
