@@ -413,196 +413,6 @@
         "swipe_on_mobile": true
       }
     },
-    "149a154a-b132-4c7a-b012-715fd0af5888": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "LUMIZ SOLCELLELYKTER"
-          }
-        },
-        "80983682-0b67-4a4d-962d-3e86e4f2e662": {
-          "type": "text_banner",
-          "settings": {
-            "text_banner_heading": "LUMIZ",
-            "text_banner_content": "Eksklusivt på Hyttefeber.no",
-            "color_scheme": "accent-2"
-          }
-        },
-        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Fargelegg hagen din med Lumiz.<br\/><\/strong>Den perfekte måten å skape en magisk stemning på i en enhver hage, bakgård uteplass eller veranda.<\/p><p><strong>Slipp kreativiteten løs - disse lyktene elsker å bli kombinert sammen.<br\/><\/strong><\/p>"
-          }
-        },
-        "119d7d91-5b25-4482-a980-ef49ae1ea00e": {
-          "type": "image",
-          "settings": {
-            "brand-image": "shopify:\/\/shop_images\/294490642_473824028077086_3778541620175889844_n.png"
-          }
-        },
-        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Vis Alle",
-            "button_link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
-          }
-        }
-      },
-      "block_order": [
-        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-heading-1",
-        "80983682-0b67-4a4d-962d-3e86e4f2e662",
-        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-text-1",
-        "119d7d91-5b25-4482-a980-ef49ae1ea00e",
-        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8258_f1c08fd6-ea4f-4ccc-8a23-6019a823608d.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "163163093769b5efc1": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "lumiz-solcelle-lanterner",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "Vis alt Lumiz",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": true
-      }
-    },
-    "1632087749cf8f8ea0": {
-      "type": "image-with-text",
-      "blocks": {
-        "1632087749cf8f8ea0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tradisjoner som varer"
-          }
-        },
-        "1632087749cf8f8ea0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år, og vi ser ingen grunn til at den ikke skal vare i hundre år til. Her finner du hele serien med både det gamle og det nye.<\/p>"
-          }
-        },
-        "6a4efbe0-0b5c-4ae7-8546-817f2633b797": {
-          "type": "image",
-          "settings": {
-            "brand-image": "shopify:\/\/shop_images\/norgesglasset-logo.png"
-          }
-        },
-        "1632087749cf8f8ea0-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "VIS ALLE",
-            "button_link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8": {
-          "type": "text_banner",
-          "settings": {
-            "text_banner_heading": "NORGESGLASSET",
-            "text_banner_content": "Den samme gode kvaliteten, siden 1902.",
-            "color_scheme": "accent-2"
-          }
-        }
-      },
-      "block_order": [
-        "1632087749cf8f8ea0-0",
-        "1632087749cf8f8ea0-1",
-        "6a4efbe0-0b5c-4ae7-8546-817f2633b797",
-        "1632087749cf8f8ea0-2",
-        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/norgesglass-norgesflasker-forside-brand.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "1632052593cc1e52a7": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "norgesglasset-hele-den-originale-serien",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "Vis alt fra Norgesglasset",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": true
-      }
-    },
-    "1632087735695d2a16": {
-      "type": "image-with-text",
-      "blocks": {
-        "112d065a-968b-4f0a-9ca1-dda3553c5e80": {
-          "type": "text_banner",
-          "settings": {
-            "text_banner_heading": "Marius",
-            "text_banner_content": "Tisdløst og trendy",
-            "color_scheme": "accent-2"
-          }
-        },
-        "1632087735695d2a16-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ta tradisjonen videre."
-          }
-        },
-        "1632087735695d2a16-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><\/p><p>Mariusmønstret er en stor del av norsk tradisjon og historie, og også en gjenganger på norske hytter, landet rundt. Hos oss finner du både nostalgiske og moderne varianter av det populære mønsteret.<\/p>"
-          }
-        },
-        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2": {
-          "type": "image",
-          "settings": {
-            "brand-image": "shopify:\/\/shop_images\/marius-logo-front.png"
-          }
-        },
-        "1632087735695d2a16-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Vis alt Marius",
-            "button_link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
-          }
-        }
-      },
-      "block_order": [
-        "112d065a-968b-4f0a-9ca1-dda3553c5e80",
-        "1632087735695d2a16-0",
-        "1632087735695d2a16-1",
-        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2",
-        "1632087735695d2a16-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/marius-forside-brand.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "163208927285d0ee5e": {
       "type": "image-with-text",
       "blocks": {
@@ -688,6 +498,196 @@
         "show_vendor": true,
         "show_atc": true,
         "show_rating": true
+      }
+    },
+    "1632087749cf8f8ea0": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632087749cf8f8ea0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tradisjoner som varer"
+          }
+        },
+        "1632087749cf8f8ea0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år, og vi ser ingen grunn til at den ikke skal vare i hundre år til. Her finner du hele serien med både det gamle og det nye.<\/p>"
+          }
+        },
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/norgesglasset-logo.png"
+          }
+        },
+        "1632087749cf8f8ea0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIS ALLE",
+            "button_link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "NORGESGLASSET",
+            "text_banner_content": "Den samme gode kvaliteten, siden 1902.",
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "1632087749cf8f8ea0-0",
+        "1632087749cf8f8ea0-1",
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797",
+        "1632087749cf8f8ea0-2",
+        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/norgesglass-norgesflasker-forside-brand.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1632052593cc1e52a7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "norgesglasset-hele-den-originale-serien",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "Vis alt fra Norgesglasset",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": true
+      }
+    },
+    "149a154a-b132-4c7a-b012-715fd0af5888": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "LUMIZ SOLCELLELYKTER"
+          }
+        },
+        "80983682-0b67-4a4d-962d-3e86e4f2e662": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "LUMIZ",
+            "text_banner_content": "Eksklusivt på Hyttefeber.no",
+            "color_scheme": "accent-2"
+          }
+        },
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Fargelegg hagen din med Lumiz.<br\/><\/strong>Den perfekte måten å skape en magisk stemning på i en enhver hage, bakgård uteplass eller veranda.<\/p><p><strong>Slipp kreativiteten løs - disse lyktene elsker å bli kombinert sammen.<br\/><\/strong><\/p>"
+          }
+        },
+        "119d7d91-5b25-4482-a980-ef49ae1ea00e": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/294490642_473824028077086_3778541620175889844_n.png"
+          }
+        },
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vis Alle",
+            "button_link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
+          }
+        }
+      },
+      "block_order": [
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-heading-1",
+        "80983682-0b67-4a4d-962d-3e86e4f2e662",
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-text-1",
+        "119d7d91-5b25-4482-a980-ef49ae1ea00e",
+        "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8258_f1c08fd6-ea4f-4ccc-8a23-6019a823608d.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163163093769b5efc1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "lumiz-solcelle-lanterner",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "Vis alt Lumiz",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": true
+      }
+    },
+    "1632087735695d2a16": {
+      "type": "image-with-text",
+      "blocks": {
+        "112d065a-968b-4f0a-9ca1-dda3553c5e80": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "Marius",
+            "text_banner_content": "Tisdløst og trendy",
+            "color_scheme": "accent-2"
+          }
+        },
+        "1632087735695d2a16-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ta tradisjonen videre."
+          }
+        },
+        "1632087735695d2a16-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>Mariusmønstret er en stor del av norsk tradisjon og historie, og også en gjenganger på norske hytter, landet rundt. Hos oss finner du både nostalgiske og moderne varianter av det populære mønsteret.<\/p>"
+          }
+        },
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/marius-logo-front.png"
+          }
+        },
+        "1632087735695d2a16-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vis alt Marius",
+            "button_link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
+          }
+        }
+      },
+      "block_order": [
+        "112d065a-968b-4f0a-9ca1-dda3553c5e80",
+        "1632087735695d2a16-0",
+        "1632087735695d2a16-1",
+        "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2",
+        "1632087735695d2a16-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/marius-forside-brand.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "b4fa5622-d269-4c4c-8b18-fd772bd14b4d": {
@@ -913,14 +913,14 @@
     "multi_column",
     "featured_products",
     "1631626408eee30b8a",
-    "149a154a-b132-4c7a-b012-715fd0af5888",
-    "163163093769b5efc1",
-    "1632087749cf8f8ea0",
-    "1632052593cc1e52a7",
-    "1632087735695d2a16",
     "163208927285d0ee5e",
     "f96a9c4c-2c52-4710-8e98-e0ead759982e",
     "163215496531ff8641",
+    "1632087749cf8f8ea0",
+    "1632052593cc1e52a7",
+    "149a154a-b132-4c7a-b012-715fd0af5888",
+    "163163093769b5efc1",
+    "1632087735695d2a16",
     "b4fa5622-d269-4c4c-8b18-fd772bd14b4d",
     "ce52e10f-5356-4f35-84cb-efa8bcdc4069",
     "1632262113e988bb5e",
