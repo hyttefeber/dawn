@@ -11,13 +11,13 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b": {
+        "010e5a34-6e95-4429-82f1-20644f8c07df": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_22.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_24.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/super-tilbud-50"
+            "link": "shopify:\/\/collections\/stoler-og-skamler"
           }
         },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
@@ -27,6 +27,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+          }
+        },
+        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_22.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/super-tilbud-50"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -47,15 +56,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/products\/gavekort"
-          }
-        },
-        "010e5a34-6e95-4429-82f1-20644f8c07df": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_24.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/stoler-og-skamler"
           }
         },
         "e96bf912-caff-4547-8ff3-40c365560886": {
@@ -179,11 +179,11 @@
         }
       },
       "block_order": [
-        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
+        "010e5a34-6e95-4429-82f1-20644f8c07df",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
+        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "75802d1b-c8dd-4166-8371-118ba064d75c",
-        "010e5a34-6e95-4429-82f1-20644f8c07df",
         "e96bf912-caff-4547-8ff3-40c365560886",
         "048e39d8-f470-4ff8-ac04-e015056a5a01",
         "2b00d16e-fee0-4013-b409-499ef5e7d38c",
