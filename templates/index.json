@@ -11,6 +11,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_WbiPPe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_28.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/paskeegg"
+          }
+        },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
           "settings": {
@@ -32,7 +41,7 @@
         "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_22.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_29.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/super-tilbud-50"
@@ -60,6 +69,7 @@
         },
         "e96bf912-caff-4547-8ff3-40c365560886": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_21.png",
             "title": "",
@@ -179,6 +189,7 @@
         }
       },
       "block_order": [
+        "column_WbiPPe",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
