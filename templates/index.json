@@ -478,7 +478,7 @@
     "f96a9c4c-2c52-4710-8e98-e0ead759982e": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "collection": "canadian-outdoor",
         "products_to_show": 4,
         "show_view_all": true,
