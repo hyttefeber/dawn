@@ -11,15 +11,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_WbiPPe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_28.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/paskeegg"
-          }
-        },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
           "settings": {
@@ -27,6 +18,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/solo-stove"
+          }
+        },
+        "column_WbiPPe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_28.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/paskeegg"
           }
         },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
@@ -189,8 +189,8 @@
         }
       },
       "block_order": [
-        "column_WbiPPe",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
+        "column_WbiPPe",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
