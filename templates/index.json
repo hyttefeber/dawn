@@ -11,13 +11,13 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
+        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/45_e47cf799-477d-4175-a469-8944fbe7f020.png",
+            "image": "shopify:\/\/shop_images\/51.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/solo-stove"
+            "link": "shopify:\/\/collections\/super-tilbud-50"
           }
         },
         "column_WbiPPe": {
@@ -29,6 +29,15 @@
             "link": "shopify:\/\/collections\/paskeegg"
           }
         },
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/45_e47cf799-477d-4175-a469-8944fbe7f020.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/solo-stove"
+          }
+        },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
           "type": "column",
           "settings": {
@@ -36,15 +45,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/stoler-og-skamler"
-          }
-        },
-        "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/51.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/super-tilbud-50"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -189,10 +189,10 @@
         }
       },
       "block_order": [
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
-        "column_WbiPPe",
-        "010e5a34-6e95-4429-82f1-20644f8c07df",
         "da3b33c6-3b34-4dbc-8e97-a9b471c4b50b",
+        "column_WbiPPe",
+        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
+        "010e5a34-6e95-4429-82f1-20644f8c07df",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "75802d1b-c8dd-4166-8371-118ba064d75c",
         "e96bf912-caff-4547-8ff3-40c365560886",
