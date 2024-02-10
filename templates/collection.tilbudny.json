@@ -5,32 +5,29 @@
       "blocks": {
         "88b69057-9b79-416b-bf3f-ab6987048eed": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_15_972939d6-f888-464f-bd55-40b719970252.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_30.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/super-tilbud-50"
+            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
         },
         "b83d88bc-c139-4a79-9676-1106a70b6a77": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_16_6c85e5af-525b-433b-8ce8-c577fd27ac7c.png",
+            "image": "shopify:\/\/shop_images\/45_e47cf799-477d-4175-a469-8944fbe7f020.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/julekuler"
+            "link": "shopify:\/\/collections\/solo-stove"
           }
         },
         "a42b960a-98d2-42e4-9078-b7ba4b38eeb7": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_17_3e00c4aa-47fd-4559-a96b-9f1192e5f153.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_24.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+            "link": "shopify:\/\/collections\/stoler-og-skamler"
           }
         },
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1": {
@@ -94,7 +91,6 @@
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "image_width": "full",
