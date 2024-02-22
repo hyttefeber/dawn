@@ -10,11 +10,11 @@
     "28386847-0729-4c1c-9b69-46a30c69e73f": {
       "type": "collection-buttons-multicol",
       "blocks": {
-        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0": {
+        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2": {
           "type": "column",
           "settings": {
-            "title": "LIN",
-            "link": "shopify:\/\/collections\/lin"
+            "title": "ULL",
+            "link": "shopify:\/\/collections\/ull"
           }
         },
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1": {
@@ -24,26 +24,26 @@
             "link": "shopify:\/\/collections\/floyel"
           }
         },
-        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2": {
-          "type": "column",
-          "settings": {
-            "title": "ULL",
-            "link": "shopify:\/\/collections\/ull"
-          }
-        },
         "be482084-912b-438a-b0f9-10982f78e3dc": {
           "type": "column",
           "settings": {
             "title": "MOTIV",
             "link": "shopify:\/\/collections\/motiv"
           }
+        },
+        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0": {
+          "type": "column",
+          "settings": {
+            "title": "LIN",
+            "link": "shopify:\/\/collections\/lin"
+          }
         }
       },
       "block_order": [
-        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0",
-        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1",
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2",
-        "be482084-912b-438a-b0f9-10982f78e3dc"
+        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1",
+        "be482084-912b-438a-b0f9-10982f78e3dc",
+        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0"
       ],
       "settings": {
         "title": "",
