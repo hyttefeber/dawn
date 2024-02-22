@@ -11,6 +11,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_8NDrUN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_32.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/putetrekk"
+          }
+        },
         "column_hzr9pf": {
           "type": "column",
           "settings": {
@@ -22,6 +31,7 @@
         },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_30.png",
             "title": "",
@@ -169,6 +179,7 @@
         }
       },
       "block_order": [
+        "column_8NDrUN",
         "column_hzr9pf",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "column_WbiPPe",
