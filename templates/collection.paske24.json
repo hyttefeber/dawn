@@ -3,6 +3,15 @@
     "7039a547-7454-4605-8281-e76f359bcaed": {
       "type": "multicolumn",
       "blocks": {
+        "column_YE8jkY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_32.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/putetrekk"
+          }
+        },
         "column_HW44Cj": {
           "type": "column",
           "settings": {
@@ -14,6 +23,7 @@
         },
         "88b69057-9b79-416b-bf3f-ab6987048eed": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_30.png",
             "title": "",
@@ -38,23 +48,14 @@
             "text": "",
             "link": "shopify:\/\/collections\/stoler-og-skamler"
           }
-        },
-        "column_YE8jkY": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_32.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/putetrekk"
-          }
         }
       },
       "block_order": [
+        "column_YE8jkY",
         "column_HW44Cj",
         "88b69057-9b79-416b-bf3f-ab6987048eed",
         "b83d88bc-c139-4a79-9676-1106a70b6a77",
-        "a42b960a-98d2-42e4-9078-b7ba4b38eeb7",
-        "column_YE8jkY"
+        "a42b960a-98d2-42e4-9078-b7ba4b38eeb7"
       ],
       "settings": {
         "title": "",
