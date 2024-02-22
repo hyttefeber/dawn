@@ -12,6 +12,15 @@
             "link": "shopify:\/\/collections\/putetrekk"
           }
         },
+        "b83d88bc-c139-4a79-9676-1106a70b6a77": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/stopejern"
+          }
+        },
         "column_HW44Cj": {
           "type": "column",
           "settings": {
@@ -31,15 +40,6 @@
             "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
           }
         },
-        "b83d88bc-c139-4a79-9676-1106a70b6a77": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/stopejern"
-          }
-        },
         "a42b960a-98d2-42e4-9078-b7ba4b38eeb7": {
           "type": "column",
           "settings": {
@@ -52,9 +52,9 @@
       },
       "block_order": [
         "column_YE8jkY",
+        "b83d88bc-c139-4a79-9676-1106a70b6a77",
         "column_HW44Cj",
         "88b69057-9b79-416b-bf3f-ab6987048eed",
-        "b83d88bc-c139-4a79-9676-1106a70b6a77",
         "a42b960a-98d2-42e4-9078-b7ba4b38eeb7"
       ],
       "settings": {
