@@ -139,7 +139,7 @@
     "featured_collection_NAmRUq": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "collection": "paske-favoritter",
         "products_to_show": 4,
         "show_view_all": true,
@@ -165,7 +165,7 @@
     "featured_collection_4ahHD9": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "collection": "putetrekk",
         "products_to_show": 4,
         "show_view_all": true,
