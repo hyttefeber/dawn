@@ -154,6 +154,32 @@
         "show_rating": false
       }
     },
+    "text_banner_KUBFGG": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "💛PUTETREKK💛",
+        "text_banner_body": "Add your text here",
+        "color-scheme": "primary"
+      }
+    },
+    "featured_collection_4ahHD9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "putetrekk",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -252,6 +278,8 @@
     "featured_collection_NXfd43",
     "text_banner_xMycVM",
     "featured_collection_NAmRUq",
+    "text_banner_KUBFGG",
+    "featured_collection_4ahHD9",
     "product-grid",
     "16388220553dbbfb02"
   ]
