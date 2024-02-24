@@ -92,14 +92,14 @@
         "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": true,
         "show_atc": true,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "86319391-0afe-47be-bcbc-46197dd8376d": {
@@ -178,6 +178,14 @@
         "show_vendor": false,
         "show_atc": true,
         "show_rating": false
+      }
+    },
+    "text_banner_RWXjpt": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "Title",
+        "text_banner_body": "Add your text here",
+        "color-scheme": "primary"
       }
     },
     "product-grid": {
@@ -280,6 +288,7 @@
     "featured_collection_NAmRUq",
     "text_banner_KUBFGG",
     "featured_collection_4ahHD9",
+    "text_banner_RWXjpt",
     "product-grid",
     "16388220553dbbfb02"
   ]
