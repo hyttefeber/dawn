@@ -89,13 +89,13 @@
       "settings": {
         "title": "",
         "collection": "super-tilbud-50",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "",
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "add_image_padding": false,
+        "add_image_padding": true,
         "show_image_outline": true,
         "show_vendor": true,
         "show_atc": true,
@@ -115,7 +115,7 @@
       "settings": {
         "title": "",
         "collection": "paskeegg",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "",
         "swipe_on_mobile": true,
@@ -141,7 +141,7 @@
       "settings": {
         "title": "",
         "collection": "paske-favoritter",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "",
         "swipe_on_mobile": true,
