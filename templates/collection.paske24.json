@@ -180,6 +180,32 @@
         "show_rating": false
       }
     },
+    "text_banner_QEbRzH": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "🐑 SKINNFELLER 🐑",
+        "text_banner_body": "",
+        "color-scheme": "primary"
+      }
+    },
+    "featured_collection_HGB34Q": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "saueskinn",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": false
+      }
+    },
     "text_banner_KUBFGG": {
       "type": "text-banner",
       "settings": {
@@ -340,6 +366,8 @@
     "featured_collection_NAmRUq",
     "text_banner_xdeVGG",
     "featured_collection_gptXWm",
+    "text_banner_QEbRzH",
+    "featured_collection_HGB34Q",
     "text_banner_KUBFGG",
     "featured_collection_4ahHD9",
     "text_banner_7Hzf4c",
