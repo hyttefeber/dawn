@@ -79,7 +79,7 @@
     "ca7a2492-bac7-465e-9e4f-772c73f5b54b": {
       "type": "text-banner",
       "settings": {
-        "text_banner_title": "🐣SPESIELT GODE TIL PÅSKEN🐣",
+        "text_banner_title": "🐣GODE TILBUD TIL PÅSKEN🐣",
         "text_banner_body": "",
         "color-scheme": "primary"
       }
@@ -126,6 +126,14 @@
         "show_vendor": false,
         "show_atc": true,
         "show_rating": false
+      }
+    },
+    "text_banner_xMycVM": {
+      "type": "text-banner",
+      "settings": {
+        "text_banner_title": "🤩PÅSKEFAVORITTER🤩",
+        "text_banner_body": "",
+        "color-scheme": "primary"
       }
     },
     "product-grid": {
@@ -224,6 +232,7 @@
     "912f9651-d4c8-4920-9b18-b94cfc83b3f1",
     "86319391-0afe-47be-bcbc-46197dd8376d",
     "featured_collection_NXfd43",
+    "text_banner_xMycVM",
     "product-grid",
     "16388220553dbbfb02"
   ]
