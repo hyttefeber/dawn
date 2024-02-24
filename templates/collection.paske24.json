@@ -182,9 +182,8 @@
     },
     "text_banner_RWXjpt": {
       "type": "text-banner",
-      "disabled": true,
       "settings": {
-        "text_banner_title": "Title",
+        "text_banner_title": "💛GOD PÅSKE💛",
         "text_banner_body": "Add your text here",
         "color-scheme": "primary"
       }
