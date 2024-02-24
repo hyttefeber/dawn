@@ -167,7 +167,7 @@
       "settings": {
         "title": "",
         "collection": "putetrekk",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "show_view_all": true,
         "view_all_text": "",
         "swipe_on_mobile": true,
