@@ -113,7 +113,7 @@
     "featured_collection_NXfd43": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "collection": "paskeegg",
         "products_to_show": 4,
         "show_view_all": true,
