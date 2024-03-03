@@ -11,15 +11,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_8NDrUN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_32.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/putetrekk"
-          }
-        },
         "column_hPcN8m": {
           "type": "column",
           "settings": {
@@ -27,6 +18,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/nyhet-siri"
+          }
+        },
+        "column_8NDrUN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_32.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/putetrekk"
           }
         },
         "column_hzr9pf": {
@@ -189,8 +189,8 @@
         }
       },
       "block_order": [
-        "column_8NDrUN",
         "column_hPcN8m",
+        "column_8NDrUN",
         "column_hzr9pf",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "column_WbiPPe",
