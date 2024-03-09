@@ -21,8 +21,18 @@
             "link": "shopify:\/\/collections\/stopejern"
           }
         },
+        "column_HzeCfn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_38.png",
+            "title": "",
+            "text": "",
+            "link": ""
+          }
+        },
         "column_HW44Cj": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_31.png",
             "title": "",
@@ -53,6 +63,7 @@
       "block_order": [
         "column_YE8jkY",
         "b83d88bc-c139-4a79-9676-1106a70b6a77",
+        "column_HzeCfn",
         "column_HW44Cj",
         "88b69057-9b79-416b-bf3f-ab6987048eed",
         "a42b960a-98d2-42e4-9078-b7ba4b38eeb7"
