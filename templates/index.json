@@ -11,8 +11,18 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_WrYwRR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_39.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/lama-interior-lykter-tekstil-brett-fat-og-dekor"
+          }
+        },
         "column_hPcN8m": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_38.png",
             "title": "",
@@ -189,6 +199,7 @@
         }
       },
       "block_order": [
+        "column_WrYwRR",
         "column_hPcN8m",
         "column_8NDrUN",
         "column_hzr9pf",
