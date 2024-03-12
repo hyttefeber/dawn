@@ -13,22 +13,22 @@
         "column_aeJkRF": {
           "type": "column",
           "settings": {
-            "title": "80cm",
+            "title": "Medium 80cm",
             "link": "shopify:\/\/collections\/saueskinn-80cm"
           }
         },
         "column_3pRFqq": {
           "type": "column",
           "settings": {
-            "title": "110cm",
+            "title": "Store 110cm",
             "link": "shopify:\/\/collections\/saueskinn-110cm"
           }
         },
         "column_xFg3iY": {
           "type": "column",
           "settings": {
-            "title": "Link",
-            "link": ""
+            "title": "Ekstra Store 130cm",
+            "link": "shopify:\/\/collections\/130cm-saueskinn"
           }
         }
       },
