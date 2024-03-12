@@ -7,6 +7,45 @@
         "show_collection_image": false
       }
     },
+    "collection_buttons_multicol_gYFUze": {
+      "type": "collection-buttons-multicol",
+      "blocks": {
+        "column_aeJkRF": {
+          "type": "column",
+          "settings": {
+            "title": "80cm",
+            "link": "shopify:\/\/collections\/saueskinn-80cm"
+          }
+        },
+        "column_3pRFqq": {
+          "type": "column",
+          "settings": {
+            "title": "110cm",
+            "link": "shopify:\/\/collections\/saueskinn-110cm"
+          }
+        },
+        "column_xFg3iY": {
+          "type": "column",
+          "settings": {
+            "title": "Link",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_aeJkRF",
+        "column_3pRFqq",
+        "column_xFg3iY"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "swipe_on_mobile": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -27,6 +66,12 @@
     "16522621980aa319e9": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_TjNP9P": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "balplassen"
+          }
+        },
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
           "type": "featured_collection",
           "settings": {
@@ -70,23 +115,17 @@
           "settings": {
             "collection": "lysholdere"
           }
-        },
-        "featured_collection_TjNP9P": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "balplassen"
-          }
         }
       },
       "block_order": [
+        "featured_collection_TjNP9P",
         "76ad7f4d-a41a-4e05-9437-dfe5c94b1420",
         "1eaadf80-ec4a-4471-b4d1-3e386770955e",
         "bd3d068b-9a52-40b5-bce4-681ee97946ea",
         "165226219844ecd034-0",
         "39be9d9d-6d06-406e-9c85-0e3a248ed36a",
         "9cbeb183-78d6-403c-af1f-e116b1284831",
-        "670d40d3-79ba-48c6-90d9-fd96708960b3",
-        "featured_collection_TjNP9P"
+        "670d40d3-79ba-48c6-90d9-fd96708960b3"
       ],
       "settings": {
         "title": "Tekstiler og Skinn",
@@ -171,6 +210,7 @@
   },
   "order": [
     "banner",
+    "collection_buttons_multicol_gYFUze",
     "product-grid",
     "16522621980aa319e9",
     "16388220553dbbfb02"
