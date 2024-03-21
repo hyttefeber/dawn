@@ -20,14 +20,13 @@
             "link": "shopify:\/\/collections\/paskeegg"
           }
         },
-        "column_hPcN8m": {
+        "column_8NDrUN": {
           "type": "column",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_38.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_32.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/nyhet-siri"
+            "link": "shopify:\/\/collections\/putetrekk"
           }
         },
         "column_WrYwRR": {
@@ -39,13 +38,14 @@
             "link": "shopify:\/\/collections\/nyheter-fra-lama-interior"
           }
         },
-        "column_8NDrUN": {
+        "column_hPcN8m": {
           "type": "column",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_32.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_38.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/putetrekk"
+            "link": "shopify:\/\/collections\/nyhet-siri"
           }
         },
         "column_hzr9pf": {
@@ -200,9 +200,9 @@
       },
       "block_order": [
         "column_WbiPPe",
-        "column_hPcN8m",
-        "column_WrYwRR",
         "column_8NDrUN",
+        "column_WrYwRR",
+        "column_hPcN8m",
         "column_hzr9pf",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
