@@ -11,13 +11,13 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_WrYwRR": {
+        "column_WbiPPe": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_39.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_41.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/nyheter-fra-lama-interior"
+            "link": "shopify:\/\/collections\/paskeegg"
           }
         },
         "column_hPcN8m": {
@@ -28,6 +28,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/nyhet-siri"
+          }
+        },
+        "column_WrYwRR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_39.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/nyheter-fra-lama-interior"
           }
         },
         "column_8NDrUN": {
@@ -57,15 +66,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "column_WbiPPe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_28.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/paskeegg"
           }
         },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
@@ -199,12 +199,12 @@
         }
       },
       "block_order": [
-        "column_WrYwRR",
+        "column_WbiPPe",
         "column_hPcN8m",
+        "column_WrYwRR",
         "column_8NDrUN",
         "column_hzr9pf",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
-        "column_WbiPPe",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "75802d1b-c8dd-4166-8371-118ba064d75c",
