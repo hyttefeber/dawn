@@ -11,15 +11,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_WbiPPe": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_41.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/paskeegg"
-          }
-        },
         "column_8NDrUN": {
           "type": "column",
           "settings": {
@@ -50,7 +41,6 @@
         },
         "column_hzr9pf": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
             "title": "",
@@ -199,7 +189,6 @@
         }
       },
       "block_order": [
-        "column_WbiPPe",
         "column_8NDrUN",
         "column_WrYwRR",
         "column_hPcN8m",
