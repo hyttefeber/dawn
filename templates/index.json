@@ -20,6 +20,15 @@
             "link": "shopify:\/\/collections\/putetrekk"
           }
         },
+        "010e5a34-6e95-4429-82f1-20644f8c07df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FB_VARIANT_1.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/saueskinn"
+          }
+        },
         "column_WrYwRR": {
           "type": "column",
           "settings": {
@@ -56,15 +65,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "010e5a34-6e95-4429-82f1-20644f8c07df": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FB_VARIANT.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/saueskinn"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -190,11 +190,11 @@
       },
       "block_order": [
         "column_8NDrUN",
+        "010e5a34-6e95-4429-82f1-20644f8c07df",
         "column_WrYwRR",
         "column_hPcN8m",
         "column_hzr9pf",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
-        "010e5a34-6e95-4429-82f1-20644f8c07df",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "75802d1b-c8dd-4166-8371-118ba064d75c",
         "e96bf912-caff-4547-8ff3-40c365560886",
