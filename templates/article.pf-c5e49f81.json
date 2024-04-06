@@ -75,10 +75,29 @@
         "image_padding": false,
         "show_view_all": false
       }
+    },
+    "featured_collection_AmjB7Y": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "lumiz-solcelle-lanterner",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "SE ALLE",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_atc": true,
+        "show_rating": true
+      }
     }
   },
   "order": [
     "pf-c5e49f81",
-    "collection_list_9QdHx7"
+    "collection_list_9QdHx7",
+    "featured_collection_AmjB7Y"
   ]
 }
