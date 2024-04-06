@@ -4,9 +4,53 @@
       "type": "pf-c5e49f81",
       "settings": {
       }
+    },
+    "collection_list_9QdHx7": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_ibdfEp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lama-interior-lykter-tekstil-brett-fat-og-dekor"
+          }
+        },
+        "featured_collection_9TdADR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fatboy"
+          }
+        },
+        "featured_collection_WjXJeX": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pizza-ovner-og-tilbehor"
+          }
+        },
+        "featured_collection_H9gPXj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "utemobler-og-sitteplasser"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_ibdfEp",
+        "featured_collection_9TdADR",
+        "featured_collection_WjXJeX",
+        "featured_collection_H9gPXj"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
-    "pf-c5e49f81"
+    "pf-c5e49f81",
+    "collection_list_9QdHx7"
   ]
 }
