@@ -11,15 +11,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_WrYwRR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_39.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/nyheter-fra-lama-interior"
-          }
-        },
         "column_8NDrUN": {
           "type": "column",
           "settings": {
@@ -27,6 +18,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/putetrekk"
+          }
+        },
+        "010e5a34-6e95-4429-82f1-20644f8c07df": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FB_VARIANT_1.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/saueskinn"
           }
         },
         "column_hzr9pf": {
@@ -38,13 +38,13 @@
             "link": "shopify:\/\/collections\/stopejern"
           }
         },
-        "010e5a34-6e95-4429-82f1-20644f8c07df": {
+        "column_WrYwRR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FB_VARIANT_1.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_39.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/saueskinn"
+            "link": "shopify:\/\/collections\/nyheter-fra-lama-interior"
           }
         },
         "column_hPcN8m": {
@@ -189,10 +189,10 @@
         }
       },
       "block_order": [
-        "column_WrYwRR",
         "column_8NDrUN",
-        "column_hzr9pf",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
+        "column_hzr9pf",
+        "column_WrYwRR",
         "column_hPcN8m",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
