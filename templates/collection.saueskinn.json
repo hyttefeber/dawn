@@ -30,12 +30,20 @@
             "title": "Ekstra Store 130cm",
             "link": "shopify:\/\/collections\/130cm-saueskinn"
           }
+        },
+        "column_9RtcMG": {
+          "type": "column",
+          "settings": {
+            "title": "XXL Dobble Skinn",
+            "link": "shopify:\/\/collections\/xxl-dobble-skinn"
+          }
         }
       },
       "block_order": [
         "column_aeJkRF",
         "column_3pRFqq",
-        "column_xFg3iY"
+        "column_xFg3iY",
+        "column_9RtcMG"
       ],
       "settings": {
         "title": "",
