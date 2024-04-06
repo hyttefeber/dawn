@@ -23,13 +23,37 @@
         "featured_collection_WjXJeX": {
           "type": "featured_collection",
           "settings": {
-            "collection": "pizza-ovner-og-tilbehor"
+            "collection": "utebelysning"
           }
         },
         "featured_collection_H9gPXj": {
           "type": "featured_collection",
           "settings": {
+            "collection": "pizza-ovner-og-tilbehor"
+          }
+        },
+        "featured_collection_yAqYxn": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "belysning-og-lyslykter"
+          }
+        },
+        "featured_collection_WfPKRA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "serie-halvor-bakke"
+          }
+        },
+        "featured_collection_A4yxGg": {
+          "type": "featured_collection",
+          "settings": {
             "collection": "utemobler-og-sitteplasser"
+          }
+        },
+        "featured_collection_z9fbYF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "saueskinn"
           }
         }
       },
@@ -37,7 +61,11 @@
         "featured_collection_ibdfEp",
         "featured_collection_9TdADR",
         "featured_collection_WjXJeX",
-        "featured_collection_H9gPXj"
+        "featured_collection_H9gPXj",
+        "featured_collection_yAqYxn",
+        "featured_collection_WfPKRA",
+        "featured_collection_A4yxGg",
+        "featured_collection_z9fbYF"
       ],
       "settings": {
         "title": "",
