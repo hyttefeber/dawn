@@ -1,9 +1,14 @@
 {
   "sections": {
+    "pf-ceca8c07": {
+      "type": "pf-ceca8c07",
+      "settings": {
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false
       }
     },
@@ -94,17 +99,12 @@
         "image_padding": false,
         "show_view_all": false
       }
-    },
-    "pf-ceca8c07": {
-      "type": "pf-ceca8c07",
-      "settings": {
-      }
     }
   },
   "order": [
+    "pf-ceca8c07",
     "banner",
     "product-grid",
-    "16388220553dbbfb02",
-    "pf-ceca8c07"
+    "16388220553dbbfb02"
   ]
 }
