@@ -1,5 +1,10 @@
 {
   "sections": {
+    "pf-174a44de": {
+      "type": "pf-174a44de",
+      "settings": {
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -94,17 +99,12 @@
         "image_padding": false,
         "show_view_all": false
       }
-    },
-    "pf-174a44de": {
-      "type": "pf-174a44de",
-      "settings": {
-      }
     }
   },
   "order": [
+    "pf-174a44de",
     "banner",
     "product-grid",
-    "16388220553dbbfb02",
-    "pf-174a44de"
+    "16388220553dbbfb02"
   ]
 }
