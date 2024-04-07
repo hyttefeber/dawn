@@ -36,19 +36,25 @@
         "16388220555866fa8a-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "til-uteplassen"
+            "collection": "utebelysning"
+          }
+        },
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fatboy"
           }
         },
         "03a7b704-5d75-4af1-882a-5ff727e45966": {
           "type": "featured_collection",
           "settings": {
-            "collection": "balplassen"
+            "collection": "lama-interior-lykter-tekstil-brett-fat-og-dekor"
           }
         },
         "16388220555866fa8a-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "interior-til-hytter-og-hus"
+            "collection": "saueskinn"
           }
         },
         "16388220555866fa8a-2": {
@@ -66,30 +72,24 @@
         "81fbae77-5db6-412c-a9e2-dc520af1565f": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ut-pa-tur"
-          }
-        },
-        "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "mummi-hos-hyttefeber"
+            "collection": "pizza-ovner-og-tilbehor"
           }
         },
         "01fb9155-329e-40a2-91e1-e6470e9e2b49": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kjokken-og-servering"
+            "collection": "utemobler-og-sitteplasser"
           }
         }
       },
       "block_order": [
         "16388220555866fa8a-0",
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
         "03a7b704-5d75-4af1-882a-5ff727e45966",
         "16388220555866fa8a-1",
         "16388220555866fa8a-2",
         "8633003d-4061-401a-bb8c-65cad9a1c09e",
         "81fbae77-5db6-412c-a9e2-dc520af1565f",
-        "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
         "01fb9155-329e-40a2-91e1-e6470e9e2b49"
       ],
       "settings": {
