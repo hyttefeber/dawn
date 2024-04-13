@@ -36,7 +36,7 @@
         "03a7b704-5d75-4af1-882a-5ff727e45966": {
           "type": "featured_collection",
           "settings": {
-            "collection": "balplassen"
+            "collection": "til-uteplassen"
           }
         },
         "16388220555866fa8a-1": {
@@ -62,12 +62,6 @@
           "settings": {
             "collection": "populaert-na"
           }
-        },
-        "01fb9155-329e-40a2-91e1-e6470e9e2b49": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kjokken-og-servering"
-          }
         }
       },
       "block_order": [
@@ -76,8 +70,7 @@
         "16388220555866fa8a-1",
         "16388220555866fa8a-2",
         "81fbae77-5db6-412c-a9e2-dc520af1565f",
-        "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
-        "01fb9155-329e-40a2-91e1-e6470e9e2b49"
+        "0920b20f-742f-41be-b5b0-12c4e3dd98f4"
       ],
       "settings": {
         "title": "Flere kategorier",
