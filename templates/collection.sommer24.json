@@ -81,22 +81,16 @@
             "collection": "interior-til-hytter-og-hus"
           }
         },
+        "a3386076-354e-4a02-84bd-b3d3841e45be": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "putetrekk"
+          }
+        },
         "165226219844ecd034-1": {
           "type": "featured_collection",
           "settings": {
             "collection": "serie-halvor-bakke"
-          }
-        },
-        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "serie-aina-sollie-steen"
-          }
-        },
-        "1eaadf80-ec4a-4471-b4d1-3e386770955e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "lama-interior-lykter-tekstil-brett-fat-og-dekor"
           }
         },
         "bd3d068b-9a52-40b5-bce4-681ee97946ea": {
@@ -111,56 +105,20 @@
             "collection": "brett-og-fat"
           }
         },
-        "39be9d9d-6d06-406e-9c85-0e3a248ed36a": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "oppbevaring-kasser-kurver-etc"
-          }
-        },
-        "165226219844ecd034-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vaser-og-dekor"
-          }
-        },
         "9cbeb183-78d6-403c-af1f-e116b1284831": {
           "type": "featured_collection",
           "settings": {
             "collection": "kroker-og-knotter"
           }
-        },
-        "670d40d3-79ba-48c6-90d9-fd96708960b3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "tekstil"
-          }
-        },
-        "a3386076-354e-4a02-84bd-b3d3841e45be": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "putetrekk"
-          }
-        },
-        "d90e02fb-3d22-4df4-a0fe-f15193478cc0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "pa-veggen"
-          }
         }
       },
       "block_order": [
         "2f73366f-24e8-48dd-9d89-17a7f0151208",
+        "a3386076-354e-4a02-84bd-b3d3841e45be",
         "165226219844ecd034-1",
-        "76ad7f4d-a41a-4e05-9437-dfe5c94b1420",
-        "1eaadf80-ec4a-4471-b4d1-3e386770955e",
         "bd3d068b-9a52-40b5-bce4-681ee97946ea",
         "165226219844ecd034-0",
-        "39be9d9d-6d06-406e-9c85-0e3a248ed36a",
-        "165226219844ecd034-2",
-        "9cbeb183-78d6-403c-af1f-e116b1284831",
-        "670d40d3-79ba-48c6-90d9-fd96708960b3",
-        "a3386076-354e-4a02-84bd-b3d3841e45be",
-        "d90e02fb-3d22-4df4-a0fe-f15193478cc0"
+        "9cbeb183-78d6-403c-af1f-e116b1284831"
       ],
       "settings": {
         "title": "Interiør",
@@ -174,6 +132,12 @@
     "16388220553dbbfb02": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_BVhdfK": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "utebelysning"
+          }
+        },
         "16388220555866fa8a-0": {
           "type": "featured_collection",
           "settings": {
@@ -183,13 +147,7 @@
         "03a7b704-5d75-4af1-882a-5ff727e45966": {
           "type": "featured_collection",
           "settings": {
-            "collection": "balplassen"
-          }
-        },
-        "16388220555866fa8a-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "interior-til-hytter-og-hus"
+            "collection": "lumiz-lanterner"
           }
         },
         "16388220555866fa8a-2": {
@@ -197,41 +155,13 @@
           "settings": {
             "collection": "belysning-og-lyslykter"
           }
-        },
-        "8633003d-4061-401a-bb8c-65cad9a1c09e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "81fbae77-5db6-412c-a9e2-dc520af1565f": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ut-pa-tur"
-          }
-        },
-        "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "mummi-hos-hyttefeber"
-          }
-        },
-        "01fb9155-329e-40a2-91e1-e6470e9e2b49": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kjokken-og-servering"
-          }
         }
       },
       "block_order": [
+        "featured_collection_BVhdfK",
         "16388220555866fa8a-0",
         "03a7b704-5d75-4af1-882a-5ff727e45966",
-        "16388220555866fa8a-1",
-        "16388220555866fa8a-2",
-        "8633003d-4061-401a-bb8c-65cad9a1c09e",
-        "81fbae77-5db6-412c-a9e2-dc520af1565f",
-        "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
-        "01fb9155-329e-40a2-91e1-e6470e9e2b49"
+        "16388220555866fa8a-2"
       ],
       "settings": {
         "title": "Flere kategorier",
