@@ -27,10 +27,10 @@
     "16388220553dbbfb02": {
       "type": "collection-list",
       "blocks": {
-        "16388220555866fa8a-0": {
+        "8633003d-4061-401a-bb8c-65cad9a1c09e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "til-uteplassen"
+            "collection": "utebelysning"
           }
         },
         "03a7b704-5d75-4af1-882a-5ff727e45966": {
@@ -48,25 +48,19 @@
         "16388220555866fa8a-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "belysning-og-lyslykter"
-          }
-        },
-        "8633003d-4061-401a-bb8c-65cad9a1c09e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "norgesglasset-hele-den-originale-serien"
+            "collection": "lumiz-lanterner"
           }
         },
         "81fbae77-5db6-412c-a9e2-dc520af1565f": {
           "type": "featured_collection",
           "settings": {
-            "collection": "ut-pa-tur"
+            "collection": "pizza-ovner-og-tilbehor"
           }
         },
         "0920b20f-742f-41be-b5b0-12c4e3dd98f4": {
           "type": "featured_collection",
           "settings": {
-            "collection": "mummi-hos-hyttefeber"
+            "collection": "populaert-na"
           }
         },
         "01fb9155-329e-40a2-91e1-e6470e9e2b49": {
@@ -77,11 +71,10 @@
         }
       },
       "block_order": [
-        "16388220555866fa8a-0",
+        "8633003d-4061-401a-bb8c-65cad9a1c09e",
         "03a7b704-5d75-4af1-882a-5ff727e45966",
         "16388220555866fa8a-1",
         "16388220555866fa8a-2",
-        "8633003d-4061-401a-bb8c-65cad9a1c09e",
         "81fbae77-5db6-412c-a9e2-dc520af1565f",
         "0920b20f-742f-41be-b5b0-12c4e3dd98f4",
         "01fb9155-329e-40a2-91e1-e6470e9e2b49"
