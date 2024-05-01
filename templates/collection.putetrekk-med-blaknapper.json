@@ -10,6 +10,13 @@
     "28386847-0729-4c1c-9b69-46a30c69e73f": {
       "type": "collection-buttons-multicol",
       "blocks": {
+        "column_xyaCyt": {
+          "type": "column",
+          "settings": {
+            "title": "SOMMER",
+            "link": "shopify:\/\/collections\/sommerputer"
+          }
+        },
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2": {
           "type": "column",
           "settings": {
@@ -37,21 +44,14 @@
             "title": "LIN",
             "link": "shopify:\/\/collections\/lin"
           }
-        },
-        "column_xyaCyt": {
-          "type": "column",
-          "settings": {
-            "title": "SOMMERPUTER",
-            "link": "shopify:\/\/collections\/sommerputer"
-          }
         }
       },
       "block_order": [
+        "column_xyaCyt",
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2",
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1",
         "be482084-912b-438a-b0f9-10982f78e3dc",
-        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0",
-        "column_xyaCyt"
+        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0"
       ],
       "settings": {
         "title": "",
