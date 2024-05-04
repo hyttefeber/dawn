@@ -31,13 +31,6 @@
             "link": "\/collections\/pizza-ovner-og-tilbehor\/kombi"
           }
         },
-        "8931d54e-7c06-48b0-b945-a953b65cd29e": {
-          "type": "column",
-          "settings": {
-            "title": "Pellets",
-            "link": "\/collections\/pizza-ovner-og-tilbehor\/pellets"
-          }
-        },
         "6fe9dc31-5aaf-4a2c-8a15-e2707c4524f4": {
           "type": "column",
           "settings": {
@@ -50,7 +43,6 @@
         "16636849668f045267-0",
         "16636849668f045267-1",
         "16636849668f045267-2",
-        "8931d54e-7c06-48b0-b945-a953b65cd29e",
         "6fe9dc31-5aaf-4a2c-8a15-e2707c4524f4"
       ],
       "settings": {
