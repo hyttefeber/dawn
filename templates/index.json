@@ -20,15 +20,6 @@
             "link": "shopify:\/\/collections\/putetrekk"
           }
         },
-        "column_WrYwRR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_39.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/nyheter-fra-lama-interior"
-          }
-        },
         "e96bf912-caff-4547-8ff3-40c365560886": {
           "type": "column",
           "settings": {
@@ -36,6 +27,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+          }
+        },
+        "column_WrYwRR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_39.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/nyheter-fra-lama-interior"
           }
         },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
@@ -190,8 +190,8 @@
       },
       "block_order": [
         "column_8NDrUN",
-        "column_WrYwRR",
         "e96bf912-caff-4547-8ff3-40c365560886",
+        "column_WrYwRR",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "column_hzr9pf",
         "column_hPcN8m",
