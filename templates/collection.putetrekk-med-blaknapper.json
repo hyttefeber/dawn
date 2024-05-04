@@ -44,6 +44,13 @@
             "title": "LIN",
             "link": "shopify:\/\/collections\/lin"
           }
+        },
+        "column_LTUbmq": {
+          "type": "column",
+          "settings": {
+            "title": "Uteputer",
+            "link": "shopify:\/\/collections\/uteputer"
+          }
         }
       },
       "block_order": [
@@ -51,7 +58,8 @@
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2",
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1",
         "be482084-912b-438a-b0f9-10982f78e3dc",
-        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0"
+        "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0",
+        "column_LTUbmq"
       ],
       "settings": {
         "title": "",
