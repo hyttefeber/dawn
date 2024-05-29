@@ -13,62 +13,13 @@
         "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-0": {
           "type": "column",
           "settings": {
-            "title": "Hengekøyer",
-            "link": "shopify:\/\/collections\/hengekoyer"
-          }
-        },
-        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-1": {
-          "type": "column",
-          "settings": {
-            "title": "Sittesekker",
-            "link": "shopify:\/\/collections\/sittesekker-fra-fatboy"
-          }
-        },
-        "4da4d4d0-0adc-4413-968c-0fff184f7fc0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Belysning",
-            "link": "shopify:\/\/collections\/utebelysning"
-          }
-        },
-        "2c8b8c0d-2344-4627-afcb-b6a00c581393": {
-          "type": "column",
-          "settings": {
-            "title": "Paletti",
-            "link": "shopify:\/\/collections\/paletti-modulbasert-sittegruppe"
-          }
-        },
-        "9cff6b2e-7493-438f-a444-7cf91a34dabf": {
-          "type": "column",
-          "settings": {
-            "title": "Stoler",
-            "link": "shopify:\/\/collections\/fatboy-stoler"
-          }
-        },
-        "fdb878b0-3bef-4461-8ce7-5d4eafd0edf0": {
-          "type": "column",
-          "settings": {
-            "title": "Bord",
-            "link": "shopify:\/\/collections\/fatboy-hengekoyer"
-          }
-        },
-        "column_im9e3w": {
-          "type": "column",
-          "settings": {
-            "title": "Nakkeputer",
-            "link": "shopify:\/\/collections\/puter-til-headdemock"
+            "title": "Original",
+            "link": "shopify:\/\/collections\/headdemock-original"
           }
         }
       },
       "block_order": [
-        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-0",
-        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-1",
-        "4da4d4d0-0adc-4413-968c-0fff184f7fc0",
-        "2c8b8c0d-2344-4627-afcb-b6a00c581393",
-        "9cff6b2e-7493-438f-a444-7cf91a34dabf",
-        "fdb878b0-3bef-4461-8ce7-5d4eafd0edf0",
-        "column_im9e3w"
+        "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-0"
       ],
       "settings": {
         "title": "",
