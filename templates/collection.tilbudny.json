@@ -6,10 +6,28 @@
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_49.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_50.png",
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/hengekoyer"
+          }
+        },
+        "b83d88bc-c139-4a79-9676-1106a70b6a77": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_45.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/putetrekk"
+          }
+        },
+        "88b69057-9b79-416b-bf3f-ab6987048eed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_46.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3": {
@@ -29,24 +47,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/flyttesalg"
-          }
-        },
-        "b83d88bc-c139-4a79-9676-1106a70b6a77": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_45.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/putetrekk"
-          }
-        },
-        "88b69057-9b79-416b-bf3f-ab6987048eed": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_46.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
           }
         },
         "a42b960a-98d2-42e4-9078-b7ba4b38eeb7": {
@@ -92,10 +92,10 @@
       },
       "block_order": [
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-2",
-        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3",
-        "column_HW44Cj",
         "b83d88bc-c139-4a79-9676-1106a70b6a77",
         "88b69057-9b79-416b-bf3f-ab6987048eed",
+        "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-3",
+        "column_HW44Cj",
         "a42b960a-98d2-42e4-9078-b7ba4b38eeb7",
         "template--16283562705047__7039a547-7454-4605-8281-e76f359bcaed-column-1",
         "32d8b532-188d-4986-926e-6b3b9bbed258",
