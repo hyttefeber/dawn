@@ -741,8 +741,8 @@
     "1632262113e988bb5e": {
       "type": "text-banner",
       "settings": {
-        "text_banner_title": "KUNSTTRYKK",
-        "text_banner_body": "SIGNERTE & NUMMERERT",
+        "text_banner_title": "SAUESKINN",
+        "text_banner_body": "NORGES BESTE UTVALG",
         "color-scheme": "primary"
       }
     },
@@ -750,7 +750,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "collection": "kunsttrykk",
+        "collection": "saueskinn",
         "products_to_show": 4,
         "show_view_all": true,
         "view_all_text": "",
