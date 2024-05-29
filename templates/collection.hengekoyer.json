@@ -37,13 +37,21 @@
             "title": "Alle Hengekøyer",
             "link": "shopify:\/\/collections\/hengekoyer"
           }
+        },
+        "column_apHNBw": {
+          "type": "column",
+          "settings": {
+            "title": "Tilbehør",
+            "link": "shopify:\/\/collections\/headdemock-tilbehor"
+          }
         }
       },
       "block_order": [
         "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-0",
         "column_tYQyHh",
         "column_g9NTTk",
-        "column_EP4ftC"
+        "column_EP4ftC",
+        "column_apHNBw"
       ],
       "settings": {
         "title": "Alle",
