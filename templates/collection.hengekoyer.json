@@ -44,6 +44,13 @@
             "title": "Tilbehør",
             "link": "shopify:\/\/collections\/headdemock-tilbehor"
           }
+        },
+        "column_AwywVR": {
+          "type": "column",
+          "settings": {
+            "title": "Hodeputer",
+            "link": "shopify:\/\/collections\/puter-til-headdemock"
+          }
         }
       },
       "block_order": [
@@ -51,7 +58,8 @@
         "column_tYQyHh",
         "column_g9NTTk",
         "column_EP4ftC",
-        "column_apHNBw"
+        "column_apHNBw",
+        "column_AwywVR"
       ],
       "settings": {
         "title": "Alle",
