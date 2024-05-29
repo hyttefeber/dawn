@@ -20,17 +20,33 @@
         "column_tYQyHh": {
           "type": "column",
           "settings": {
-            "title": "Med Hodepute",
+            "title": "Original + Hodepute",
             "link": "shopify:\/\/collections\/headdemock-original-hodepute"
+          }
+        },
+        "column_g9NTTk": {
+          "type": "column",
+          "settings": {
+            "title": "Superb",
+            "link": "shopify:\/\/collections\/headdemock-superb"
+          }
+        },
+        "column_EP4ftC": {
+          "type": "column",
+          "settings": {
+            "title": "Alle Hengekøyer",
+            "link": "shopify:\/\/collections\/hengekoyer"
           }
         }
       },
       "block_order": [
         "template--15550886215831__52ae4691-4bdd-47bb-b004-40fe4a82d617-168190744541289ca2-0",
-        "column_tYQyHh"
+        "column_tYQyHh",
+        "column_g9NTTk",
+        "column_EP4ftC"
       ],
       "settings": {
-        "title": "",
+        "title": "Alle",
         "image_width": "half",
         "image_ratio": "adapt",
         "column_alignment": "left",
