@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_WrYwRR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_52.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/super-tilbud-50"
+          }
+        },
         "column_8NDrUN": {
           "type": "column",
           "settings": {
@@ -41,19 +50,10 @@
         "column_QByFrV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_47.png",
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_51.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/moments-of-play"
-          }
-        },
-        "column_WrYwRR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_39.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/nyheter-fra-lama-interior"
+            "link": "shopify:\/\/collections\/sommersalg"
           }
         },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
@@ -208,10 +208,10 @@
         }
       },
       "block_order": [
+        "column_WrYwRR",
         "column_8NDrUN",
         "e96bf912-caff-4547-8ff3-40c365560886",
         "column_QByFrV",
-        "column_WrYwRR",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "column_hzr9pf",
         "column_hPcN8m",
