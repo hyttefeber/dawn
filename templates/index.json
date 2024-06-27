@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "16327413955ebd8133": {
@@ -11,15 +20,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_QByFrV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_47.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/moments-of-play"
-          }
-        },
         "column_8NDrUN": {
           "type": "column",
           "settings": {
@@ -36,6 +36,15 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+          }
+        },
+        "column_QByFrV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_47.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/moments-of-play"
           }
         },
         "column_WrYwRR": {
@@ -199,9 +208,9 @@
         }
       },
       "block_order": [
-        "column_QByFrV",
         "column_8NDrUN",
         "e96bf912-caff-4547-8ff3-40c365560886",
+        "column_QByFrV",
         "column_WrYwRR",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "column_hzr9pf",
