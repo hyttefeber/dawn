@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "colors_accent_1": "#5faa58",
@@ -226,6 +235,12 @@
       "4608251692753025422": {
         "type": "shopify:\/\/apps\/sales-discounts\/blocks\/sale-labels\/29205fb1-2e68-4d81-a905-d828a51c8413",
         "disabled": true,
+        "settings": {
+        }
+      },
+      "1685079755743467147": {
+        "type": "shopify:\/\/apps\/adtraction-partner-marketing\/blocks\/app-embed-block\/2b1e1f3c-52fd-452b-a8d3-2c32d96be0b4",
+        "disabled": false,
         "settings": {
         }
       }
