@@ -209,12 +209,12 @@
       "subtotal": "Delsum",
       "new_subtotal": "Ny delsum",
       "note": "Spesielle instruksjoner for bestillingen",
-      "checkout": "Kasse",
+      "checkout": "Til kassen ->",
       "empty": "Handlekurven din er tom",
       "cart_error": "Det oppstod en feil under oppdateringen av handlekurven din. Prøv på nytt.",
       "cart_quantity_error_html": "Du kan bare legge til [quantity] av denne varen i handlekurven.",
-      "taxes_and_shipping_policy_at_checkout_html": "Avgifter og <a href=\"{{ link }}\">frakt<\/a> beregnes i kassen",
-      "taxes_included_but_shipping_at_checkout": "Inkludert mva og frakt beregnes i kassen",
+      "taxes_and_shipping_policy_at_checkout_html": "MVA og <a href=\"{{ link }}\">frakt<\/a> beregnes i kassen",
+      "taxes_included_but_shipping_at_checkout": "Inkludert mva. Frakt beregnes i kassen",
       "taxes_included_and_shipping_policy_html": "Inkludert mva. <a href=\"{{ link }}\">Frakt<\/a> beregnes ved kassen.",
       "taxes_and_shipping_at_checkout": "MVA og frakt beregnes i kassen",
       "headings": {
@@ -458,6 +458,9 @@
     "checkout": {
       "general": {
         "back_to_payment_method": "Gå tilbake til betalingsvalg"
+      },
+      "stock": {
+        "continue_cta_label": "Fortsett til kassen ->"
       }
     }
   },
