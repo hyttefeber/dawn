@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_QByFrV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_54.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/sommerhytta"
+          }
+        },
         "column_WrYwRR": {
           "type": "column",
           "settings": {
@@ -27,15 +36,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/super-tilbud-50"
-          }
-        },
-        "column_QByFrV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_51.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/sommerhytta"
           }
         },
         "column_8NDrUN": {
@@ -208,8 +208,8 @@
         }
       },
       "block_order": [
-        "column_WrYwRR",
         "column_QByFrV",
+        "column_WrYwRR",
         "column_8NDrUN",
         "e96bf912-caff-4547-8ff3-40c365560886",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
