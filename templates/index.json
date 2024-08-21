@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_WrYwRR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_60.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/super-tilbud-50"
+          }
+        },
         "e96bf912-caff-4547-8ff3-40c365560886": {
           "type": "column",
           "settings": {
@@ -46,15 +55,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/saueskinn"
-          }
-        },
-        "column_WrYwRR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_60.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/super-tilbud-50"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -208,10 +208,10 @@
         }
       },
       "block_order": [
+        "column_WrYwRR",
         "e96bf912-caff-4547-8ff3-40c365560886",
         "column_QByFrV",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
-        "column_WrYwRR",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "column_8NDrUN",
         "column_hzr9pf",
