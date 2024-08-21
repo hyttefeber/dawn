@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "e96bf912-caff-4547-8ff3-40c365560886": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_58.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/saueskinn"
+          }
+        },
         "column_QByFrV": {
           "type": "column",
           "settings": {
@@ -27,6 +36,25 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/putetrekk"
+          }
+        },
+        "010e5a34-6e95-4429-82f1-20644f8c07df": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FB_VARIANT_1.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/saueskinn"
+          }
+        },
+        "column_WrYwRR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_60.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/super-tilbud-50"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -38,15 +66,6 @@
             "link": "shopify:\/\/collections\/balplassen"
           }
         },
-        "column_WrYwRR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_55.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/super-tilbud-50"
-          }
-        },
         "column_8NDrUN": {
           "type": "column",
           "disabled": true,
@@ -55,25 +74,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/hengekoyer"
-          }
-        },
-        "e96bf912-caff-4547-8ff3-40c365560886": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_46.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
-          }
-        },
-        "010e5a34-6e95-4429-82f1-20644f8c07df": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FB_VARIANT_1.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/saueskinn"
           }
         },
         "column_hzr9pf": {
@@ -208,12 +208,12 @@
         }
       },
       "block_order": [
-        "column_QByFrV",
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
-        "column_WrYwRR",
-        "column_8NDrUN",
         "e96bf912-caff-4547-8ff3-40c365560886",
+        "column_QByFrV",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
+        "column_WrYwRR",
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
+        "column_8NDrUN",
         "column_hzr9pf",
         "column_hPcN8m",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
