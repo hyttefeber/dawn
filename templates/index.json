@@ -444,75 +444,6 @@
         "swipe_on_mobile": true
       }
     },
-    "1632087749cf8f8ea0": {
-      "type": "image-with-text",
-      "blocks": {
-        "1632087749cf8f8ea0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tradisjoner som varer"
-          }
-        },
-        "1632087749cf8f8ea0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år, og vi ser ingen grunn til at den ikke skal vare i hundre år til. Her finner du hele serien med både det gamle og det nye.<\/p>"
-          }
-        },
-        "6a4efbe0-0b5c-4ae7-8546-817f2633b797": {
-          "type": "image",
-          "settings": {
-            "brand-image": "shopify:\/\/shop_images\/norgesglasset-logo.png"
-          }
-        },
-        "1632087749cf8f8ea0-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "VIS ALLE",
-            "button_link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8": {
-          "type": "text_banner",
-          "settings": {
-            "text_banner_heading": "NORGESGLASSET",
-            "text_banner_content": "Den samme gode kvaliteten, siden 1902.",
-            "color_scheme": "accent-2"
-          }
-        }
-      },
-      "block_order": [
-        "1632087749cf8f8ea0-0",
-        "1632087749cf8f8ea0-1",
-        "6a4efbe0-0b5c-4ae7-8546-817f2633b797",
-        "1632087749cf8f8ea0-2",
-        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/norgesglass-norgesflasker-forside-brand.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
-    "1632052593cc1e52a7": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "norgesglasset-hele-den-originale-serien",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "Vis alt fra Norgesglasset",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": true
-      }
-    },
     "163208927285d0ee5e": {
       "type": "image-with-text",
       "blocks": {
@@ -773,6 +704,75 @@
         "show_rating": false
       }
     },
+    "1632087749cf8f8ea0": {
+      "type": "image-with-text",
+      "blocks": {
+        "1632087749cf8f8ea0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tradisjoner som varer"
+          }
+        },
+        "1632087749cf8f8ea0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år, og vi ser ingen grunn til at den ikke skal vare i hundre år til. Her finner du hele serien med både det gamle og det nye.<\/p>"
+          }
+        },
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify:\/\/shop_images\/norgesglasset-logo.png"
+          }
+        },
+        "1632087749cf8f8ea0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIS ALLE",
+            "button_link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+          }
+        },
+        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "NORGESGLASSET",
+            "text_banner_content": "Den samme gode kvaliteten, siden 1902.",
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "1632087749cf8f8ea0-0",
+        "1632087749cf8f8ea0-1",
+        "6a4efbe0-0b5c-4ae7-8546-817f2633b797",
+        "1632087749cf8f8ea0-2",
+        "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/norgesglass-norgesflasker-forside-brand.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1632052593cc1e52a7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "norgesglasset-hele-den-originale-serien",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "Vis alt fra Norgesglasset",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": true
+      }
+    },
     "acd696e2-614f-4e14-a6b2-3dbdb393a176": {
       "type": "text-banner",
       "disabled": true,
@@ -944,8 +944,6 @@
     "multi_column",
     "featured_products",
     "1631626408eee30b8a",
-    "1632087749cf8f8ea0",
-    "1632052593cc1e52a7",
     "163208927285d0ee5e",
     "f96a9c4c-2c52-4710-8e98-e0ead759982e",
     "163215496531ff8641",
@@ -956,6 +954,8 @@
     "ce52e10f-5356-4f35-84cb-efa8bcdc4069",
     "1632262113e988bb5e",
     "1632181677ff608e6b",
+    "1632087749cf8f8ea0",
+    "1632052593cc1e52a7",
     "acd696e2-614f-4e14-a6b2-3dbdb393a176",
     "6d1399e5-2d1a-45fb-92f2-effaad47c701",
     "1656508395028523fd",
