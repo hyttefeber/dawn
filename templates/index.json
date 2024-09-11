@@ -38,6 +38,15 @@
             "link": "shopify:\/\/collections\/saueskinn"
           }
         },
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/balplassen"
+          }
+        },
         "column_QByFrV": {
           "type": "column",
           "settings": {
@@ -55,15 +64,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/saueskinn"
-          }
-        },
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
           }
         },
         "column_8NDrUN": {
@@ -210,9 +210,9 @@
       "block_order": [
         "column_WrYwRR",
         "e96bf912-caff-4547-8ff3-40c365560886",
+        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "column_QByFrV",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
-        "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "column_8NDrUN",
         "column_hzr9pf",
         "column_hPcN8m",
