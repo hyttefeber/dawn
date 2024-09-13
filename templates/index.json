@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_QByFrV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_62.png",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/fatboy-salg"
+          }
+        },
         "column_WrYwRR": {
           "type": "column",
           "settings": {
@@ -45,15 +54,6 @@
             "title": "",
             "text": "",
             "link": "shopify:\/\/collections\/balplassen"
-          }
-        },
-        "column_QByFrV": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_62.png",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/fatboy-salg"
           }
         },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
@@ -208,10 +208,10 @@
         }
       },
       "block_order": [
+        "column_QByFrV",
         "column_WrYwRR",
         "e96bf912-caff-4547-8ff3-40c365560886",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
-        "column_QByFrV",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "column_8NDrUN",
         "column_hzr9pf",
