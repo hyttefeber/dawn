@@ -12,9 +12,9 @@
     "16327413955ebd8133": {
       "type": "hf-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Toppmal_1325x360_22_c761ce39-3ef6-480f-a508-9c873c71f06d.png",
-        "mobile_image": "shopify:\/\/shop_images\/377x390_mobile_4_94681e57-3fef-4e2c-9a98-a51420319d71.png",
-        "link": "shopify:\/\/collections\/super-tilbud-50"
+        "image": "shopify://shop_images/Toppmal_1325x360_23_9382bea3-0d54-4f02-868b-25625cf8e663.png",
+        "mobile_image": "shopify://shop_images/377x390_mobile_6_ba5658fd-7c51-4de0-8078-20d785886d18.png",
+        "link": "shopify://collections/super-tilbud-50"
       }
     },
     "1629970086900f7d29": {
@@ -23,187 +23,187 @@
         "column_QByFrV": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_62.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_62.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/fatboy-salg"
+            "link": "shopify://collections/fatboy-salg"
           }
         },
         "column_WrYwRR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_61.png",
+            "image": "shopify://shop_images/83.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
+            "link": "shopify://collections/lumiz-solcelle-lanterner"
           }
         },
         "e96bf912-caff-4547-8ff3-40c365560886": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_58.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_58.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/saueskinn"
+            "link": "shopify://collections/saueskinn"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
+            "image": "shopify://shop_images/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/balplassen"
+            "link": "shopify://collections/balplassen"
           }
         },
         "010e5a34-6e95-4429-82f1-20644f8c07df": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FB_VARIANT_1.png",
+            "image": "shopify://shop_images/FB_VARIANT_1.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/saueskinn"
+            "link": "shopify://collections/saueskinn"
           }
         },
         "column_8NDrUN": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_50.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_50.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/hengekoyer"
+            "link": "shopify://collections/hengekoyer"
           }
         },
         "column_hzr9pf": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/stopejern"
+            "link": "shopify://collections/stopejern"
           }
         },
         "column_hPcN8m": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_38.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_38.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/nyhet-siri"
+            "link": "shopify://collections/nyhet-siri"
           }
         },
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_30.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_30.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+            "link": "shopify://collections/norgesglasset-hele-den-originale-serien"
           }
         },
         "75802d1b-c8dd-4166-8371-118ba064d75c": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_23.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_23.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/products\/gavekort"
+            "link": "shopify://products/gavekort"
           }
         },
         "048e39d8-f470-4ff8-ac04-e015056a5a01": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_12_b47c7634-e64b-4b96-a32f-70ec5f1a5af5.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_12_b47c7634-e64b-4b96-a32f-70ec5f1a5af5.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/jul"
+            "link": "shopify://collections/jul"
           }
         },
         "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_6_e14f67a9-9b6b-4458-a400-e430185dc1fe.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_6_e14f67a9-9b6b-4458-a400-e430185dc1fe.png",
             "title": "",
             "text": "",
-            "link": "https:\/\/hyttefeber.no\/blogs\/nyheter\/lumiz"
+            "link": "https://hyttefeber.no/blogs/nyheter/lumiz"
           }
         },
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/14_b2379e89-2a37-4fdc-b8c0-aad5b6921bbf.png",
+            "image": "shopify://shop_images/14_b2379e89-2a37-4fdc-b8c0-aad5b6921bbf.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/okologisk-olivenolje"
+            "link": "shopify://collections/okologisk-olivenolje"
           }
         },
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_ed61f094-8ebf-4823-b275-bec2b895feeb.png",
+            "image": "shopify://shop_images/2_ed61f094-8ebf-4823-b275-bec2b895feeb.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+            "link": "shopify://collections/norgesglasset-hele-den-originale-serien"
           }
         },
         "be8f641a-12ea-4f32-8392-cc1a62b5e82f": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_5.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_5.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+            "link": "shopify://collections/interior-til-hytter-og-hus"
           }
         },
         "0f369159-2c35-4032-9801-e5826fc19abb": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_38308edf-53b9-451c-b9d2-dc86d9015401.png",
+            "image": "shopify://shop_images/1_38308edf-53b9-451c-b9d2-dc86d9015401.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/blogs\/nyheter\/ukens-merkevare-fatboy"
+            "link": "shopify://blogs/nyheter/ukens-merkevare-fatboy"
           }
         },
         "12c3d4d4-9095-42c6-af0e-4ec76fddf704": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_4.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_4.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/paskeegg"
+            "link": "shopify://collections/paskeegg"
           }
         },
         "1629970086900f7d29-0": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/20.png",
+            "image": "shopify://shop_images/20.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/nyheter-hos-hyttefeber"
+            "link": "shopify://collections/nyheter-hos-hyttefeber"
           }
         },
         "88d43d4d-a81e-4961-b8d1-116dab30ff7d": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/stoler-og-skamler"
+            "link": "shopify://collections/stoler-og-skamler"
           }
         }
       },
@@ -282,77 +282,77 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_239ad533-89a4-4868-b3ce-40ce0f456069.png",
+            "image": "shopify://shop_images/1_239ad533-89a4-4868-b3ce-40ce0f456069.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/julepynt"
+            "link": "shopify://collections/julepynt"
           }
         },
         "bd2db269-33a3-4b48-9eb9-39d094bb8574": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4_7b9b14c8-6eae-4861-82dc-338034bd1969.png",
+            "image": "shopify://shop_images/4_7b9b14c8-6eae-4861-82dc-338034bd1969.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+            "link": "shopify://collections/interior-til-hytter-og-hus"
           }
         },
         "8798b5fe-dd63-46c5-a05b-343dd25ed45c": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/22_70242e60-7013-4fbd-bf5b-f2dbba6311b0.png",
+            "image": "shopify://shop_images/22_70242e60-7013-4fbd-bf5b-f2dbba6311b0.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/utemobler-og-sitteplasser"
+            "link": "shopify://collections/utemobler-og-sitteplasser"
           }
         },
         "92620dba-ae71-42a3-9f2d-9d9fd2d4241f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5_f65b42c2-8669-45ea-86c5-59494b972cec.png",
+            "image": "shopify://shop_images/5_f65b42c2-8669-45ea-86c5-59494b972cec.png",
             "title": "",
             "text": "",
-            "link": "https:\/\/hyttefeber.no\/collections\/belysning-og-lyslykter"
+            "link": "https://hyttefeber.no/collections/belysning-og-lyslykter"
           }
         },
         "column2": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2_5.png",
+            "image": "shopify://shop_images/BANNER2_5.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/putetrekk-fra-emmeselle-og-hyttefeber"
+            "link": "shopify://collections/putetrekk-fra-emmeselle-og-hyttefeber"
           }
         },
         "ced6ab58-e77b-407b-a2ea-4bc2ec6a978a": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/12_3b789e5c-f9aa-48f7-b924-da13c7e8b5fb.png",
+            "image": "shopify://shop_images/12_3b789e5c-f9aa-48f7-b924-da13c7e8b5fb.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/belysning-og-lyslykter"
+            "link": "shopify://collections/belysning-og-lyslykter"
           }
         },
         "column3": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2_7.png",
+            "image": "shopify://shop_images/BANNER2_7.png",
             "title": "",
             "text": "",
-            "link": "https:\/\/hyttefeber.no\/pages\/konkurranse"
+            "link": "https://hyttefeber.no/pages/konkurranse"
           }
         },
         "column1": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER2_4.png",
+            "image": "shopify://shop_images/BANNER2_4.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/interior-til-hytter-og-hus"
+            "link": "shopify://collections/interior-til-hytter-og-hus"
           }
         }
       },
@@ -402,29 +402,29 @@
         "13b1e9a7-4d56-4d47-9ad9-76303457fdf5": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BANNER4_745x495_e011b212-aa28-4311-911b-6ca5dd3f3b2f.png",
+            "image": "shopify://shop_images/BANNER4_745x495_e011b212-aa28-4311-911b-6ca5dd3f3b2f.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/lama-interior-lykter-tekstil-brett-fat-og-dekor"
+            "link": "shopify://collections/lama-interior-lykter-tekstil-brett-fat-og-dekor"
           }
         },
         "1631626408eee30b8a-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2_e3aeed49-72cd-4189-87d7-7e04e06de57f.png",
+            "image": "shopify://shop_images/2_e3aeed49-72cd-4189-87d7-7e04e06de57f.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/saueskinn"
+            "link": "shopify://collections/saueskinn"
           }
         },
         "1631626408eee30b8a-1": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_32a3c816-3b8b-4acc-8400-925e0ca2778a.png",
+            "image": "shopify://shop_images/3_32a3c816-3b8b-4acc-8400-925e0ca2778a.png",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/pizza-ovner-og-tilbehor"
+            "link": "shopify://collections/pizza-ovner-og-tilbehor"
           }
         }
       },
@@ -456,20 +456,20 @@
         "163208927285d0ee5e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Det er få ting som bringer mer hygge, enn koselige uteplasser og varme bålplasser.<\/p>"
+            "text": "<p>Det er få ting som bringer mer hygge, enn koselige uteplasser og varme bålplasser.</p>"
           }
         },
         "f7e7131c-7b2c-4968-916c-0640573af583": {
           "type": "image",
           "settings": {
-            "brand-image": "shopify:\/\/shop_images\/espegard-logo.jpg"
+            "brand-image": "shopify://shop_images/espegard-logo.jpg"
           }
         },
         "163208927285d0ee5e-2": {
           "type": "button",
           "settings": {
             "button_label": "Vis Alle",
-            "button_link": "shopify:\/\/collections\/til-uteplassen"
+            "button_link": "shopify://collections/til-uteplassen"
           }
         },
         "aa3b8347-e652-4253-a32e-f178ae80c8c2": {
@@ -489,7 +489,7 @@
         "aa3b8347-e652-4253-a32e-f178ae80c8c2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Design_uten_navn_6.jpg",
+        "image": "shopify://shop_images/Design_uten_navn_6.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -551,20 +551,20 @@
         "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Fargelegg hagen din med Lumiz.<br\/><\/strong>Den perfekte måten å skape en magisk stemning på i en enhver hage, bakgård uteplass eller veranda.<\/p><p><strong>Slipp kreativiteten løs - disse lyktene elsker å bli kombinert sammen.<br\/><\/strong><\/p>"
+            "text": "<p><strong>Fargelegg hagen din med Lumiz.<br/></strong>Den perfekte måten å skape en magisk stemning på i en enhver hage, bakgård uteplass eller veranda.</p><p><strong>Slipp kreativiteten løs - disse lyktene elsker å bli kombinert sammen.<br/></strong></p>"
           }
         },
         "119d7d91-5b25-4482-a980-ef49ae1ea00e": {
           "type": "image",
           "settings": {
-            "brand-image": "shopify:\/\/shop_images\/294490642_473824028077086_3778541620175889844_n.png"
+            "brand-image": "shopify://shop_images/294490642_473824028077086_3778541620175889844_n.png"
           }
         },
         "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Vis Alle",
-            "button_link": "shopify:\/\/collections\/lumiz-solcelle-lanterner"
+            "button_link": "shopify://collections/lumiz-solcelle-lanterner"
           }
         }
       },
@@ -576,7 +576,7 @@
         "template--15102287085719__149a154a-b132-4c7a-b012-715fd0af5888-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8258_f1c08fd6-ea4f-4ccc-8a23-6019a823608d.jpg",
+        "image": "shopify://shop_images/IMG_8258_f1c08fd6-ea4f-4ccc-8a23-6019a823608d.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -620,20 +620,20 @@
         "1632087735695d2a16-1": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p>Mariusmønstret er en stor del av norsk tradisjon og historie, og også en gjenganger på norske hytter, landet rundt. Hos oss finner du både nostalgiske og moderne varianter av det populære mønsteret.<\/p>"
+            "text": "<p></p><p>Mariusmønstret er en stor del av norsk tradisjon og historie, og også en gjenganger på norske hytter, landet rundt. Hos oss finner du både nostalgiske og moderne varianter av det populære mønsteret.</p>"
           }
         },
         "8abd7ad6-a6c8-42ca-a6e9-7fee21d4daf2": {
           "type": "image",
           "settings": {
-            "brand-image": "shopify:\/\/shop_images\/marius-logo-front.png"
+            "brand-image": "shopify://shop_images/marius-logo-front.png"
           }
         },
         "1632087735695d2a16-2": {
           "type": "button",
           "settings": {
             "button_label": "Vis alt Marius",
-            "button_link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
+            "button_link": "shopify://collections/alt-marius-servise-kopper-sokker-servietter-og-mer"
           }
         }
       },
@@ -646,7 +646,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/marius-forside-brand.jpg",
+        "image": "shopify://shop_images/marius-forside-brand.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -716,20 +716,20 @@
         "1632087749cf8f8ea0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år, og vi ser ingen grunn til at den ikke skal vare i hundre år til. Her finner du hele serien med både det gamle og det nye.<\/p>"
+            "text": "<p>Norgesglass har vært en klassiker i mer enn hundre år, og vi ser ingen grunn til at den ikke skal vare i hundre år til. Her finner du hele serien med både det gamle og det nye.</p>"
           }
         },
         "6a4efbe0-0b5c-4ae7-8546-817f2633b797": {
           "type": "image",
           "settings": {
-            "brand-image": "shopify:\/\/shop_images\/norgesglasset-logo.png"
+            "brand-image": "shopify://shop_images/norgesglasset-logo.png"
           }
         },
         "1632087749cf8f8ea0-2": {
           "type": "button",
           "settings": {
             "button_label": "VIS ALLE",
-            "button_link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+            "button_link": "shopify://collections/norgesglasset-hele-den-originale-serien"
           }
         },
         "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8": {
@@ -749,7 +749,7 @@
         "e4d28bef-ba99-48cf-99bf-c1fdae4ce2a8"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/norgesglass-norgesflasker-forside-brand.jpg",
+        "image": "shopify://shop_images/norgesglass-norgesflasker-forside-brand.jpg",
         "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -807,47 +807,47 @@
         "41dd7d56-59d0-474e-95dc-511597159bb0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_677764f0-e9c3-4728-87e0-ae039ed5317d.png",
+            "image": "shopify://shop_images/FORSIDE_29.11_677764f0-e9c3-4728-87e0-ae039ed5317d.png",
             "title": "BAREBONES",
             "text": "",
-            "link": "shopify:\/\/collections\/barebones"
+            "link": "shopify://collections/barebones"
           }
         },
         "85fc501c-c7a0-490f-be65-8610024dd8c4": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_2.png",
+            "image": "shopify://shop_images/FORSIDE_29.11_2.png",
             "title": "OONI PIZZAOVNER",
             "text": "",
-            "link": "shopify:\/\/collections\/ooni-pizzaovner-best-i-test"
+            "link": "shopify://collections/ooni-pizzaovner-best-i-test"
           }
         },
         "165650839508dbe543-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FORSIDE_29.11_1_833b628c-4f4b-491f-a392-5c395581e349.png",
+            "image": "shopify://shop_images/FORSIDE_29.11_1_833b628c-4f4b-491f-a392-5c395581e349.png",
             "title": "NORGESGLASS",
             "text": "",
-            "link": "shopify:\/\/collections\/norgesglasset-hele-den-originale-serien"
+            "link": "shopify://collections/norgesglasset-hele-den-originale-serien"
           }
         },
         "165650839508dbe543-0": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/17_926217ec-77f1-429d-806a-9d4fa30e4190.png",
+            "image": "shopify://shop_images/17_926217ec-77f1-429d-806a-9d4fa30e4190.png",
             "title": "MARIUS",
             "text": "",
-            "link": "shopify:\/\/collections\/alt-marius-servise-kopper-sokker-servietter-og-mer"
+            "link": "shopify://collections/alt-marius-servise-kopper-sokker-servietter-og-mer"
           }
         },
         "165650839508dbe543-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/12_9c45abb7-f54f-4eef-b2ba-d787885002b6.png",
+            "image": "shopify://shop_images/12_9c45abb7-f54f-4eef-b2ba-d787885002b6.png",
             "title": "ESPEGARD",
             "text": "",
-            "link": "shopify:\/\/collections\/espegard"
+            "link": "shopify://collections/espegard"
           }
         }
       },
@@ -865,7 +865,7 @@
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
-        "button_link": "shopify:\/\/collections\/salg-manedens-kupp",
+        "button_link": "shopify://collections/salg-manedens-kupp",
         "swipe_on_mobile": true
       }
     },
@@ -885,7 +885,7 @@
     "4828d3b1-8fb6-4343-95a0-83aa06fb0bd8": {
       "type": "hf-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/ALt_du_elsker_til_hjem_OG_Hytte_1325_x_260_px_1.png",
+        "image": "shopify://shop_images/ALt_du_elsker_til_hjem_OG_Hytte_1325_x_260_px_1.png",
         "link": ""
       }
     },
@@ -909,7 +909,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Kontakt oss her",
-            "button_link_1": "shopify:\/\/pages\/kontakt-oss",
+            "button_link_1": "shopify://pages/kontakt-oss",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -923,7 +923,7 @@
         "1632004573cbceffe9-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/solnedgang-ved-fjord-hyttefeber-1425x521px_a67d061b-4132-47c9-be0e-8474ddd295b5.jpg",
+        "image": "shopify://shop_images/solnedgang-ved-fjord-hyttefeber-1425x521px_a67d061b-4132-47c9-be0e-8474ddd295b5.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
