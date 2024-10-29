@@ -20,13 +20,13 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_QByFrV": {
+        "e96bf912-caff-4547-8ff3-40c365560886": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_62.png",
+            "image": "shopify://shop_images/81.png",
             "title": "",
             "text": "",
-            "link": "shopify://collections/fatboy"
+            "link": "shopify://collections/saueskinn"
           }
         },
         "column_WrYwRR": {
@@ -38,13 +38,13 @@
             "link": "shopify://collections/lumiz-solcelle-lanterner"
           }
         },
-        "e96bf912-caff-4547-8ff3-40c365560886": {
+        "column_QByFrV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/81.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_62.png",
             "title": "",
             "text": "",
-            "link": "shopify://collections/saueskinn"
+            "link": "shopify://collections/fatboy"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -208,9 +208,9 @@
         }
       },
       "block_order": [
-        "column_QByFrV",
-        "column_WrYwRR",
         "e96bf912-caff-4547-8ff3-40c365560886",
+        "column_WrYwRR",
+        "column_QByFrV",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "column_8NDrUN",
