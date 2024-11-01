@@ -444,57 +444,6 @@
         "swipe_on_mobile": true
       }
     },
-    "163208927285d0ee5e": {
-      "type": "image-with-text",
-      "blocks": {
-        "163208927285d0ee5e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Uteplass og Bålplass"
-          }
-        },
-        "163208927285d0ee5e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Det er få ting som bringer mer hygge, enn koselige uteplasser og varme bålplasser.</p>"
-          }
-        },
-        "f7e7131c-7b2c-4968-916c-0640573af583": {
-          "type": "image",
-          "settings": {
-            "brand-image": "shopify://shop_images/espegard-logo.jpg"
-          }
-        },
-        "163208927285d0ee5e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Vis Alle",
-            "button_link": "shopify://collections/til-uteplassen"
-          }
-        },
-        "aa3b8347-e652-4253-a32e-f178ae80c8c2": {
-          "type": "text_banner",
-          "settings": {
-            "text_banner_heading": "UTEPLASSEN",
-            "text_banner_content": "Et viktig sammlingspunkt for kos og hygge året rundt.",
-            "color_scheme": "accent-2"
-          }
-        }
-      },
-      "block_order": [
-        "163208927285d0ee5e-0",
-        "163208927285d0ee5e-1",
-        "f7e7131c-7b2c-4968-916c-0640573af583",
-        "163208927285d0ee5e-2",
-        "aa3b8347-e652-4253-a32e-f178ae80c8c2"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Design_uten_navn_6.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "f96a9c4c-2c52-4710-8e98-e0ead759982e": {
       "type": "featured-collection",
       "settings": {
@@ -676,6 +625,57 @@
         "show_vendor": false,
         "show_atc": true,
         "show_rating": false
+      }
+    },
+    "163208927285d0ee5e": {
+      "type": "image-with-text",
+      "blocks": {
+        "163208927285d0ee5e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Uteplass og Bålplass"
+          }
+        },
+        "163208927285d0ee5e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Det er få ting som bringer mer hygge, enn koselige uteplasser og varme bålplasser.</p>"
+          }
+        },
+        "f7e7131c-7b2c-4968-916c-0640573af583": {
+          "type": "image",
+          "settings": {
+            "brand-image": "shopify://shop_images/espegard-logo.jpg"
+          }
+        },
+        "163208927285d0ee5e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Vis Alle",
+            "button_link": "shopify://collections/til-uteplassen"
+          }
+        },
+        "aa3b8347-e652-4253-a32e-f178ae80c8c2": {
+          "type": "text_banner",
+          "settings": {
+            "text_banner_heading": "UTEPLASSEN",
+            "text_banner_content": "Et viktig sammlingspunkt for kos og hygge året rundt.",
+            "color_scheme": "accent-2"
+          }
+        }
+      },
+      "block_order": [
+        "163208927285d0ee5e-0",
+        "163208927285d0ee5e-1",
+        "f7e7131c-7b2c-4968-916c-0640573af583",
+        "163208927285d0ee5e-2",
+        "aa3b8347-e652-4253-a32e-f178ae80c8c2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Design_uten_navn_6.jpg",
+        "height": "small",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "1632262113e988bb5e": {
@@ -944,16 +944,16 @@
     "multi_column",
     "featured_products",
     "1631626408eee30b8a",
-    "163208927285d0ee5e",
-    "f96a9c4c-2c52-4710-8e98-e0ead759982e",
-    "163215496531ff8641",
     "149a154a-b132-4c7a-b012-715fd0af5888",
     "163163093769b5efc1",
+    "1632262113e988bb5e",
+    "1632181677ff608e6b",
     "1632087735695d2a16",
     "b4fa5622-d269-4c4c-8b18-fd772bd14b4d",
     "ce52e10f-5356-4f35-84cb-efa8bcdc4069",
-    "1632262113e988bb5e",
-    "1632181677ff608e6b",
+    "163208927285d0ee5e",
+    "163215496531ff8641",
+    "f96a9c4c-2c52-4710-8e98-e0ead759982e",
     "1632087749cf8f8ea0",
     "1632052593cc1e52a7",
     "acd696e2-614f-4e14-a6b2-3dbdb393a176",
