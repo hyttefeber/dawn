@@ -29,15 +29,6 @@
             "link": "shopify://collections/saueskinn"
           }
         },
-        "column_WrYwRR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/83.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/lumiz-solcelle-lanterner"
-          }
-        },
         "column_QByFrV": {
           "type": "column",
           "settings": {
@@ -45,6 +36,16 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/fatboy"
+          }
+        },
+        "column_WrYwRR": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/83.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/lumiz-solcelle-lanterner"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -209,8 +210,8 @@
       },
       "block_order": [
         "e96bf912-caff-4547-8ff3-40c365560886",
-        "column_WrYwRR",
         "column_QByFrV",
+        "column_WrYwRR",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
         "column_8NDrUN",
