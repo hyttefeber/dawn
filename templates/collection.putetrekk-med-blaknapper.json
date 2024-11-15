@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -10,51 +19,43 @@
     "28386847-0729-4c1c-9b69-46a30c69e73f": {
       "type": "collection-buttons-multicol",
       "blocks": {
-        "column_xyaCyt": {
-          "type": "column",
-          "settings": {
-            "title": "SOMMER",
-            "link": "shopify:\/\/collections\/sommerputer"
-          }
-        },
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2": {
           "type": "column",
           "settings": {
             "title": "ULL",
-            "link": "shopify:\/\/collections\/ull"
+            "link": "shopify://collections/ull"
           }
         },
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1": {
           "type": "column",
           "settings": {
             "title": "FLØYEL",
-            "link": "shopify:\/\/collections\/floyel"
+            "link": "shopify://collections/floyel"
           }
         },
         "be482084-912b-438a-b0f9-10982f78e3dc": {
           "type": "column",
           "settings": {
             "title": "MOTIV",
-            "link": "shopify:\/\/collections\/motiv"
+            "link": "shopify://collections/motiv"
           }
         },
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0": {
           "type": "column",
           "settings": {
             "title": "LIN",
-            "link": "shopify:\/\/collections\/lin"
+            "link": "shopify://collections/lin"
           }
         },
         "column_LTUbmq": {
           "type": "column",
           "settings": {
             "title": "Uteputer",
-            "link": "shopify:\/\/collections\/uteputer"
+            "link": "shopify://collections/uteputer"
           }
         }
       },
       "block_order": [
-        "column_xyaCyt",
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-2",
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1",
         "be482084-912b-438a-b0f9-10982f78e3dc",
