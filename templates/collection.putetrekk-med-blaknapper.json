@@ -53,6 +53,13 @@
             "title": "Uteputer",
             "link": "shopify://collections/uteputer"
           }
+        },
+        "column_DMWH9x": {
+          "type": "column",
+          "settings": {
+            "title": "SOMMER",
+            "link": "shopify://collections/sommerputer"
+          }
         }
       },
       "block_order": [
@@ -60,7 +67,8 @@
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-1",
         "be482084-912b-438a-b0f9-10982f78e3dc",
         "template--15146221011095__28386847-0729-4c1c-9b69-46a30c69e73f-1685311199e900e655-0",
-        "column_LTUbmq"
+        "column_LTUbmq",
+        "column_DMWH9x"
       ],
       "settings": {
         "title": "",
