@@ -1,33 +1,34 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
+    "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#5faa58",
     "colors_accent_2": "#355179",
     "colors_text": "#00122c",
     "colors_outline_button_labels": "#00122c",
     "colors_background_1": "#FFFFFF",
-    "colors_background_2": "#5faa58",
+    "colors_background_2": "#00122c",
     "sale_badge_color_scheme": "background-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
     "page_width": "1600",
-    "social_facebook_link": "https:\/\/www.facebook.com\/hyttefeber.no\/",
-    "social_instagram_link": "https:\/\/www.instagram.com\/hyttefeber.no\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCNC9YWS_jjefU_AOKGs8K-A",
+    "social_facebook_link": "https://www.facebook.com/hyttefeber.no/",
+    "social_instagram_link": "https://www.instagram.com/hyttefeber.no/",
+    "social_youtube_link": "https://www.youtube.com/channel/UCNC9YWS_jjefU_AOKGs8K-A",
     "predictive_search_show_vendor": true,
-    "favicon": "shopify:\/\/shop_images\/Hyttefeber_favicon_c2e9f2c8-9258-40a3-a8f3-7f2b4b418322.png",
+    "favicon": "shopify://shop_images/Hyttefeber_favicon_c2e9f2c8-9258-40a3-a8f3-7f2b4b418322.png",
     "currency_code_enabled": false,
     "free_shipping_threshold": "999",
     "kundeservice_link": "kundeservice-hyttefeber",
-    "checkout_logo_image": "shopify:\/\/shop_images\/Hyttefeber_6_6ccf16af-7fee-4e6c-b7bf-c9b98f01bde3.png",
+    "checkout_logo_image": "shopify://shop_images/Hyttefeber_6_6ccf16af-7fee-4e6c-b7bf-c9b98f01bde3.png",
     "checkout_button_color": "#5faa58",
     "sections": {
       "announcement-bar": {
@@ -46,15 +47,14 @@
         "block_order": [
           "69e60e65-8b20-4842-9cee-6ee72fde9cb8"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Hyttefeber-8-_final-05_c7f08d59-e999-4c88-ac28-fd0d13d29139.png",
-          "scroll_logo": "shopify:\/\/shop_images\/Hyttefeber-8-_final-05.jpg",
+          "logo": "shopify://shop_images/Hyttefeber-8-_final-05_c7f08d59-e999-4c88-ac28-fd0d13d29139.png",
+          "scroll_logo": "shopify://shop_images/Hyttefeber-8-_final-05.jpg",
           "logo_width": 180,
           "logo_position": "top-center",
           "menu": "overmeny-2022",
@@ -90,7 +90,7 @@
           "960b2a79-5ef7-4791-b9eb-0b7d7f0d0688": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/final_1.png",
+              "image": "shopify://shop_images/final_1.png",
               "image_width": 200,
               "alignment": "center"
             }
@@ -118,36 +118,36 @@
           "724df200-c042-496b-b08b-bcfa4a22440e": {
             "type": "heading",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/ikon-personlig-service.png",
+              "icon": "shopify://shop_images/ikon-personlig-service.png",
               "text": "PERSONLIG SERVICE",
-              "url": "https:\/\/hyttefeber.no\/pages\/kundeservice-hyttefeber",
+              "url": "https://hyttefeber.no/pages/kundeservice-hyttefeber",
               "mobile-visibility": true
             }
           },
           "935e67a1-7bc1-499c-8ea4-77ae4d9ba083": {
             "type": "heading",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/ikon-rask-levering.png",
+              "icon": "shopify://shop_images/ikon-rask-levering.png",
               "text": "LYNRASK LEVERING",
-              "url": "https:\/\/hyttefeber.no\/pages\/frakt-og-leveringsinformasjon",
+              "url": "https://hyttefeber.no/pages/frakt-og-leveringsinformasjon",
               "mobile-visibility": true
             }
           },
           "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66": {
             "type": "heading",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/ikon-apent-kjop.png",
+              "icon": "shopify://shop_images/ikon-apent-kjop.png",
               "text": "ÅPENT KJØP I 90 DAGER",
-              "url": "https:\/\/hyttefeber.no\/pages\/bytte-og-returer",
+              "url": "https://hyttefeber.no/pages/bytte-og-returer",
               "mobile-visibility": false
             }
           },
           "3fcb1549-bca4-4e32-a24d-f0a9ea48879d": {
             "type": "heading",
             "settings": {
-              "icon": "shopify:\/\/shop_images\/ikon-fri-frakt.png",
+              "icon": "shopify://shop_images/ikon-fri-frakt.png",
               "text": "*GRATIS FRAKT OVER 999,-",
-              "url": "https:\/\/hyttefeber.no\/pages\/frakt-og-leveringsinformasjon",
+              "url": "https://hyttefeber.no/pages/frakt-og-leveringsinformasjon",
               "mobile-visibility": false
             }
           }
@@ -158,8 +158,7 @@
           "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66",
           "3fcb1549-bca4-4e32-a24d-f0a9ea48879d"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "product-recommendations": {
         "type": "product-recommendations",
@@ -191,31 +190,27 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "733389323033596483": {
-        "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/theme-settings\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+        "type": "shopify://apps/okendo-product-reviews-ugc/blocks/theme-settings/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
         "disabled": false,
         "settings": {
           "show_preview_data": false
         }
       },
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "16278478101612877664": {
-        "type": "shopify:\/\/apps\/pagefly-page-builder\/blocks\/app-embed\/83e179f7-59a0-4589-8c66-c0dddf959200",
+        "type": "shopify://apps/pagefly-page-builder/blocks/app-embed/83e179f7-59a0-4589-8c66-c0dddf959200",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "2950567246721570496": {
-        "type": "shopify:\/\/apps\/tabs-studio\/blocks\/global_embed_block\/19980fb9-f2ca-4ada-ad36-c0364c3318b8",
+        "type": "shopify://apps/tabs-studio/blocks/global_embed_block/19980fb9-f2ca-4ada-ad36-c0364c3318b8",
         "disabled": true,
         "settings": {
           "init_type": "fallback",
@@ -227,22 +222,19 @@
         }
       },
       "12526071353035850722": {
-        "type": "shopify:\/\/apps\/back-in-stock-customer-alerts\/blocks\/app-embed\/bfa6a8c4-24e2-411a-9396-e35031b33f34",
+        "type": "shopify://apps/back-in-stock-customer-alerts/blocks/app-embed/bfa6a8c4-24e2-411a-9396-e35031b33f34",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "4608251692753025422": {
-        "type": "shopify:\/\/apps\/sales-discounts\/blocks\/sale-labels\/29205fb1-2e68-4d81-a905-d828a51c8413",
+        "type": "shopify://apps/sales-discounts/blocks/sale-labels/29205fb1-2e68-4d81-a905-d828a51c8413",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       },
       "1685079755743467147": {
-        "type": "shopify:\/\/apps\/adtraction-partner-marketing\/blocks\/app-embed-block\/2b1e1f3c-52fd-452b-a8d3-2c32d96be0b4",
+        "type": "shopify://apps/adtraction-partner-marketing/blocks/app-embed-block/2b1e1f3c-52fd-452b-a8d3-2c32d96be0b4",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   }
