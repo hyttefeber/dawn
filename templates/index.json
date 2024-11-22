@@ -13,7 +13,7 @@
       "type": "hf-banner",
       "settings": {
         "image": "shopify://shop_images/Toppmal_1325x360_28_b55a3649-dd71-42a3-b958-5bd203d81e48.png",
-        "mobile_image": "shopify://shop_images/8_64d8e7dc-9695-46de-936e-e71b4a4f644b.png",
+        "mobile_image": "shopify://shop_images/9_ebc599cd-3d46-4879-9e28-ea9d3428c71d.png",
         "link": "shopify://collections/lumiz-solcelle-lanterner"
       }
     },
@@ -883,13 +883,6 @@
         "show_view_all": true
       }
     },
-    "4828d3b1-8fb6-4343-95a0-83aa06fb0bd8": {
-      "type": "hf-banner",
-      "settings": {
-        "image": "shopify://shop_images/ALt_du_elsker_til_hjem_OG_Hytte_1325_x_260_px_1.png",
-        "link": ""
-      }
-    },
     "1632004573cbceffe9": {
       "type": "image-banner",
       "blocks": {
@@ -961,7 +954,6 @@
     "6d1399e5-2d1a-45fb-92f2-effaad47c701",
     "1656508395028523fd",
     "163200636372ee71d9",
-    "4828d3b1-8fb6-4343-95a0-83aa06fb0bd8",
     "1632004573cbceffe9"
   ]
 }
