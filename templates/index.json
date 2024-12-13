@@ -32,10 +32,10 @@
         "column_QByFrV": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_67.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_69.png",
             "title": "",
             "text": "",
-            "link": "shopify://collections/fatboy"
+            "link": "shopify://products/gavekort"
           }
         },
         "column_WrYwRR": {
@@ -565,6 +565,24 @@
         "layout": "image_first"
       }
     },
+    "1632052593cc1e52a7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "norgesglasset-hele-den-originale-serien",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "view_all_text": "Vis alt fra Norgesglasset",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": false,
+        "show_vendor": true,
+        "show_atc": true,
+        "show_rating": true
+      }
+    },
     "1632262113e988bb5e": {
       "type": "text-banner",
       "settings": {
@@ -754,24 +772,6 @@
         "show_vendor": false,
         "show_atc": true,
         "show_rating": false
-      }
-    },
-    "1632052593cc1e52a7": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "norgesglasset-hele-den-originale-serien",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "view_all_text": "Vis alt fra Norgesglasset",
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": true,
-        "show_atc": true,
-        "show_rating": true
       }
     },
     "acd696e2-614f-4e14-a6b2-3dbdb393a176": {
