@@ -226,11 +226,6 @@
         "disabled": true,
         "settings": {}
       },
-      "4608251692753025422": {
-        "type": "shopify://apps/sales-discounts/blocks/sale-labels/29205fb1-2e68-4d81-a905-d828a51c8413",
-        "disabled": true,
-        "settings": {}
-      },
       "1685079755743467147": {
         "type": "shopify://apps/adtraction-partner-marketing/blocks/app-embed-block/2b1e1f3c-52fd-452b-a8d3-2c32d96be0b4",
         "disabled": false,
