@@ -79,7 +79,6 @@
         },
         "column_hzr9pf": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
             "title": "",
