@@ -20,6 +20,24 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_FB9LCD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_72.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/salg-manedens-kupp"
+          }
+        },
+        "column_iUgaHc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_70.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/putetrekk"
+          }
+        },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
           "type": "column",
           "settings": {
@@ -207,27 +225,11 @@
             "text": "",
             "link": "shopify://collections/stoler-og-skamler"
           }
-        },
-        "column_iUgaHc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_70.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/putetrekk"
-          }
-        },
-        "column_FB9LCD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_72.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/salg-manedens-kupp"
-          }
         }
       },
       "block_order": [
+        "column_FB9LCD",
+        "column_iUgaHc",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
         "e96bf912-caff-4547-8ff3-40c365560886",
@@ -246,9 +248,7 @@
         "0f369159-2c35-4032-9801-e5826fc19abb",
         "12c3d4d4-9095-42c6-af0e-4ec76fddf704",
         "1629970086900f7d29-0",
-        "88d43d4d-a81e-4961-b8d1-116dab30ff7d",
-        "column_iUgaHc",
-        "column_FB9LCD"
+        "88d43d4d-a81e-4961-b8d1-116dab30ff7d"
       ],
       "settings": {
         "title": "",
