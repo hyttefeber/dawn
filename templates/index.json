@@ -29,15 +29,6 @@
             "link": "shopify://collections/paskeegg"
           }
         },
-        "column_JVMVJd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_73.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/okologisk-olivenolje"
-          }
-        },
         "column_FB9LCD": {
           "type": "column",
           "settings": {
@@ -45,6 +36,24 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/salg-manedens-kupp"
+          }
+        },
+        "column_hzr9pf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/stopejern"
+          }
+        },
+        "column_JVMVJd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_73.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/okologisk-olivenolje"
           }
         },
         "column_iUgaHc": {
@@ -85,15 +94,6 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/saueskinn"
-          }
-        },
-        "column_hzr9pf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/stopejern"
           }
         },
         "column_QByFrV": {
@@ -249,13 +249,13 @@
       },
       "block_order": [
         "column_kgghfb",
-        "column_JVMVJd",
         "column_FB9LCD",
+        "column_hzr9pf",
+        "column_JVMVJd",
         "column_iUgaHc",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
         "e96bf912-caff-4547-8ff3-40c365560886",
-        "column_hzr9pf",
         "column_QByFrV",
         "column_WrYwRR",
         "010e5a34-6e95-4429-82f1-20644f8c07df",
