@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_hzr9pf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_83.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/illeull"
+          }
+        },
         "column_kgghfb": {
           "type": "column",
           "settings": {
@@ -36,15 +45,6 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/salg-manedens-kupp"
-          }
-        },
-        "column_hzr9pf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_33.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/stopejern"
           }
         },
         "column_JVMVJd": {
@@ -248,9 +248,9 @@
         }
       },
       "block_order": [
+        "column_hzr9pf",
         "column_kgghfb",
         "column_FB9LCD",
-        "column_hzr9pf",
         "column_JVMVJd",
         "column_iUgaHc",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
