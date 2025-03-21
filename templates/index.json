@@ -38,6 +38,15 @@
             "link": "shopify://collections/paskeegg"
           }
         },
+        "column_CAwQ8B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FB_VARIANT_2_6172731d-bab2-4a6c-9c40-07069c10c28b.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/saueskinn"
+          }
+        },
         "column_FB9LCD": {
           "type": "column",
           "settings": {
@@ -250,6 +259,7 @@
       "block_order": [
         "column_hzr9pf",
         "column_kgghfb",
+        "column_CAwQ8B",
         "column_FB9LCD",
         "column_JVMVJd",
         "column_iUgaHc",
