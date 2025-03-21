@@ -20,13 +20,22 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_hzr9pf": {
+        "column_CAwQ8B": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_83.png",
+            "image": "shopify://shop_images/FB_VARIANT_2_6172731d-bab2-4a6c-9c40-07069c10c28b.png",
             "title": "",
             "text": "",
-            "link": "shopify://collections/illeull"
+            "link": "shopify://collections/saueskinn"
+          }
+        },
+        "column_3aKtDL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/89_eff936d9-4a7f-4a24-8e2d-3825ea8d5359.png",
+            "title": "",
+            "text": "",
+            "link": ""
           }
         },
         "column_kgghfb": {
@@ -38,17 +47,18 @@
             "link": "shopify://collections/paskeegg"
           }
         },
-        "column_CAwQ8B": {
+        "column_hzr9pf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FB_VARIANT_2_6172731d-bab2-4a6c-9c40-07069c10c28b.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_83.png",
             "title": "",
             "text": "",
-            "link": "shopify://collections/saueskinn"
+            "link": "shopify://collections/illeull"
           }
         },
         "column_FB9LCD": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_71.png",
             "title": "",
@@ -78,6 +88,7 @@
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/19_736b2029-cff5-46ac-abd8-64b871079af1.png",
             "title": "",
@@ -257,9 +268,10 @@
         }
       },
       "block_order": [
-        "column_hzr9pf",
-        "column_kgghfb",
         "column_CAwQ8B",
+        "column_3aKtDL",
+        "column_kgghfb",
+        "column_hzr9pf",
         "column_FB9LCD",
         "column_JVMVJd",
         "column_iUgaHc",
