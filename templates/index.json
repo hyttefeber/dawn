@@ -41,7 +41,7 @@
         "column_kgghfb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_81.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_85.png",
             "title": "",
             "text": "",
             "link": "shopify://collections/paskeegg"
@@ -471,7 +471,7 @@
             "image": "shopify://shop_images/BANNER4_745x495_1.png",
             "title": "",
             "text": "",
-            "link": "shopify://collections/fatboy-mobler"
+            "link": "https://hyttefeber.no/collections/fatboy"
           }
         },
         "1631626408eee30b8a-0": {
