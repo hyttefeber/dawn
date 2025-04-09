@@ -29,6 +29,15 @@
             "link": "shopify://collections/saueskinn"
           }
         },
+        "column_EpGqUC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_86.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/ooni-tilbehor"
+          }
+        },
         "column_3aKtDL": {
           "type": "column",
           "settings": {
@@ -38,17 +47,9 @@
             "link": ""
           }
         },
-        "column_kgghfb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_85.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/paskeegg"
-          }
-        },
         "column_hzr9pf": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_83.png",
             "title": "",
@@ -58,7 +59,6 @@
         },
         "column_FB9LCD": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_71.png",
             "title": "",
@@ -134,26 +134,6 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/lumiz-solcelle-lanterner"
-          }
-        },
-        "010e5a34-6e95-4429-82f1-20644f8c07df": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FB_VARIANT_1.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/saueskinn"
-          }
-        },
-        "column_8NDrUN": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_50.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/hengekoyer"
           }
         },
         "column_hPcN8m": {
@@ -269,8 +249,8 @@
       },
       "block_order": [
         "column_CAwQ8B",
+        "column_EpGqUC",
         "column_3aKtDL",
-        "column_kgghfb",
         "column_hzr9pf",
         "column_FB9LCD",
         "column_JVMVJd",
@@ -280,8 +260,6 @@
         "e96bf912-caff-4547-8ff3-40c365560886",
         "column_QByFrV",
         "column_WrYwRR",
-        "010e5a34-6e95-4429-82f1-20644f8c07df",
-        "column_8NDrUN",
         "column_hPcN8m",
         "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
         "75802d1b-c8dd-4166-8371-118ba064d75c",
