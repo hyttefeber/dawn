@@ -29,6 +29,15 @@
             "link": "shopify://collections/nyheter-hos-hyttefeber"
           }
         },
+        "column_hzr9pf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/83_f428d58e-5d9a-4efc-9b35-41e6c332f2af.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/fatboy"
+          }
+        },
         "column_CAwQ8B": {
           "type": "column",
           "disabled": true,
@@ -56,15 +65,6 @@
             "title": "",
             "text": "",
             "link": ""
-          }
-        },
-        "column_hzr9pf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_83.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/illeull"
           }
         },
         "column_FB9LCD": {
@@ -249,10 +249,10 @@
       },
       "block_order": [
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
+        "column_hzr9pf",
         "column_CAwQ8B",
         "column_EpGqUC",
         "column_3aKtDL",
-        "column_hzr9pf",
         "column_FB9LCD",
         "column_JVMVJd",
         "column_iUgaHc",
