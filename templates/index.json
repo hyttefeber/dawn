@@ -29,8 +29,18 @@
             "link": "shopify://collections/uteputer"
           }
         },
+        "column_iUgaHc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-06-20T122215.399.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/lumiz-solcelle-lanterner"
+          }
+        },
         "column_hzr9pf": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_90.png",
             "title": "",
@@ -84,16 +94,6 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/okologisk-olivenolje"
-          }
-        },
-        "column_iUgaHc": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_70.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/putetrekk"
           }
         },
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2": {
@@ -249,13 +249,13 @@
       },
       "block_order": [
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
+        "column_iUgaHc",
         "column_hzr9pf",
         "column_CAwQ8B",
         "column_EpGqUC",
         "column_3aKtDL",
         "column_FB9LCD",
         "column_JVMVJd",
-        "column_iUgaHc",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
         "e96bf912-caff-4547-8ff3-40c365560886",
