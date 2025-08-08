@@ -20,15 +20,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_98.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/uteputer"
-          }
-        },
         "column_iUgaHc": {
           "type": "column",
           "settings": {
@@ -36,6 +27,24 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/lumiz-solcelle-lanterner"
+          }
+        },
+        "e96bf912-caff-4547-8ff3-40c365560886": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/81.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/saueskinn"
+          }
+        },
+        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_98.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/uteputer"
           }
         },
         "column_hzr9pf": {
@@ -60,6 +69,7 @@
         },
         "column_EpGqUC": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_87.png",
             "title": "",
@@ -116,16 +126,6 @@
             "link": "shopify://collections/okologisk-olivenolje"
           }
         },
-        "e96bf912-caff-4547-8ff3-40c365560886": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/81.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/saueskinn"
-          }
-        },
         "column_QByFrV": {
           "type": "column",
           "disabled": true,
@@ -146,86 +146,6 @@
             "link": "shopify://collections/lumiz-solcelle-lanterner"
           }
         },
-        "column_hPcN8m": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_38.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/nyhet-siri"
-          }
-        },
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_30.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/norgesglasset-hele-den-originale-serien"
-          }
-        },
-        "75802d1b-c8dd-4166-8371-118ba064d75c": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_23.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://products/gavekort"
-          }
-        },
-        "048e39d8-f470-4ff8-ac04-e015056a5a01": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_12_b47c7634-e64b-4b96-a32f-70ec5f1a5af5.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/jul"
-          }
-        },
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_6_e14f67a9-9b6b-4458-a400-e430185dc1fe.png",
-            "title": "",
-            "text": "",
-            "link": "https://hyttefeber.no/blogs/nyheter/lumiz"
-          }
-        },
-        "be8f641a-12ea-4f32-8392-cc1a62b5e82f": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_5.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/interior-til-hytter-og-hus"
-          }
-        },
-        "0f369159-2c35-4032-9801-e5826fc19abb": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/1_38308edf-53b9-451c-b9d2-dc86d9015401.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://blogs/nyheter/ukens-merkevare-fatboy"
-          }
-        },
-        "12c3d4d4-9095-42c6-af0e-4ec76fddf704": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_4.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/paskeegg"
-          }
-        },
         "1629970086900f7d29-0": {
           "type": "column",
           "disabled": true,
@@ -235,21 +155,12 @@
             "text": "",
             "link": "shopify://collections/nyheter-hos-hyttefeber"
           }
-        },
-        "88d43d4d-a81e-4961-b8d1-116dab30ff7d": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_13.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/stoler-og-skamler"
-          }
         }
       },
       "block_order": [
-        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "column_iUgaHc",
+        "e96bf912-caff-4547-8ff3-40c365560886",
+        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "column_hzr9pf",
         "column_CAwQ8B",
         "column_EpGqUC",
@@ -258,19 +169,9 @@
         "column_JVMVJd",
         "10a8f284-a9ea-4199-9b8b-8362a4c1bcd2",
         "4283d34b-1745-4b9a-afbb-c05daf6d80cc",
-        "e96bf912-caff-4547-8ff3-40c365560886",
         "column_QByFrV",
         "column_WrYwRR",
-        "column_hPcN8m",
-        "d0d0b2ca-4ce6-4a00-8701-21b812d5fba1",
-        "75802d1b-c8dd-4166-8371-118ba064d75c",
-        "048e39d8-f470-4ff8-ac04-e015056a5a01",
-        "2b00d16e-fee0-4013-b409-499ef5e7d38c",
-        "be8f641a-12ea-4f32-8392-cc1a62b5e82f",
-        "0f369159-2c35-4032-9801-e5826fc19abb",
-        "12c3d4d4-9095-42c6-af0e-4ec76fddf704",
-        "1629970086900f7d29-0",
-        "88d43d4d-a81e-4961-b8d1-116dab30ff7d"
+        "1629970086900f7d29-0"
       ],
       "settings": {
         "title": "",
