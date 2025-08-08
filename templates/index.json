@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_CAwQ8B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FB_VARIANT_2_e2e4343e-798e-4196-a884-dc6607ba0f3d.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/saueskinn"
+          }
+        },
         "column_iUgaHc": {
           "type": "column",
           "settings": {
@@ -31,6 +40,7 @@
         },
         "e96bf912-caff-4547-8ff3-40c365560886": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/81.png",
             "title": "",
@@ -55,16 +65,6 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/fatboy"
-          }
-        },
-        "column_CAwQ8B": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FB_VARIANT_2_6172731d-bab2-4a6c-9c40-07069c10c28b.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/saueskinn"
           }
         },
         "column_EpGqUC": {
@@ -158,11 +158,11 @@
         }
       },
       "block_order": [
+        "column_CAwQ8B",
         "column_iUgaHc",
         "e96bf912-caff-4547-8ff3-40c365560886",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "column_hzr9pf",
-        "column_CAwQ8B",
         "column_EpGqUC",
         "column_3aKtDL",
         "column_FB9LCD",
