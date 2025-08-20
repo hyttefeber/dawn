@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-08-20T132016.976.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/nyheter-hos-hyttefeber"
+          }
+        },
         "column_CAwQ8B": {
           "type": "column",
           "settings": {
@@ -46,15 +55,6 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/saueskinn"
-          }
-        },
-        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_98.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/uteputer"
           }
         },
         "column_hzr9pf": {
@@ -158,10 +158,10 @@
         }
       },
       "block_order": [
+        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "column_CAwQ8B",
         "column_iUgaHc",
         "e96bf912-caff-4547-8ff3-40c365560886",
-        "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "column_hzr9pf",
         "column_EpGqUC",
         "column_3aKtDL",
