@@ -141,22 +141,12 @@
               "url": "https://hyttefeber.no/pages/bytte-og-returer",
               "mobile-visibility": false
             }
-          },
-          "3fcb1549-bca4-4e32-a24d-f0a9ea48879d": {
-            "type": "heading",
-            "settings": {
-              "icon": "shopify://shop_images/ikon-fri-frakt.png",
-              "text": "*GRATIS FRAKT OVER 999,-",
-              "url": "https://hyttefeber.no/pages/frakt-og-leveringsinformasjon",
-              "mobile-visibility": false
-            }
           }
         },
         "block_order": [
           "724df200-c042-496b-b08b-bcfa4a22440e",
           "935e67a1-7bc1-499c-8ea4-77ae4d9ba083",
-          "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66",
-          "3fcb1549-bca4-4e32-a24d-f0a9ea48879d"
+          "ea7bbc9f-fc9f-466c-b0aa-56cc18dabc66"
         ],
         "settings": {}
       },
