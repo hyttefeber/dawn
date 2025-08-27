@@ -22,7 +22,7 @@
               {% render block %}
             {%- when 'subtotal' -%}
               <div class="js-contents" {{ block.shopify_attributes }}>
-                <div class="free-shipping">
+ {% comment %}                <div class="free-shipping">
                   {% assign free_shipping = settings.free_shipping_threshold | times: 100 %}
                   {%- liquid assign remainder = free_shipping | minus: cart.total_price %}
                   {%- if settings.free_shipping_threshold != blank -%}
@@ -33,7 +33,7 @@
                   {{ 'sections.cart.free_shipping' | t }}
                   {%- endif -%}
                   {%- endif -%}
-                </div>
+                </div> {% endcomment %}
                 <div class="totals">
                   <h3 class="totals__subtotal">{{ 'sections.cart.subtotal' | t }}</h3>
                   <!--<strike><p>{{ cart.total_discount | money_with_currency }}</p></strike>-->
