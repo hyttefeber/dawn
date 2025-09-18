@@ -20,6 +20,15 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "e96bf912-caff-4547-8ff3-40c365560886": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-09-18T134235.360.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/bunadskopper"
+          }
+        },
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
           "type": "column",
           "settings": {
@@ -40,21 +49,12 @@
         },
         "column_iUgaHc": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-06-20T122215.399.png",
             "title": "",
             "text": "",
             "link": "shopify://collections/lumiz-solcelle-lanterner"
-          }
-        },
-        "e96bf912-caff-4547-8ff3-40c365560886": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-09-18T134235.360.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/bunadskopper"
           }
         },
         "column_hzr9pf": {
@@ -158,10 +158,10 @@
         }
       },
       "block_order": [
+        "e96bf912-caff-4547-8ff3-40c365560886",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "column_CAwQ8B",
         "column_iUgaHc",
-        "e96bf912-caff-4547-8ff3-40c365560886",
         "column_hzr9pf",
         "column_EpGqUC",
         "column_3aKtDL",
