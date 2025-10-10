@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -14,28 +23,28 @@
           "type": "column",
           "settings": {
             "title": "Adventlys",
-            "link": "shopify:\/\/collections\/advent"
+            "link": "shopify://collections/advent"
           }
         },
         "template--15102286037143__148b10d4-efb7-4d52-91b1-5dbf08bf5547-column-1": {
           "type": "column",
           "settings": {
             "title": "Julekuler",
-            "link": "shopify:\/\/collections\/julekuler"
+            "link": "shopify://collections/julekuler"
           }
         },
         "template--15102286037143__148b10d4-efb7-4d52-91b1-5dbf08bf5547-column-2": {
           "type": "column",
           "settings": {
             "title": "Julepynt",
-            "link": "shopify:\/\/collections\/julepynt"
+            "link": "shopify://collections/julepynt"
           }
         },
         "d093d7c8-3a42-4f21-b4a5-7ac0e54a8005": {
           "type": "column",
           "settings": {
             "title": "Gavetips",
-            "link": "shopify:\/\/collections\/julegavetips-2023"
+            "link": "shopify://collections/julegavetips-2025"
           }
         }
       },

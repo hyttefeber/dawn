@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16336834187109d930": {
@@ -24,7 +33,7 @@
         "163934423482faf569-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "julegavetips-2023"
+            "collection": "julegavetips-2025"
           }
         },
         "ad0adc38-432a-44e9-8a32-d50f3d25ef37": {
@@ -78,7 +87,7 @@
         "163430032528abe728-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": "julegavetips-2023"
+            "collection": "julegavetips-2025"
           }
         },
         "163430032528abe728-1": {
