@@ -20,10 +20,19 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
+        "column_hzr9pf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-10-17T125051.035.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/nyheter-hos-hyttefeber"
+          }
+        },
         "e96bf912-caff-4547-8ff3-40c365560886": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-09-18T134235.360.png",
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-10-17T124159.213.png",
             "title": "",
             "text": "",
             "link": "shopify://collections/bunadskopper"
@@ -57,16 +66,6 @@
             "link": "shopify://collections/lumiz-solcelle-lanterner"
           }
         },
-        "column_hzr9pf": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-10-17T122023.871.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/nyheter-hos-hyttefeber"
-          }
-        },
         "column_EpGqUC": {
           "type": "column",
           "disabled": true,
@@ -89,6 +88,7 @@
         },
         "column_FB9LCD": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_71.png",
             "title": "",
@@ -158,11 +158,11 @@
         }
       },
       "block_order": [
+        "column_hzr9pf",
         "e96bf912-caff-4547-8ff3-40c365560886",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
         "column_CAwQ8B",
         "column_iUgaHc",
-        "column_hzr9pf",
         "column_EpGqUC",
         "column_3aKtDL",
         "column_FB9LCD",
