@@ -20,24 +20,6 @@
     "1629970086900f7d29": {
       "type": "multicolumn",
       "blocks": {
-        "column_hzr9pf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDEBANNER.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/nyheter-hos-hyttefeber"
-          }
-        },
-        "e96bf912-caff-4547-8ff3-40c365560886": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-10-17T124159.213.png",
-            "title": "",
-            "text": "",
-            "link": "shopify://collections/bunadskopper"
-          }
-        },
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
           "type": "column",
           "settings": {
@@ -45,6 +27,15 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/vintage-mobler"
+          }
+        },
+        "column_hzr9pf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDEBANNER.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/nyheter-hos-hyttefeber"
           }
         },
         "column_CAwQ8B": {
@@ -64,6 +55,15 @@
             "title": "",
             "text": "",
             "link": "shopify://collections/lumiz-solcelle-lanterner"
+          }
+        },
+        "e96bf912-caff-4547-8ff3-40c365560886": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FORSIDE_KAMPNJE_BANNERE_firkantet_-_2025-10-17T124159.213.png",
+            "title": "",
+            "text": "",
+            "link": "shopify://collections/bunadskopper"
           }
         },
         "column_EpGqUC": {
@@ -158,11 +158,11 @@
         }
       },
       "block_order": [
-        "column_hzr9pf",
-        "e96bf912-caff-4547-8ff3-40c365560886",
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee",
+        "column_hzr9pf",
         "column_CAwQ8B",
         "column_iUgaHc",
+        "e96bf912-caff-4547-8ff3-40c365560886",
         "column_EpGqUC",
         "column_3aKtDL",
         "column_FB9LCD",
