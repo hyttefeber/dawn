@@ -13,7 +13,7 @@
       "type": "hf-banner",
       "settings": {
         "image": "shopify://shop_images/GAVEKORTBANNER_2025_1501_x_360_px_5.jpg",
-        "mobile_image": "shopify://shop_images/GAVEKORTBANNER_2025_mobil_377_x_350_px_1.jpg",
+        "mobile_image": "shopify://shop_images/GAVEKORTBANNER_2025_mobil_377_x_350_px_3.jpg",
         "link": "shopify://products/gavekort"
       }
     },
