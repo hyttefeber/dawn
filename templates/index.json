@@ -14,7 +14,7 @@
       "settings": {
         "image": "shopify://shop_images/INGVILD_toppmal_5.jpg",
         "mobile_image": "shopify://shop_images/VINTAGEmobler_toppmal_mobil.jpg",
-        "link": "shopify://products/gavekort"
+        "link": "shopify://collections/vintage-mobler"
       }
     },
     "1629970086900f7d29": {
@@ -23,10 +23,10 @@
         "9ca2a436-fcca-4971-8d5f-bd4948ebb8ee": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FORSIDEBANNER_vintagemobler.png",
+            "image": "shopify://shop_images/Lettsauna_forside_kampanjebanner.jpg",
             "title": "",
             "text": "",
-            "link": "shopify://collections/vintage-mobler"
+            "link": "shopify://collections/saunatelt-og-pakker"
           }
         },
         "column_hzr9pf": {
