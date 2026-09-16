@@ -40,7 +40,7 @@
               <li class="product__media-item grid__item slider__slide{% if media.media_type != 'image' %} product__media-item--full{% endif %}{% if section.settings.hide_variants and variant_images contains media.src %} product__media-item--variant{% endif %}" data-media-id="{{ section.id }}-{{ media.id }}">
                 {% render 'product-thumbnail', media: media, position: forloop.index, loop: section.settings.enable_video_looping, modal_id: section.id, xr_button: true %}
                 {% if product.metafields.sale.promo %}
-                 {% render 'promo-badge', product, index: forloop.index == 1 %}
+                 {% render 'promo-badge', index: forloop.index %}
                 {% endif %}
                 {% render 'card-badge'
                 , product: product %}
@@ -996,3 +996,13 @@ richSnippet({
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'promo-badge', product, index: forloop.index == 1 %}"
+  to: "{% render 'promo-badge', index: forloop.index %}"
+  position: 3250..3298
+{% endcomment %}
