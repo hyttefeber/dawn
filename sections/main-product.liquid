@@ -43,7 +43,7 @@
                 <div class="card__badge card__badge--top-right">
                   <span class="badge badge--circular color-{{ settings.sale_badge_color_scheme }}">
                     <p>
-                    {% render 'discount-price', product, price_class: '' %}
+                    {% render 'discount-price', price_class: '' %}
                   </p>
                   </span>
                 </div>
@@ -1000,3 +1000,13 @@ richSnippet({
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% render 'discount-price', product, price_class: '' %}"
+  to: "{% render 'discount-price', price_class: '' %}"
+  position: 3633..3679
+{% endcomment %}
